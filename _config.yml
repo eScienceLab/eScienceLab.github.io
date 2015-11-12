@@ -21,4 +21,4 @@ markdown: kramdown
 collections:
   projects:
     output: true
-    permalink: /:collection/:path # This drops the ugly default ".html" extension from URLs
+    permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
