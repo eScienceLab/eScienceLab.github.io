@@ -7,16 +7,35 @@ This is a list of recent publications made by the [eScience lab team](../people/
 
 ## 2015
 
+Aleksandra Pawlik, Judith Segal, Helen Sharp, Marian Petre (2015): **Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy documentation project**, _Computing in Science & Engineering_,  **17** (1), pp.28,36, January/February 2015.
+[doi:10.1109/MCSE.2014.93](http://dx.doi.org/10.1109/MCSE.2014.93)
+[[preprint]](http://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/T-06879046.pdf)
+
 Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang ; David De Roure, Carole Goble
 (2015):
 **ReputationNet: Reputation-Based Service Recommendation for e-Science**
 _IEEE Transactions on Services Computing_ **8**(3) [doi:10.1109/TSC.2014.2364029](http://dx.doi.org/10.1109/TSC.2014.2364029) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNet.pdf) [[researchgate]](https://www.researchgate.net/publication/272821108_ReputationNet_Reputation-Based_Service_Recommendation_for_e-Science)
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015): 
-**Using a suite of ontologies for preserving workflow-centric research objects** 
+**Using a suite of ontologies for preserving workflow-centric research objects**.
 _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-42, [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
 
 ## 2014
+
+Aidan Budd,
+Manuel Corpas,
+Michelle D. Brazas,
+Jonathan C. Fuller,
+Jeremy Goecks,
+Nicola J. Mulder,
+Magali Michaut,
+B. F. Francis Ouellette,
+Aleksandra Pawlik,
+Niklas Blomberg (2014):
+**A Quick Guide for Establishing a Successful Bioinformatics Community**.
+_PLoS Computational Biology_ **11**(2): e1003972
+[doi:10.1371/journal.pcbi.1003972](http://dx.doi.org/10.1371/journal.pcbi.1003972)
+
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
 
 Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A `t Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014): **A suite ofresearch methods and data with the research object model: genomics workflows as a case study**. _Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
@@ -38,8 +57,10 @@ Frank T Bergmann, Richard Adams, Stuart Moodie, Jonathan Cooper, Mihai Glont, Ma
 
 Palma Raul, Piotr Hołubowicz, Kevin Page, Stian Soiland-Reyes, Graham Klyne, Cezary Mazurek (2014):
 **A Suite of APIs for the Management of Research Objects**, 
-Proceedings of the ISWC Developers Workshop 2014, ISWC-DEV 2014, _CEUR-WS.org_, online http://ceur-ws.org/Vol-1268/paper8.pdf
+_Proceedings of the ISWC Developers Workshop 2014, ISWC-DEV 2014_, CEUR-WS.org online http://ceur-ws.org/Vol-1268/paper8.pdf
 
+Carole Goble (2014): **Better Software, Better Research**. _IEEE Internet Computing_ **18**(5) pp.4-8, Sept/Oct 2014. Editorial. [doi:10.1109/MIC.2014.88](http://dx.doi.org/10.1109/MIC.2014.88)
+[preprint](http://www.software.ac.uk/resources/publications/better-software-better-research)
 
 ## 2013
 
@@ -72,6 +93,14 @@ Robert Stevens (2013):
 **Computing Identity Co-Reference Across Drug Discovery Datasets**
 _Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)}_; CEUR-WS.org; 2013.
 http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf
+
+Stephen Crouch, Neil Chue Hong, Simon Hettrick, Mike Jackson, Aleksandra Pawlik, Shoaib Sufi, Les Carr, David De Roure, Carole Goble, Mark Parsons (2013):
+**The Software Sustainability Institute: Changing Research Software Attitudes and Practices.**
+_Computing in Science and Engineering_
+**15**(6) pp 74-80
+[doi:10.1109/MCSE.2013.133](http://dx.doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
+
+
 
 ## 2002-2012 
 
