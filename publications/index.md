@@ -7,7 +7,14 @@ This is a list of recent publications made by the [eScience lab team](../people/
 
 ## 2015
 
-Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015): **Using a suite of ontologies for preserving workflow-centric research objects** _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-42, [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
+Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang ; David De Roure, Carole Goble
+(2015):
+**ReputationNet: Reputation-Based Service Recommendation for e-Science**
+_IEEE Transactions on Services Computing_ **8**(3) [doi:10.1109/TSC.2014.2364029](http://dx.doi.org/10.1109/TSC.2014.2364029) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNet.pdf) [[researchgate]](https://www.researchgate.net/publication/272821108_ReputationNet_Reputation-Based_Service_Recommendation_for_e-Science)
+
+Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015): 
+**Using a suite of ontologies for preserving workflow-centric research objects** 
+_Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-42, [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
 
 ## 2014
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
