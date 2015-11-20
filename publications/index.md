@@ -37,17 +37,17 @@ Belhajjame, K.; Zhao, J.; Garijo, D.; Garrido, A.; Soiland-Reyes, S.; Alper, P. 
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013), **Workflows for Heliophysics**, _Journal of Grid Computing_ **11**(3), 481-503. [doi:10.1007/s10723-013-9256-5](http://dx.doi.org/10.1007/s10723-013-9256-5)
 
-Brenninkmeijer, C.; Evelo, C.; Goble, C.; Gray, A.; Groth, P.; Pettifer, S.; Stevens, R.; Williams, A. & Willighagen, E. (2013): Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets, Intelligent Systems for Molecular Biology and European Conference on Computational Biology  (ISMB/ECCB 2013), Berlin, Germany, July 2013.. [pdf]
+Brenninkmeijer, C.; Evelo, C.; Goble, C.; Gray, A.; Groth, P.; Pettifer, S.; Stevens, R.; Williams, A. & Willighagen, E. (2013): *Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets*, _Intelligent Systems for Molecular Biology and European Conference on Computational Biology_  (ISMB/ECCB 2013), Berlin, Germany, July 2013. [[pdf]](http://linkedscience.org/wp-content/uploads/2012/05/lisc2012_submission_8.pdf)
 
-Clark, T.; Ciccarese, P. & Goble, C. A. (2013), **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**, CoRR  arXiv:1305.3506 [doi:10.1186/2041-1480-5-28](http://dx.doi.org/10.1186/2041-1480-5-28) [preprint] [pdf]
+Clark, T.; Ciccarese, P. & Goble, C. A. (2013), **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**, _Journal of Biomedical Semantics_ **5**:28  [doi:10.1186/2041-1480-5-28](http://dx.doi.org/10.1186/2041-1480-5-28) 
 
-Gray, A.; Groth, P.; Loizou, A.; Askjaer, S.; Brenninkmeijer, C.; Burger, K.; Chichester, C.; Evelo, C.; Goble, C.; Harland, L.; Pettifer, S.; Thompson, M.; Waagmeester, A. & Williams, A. (2013): Applying linked data approaches to pharmacology, Semantic Web 5(3), 1–13. [pdf] [journal]
+Gray, A.; Groth, P.; Loizou, A.; Askjaer, S.; Brenninkmeijer, C.; Burger, K.; Chichester, C.; Evelo, C.; Goble, C.; Harland, L.; Pettifer, S.; Thompson, M.; Waagmeester, A. & Williams, A. (2013): **Applying linked data approaches to pharmacology**, _Semantic Web_ **5**(3), 1–13. [[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf) [[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
 
-Wolstencroft, K.; Haines, R.; Fellows, D.; Williams, A.; Withers, D.; Owen, S.; Soiland-Reyes, S.; Dunlop, I.; Nenadic, A.; Fisher, P.; Bhagat, J.; Belhajjame, K.; Bacall, F.; Hardisty, A.; Nieva de la Hidalga, A.; Balcazar Vargas, M. P.; Sufi, S. & Goble, C. (2013): The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud, Nucleic Acids Research 41(W1), W557-W561. doi:10.1093/nar/gkt328 [pdf]
+Katherine Wolstencroft1, Robert Haines, Donal Fellows, Alan Williams, David Withers, Stuart Owen, Stian Soiland-Reyes, Ian Dunlop, Aleksandra Nenadic, Paul Fisher, Jiten Bhagat, Khalid Belhajjame, Finn Bacall, Alex Hardisty, Abraham Nieva de la Hidalga, Maria P. Balcazar Vargas, Shoaib Sufi, Carole Goble (2013): **The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud**, _Nucleic Acids Research_ **41**(W1), W557-W561. [doi:10.1093/nar/gkt328](http://dx.doi.org/10.1093/nar/gkt328)
 
-Zhang, H.; Soiland-Reyes, S. & Goble, C. (2013), Taverna Mobile: Taverna workflows on Android, EMBnet.journal 19(B). doi:10.14806/ej.19.B.727 [pdf]
+Hyde Zhang, Stian Soiland-Reyes, Carole Goble (2013): **Taverna Mobile: Taverna workflows on Android**, _EMBnet.journal_ **19**(B). [doi:10.14806/ej.19.B.727](http://dx.doi.org/10.14806/ej.19.B.727) [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
 
-Ciccarese P, Soiland-Reyes S, Clark T. Web Annotation as a First Class Object. IEEE Internet Computing. 2013 December; 17(6): 71-75. DOI:10.1109/MIC.2013.123 [preprint] arXiv:1310.6555
+Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a First Class Object**. _IEEE Internet Computing_. 2013 December; 17(6): 71-75. [doi:10.1109/MIC.2013.123](http://dx.doi.org/10.1109/MIC.2013.123) [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF) [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
 
 ## 2002-2012 
 
