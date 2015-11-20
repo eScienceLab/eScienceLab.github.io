@@ -3,7 +3,16 @@ layout: page
 title: Publications
 ---
 
-This is a list of recent publications made by the [eScience lab team](../people/).
+This is a list of recent publications made by the [eScience lab team](../people/). It might not be complete, also check out the Google Scholar profiles of researchers like:
+
+ * Carole Goble
+ * Alan Williams
+ * Norman Morrison
+ * 
+
+## 2015
+
+Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015): **Using a suite of ontologies for preserving workflow-centric research objects** _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-42, [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
 
 ## 2014
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
@@ -23,7 +32,29 @@ Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes,
 
 Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, John Chilton, Peter J A Cock, Markus Gumbel, Nomi Harris, Richard Holland, Matúš Kalaš, László Kaján, David R. Powell, Pjotr Prins, Jacqueline Quinn, Olivier Sallou, Francesco Strozzi, Torsten Seemann, Clare Sloggett, Stian Soiland-Reyes, Sascha Steinbiss, Andreas Tille, Anthony J. Travis, Roman Valls Guimera, Toshiaki Katayama, Brad A. Chapman (2014): **Community-driven development for computational biology at Sprints, Hackathons and Codefests.** _BMC Bioinformatics_ **15**(Suppl 14):S7 Supplement NETTAB 2013.  [doi:10.1186/1471-2105-15-S14-S7](http://dx.doi.org/10.1186/1471-2105-15-S14-S7)
 
-## 2002-2013 
+## 2013
+
+Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning** _Journal of biomedical semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.orgd/resoi:10.1186/2041-1480-4-37) [pdf] 
+
+Bechhofer, S.; Buchan, I.; Roure, D. D.; Missier, P.; Ainsworth, J.; Bhagat, J.; Couch, P.; Cruickshank, D.; Delderfield, M.; Dunlop, I.; Gamble, M.; Michaelides, D.; Owen, S.; Newman, D.; Sufi, S. & Goble, C. (2013), Why linked data is not enough for scientists, Future Generation Computer Systems  29(2), 599 - 611. doi:10.1016/j.future.2011.08.004 [preprint]
+
+Belhajjame, K.; Zhao, J.; Garijo, D.; Garrido, A.; Soiland-Reyes, S.; Alper, P. & Corcho, O. (2013), A workflow PROV-corpus based on taverna and wings, Proceedings of the Joint EDBT/ICDT 2013 Workshops, ACM, New York, NY, USA, pp. 331–332. doi:10.1145/2457317.2457376  [pdf]
+
+Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013), 'Workflows for Heliophysics, Journal of Grid Computing 11(3), 481-503. doi:10.1007/s10723-013-9256-5
+
+Brenninkmeijer, C.; Evelo, C.; Goble, C.; Gray, A.; Groth, P.; Pettifer, S.; Stevens, R.; Williams, A. & Willighagen, E. (2013): Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets, Intelligent Systems for Molecular Biology and European Conference on Computational Biology  (ISMB/ECCB 2013), Berlin, Germany, July 2013.. [pdf]
+
+Clark, T.; Ciccarese, P. & Goble, C. A. (2013), Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications, CoRR  arXiv:1305.3506 doi:10.1186/2041-1480-5-28 [preprint] [pdf]
+
+Gray, A.; Groth, P.; Loizou, A.; Askjaer, S.; Brenninkmeijer, C.; Burger, K.; Chichester, C.; Evelo, C.; Goble, C.; Harland, L.; Pettifer, S.; Thompson, M.; Waagmeester, A. & Williams, A. (2013): Applying linked data approaches to pharmacology, Semantic Web 5(3), 1–13. [pdf] [journal]
+
+Wolstencroft, K.; Haines, R.; Fellows, D.; Williams, A.; Withers, D.; Owen, S.; Soiland-Reyes, S.; Dunlop, I.; Nenadic, A.; Fisher, P.; Bhagat, J.; Belhajjame, K.; Bacall, F.; Hardisty, A.; Nieva de la Hidalga, A.; Balcazar Vargas, M. P.; Sufi, S. & Goble, C. (2013): The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud, Nucleic Acids Research 41(W1), W557-W561. doi:10.1093/nar/gkt328 [pdf]
+
+Zhang, H.; Soiland-Reyes, S. & Goble, C. (2013), Taverna Mobile: Taverna workflows on Android, EMBnet.journal 19(B). doi:10.14806/ej.19.B.727 [pdf]
+
+Ciccarese P, Soiland-Reyes S, Clark T. Web Annotation as a First Class Object. IEEE Internet Computing. 2013 December; 17(6): 71-75. DOI:10.1109/MIC.2013.123 [preprint] arXiv:1310.6555
+
+## 2002-2012 
 
 See also the list of 
 [myGrid publications](http://dev.mygrid.org.uk/wiki/display/about/myGrid+Publications) covering the group activity for the period 2002-2013.
