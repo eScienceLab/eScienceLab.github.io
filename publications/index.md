@@ -19,7 +19,7 @@ _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **
 ## 2014
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
 
-Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A `t Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014): **Structuring research methods and data with the research object model: genomics workflows as a case study**. _Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
+Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A `t Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014): **A suite ofresearch methods and data with the research object model: genomics workflows as a case study**. _Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
 Rutger Aldo Vos, Jordan Valkov Biserkov, Bachir   Balech, Niall   Beard, Matthew   Blissett, Christian   Brenninkmeijer, Tom   van Dooren, David   Eades, George   Gosline, Quentin John Groom, Thomas D. Hamann, Hannes   Hettling, Robert   Hoehndorf, Ayco   Holleman, Peter   Hovenkamp, Patricia   Kelbert, David   King, Don Kirkup, Youri   Lammers, Thibaut DeMeulemeester, Daniel   Mietchen, Jeremy A. Miller, Ross   Mounce, Nicola   Nicolson, Rod   Page, 
 Aleksandra Pawlik, Serrano   Pereira, Lyubomir   Penev, Kevin   Richards, Guido   Sautter, David Peter Shorthouse, Marko Tähtinen, Claus   Weiland, Alan R. Williams, Soraya Sierra (2014): **Enriched biodiversity data as a resource and service** _Biodiversity Data Journal_ **2**: e1125 [doi:10.3897/BDJ.2.e1125](http://dx.doi.org/doi:10.3897/BDJ.2.e1125)
@@ -33,6 +33,13 @@ Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole
 Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes, Daniel Garijo, Khalid Belhajjame, and Rudolf Mayer: **Research Objects for Audio Processing: Capturing Semantics for Reproducibility**, _53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7 [[Proceedings]](http://www.aes.org/e-lib/browse.cfm?elib=17116) [[Preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:213117&datastreamId=SUPPLEMENTARY-1.PDF)
 
 Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, John Chilton, Peter J A Cock, Markus Gumbel, Nomi Harris, Richard Holland, Matúš Kalaš, László Kaján, David R. Powell, Pjotr Prins, Jacqueline Quinn, Olivier Sallou, Francesco Strozzi, Torsten Seemann, Clare Sloggett, Stian Soiland-Reyes, Sascha Steinbiss, Andreas Tille, Anthony J. Travis, Roman Valls Guimera, Toshiaki Katayama, Brad A. Chapman (2014): **Community-driven development for computational biology at Sprints, Hackathons and Codefests.** _BMC Bioinformatics_ **15**(Suppl 14):S7 Supplement NETTAB 2013.  [doi:10.1186/1471-2105-15-S14-S7](http://dx.doi.org/10.1186/1471-2105-15-S14-S7)
+
+Frank T Bergmann, Richard Adams, Stuart Moodie, Jonathan Cooper, Mihai Glont, Martin Golebiewski, Michael Hucka, Camille Laibe, Andrew K Miller, David P Nickerson, Brett G Olivier, Nicolas Rodriguez, Herbert M Sauro, Martin Scharm, Stian Soiland-Reyes, Dagmar Waltemath, Florent Yvon, Nicolas Le Novère (2014): **COMBINE archive and OMEX format: one file to share all information to reproduce a modeling project**, _BMC Bioinformatics_ **15**(1), p. 369, [doi:10.1186/s12859-014-0369-z](http://dx.doi.org/10.1186/s12859-014-0369-z)
+
+Palma Raul, Piotr Hołubowicz, Kevin Page, Stian Soiland-Reyes, Graham Klyne, Cezary Mazurek (2014):
+**A Suite of APIs for the Management of Research Objects**, 
+Proceedings of the ISWC Developers Workshop 2014, ISWC-DEV 2014, _CEUR-WS.org_, online http://ceur-ws.org/Vol-1268/paper8.pdf
+
 
 ## 2013
 
@@ -55,6 +62,16 @@ Katherine Wolstencroft, Robert Haines, Donal Fellows, Alan Williams, David Withe
 Hyde Zhang, Stian Soiland-Reyes, Carole Goble (2013): **Taverna Mobile: Taverna workflows on Android**, _EMBnet.journal_ **19**(B). [doi:10.14806/ej.19.B.727](http://dx.doi.org/10.14806/ej.19.B.727) [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a First Class Object**. _IEEE Internet Computing_. 2013 December; 17(6): 71-75. [doi:10.1109/MIC.2013.123](http://dx.doi.org/10.1109/MIC.2013.123) [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF) [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
+
+Christian Y A Brenninkmeijer, 
+Ian Dunlop,
+Carole Goble,
+Alasdair J G Gray,
+Steve Pettifer,
+Robert Stevens (2013):
+**Computing Identity Co-Reference Across Drug Discovery Datasets**
+_Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)}_; CEUR-WS.org; 2013.
+http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf
 
 ## 2002-2012 
 
