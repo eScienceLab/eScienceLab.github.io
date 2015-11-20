@@ -35,11 +35,11 @@ Bechhofer, S.; Buchan, I.; Roure, D. D.; Missier, P.; Ainsworth, J.; Bhagat, J.;
 
 Belhajjame, K.; Zhao, J.; Garijo, D.; Garrido, A.; Soiland-Reyes, S.; Alper, P. & Corcho, O. (2013): **A workflow PROV-corpus based on taverna and wings**, _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp. 331–332. doi:[10.1145/2457317.2457376](http://dx.doi.org/10.1145/2457317.2457376)  [pdf]
 
-Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013), 'Workflows for Heliophysics, Journal of Grid Computing 11(3), 481-503. doi:10.1007/s10723-013-9256-5
+Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013), **Workflows for Heliophysics**, _Journal of Grid Computing_ **11**(3), 481-503. [doi:10.1007/s10723-013-9256-5](http://dx.doi.org/10.1007/s10723-013-9256-5)
 
 Brenninkmeijer, C.; Evelo, C.; Goble, C.; Gray, A.; Groth, P.; Pettifer, S.; Stevens, R.; Williams, A. & Willighagen, E. (2013): Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets, Intelligent Systems for Molecular Biology and European Conference on Computational Biology  (ISMB/ECCB 2013), Berlin, Germany, July 2013.. [pdf]
 
-Clark, T.; Ciccarese, P. & Goble, C. A. (2013), Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications, CoRR  arXiv:1305.3506 doi:10.1186/2041-1480-5-28 [preprint] [pdf]
+Clark, T.; Ciccarese, P. & Goble, C. A. (2013), **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**, CoRR  arXiv:1305.3506 [doi:10.1186/2041-1480-5-28](http://dx.doi.org/10.1186/2041-1480-5-28) [preprint] [pdf]
 
 Gray, A.; Groth, P.; Loizou, A.; Askjaer, S.; Brenninkmeijer, C.; Burger, K.; Chichester, C.; Evelo, C.; Goble, C.; Harland, L.; Pettifer, S.; Thompson, M.; Waagmeester, A. & Williams, A. (2013): Applying linked data approaches to pharmacology, Semantic Web 5(3), 1–13. [pdf] [journal]
 
