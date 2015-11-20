@@ -19,7 +19,9 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
+          <div class="actions">
+            <a href="https://github.com/eScienceLab/eScienceLab.github.io/edit/master/{{ page.path }}">Improve this page</a>
+          </div>
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
@@ -30,9 +32,6 @@
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
-        <div class="actions">
-          <a href="https://github.com/eScienceLab/eScienceLab.github.io/edit/master/{{ page.path }}">Improve this page</a>
-        </div>
       </div>
     </div>
 
