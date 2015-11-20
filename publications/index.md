@@ -23,3 +23,8 @@ Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole
 Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes, Daniel Garijo, Khalid Belhajjame, and Rudolf Mayer: **Research Objects for Audio Processing: Capturing Semantics for Reproducibility**, _53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7 [[Proceedings]](http://www.aes.org/e-lib/browse.cfm?elib=17116) [[Preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:213117&datastreamId=SUPPLEMENTARY-1.PDF)
 
 Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, John Chilton, Peter J A Cock, Markus Gumbel, Nomi Harris, Richard Holland, Matúš Kalaš, László Kaján, David R. Powell, Pjotr Prins, Jacqueline Quinn, Olivier Sallou, Francesco Strozzi, Torsten Seemann, Clare Sloggett, Stian Soiland-Reyes, Sascha Steinbiss, Andreas Tille, Anthony J. Travis, Roman Valls Guimera, Toshiaki Katayama, Brad A. Chapman (2014): **Community-driven development for computational biology at Sprints, Hackathons and Codefests.** _BMC Bioinformatics_ **15**(Suppl 14):S7 Supplement NETTAB 2013.  [doi:10.1186/1471-2105-15-S14-S7](http://dx.doi.org/10.1186/1471-2105-15-S14-S7)
+
+## 2002-2013 
+
+See also the list of 
+[myGrid publications](http://dev.mygrid.org.uk/wiki/display/about/myGrid+Publications) covering the group activity for the period 2002-2013.
