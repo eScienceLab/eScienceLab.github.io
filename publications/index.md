@@ -3,8 +3,7 @@ layout: page
 title: Publications
 ---
 
-# Publications
-
+This is a list of publications made by the [eScience lab team])(../people/).
 
 ## 2014
 Cherian Mathew , Anton Güntsch , Matthias Obst , Saverio Vicario , Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
