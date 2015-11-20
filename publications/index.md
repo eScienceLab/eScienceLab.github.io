@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 
-This is a list of publications made by the [eScience lab team](../people/).
+This is a list of recent publications made by the [eScience lab team](../people/).
 
 ## 2014
-Cherian Mathew , Anton Güntsch , Matthias Obst , Saverio Vicario , Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
+Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
 
 Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A `t Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014): **Structuring research methods and data with the research object model: genomics workflows as a case study**. _Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
