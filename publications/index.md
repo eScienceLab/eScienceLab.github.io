@@ -36,6 +36,15 @@ Niklas Blomberg (2014):
 _PLoS Computational Biology_ **11**(2): e1003972
 [doi:10.1371/journal.pcbi.1003972](http://dx.doi.org/10.1371/journal.pcbi.1003972)
 
+Pinar Alper,
+Khalid Belhajjame,
+Carole A. Goble,
+Pinar Karagoz (2014):
+**LabelFlow: Exploiting Workflow Provenance to Surface Scientific Data Provenance**
+_Provenance and Annotation of Data and Processes_, 5th International Provenance and Annotation Workshop, IPAW 2014, Cologne, Germany, June 9-13, 2014. Revised Selected Papers.
+[doi:10.1007/978-3-319-16462-5_7](http://dx.doi.org/10.1007/978-3-319-16462-5_7)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226843&datastreamId=FULL-TEXT.PDF)
+
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014): **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**. _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
 
 Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A `t Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014): **A suite ofresearch methods and data with the research object model: genomics workflows as a case study**. _Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
@@ -100,7 +109,16 @@ _Computing in Science and Engineering_
 **15**(6) pp 74-80
 [doi:10.1109/MCSE.2013.133](http://dx.doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
 
+Pinar Alper, Khalid Belhajjame, Carole Goble, Pinar Karagoz (2013):
+**Small Is Beautiful: Summarizing Scientific Workflows Using Semantic Annotations**
+_2013 IEEE International Congress on Big Data_
+[doi:10.1109/BigData.Congress.2013.49](http://dx.doi.org/10.1109/BigData.Congress.2013.49)
+[[pdf]](http://www.computer.org/csdl/proceedings/bigdatacongress/2013/5006/00/5006a318.pdf)
 
+Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):
+**Enhancing and abstracting scientific workflow provenance for data publishing**
+_Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
+[[journal article]](http://dl.acm.org/citation.cfm?id=2457370)
 
 ## 2002-2012 
 
