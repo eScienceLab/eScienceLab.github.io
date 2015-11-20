@@ -5,10 +5,10 @@ title: Publications
 
 This is a list of recent publications made by the [eScience lab team](../people/). It might not be complete, also check out the Google Scholar profiles of researchers like:
 
- * Carole Goble
+ * [Carole Goble](https://scholar.google.co.uk/citations?user=2G4kqPYAAAAJ&hl=en)
  * Alan Williams
  * Norman Morrison
- * 
+ * [Pinar Alper](https://scholar.google.co.uk/citations?user=FkaBGHQAAAAJ&hl=en)
 
 ## 2015
 
