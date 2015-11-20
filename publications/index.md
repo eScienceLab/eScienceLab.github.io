@@ -3,12 +3,7 @@ layout: page
 title: Publications
 ---
 
-This is a list of recent publications made by the [eScience lab team](../people/). It might not be complete, also check out the Google Scholar profiles of researchers like:
-
- * [Carole Goble](https://scholar.google.co.uk/citations?user=2G4kqPYAAAAJ&hl=en)
- * Alan Williams
- * Norman Morrison
- * [Pinar Alper](https://scholar.google.co.uk/citations?user=FkaBGHQAAAAJ&hl=en)
+This is a list of recent publications made by the [eScience lab team](../people/). 
 
 ## 2015
 
@@ -34,11 +29,11 @@ Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, Joh
 
 ## 2013
 
-Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning** _Journal of biomedical semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.orgd/resoi:10.1186/2041-1480-4-37) [pdf] 
+Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning** _Journal of biomedical semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.org/10.1186/2041-1480-4-37) 
 
-Bechhofer, S.; Buchan, I.; Roure, D. D.; Missier, P.; Ainsworth, J.; Bhagat, J.; Couch, P.; Cruickshank, D.; Delderfield, M.; Dunlop, I.; Gamble, M.; Michaelides, D.; Owen, S.; Newman, D.; Sufi, S. & Goble, C. (2013), Why linked data is not enough for scientists, Future Generation Computer Systems  29(2), 599 - 611. doi:10.1016/j.future.2011.08.004 [preprint]
+Bechhofer, S.; Buchan, I.; Roure, D. D.; Missier, P.; Ainsworth, J.; Bhagat, J.; Couch, P.; Cruickshank, D.; Delderfield, M.; Dunlop, I.; Gamble, M.; Michaelides, D.; Owen, S.; Newman, D.; Sufi, S. & Goble, C. (2013): *Why linked data is not enough for scientists*, _Future Generation Computer Systems_  **29**(2), 599 - 611. [doi:10.1016/j.future.2011.08.004](http://dx.doi.org/10.1016/j.future.2011.08.004) [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
-Belhajjame, K.; Zhao, J.; Garijo, D.; Garrido, A.; Soiland-Reyes, S.; Alper, P. & Corcho, O. (2013), A workflow PROV-corpus based on taverna and wings, Proceedings of the Joint EDBT/ICDT 2013 Workshops, ACM, New York, NY, USA, pp. 331–332. doi:10.1145/2457317.2457376  [pdf]
+Belhajjame, K.; Zhao, J.; Garijo, D.; Garrido, A.; Soiland-Reyes, S.; Alper, P. & Corcho, O. (2013): **A workflow PROV-corpus based on taverna and wings**, _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp. 331–332. doi:[10.1145/2457317.2457376](http://dx.doi.org/10.1145/2457317.2457376)  [pdf]
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013), 'Workflows for Heliophysics, Journal of Grid Computing 11(3), 481-503. doi:10.1007/s10723-013-9256-5
 
