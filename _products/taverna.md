@@ -6,6 +6,7 @@ path: taverna
 collection: products
 description: Design, editing and execution of scientific workflows
 website: http://www.taverna.org.uk/
+logo: /images/logo/taverna_logo.png
 ---
 
 Taverna is  powerful, scalable, open source & domain independent Workflow Management System written in Java – a suite of tools used to

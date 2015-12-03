@@ -6,6 +6,7 @@ path: tess
 collection: products
 description: A support portal for training in life sciences.
 website: http://tess.elixir-uk.org/
+logo: /images/logo/tess.png
 ---
 
 TeSS (Training eSupport System) is a portal for aggregating, discovering, organising and diseminating pre-existing training resources (events and materials), primarily by aggregating training information metadata from <a href="http://www.elixir-europe.org/">ELIXIR</a> nodes but also from various 3rd-party content providers. TeSS is not a repository (it does not store original resources), rather it is a metadata registry (storing metadata and links to resources) providing centralised, coherent, curated and searchable access to training resources to:

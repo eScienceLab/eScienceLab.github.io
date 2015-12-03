@@ -6,6 +6,7 @@ path: methodbox
 collection: products
 description: Browse datasets and share knowledge
 website: http://www.methodbox.org/
+logo: /images/logo/methodbox.png
 ---
 
 MethodBox aims to provide a simple, easy to use environment for browsing and sharing surveys, methods and data. Variables (i.e. columns in spreadsheet/csv data) can be searched for, metadata for the variables can be viewed and the variables themselves can be added to your cart and downloaded. MethodBox contains an internal Web of data through users linking surveys, methods and people together. This enables more data re-use and the linking of communities of practice.
