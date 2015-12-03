@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apache Software Foundation granted control of Taverna source code"
-date:   2015-02-015 12:20:00 +0000
+date:   2015-02-15 12:20:00 +0000
 categories: announcements
 ---
 
