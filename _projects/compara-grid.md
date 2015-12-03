@@ -2,8 +2,9 @@
 layout: page
 name: comparaGrid
 title: comparaGrid
-collection: previous-projects
+collection: projects
 description: Querying of genomic relationships
+expired: true
 ---
 
 #ComparaGrid

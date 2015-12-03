@@ -2,8 +2,9 @@
 layout: page
 name: OntoGenesis
 title: OntoGenesis
-collection: previous-projects
+collection: projects
 description: Specification of biology ontologies
+expired: true
 ---
 
 #OntoGenesis

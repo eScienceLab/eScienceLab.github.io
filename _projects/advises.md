@@ -2,8 +2,9 @@
 layout: page
 name: advises
 title: ADVISES
-collection: previous-projects
+collection: projects
 description: Adaptive visualization for eScience
+expired: true
 ---
 
 #ADVISES
