@@ -2,7 +2,7 @@
 layout: post
 title:  "Course: Discovering Systems Biology Principles"
 date:   2015-11-03 14:18:47 +0000
-categories: systems biology course
+categories: announcements course
 ---
 
 Monday, November 23, 2015 to Friday, November 27, 2015
