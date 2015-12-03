@@ -2,17 +2,19 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    font-family: 'Titillium Web', sans-serif;
+    background: $heading-background;
+    box-shadow: 0 1px 3px darken($background-color, 50%);
 }
 
 .site-title {
     font-size: 26px;
-    font-weight: 300;
+    font-weight: bold;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -20,7 +22,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $heading-text;
     }
 }
 
@@ -33,7 +35,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $heading-text;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
