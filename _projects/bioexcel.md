@@ -36,3 +36,19 @@ As a Centre of Excellence, BioExcel gathers biomolecular consultants with
 experience in both HPC/HTC and the life sciences, who can assist both academic
 and industrial researchers with using and improving tools for computational
 biomolecular research.
+
+## eScience Lab contributions
+
+The eScience Lab contributes to BioExcel in two work packages:
+
+ * _WP2: Portable Environments for Computing and Data Resources_ - integrating
+   biomolecular tools with scientific workflow systems, improving deployment
+   (e.g. with [Docker](https://www.docker.com/))
+ * _WP3: Consultancy & User Groups_ - engaging user community, training and
+   documentation
+
+## Related projects
+
+ * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
+ * [Open PHACTS](http://www.openphacts.org/)
+ * [Elixir-UK](http://elixir-uk.org/)
