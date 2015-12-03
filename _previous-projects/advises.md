@@ -2,7 +2,7 @@
 layout: page
 name: advises
 title: ADVISES
-collection: previous_projects
+collection: previous-projects
 description: ADVISES Project
 ---
 

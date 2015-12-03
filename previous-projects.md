@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Previous Projects
-permalink: /previous_projects/
+permalink: /previous-projects/
 ---
 
+fish
 
 
-{% for project in site.previous_projects %}
+{% for project in site.previous-projects %}
 * [{{ project.title }}]({{ project.url }}) - {{ project.description }}
 {% endfor %}
