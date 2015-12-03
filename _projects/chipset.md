@@ -1,10 +1,14 @@
 ---
-layout: page
+layout: project
 name: chipset
 title: CHIP-SET
 path: chipset.html
 collection: projects
 description: Community Health Intelligence Partnership Semantic Epidemiology Toolkit
+logo: farr.png
+website: http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html
+start_date:
+project_reference: 
 ---
 
 # CHIP-SET
