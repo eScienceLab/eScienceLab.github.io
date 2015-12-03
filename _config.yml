@@ -24,3 +24,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
+  previous_projects:
+    output: true
+    permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
