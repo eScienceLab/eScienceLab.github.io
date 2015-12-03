@@ -41,3 +41,7 @@ We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygrido
 ### 2012
 
 *   [If we build it will they come?](http://www.slideshare.net/carolegoble/bosc2012-goble) - keynote by Carole Goble at BOSC 2012
+
+### 2001 - 2011
+
+Older presentations can be found in our [presentations archive](publications/presentations_archive)
