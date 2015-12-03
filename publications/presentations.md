@@ -5,13 +5,13 @@ title: Presentations
 
 See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and its [likes](http://www.slideshare.net/mygrid/favorites)/[followers](http://www.slideshare.net/mygrid/following) for the latest eScienceLab-related slides.
 
-We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygridorguk).
+We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
 
-### 2015
+## 2015
 
 * [Open PHACTS HTML Widgets](http://dx.doi.org/10.7490/f1000research.1110113.1) - by Ian Dunlop,  BOSC 2015
 
-### 2014
+## 2014
 
 *   [Research Objects for FAIRer Science](http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014) - by Carole Goble, VIVO/SciTS 2014-08-06
 *   [SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science](http://www.slideshare.net/carolegoble/bosc-seek2014goble) ([video](http://video.open-bio.org/video/29/seek-for-science-a-data-management-platform-whic)) - by Carole Goble, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
@@ -26,7 +26,7 @@ We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygrido
 *   [Running Taverna Workflows within IPython Notebook](https://zenodo.org/record/11360) - poster by Alan Williams at BOSC 2014-07-11 [[announcement](http://www.taverna.org.uk/2014/05/20/calling-taverna-workflows-from-ipython-notebook/)] [[video](https://www.youtube.com/watch?v=QVQwSOX5S08)] doi:[10.5281/zenodo.11360](http://dx.doi.org/10.5281/zenodo.11360)
 *   [The SWeDe Project](http://www.slideshare.net/mygrid/swede-scientific-webservice-description), Niall Beard. Pro-iBiosphere end of project meeting in Meise, Brussels, 2014-06-12 [[wiki](http://wiki.pro-ibiosphere.eu/wiki/The_SWeDe_Project)] [[announcement](http://www.pro-ibiosphere.eu/news/4655_swede%20%28scientific%20web-service%20description%29%20-%20an%20xml%20schema%20definition%20for%20describing%20web%20services%20in%20the%20scientific%20domain%20/)]
 
-### 2013
+## 2013
 
 *   [Open PHACTS Explorer: bringing the web to the semantic web](http://ceur-ws.org/Vol-1114/Demo_Dunlop.pdf), by Ian Dunlop et al. at SWAT4LS 2013 [[presentation](http://www.slideshare.net/thetravellingbard/swat4ls-explorer-v3)]
 *   [Workflows, provenance and reporting: a lifecycle perspective](http://www.slideshare.net/carolegoble/workflows-provenance-and-reporting-a-lifecycle-perspective-at-bih-2013-rome) - by Carole Goble at BIH 2013, Rome
@@ -38,10 +38,10 @@ We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygrido
 *   [Workflows, Provenance and Reporting: A Lifecycle Perspective](https://www.dropbox.com/home/Taverna%20slides%20and%20videos?select=BIH2013-GOBLE.ppt) - by Carole Goble at BIH 2013
 *   [Taverna Workflows in the Cloud](http://www.slideshare.net/mygrid/taverna-workflows-in-the-cloud) - by Robert Haines
 
-### 2012
+## 2012
 
 *   [If we build it will they come?](http://www.slideshare.net/carolegoble/bosc2012-goble) - keynote by Carole Goble at BOSC 2012
 
-### 2001 - 2011
+## 2001 - 2011
 
-Older presentations can be found in our [presentations archive](publications/presentations_archive)
+Older presentations can be found in our [presentations archive](presentations_archive).
