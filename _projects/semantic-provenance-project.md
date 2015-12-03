@@ -2,8 +2,9 @@
 layout: page
 name: Semantic Provenance Project
 title: Semantic Provenance Project
-collection: previous-projects
+collection: projects
 description: Integrating functionality between two university systems
+expired: true
 ---
 
 #Semantic Provenance Project

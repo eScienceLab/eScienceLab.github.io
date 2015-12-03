@@ -4,7 +4,7 @@ name: ssi
 title: SSI
 path: ssi.html
 collection: projects
-description: SSI
+description: Software Sustainability Institute
 ---
 
 # SSI

@@ -2,8 +2,9 @@
 layout: page
 name: MIASGrid
 title: MIASGrid
-collection: previous-projects
+collection: projects
 description: Medical Imaging
+expired: true
 ---
 
 #MIASGrid
