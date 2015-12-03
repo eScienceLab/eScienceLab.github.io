@@ -28,7 +28,9 @@ $content-width:    1200px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-
+$header-background-color: #272e38;
+$header-background-image: url('/images/bg.png');
+$header-text-color:      #fff;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -49,5 +51,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "additions"
 ;

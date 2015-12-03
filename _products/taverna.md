@@ -6,15 +6,17 @@ path: taverna
 collection: products
 description: Design, editing and execution of scientific workflows
 website: http://www.taverna.org.uk/
+logo: /images/logo/taverna_logo.png
+screenshot: /images/screenshots/taverna.png
 ---
 
-Taverna is  powerful, scalable, open source & domain independent Workflow Management System – a suite of tools used to
+Taverna is  powerful, scalable, open source & domain independent Workflow Management System written in Java – a suite of tools used to
 design and execute scientific workflows and aid *in silico* experimentation comprising:
 
  *  **Workbench** (desktop client application)
  *  **Command Line Tool** (for a quick execution of workflows from a terminal)
  *  **Server** (for remote execution of workflows)
- *  **Player** (Web interface plugin for submitting workflows for remote execution)
+ *  **Player** (Web interface plugin for submitting workflows for remote execution written in Ruby on Rails)
  *  **Taverna Online** (for creation of Taverna workflows from a Web browser)
 
 ###Top features

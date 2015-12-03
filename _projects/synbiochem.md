@@ -27,3 +27,8 @@ platforms and SynBio ‘know-how’ to drive academic discovery and
 translate new knowledge and processes towards industrial exploitation,
 through active collaborations with a large variety of industry
 partners.
+
+Within SynBioChem, the eScience Lab is supporting the DATA
+sub-project, which is working to develop an integrated data and
+metadata management platform for the centre based on SEEK, openBIS,
+LabArchives, and ICE.

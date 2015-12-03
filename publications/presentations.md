@@ -44,4 +44,4 @@ We also have videos on our [YouTube channel](http://www.youtube.com/user/mygrido
 
 ## 2001 - 2011
 
-Older presentations can be found in our [presentations archive](presentations_archive).
+Older presentations can be found in our [presentations archive](/publications/presentations_archive).

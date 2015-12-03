@@ -6,6 +6,7 @@ path: rightfield
 collection: products
 description: Semantic annotation of text by stealth
 website: http://www.rightfield.org.uk/
+logo: /images/logo/rightfield-logo-with-text.png
 ---
 
 
