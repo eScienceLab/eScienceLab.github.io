@@ -3,21 +3,26 @@ layout: page
 title: People
 permalink: /people/
 ---
-
-This is just a static list of people:
+##Staff
 
 * Professor **Carole Goble** — Head
-* Norman Morrison — Data Scientist
-* Natalie Stanford — Data Scientist
-* Donal Fellows — Software Engineer
-* Alan Williams — Software Engineer
-* Ian Dunlop — Software Engineer
-* Finn Bacall — Software Engineer
-* Aleksandra Nenadic — Software Engineer
-* Niall Beard — Software Engineer
-* Stuart Owen — Software Engineer
-* Stian Soiland-Reyes — Software Engineer
-* Aleksandra Pawlik — Software Engineer
-* Shoaib Sufi — Community Manager
-* Lefteris Tatakis — PhD Student
-* Kristian Garza — PhD Student
+
+* **Finn Bacall** — Software Developer
+* **Niall Beard** — Software Developer
+* **Ian Dunlop** — Senior Software Engineer
+* **Donal Fellows** — Senior Research Software Engineer
+* **Norman Morrison** — Project Manager, Data Scientist
+* **Aleksandra Nenadic** — Training Manager, Senior Research Software Engineer
+* **Stuart Owen** — Senior Technical Architect
+* **Aleksandra Pawlik** — Software Engineer
+* **Natalie J Stanford** — Research Community Manager, Data Scientist
+* **Stian Soiland-Reyes** — Senior Technical Architect
+* **Shoaib Sufi** — Community Manager
+* **Alan R Williams** — Senior Research Software Engineer
+
+##Students
+
+* **Kristian Garza** — PhD Student
+* **Lefteris Tatakis** — PhD Student
+* **Pinar Alper** — PhD Student
+

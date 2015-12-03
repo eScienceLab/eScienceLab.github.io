@@ -7,6 +7,10 @@ See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and 
 
 We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygridorguk).
 
+### 2015
+
+* [Open PHACTS HTML Widgets](http://dx.doi.org/10.7490/f1000research.1110113.1) - by Ian Dunlop,  BOSC 2015
+
 ### 2014
 
 *   [Research Objects for FAIRer Science](http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014) - by Carole Goble, VIVO/SciTS 2014-08-06
@@ -24,6 +28,7 @@ We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygrido
 
 ### 2013
 
+*   [Open PHACTS Explorer: bringing the web to the semantic web](http://ceur-ws.org/Vol-1114/Demo_Dunlop.pdf), by Ian Dunlop et al. at SWAT4LS 2013 [[presentation](http://www.slideshare.net/thetravellingbard/swat4ls-explorer-v3)]
 *   [Workflows, provenance and reporting: a lifecycle perspective](http://www.slideshare.net/carolegoble/workflows-provenance-and-reporting-a-lifecycle-perspective-at-bih-2013-rome) - by Carole Goble at BIH 2013, Rome
 *   [Results may vary: what is reproducible? why do open science and who gets the credit?](http://www.slideshare.net/carolegoble/ismb2013-keynotecleangoble?qid=a4b6e5ac-3f33-4b05-9ac0-b48ea7715328&v=default&b=&from_search=1) - keynote by Carole Goble at ISMB/ECCB 2013
 *   [Taverna Components: The Basics](http://www.slideshare.net/DonalFellows/scape-components-bootcamp) - by Donal Fellows at SCAPE Developer Workshop, Brno 2013
