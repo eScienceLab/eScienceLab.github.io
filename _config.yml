@@ -27,3 +27,6 @@ collections:
   products:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
+  previous-projects:
+    output: true
+    permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
