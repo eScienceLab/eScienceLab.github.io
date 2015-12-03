@@ -3,9 +3,6 @@ layout: page
 title: People
 permalink: /people/
 ---
-
-This is just a static list of people:
-
 ##Staff
 
 * Professor **Carole Goble** — Head
