@@ -4,9 +4,35 @@ name: bioexcel
 title: BioExcel
 path: bioexcel.html
 collection: projects
-description: BioExcel H2020 EU project
+description: Centre of Excellence for Biomolecular Research
 ---
 
-# BioExcel
+![BioExcel logo](/images/logo/BioExcel_logo_payoff_cropped.svg "BioExcel - Centre of Excellence for Biomolecular Research")
 
-What happens if you forget the metadata?
+* Website: [http://bioexcel.eu/](http://bioexcel.eu/)
+* Started: 2015-11-01
+* Duration: 36 months
+* Project reference: [H2020-EU.1.4.1.3 675728](http://cordis.europa.eu/project/rcn/198303)
+
+[BioExcel](http://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
+Research**, funded as a project for three years by the [EC Horizon
+2020](https://ec.europa.eu/programmes/horizon2020/en/news/eight-new-centres-excellence-computing-applications)
+program for e-Infrastructure. The centre will facilitate the use of
+_high-performance computing_ (HPC) and _high-throughput computing_ (HTC) in
+biomolecular research, both in academia and industry.
+
+The BioExcel project aims to improve the performance, efficiency, scalability
+and accessibility of software for biomolecular modelling (in particular
+[GROMACS](http://www.gromacs.org/), [HADDOCK](http://haddocking.org/) and 
+[CPMD](http://www.cpmd.org/)), allowing such tools to be scaled up to run on
+larger supercomputer systems, while also making them easier for biomolecular
+researchers to use on computational infrastructures by providing training and
+guidance on best practices and integration with commonly used workflow systems
+such as [KNIME](https://www.knime.org/), [Galaxy](https://galaxyproject.org/), 
+[Apache Taverna](http://taverna.incubator.apache.org/) or 
+[COMPSs](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar).
+
+As a Centre of Excellence, BioExcel gathers biomolecular consultants with
+experience in both HPC/HTC and the life sciences, who can assist both academic
+and industrial researchers with using and improving tools for computational
+biomolecular research.
