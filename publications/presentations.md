@@ -3,9 +3,9 @@ layout: page
 title: Presentations
 ---
 
-# Presentations
-
 See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and its [likes](http://www.slideshare.net/mygrid/favorites)/[followers](http://www.slideshare.net/mygrid/following) for the latest eScienceLab-related slides.
+
+We also have videos on our [YouTube Channel](http://www.youtube.com/user/mygridorguk).
 
 ### 2014
 
