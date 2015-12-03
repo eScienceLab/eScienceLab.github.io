@@ -4,20 +4,51 @@ name: bioexcel
 title: BioExcel
 path: bioexcel.html
 collection: projects
-description: EU H2020 EU project to establish a Centre of Excellence for Computational Biomolecular Research.
+description: Centre of Excellence for Biomolecular Research
 ---
 
-# BioExcel
+![BioExcel logo](/images/logo/bioexcel.svg "BioExcel - Centre of Excellence for Biomolecular Research")
 
-[BioExcel](http://www.bioexcel.eu) is establishing a Centre of Excellence for Computational
-Biomolecular Research. It is funded by the EU Horizon 2020 program,
-EINFRA-5-2015 (contract number 675728).
+* Website: [http://bioexcel.eu/](http://bioexcel.eu/)
+* Started: 2015-11-01
+* Duration: 36 months
+* Project reference: [H2020-EU.1.4.1.3 675728](http://cordis.europa.eu/project/rcn/198303)
 
-The BioExcel project involves researchers from the KTH Department of
-Theoretical Physics (Sweden), from Utrecht University (Netherlands),
-the Institute for Research in Biomedicine (Spain), the Jülich Research
-Centre (Germany), The University of Edinburgh (UK), The University of
-Manchester (UK), the European Molecular Biology Laboratory (Germany),
-the Max Planck Institutes (Germany), Forward Technologies (Sweden),
-the Barcelona Supercomputing Center (Spain) and Ian Harrow
-Consulting/Pistoia Alliance (UK).
+[BioExcel](http://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
+Research**, funded as a project for three years by the [EC Horizon
+2020](https://ec.europa.eu/programmes/horizon2020/en/news/eight-new-centres-excellence-computing-applications)
+program for e-Infrastructure. The centre will facilitate the use of
+_high-performance computing_ (HPC) and _high-throughput computing_ (HTC) in
+biomolecular research, both in academia and industry.
+
+The BioExcel project aims to improve the performance, efficiency, scalability
+and accessibility of software for biomolecular modelling (in particular
+[GROMACS](http://www.gromacs.org/), [HADDOCK](http://haddocking.org/) and 
+[CPMD](http://www.cpmd.org/)), allowing such tools to be scaled up to run on
+larger supercomputer systems, while also making them easier for biomolecular
+researchers to use on computational infrastructures by providing training and
+guidance on best practices and integration with commonly used workflow systems
+such as [KNIME](https://www.knime.org/), [Galaxy](https://galaxyproject.org/), 
+[Apache Taverna](http://taverna.incubator.apache.org/) or 
+[COMPSs](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar).
+
+As a Centre of Excellence, BioExcel gathers biomolecular consultants with
+experience in both HPC/HTC and the life sciences, who can assist both academic
+and industrial researchers with using and improving tools for computational
+biomolecular research.
+
+## eScience Lab contributions
+
+The eScience Lab contributes to BioExcel in two work packages:
+
+ * _WP2: Portable Environments for Computing and Data Resources_ - integrating
+   biomolecular tools with scientific workflow systems, improving deployment
+   (e.g. with [Docker](https://www.docker.com/))
+ * _WP3: Consultancy & User Groups_ - engaging user community, training and
+   documentation
+
+## Related projects
+
+ * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
+ * [Open PHACTS](http://www.openphacts.org/)
+ * [Elixir-UK](http://elixir-uk.org/)
