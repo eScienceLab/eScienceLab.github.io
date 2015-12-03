@@ -10,6 +10,7 @@ Products
   [![{{ product.title }}][{{product.name}}-logo]](/products/{{ product.name }})
 {% endfor %}
 
+
 [eSt]: /people
 [prod]: /products
 
