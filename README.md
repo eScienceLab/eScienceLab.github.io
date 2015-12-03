@@ -1,6 +1,8 @@
 # eScienceLab.github.io
 draft website for eScience Lab, Jekyll and GitHub Pages
 
+Published at http://www.esciencelab.org.uk/
+
 See the [Jekyll documentation](http://jekyllrb.com/docs/home/)
 
 * Pages are edited in [MarkDown](https://daringfireball.net/projects/markdown/)
