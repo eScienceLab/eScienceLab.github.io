@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Presentations Archive
+exclude_from_nav: true
 ---
 
 | Title | Date | Authors | Link |
