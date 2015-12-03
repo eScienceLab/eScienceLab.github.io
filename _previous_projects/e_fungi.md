@@ -3,7 +3,7 @@ layout: page
 name: e-Fungi
 title: e-Fungi
 collection: previous_projects
-description: e-Fungi Project
+description: e-Fungi
 ---
 
 #e-Fungi
