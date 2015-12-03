@@ -28,8 +28,9 @@ $content-width:    1200px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$heading-background: #272e38 url('/images/bg.png');
-$heading-text:      #fff;
+$header-background-color: #272e38;
+$header-background-image: url('/images/bg.png');
+$header-text-color:      #fff;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
