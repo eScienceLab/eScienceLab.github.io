@@ -11,4 +11,3 @@ Product pages and metadata live in the `_products/` folder
 {% for product in site.products %}
 * [{{ product.title }}]({{ product.url }}) - {{ product.description }}
 {% endfor %}
-                        site
