@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "myGrid presentations and posters at BOSC 2014"
+date:   2014-07-10 09:11:47 +0000
+categories: announcements myGrid BOSC
+---
+
+Robert Haines will give a talk "Integrating Taverna Player into Scratchpads" at 11:39 on July 12th as part of the Software Interoperability session at the 15th Annual Bioinformatics Open Source Conference (BOSC 2014) in Boston, US
+
+Carole Goble will give a talk on SEEK at 14:00 on July 12th as part of the Open Science and Reproducible Research session. Entitled SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science it will cover how SEEK is being customised and adopted to support open research in science.
+
+There will be posters on Carole Goble's and Robert Haines's talks. In addition, Aleksandra Pawlik will be presenting a poster on "Running Taverna Workflows within IPython Notebook".
+
+For more information about BOSC please visit the [BOSC 2014 website][bosc]
+
+[bosc]: http://www.open-bio.org/wiki/BOSC_2014﻿
