@@ -17,11 +17,6 @@ github_username:  eScienceLab
 encoding: utf8
 permalink: pretty
 
-analytics :
-  provider : google 
-  google : 
-      tracking_id : 'UA-70979243-1'
-
 # Build settings
 markdown: kramdown
 
