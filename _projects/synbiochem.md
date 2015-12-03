@@ -18,3 +18,7 @@ The University of Manchester was awarded £10.3 million from BBSRC/EPSRC to set 
 Our vision is to harness the power of Synthetic Biology (SynBio) to propel chemicals and natural products production towards ’green’ and sustainable manufacturing processes.
 
 More broadly, the Centre will provide the general tools, technology platforms and SynBio ‘know-how’ to drive academic discovery and translate new knowledge and processes towards industrial exploitation, through active collaborations with a large variety of industry partners.
+
+----
+
+Within SynBioChem, the eScience Lab is supporting the DATA sub-project, which is working to develop an integrated data and metadata management platform for the centre based on SEEK, openBIS, LabArchives, and ICE.
