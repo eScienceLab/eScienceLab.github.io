@@ -2,8 +2,8 @@
 layout: page
 name: OntoGrid
 title: OntoGrid
-collection: previous_projects
-description: OntoGrid
+collection: previous-projects
+description: Infrastructure for open services for the semantic Grid
 ---
 
 #OntoGrid

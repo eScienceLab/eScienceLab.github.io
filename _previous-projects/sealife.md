@@ -2,8 +2,8 @@
 layout: page
 name: Sealife
 title: Sealife
-collection: previous_projects
-description: Sealife
+collection: previous-projects
+description: Semantic grid browser for the life sciences
 ---
 
 #Sealife

@@ -2,8 +2,8 @@
 layout: page
 name: Obesity e-Lab
 title: Obesity e-Lab
-collection: previous_projects
-description: Obesity E-Lab
+collection: previous-projects
+description: eInfrastructure for collaborative research into obesity
 ---
 
 #Obesity e-Lab

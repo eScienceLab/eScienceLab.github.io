@@ -2,8 +2,8 @@
 layout: page
 name: MIASGrid
 title: MIASGrid
-collection: previous_projects
-description: MIASGrid
+collection: previous-projects
+description: Medical Imaging
 ---
 
 #MIASGrid

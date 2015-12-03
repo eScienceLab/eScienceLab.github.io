@@ -2,8 +2,8 @@
 layout: page
 name: NeISS
 title: NeISS
-collection: previous_projects
-description: NeISS
+collection: previous-projects
+description: National e-Infrastructure for Social Simulation
 ---
 
 #NeISS

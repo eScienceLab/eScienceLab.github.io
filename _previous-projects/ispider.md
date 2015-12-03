@@ -2,8 +2,8 @@
 layout: page
 name: ISpider
 title: ISpider
-collection: previous_projects
-description: ISpider
+collection: previous-projects
+description: Proteomics workflows
 ---
 
 #ISpider

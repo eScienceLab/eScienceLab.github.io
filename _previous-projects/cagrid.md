@@ -2,8 +2,8 @@
 layout: page
 name: cagrid
 title: caGrid
-collection: previous_projects
-description: caGrid Project
+collection: previous-projects
+description: Support for running cancer-research workflows
 ---
 
 #caGrid Project

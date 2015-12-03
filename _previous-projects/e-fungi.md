@@ -2,8 +2,8 @@
 layout: page
 name: e-Fungi
 title: e-Fungi
-collection: previous_projects
-description: e-Fungi
+collection: previous-projects
+description: Webservices for comparative genomics
 ---
 
 #e-Fungi

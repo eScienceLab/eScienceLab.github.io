@@ -3,7 +3,7 @@ layout: page
 name: advises
 title: ADVISES
 collection: previous-projects
-description: ADVISES Project
+description: Adaptive visualization for eScience
 ---
 
 #ADVISES

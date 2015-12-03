@@ -2,8 +2,8 @@
 layout: page
 name: OntoGenesis
 title: OntoGenesis
-collection: previous_projects
-description: OntoGenesis
+collection: previous-projects
+description: Specification of biology ontologies
 ---
 
 #OntoGenesis

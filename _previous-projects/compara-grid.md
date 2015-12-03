@@ -2,8 +2,8 @@
 layout: page
 name: comparaGrid
 title: comparaGrid
-collection: previous_projects
-description: ComparaGrid Project
+collection: previous-projects
+description: Querying of genomic relationships
 ---
 
 #ComparaGrid

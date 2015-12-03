@@ -2,8 +2,8 @@
 layout: page
 name: Web Services for Life Sciences (BioCatalogue)
 title: Web Services for Life Sciences (BioCatalogue)
-collection: previous_projects
-description: Web Services for Life Sciences Project
+collection: previous-projects
+description: (BioCatalogue)
 ---
 
 #Web Services for Life Sciences (BioCatalogue)

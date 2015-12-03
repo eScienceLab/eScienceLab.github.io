@@ -2,8 +2,8 @@
 layout: page
 name: ESNW
 title: ESNW
-collection: previous_projects
-description: ESNW
+collection: previous-projects
+description: Centre for Collaborative Multidisciplinary e-Research in the North West
 ---
 
 #ESNW
