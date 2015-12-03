@@ -7,6 +7,7 @@ collection: products
 description: Finding, sharing and exchanging data, models, simulations and processes in life sciences
 website: http://www.seek4science.org/
 logo: /images/logo/seek4science-logo.png
+screenshot: /images/screenshots/seek.png
 ---
 
 The SEEK platform is a Web-based resource for sharing heterogeneous scientific research datasets, models or simulations, processes and research outcomes. It preserves associations between them, along with information about the people and organisations involved. SEEK is written in Ruby on Rails.
