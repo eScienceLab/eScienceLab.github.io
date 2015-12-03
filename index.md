@@ -7,7 +7,7 @@ The [eScience team][eSt] have produced and continue to develop a suite of [produ
 Products
 ===
 {% for product in site.products %}
-  [![{{ product.title }}][{{product.name}}-logo]=200px](/products/{{ product.name }})
+  [![{{ product.title }}][{{product.name}}-logo]](/products/{{ product.name }})
 {% endfor %}
 
 
@@ -21,4 +21,4 @@ Products
 [taverna-logo]: {{ site.url }}/images/logo/taverna_logo.png "Taverna"
 [seek-logo]: {{ site.url }}/images/logo/seek4science-logo.png "Seek"
 [methodbox-logo]: {{ site.url }}/images/logo/methodbox.png "Methodbox"
-[tess-logo]: {{ site.url }}/images/logo/tess.png=200px "TeSS"
+[tess-logo]: {{ site.url }}/images/logo/tess.png "TeSS"
