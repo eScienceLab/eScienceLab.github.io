@@ -7,7 +7,7 @@ collection: projects
 description: Centre of Excellence for Biomolecular Research
 ---
 
-![BioExcel logo](/images/logo/BioExcel_logo_payoff_cropped.svg "BioExcel - Centre of Excellence for Biomolecular Research")
+![BioExcel logo](/images/logo/bioexcel.svg "BioExcel - Centre of Excellence for Biomolecular Research")
 
 * Website: [http://bioexcel.eu/](http://bioexcel.eu/)
 * Started: 2015-11-01
