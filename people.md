@@ -14,7 +14,7 @@ permalink: /people/
 * **Norman Morrison** — Project Manager, Data Scientist
 * **Aleksandra Nenadic** — Training Manager, Senior Research Software Engineer
 * **Stuart Owen** — Senior Technical Architect
-* **Aleksandra Pawlik** — Software Engineer
+* **Aleksandra Pawlik** — Training Leader, Software Engineer
 * **Natalie J Stanford** — Research Community Manager, Data Scientist
 * **Stian Soiland-Reyes** — Senior Technical Architect
 * **Shoaib Sufi** — Community Manager
