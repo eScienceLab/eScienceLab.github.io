@@ -6,7 +6,7 @@ collection: previous_projects
 description: ComparaGrid Project
 ---
 
-#ComparaGrid Project
+#ComparaGrid
 
 [ComparaGrid](http://bioinf.ncl.ac.uk/comparagrid/) was a [BBSRC](http://www.bbsrc.ac.uk/) funded project to develop a prototype system to capture the details of relationships between genomic data
 either within or across species thus enabling complex ad hoc queries to be run. ComparaGrid demonstrates that the underlying raw data
