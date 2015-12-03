@@ -5,6 +5,7 @@ title: myExperiment
 path: myexperiment
 collection: products
 description: Sharing of scientific workflows and related data
+website: http://www.myexperiment.org/
 ---
 
 myExperiment is a collaborative environment where scientists can safely publish their workflows and *in silico* experiments, share them with groups and find those of others. Workflows, other digital objects and bundles (called packs) can now be swapped, sorted and searched like photos and videos on the Web. Unlike Facebook or MySpace, myExperiment fully understands the needs of the researcher and makes it really easy for the next generation of scientists to contribute to a pool of scientific methods, build communities and form relationships — reducing time-to-experiment, sharing expertise and avoiding reinvention. myExperiment is now the largest public repository of scientific workflows.
