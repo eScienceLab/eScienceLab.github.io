@@ -4,7 +4,7 @@ name: tess
 title: TeSS
 path: tess
 collection: products
-description: A description of TeSS
+description: Support system for eScience training
 ---
 
-Is a project
+[TeSS](http://elixir-uk.org/training-platform) is a support portal for training in eScience.
