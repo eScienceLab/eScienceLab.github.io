@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CBE for Carole Goble"
+title:  "CBE for Professor Goble"
 date:   2013-12-31 12:11:47 +0000
 categories: announcements carole_goble
 ---
