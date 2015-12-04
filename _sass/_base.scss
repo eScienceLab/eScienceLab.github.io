@@ -204,3 +204,30 @@ pre {
         }
     }
 }
+
+.product-listing {
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.profile_box {
+    width: 200px;
+    height: 300px;
+    .name {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .role {
+        /* text-align: center; */
+    }
+    .profile_picture {
+        max-width: 150px;
+        height: 150px;
+        margin: auto;
+    }
+}
+
+

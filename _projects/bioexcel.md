@@ -1,18 +1,16 @@
 ---
-layout: page
+layout: project
 name: bioexcel
 title: BioExcel
 path: bioexcel.html
 collection: projects
 description: Centre of Excellence for Biomolecular Research
+logo: bioexcel.svg
+website: http://bioexcel.eu
+start_date: 2015-11-01
+duration: 36 months
+project_reference: http://cordis.europa.eu/project/rcn/198303
 ---
-
-![BioExcel logo](/images/logo/bioexcel.svg "BioExcel - Centre of Excellence for Biomolecular Research")
-
-* Website: [http://bioexcel.eu/](http://bioexcel.eu/)
-* Started: 2015-11-01
-* Duration: 36 months
-* Project reference: [H2020-EU.1.4.1.3 675728](http://cordis.europa.eu/project/rcn/198303)
 
 [BioExcel](http://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
 Research**, funded as a project for three years by the [EC Horizon

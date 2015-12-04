@@ -4,10 +4,19 @@ title: Projects
 permalink: /projects/
 ---
 
-This is a dynamically generated list of projects.
-
-Project pages and metadata live in the `_projects/` folder
+## Current projects
 
 {% for project in site.projects %}
+{% unless project.expired %}
 * [{{ project.title }}]({{ project.url }}) - {{ project.description }}
+{% endunless %}
 {% endfor %}
+
+## Previous projects
+
+{% for project in site.projects %}
+{% if project.expired %}
+* [{{ project.title }}]({{ project.url }}) - {{ project.description }}
+{% endif %}
+{% endfor %}
+
