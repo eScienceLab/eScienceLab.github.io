@@ -36,7 +36,7 @@ permalink: /people/
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
-		<img src="http://www.gigglespartyshops.co.uk/media/catalog/product/3/8/38054.jpg" class="profile_picture"> 
+		<img src="/images/profiles/norman-morrison.jpg" class="profile_picture"> 
 		<div class="name">Norman Morrison</div>
 		<div class="role">Project Manager, Data Scientist</div>
 	</div>
