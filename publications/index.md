@@ -5,9 +5,18 @@ title: Publications
 
 This is a list of recent publications made by the [eScience lab team](../people/).
 This page might not be complete, please help us to
-[improve this page](https://github.com/eScienceLab/eScienceLab.github.io/edit/master/publications/index.md)
+[improve this page](https://github.com/eScienceLab/eScienceLab.github.io/edit/master/publications/index.md).
+
+![Open Access logo](/images/logo/OAlogo.svg)
+
+<small>
+_Open Access logo &copy; 2012 Nick Shockey,
+distributed under a [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
+Source: [openaccessweek.org](http://www.openaccessweek.org/page/englishhigh-resolution-1)_
+</small>
 
 University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide _green open access_ preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
+
 
 ## 2015
 
