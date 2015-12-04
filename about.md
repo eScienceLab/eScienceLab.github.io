@@ -10,7 +10,7 @@ The [eScience Lab](/about/) is a research group at [School of Computer Science](
 The eScience Lab is led by
 [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/).
 
-The eScience Lab are focused on research and development around a set of tools designed for data driven and computational research. The tools support the comming together of people, data and methods in a particular research area; this is also know as an 'e-laboratory'. These e-Laboratories or e-Labs and have supported domains as diverse as systems biology, social science, music, astronomy, multimedia and chemistry. The tools have been adopted by a large number of projects and institutions.
+The eScience Lab are focused on research and development around a set of tools designed for data driven and computational research. The tools support the comming together of people, data and methods in a particular research area; this is also know as an _e-laboratory_. These e-Laboratories or _e-Labs_ support domains as diverse as systems biology, social science, music, astronomy, multimedia and chemistry. The [tools](/products/) have been adopted by a large number of projects and institutions.
 
 The eScience Lab currently has guaranteed funding until 2019.
 
