@@ -215,4 +215,4 @@ _5th USENIX Workshop on the Theory and Practice of Provenance (TaPP '13)_., Lomb
 ## 2002-2012
 
 See also the list of
-[myGrid publications](http://dev.mygrid.org.uk/wiki/display/about/myGrid+Publications) covering the group activity for the period 2002-2012.
+[myGrid publications](archive/) covering the group activity for the period 2002-2012.
