@@ -220,7 +220,6 @@ Stephen Crouch, Neil Chue Hong, Simon Hettrick, Mike Jackson, Aleksandra Pawlik,
 _Computing in Science and Engineering_
 **15**(6) pp 74-80
 [doi:10.1109/MCSE.2013.133](http://dx.doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
-([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/2))
 
 
 Paolo Missier, Saumen Dey, Khalid Belhajjame, Victor Cuevas-Vicenttín, Bertram Ludäscher (2013):
