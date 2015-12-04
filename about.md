@@ -23,8 +23,10 @@ In phase 2, from 2006 to 2009, the consortium was funded for £2 million as part
 
 In phase 3, from 2009 to 2014, the team was funded for £1.15 million by a grant from the UK Engineering and Physical Sciences Research Council ([EP/G026238/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/G026238/1)).  The membership of the consortium for Phase 3 was the University of Manchester and the University of Southampton.
 
-The _myGrid team_ kept functioning as a
-virtual research group at [School of Computer Science](http://www.cs.manchester.ac.uk/), participating in [multiple projects](/projects/). In 2015
-the team formed the *eScience Lab* as a research group
+The _myGrid team_ continued as a
+sub-group of the
+Information Management Group
+at the [School of Computer Science](http://www.cs.manchester.ac.uk/), participating in [multiple projects](/projects/). In 2015
+the team formed the **eScience Lab** as a research group
 at the school. The group remains associated with the
-broader [Information Management Group](http://www.cs.manchester.ac.uk/img/).
+[Information Management Group](http://www.cs.manchester.ac.uk/img/).
