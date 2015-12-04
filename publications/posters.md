@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posters
+exclude_from_nav: true
 ---
 
 This is a list of recent posters made by the [eScience lab team](../people/).
