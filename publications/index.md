@@ -206,7 +206,7 @@ _2013 IEEE International Congress on Big Data_
 Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):
 **Enhancing and abstracting scientific workflow provenance for data publishing**.
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
-[[journal article]](http://dl.acm.org/citation.cfm?id=2457370)
+[[doi:10.1145/2457317.2457370](http://dx.doi.org/10.1145/2457317.2457370)
 ([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/3))
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013),
