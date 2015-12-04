@@ -82,12 +82,12 @@ permalink: /people/
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
 	<div class="grid-item profile_box">
-		<img src="http://www.gigglespartyshops.co.uk/media/catalog/product/3/8/38054.jpg" class="profile_picture"> 
+		<img src="/images/profiles/kristian-garza.jpg" class="profile_picture"> 
 		<div class="name">Kristian Garza</div>
 		<div class="role">PhD Student</div>
 	</div>
 		<div class="grid-item profile_box">
-		<img src="http://www.gigglespartyshops.co.uk/media/catalog/product/3/8/38054.jpg" class="profile_picture"> 
+		<img src="/images/profiles/lefteris-tatakis.jpg" class="profile_picture"> 
 		<div class="name">Lefteris Tatakis</div>
 		<div class="role">PhD Student</div>
 	</div>
