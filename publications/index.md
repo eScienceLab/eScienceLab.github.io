@@ -7,9 +7,15 @@ This is a list of recent publications made by the [eScience lab team](../people/
 
 ## 2015
 
-Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015): **SEEK: a systems biology data and model management platform**. _BMC Systems Biology_ 2015, **9**:33  [doi:10.1186/s12918-015-0174-y](http://dx.doi.org/10.1186/s12918-015-0174-y)
+Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):
+**SEEK: a systems biology data and model management platform**.
+_BMC Systems Biology_ 2015, **9**:33  [doi:10.1186/s12918-015-0174-y](http://dx.doi.org/10.1186/s12918-015-0174-y)
 
-Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015): **Framing the community data system interface**. _BCS HCI 2015_: 269-270
+Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):
+**Framing the community data system interface**.
+_BCS HCI 2015: Proceedings of the 2015 British HCI Conference_: pp 269-270
+[doi:10.1145/2783446.2783605](http://dx.doi.org/10.1145/2783446.2783605)
+[[]preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:274873&datastreamId=FULL-TEXT.PDF)
 
 Aleksandra Pawlik, Judith Segal, Helen Sharp, Marian Petre (2015): **Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy documentation project**, _Computing in Science & Engineering_,  **17** (1), pp.28,36, January/February 2015.
 [doi:10.1109/MCSE.2014.93](http://dx.doi.org/10.1109/MCSE.2014.93)
@@ -27,6 +33,12 @@ _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **
 ## 2014
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014): **Structuring research methods and data with the research object model: genomics workflows as a case study** _Journal of Biomedical Semantics_ **5**(41) [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
+
+Carole Goble,
+Alasdair J G Gray,
+Eleftherios Tatakis (2014):
+**Help me describe my data: A demonstration of the Open PHACTS VoID Editor**
+_Proceedings of the ISWC Developers Workshop 2014, ISWC-DEV 2014_, CEUR-WS.org online [http://ceur-ws.org/Vol-1272/paper_33.pdf](http://ceur-ws.org/Vol-1272/paper_33.pdf)
 
 Aidan Budd,
 Manuel Corpas,
