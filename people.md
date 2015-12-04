@@ -79,10 +79,25 @@ permalink: /people/
 
 
 ##Students
+<div class="grid js-masonry"
+  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
+	<div class="grid-item profile_box">
+		<img src="http://www.gigglespartyshops.co.uk/media/catalog/product/3/8/38054.jpg" class="profile_picture"> 
+		<div class="name">Kristian Garza</div>
+		<div class="role">PhD Student</div>
+	</div>
+		<div class="grid-item profile_box">
+		<img src="http://www.gigglespartyshops.co.uk/media/catalog/product/3/8/38054.jpg" class="profile_picture"> 
+		<div class="name">Lefteris Tatakis</div>
+		<div class="role">PhD Student</div>
+	</div>
+		<div class="grid-item profile_box">
+		<img src="/images/profiles/pinar-alper.png" class="profile_picture">
+		<div class="name">Pinar Alper</div>
+		<div class="role">PhD Student</div>
+	</div>
+</div>
 
-* **Kristian Garza** — PhD Student
-* **Lefteris Tatakis** — PhD Student
-* **Pinar Alper** — PhD Student
 
 [cg]: {{ site.url }}/images/profiles/carole-goble.jpg "Carole Goble"
 [gb]: {{ site.url }}/images/profiles/finn-bacall.png "Finn Bacall"
