@@ -5,7 +5,7 @@ layout: default
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
 
 The [eScience Lab](/about/) is a research group at [School of Computer Science](http://www.cs.manchester.ac.uk/) at
-[University of Manchester](http://www.manchester.ac.uk), affilliated with the
+[University of Manchester](http://www.manchester.ac.uk), affiliated with the
 [Information Management Group](http://www.cs.manchester.ac.uk/img/).
 The eScience Lab is led by
 [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/).
