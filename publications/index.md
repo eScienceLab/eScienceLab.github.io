@@ -134,6 +134,11 @@ Emily Merrill, Stéphane Corlosquet, Paolo Ciccarese, Tim Clark, Sudeshna Das (2
 _Journal of Biomedical Semantics_ **5**(Suppl 1):S3
 [doi:10.1186/2041-1480-5-S1-S3](http://dx.doi.org/10.1186/2041-1480-5-S1-S3)
 
+Shoaib Sufi, Neil Chue Hong, Simon Hettrick, Mario Antonioletti, Stephen Crouch, Alexander Hay, Devasena Inupakutika, Mike Jackson, Aleksandra Pawlik, Giacomo Peru, John Robinson, Les Carr, David De Roure, Carole Goble, Mark Parsons (2014):
+*Software in reproducible research: advice and best practice collected from experiences at the collaborations workshop.*
+_Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering_. 2014.  
+[doi:10.1145/2618137.2618140](http://dx.doi.org/10.1145/2618137.2618140)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226534&datastreamId=FULL-TEXT.PDF)
 
 ## 2013
 
@@ -154,6 +159,13 @@ Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole
 **Common motifs in scientific workflows: An empirical analysis**.
 _Future Generation Computer Systems_, **36** pp 338-351.
 [doi:10.1016/j.future.2013.09.018](http://dx.doi.org/10.1016/j.future.2013.09.018) [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
+
+Carole Goble, David De Roure and Sean Bechhofer (2013):
+**Accelerating Scientists’ Knowledge Turns.**
+Knowledge Discovery, Knowledge Engineering and Knowledge Management (Revised Selected Papers of Third International Joint Conference, IC3K 2011, Paris, France, October 26-29, 2011, editors: Ana Fred, Jan L. G. Dietz, Kecheng Liu, Joaquim Filipe). _Communications in Computer and Information Science_ **348** Springer Berlin Heidelberg, 2013. 3-25. 8 June 2013.
+[doi:10.1007/978-3-642-37186-8_1](http://dx.doi.org/10.1007/978-3-642-37186-8_1)
+[[preprint]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
+[[pdf]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):
 **A workflow PROV-corpus based on Taverna and Wings**.

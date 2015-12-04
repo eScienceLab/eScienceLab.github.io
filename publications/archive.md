@@ -14,6 +14,23 @@ This is an non-curated list of
 Belhajjame, K.; Corcho, O.; Garijo, D.; Zhao, J.; Missier, P.; Newman, D.; Palma, R.; Bechhofer, S.; García Cuesta, E.; Gómez-Pérez, J. M.; Soiland-Reyes, S.; Verdes-Montenegro, L.; De Roure, D. & Goble, C. (2012), Workflow-Centric Research Objects: First Class Citizens in Scholarly Discourse, in **Proceedings of Workshop on the Semantic Publishing**. [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:192020&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
 
+Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang, David De Roure and Carole Goble (2012):
+**ReputationNet: a Reputation Engine to Enhance ServiceMap by Recommending Trusted Services**.
+Accepted for IEEE SCC2012, June 2012.  
+[[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNetSCC2012.pdf)
+
+
+Khalid Belhajjame, David De Roure and Carole Goble (2012):
+**Research Object Management: Opportunities and Challenges**.
+Data Intensive Collaboration in Science and Engineering (DISCOSE) workshop, collocated with ACM CSCW 2012
+[[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/Belhajjame_discose2012.pdf)
+
+
+Jun Zhao, Jose Manuel Gomez-Perezy, Khalid Belhajjame, Graham Klyne, Esteban Garcia-Cuestay, Aleix Garridoy, Kristina Hettne, Marco Roos, David De Roure, Carole Goble (2012):
+**Why Workflows Break - Understanding and Combating Decay in Taverna Workflows**, _eScience 2012_, Chicago, October 2012.
+[[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/why-decay.pdf)
+
+
 Harmelen, F.; Kampis, G.; Boerner, K.; Besselaar, P.; Schultes, E.; Goble, C.; Groth, P.; Mons, B.; Anderson, S.; Decker, S.; Hayes, C.; Buecheler, T. & Helbing, D. (2012), **Theoretical and technological building blocks for an innovation accelerator**, The European Physical Journal Special Topics 214(1), 183-214.
 
 
@@ -51,6 +68,10 @@ _Journal of Biomedical Semantics_ 2012, **3**(Suppl 1):S1  [doi:10.1186/2041-148
 
 ## 2011
 
+Alasdair J. G. Gray, Raul Garcia-Castro, Kostis Kyzirakos, Manos Karpathiotakis, Jean-Paul Calbimonte, Kevin R. Page, Jason Sadler, Alex Frazer, Ixent Galpin, Alvaro A. A. Fernandes, Norman W. Paton, Óscar Corcho, Manolis Koubarakis, David De Roure, Kirk Martinez, Asunción Gómez-Pérez (2011):
+**A Semantically Enabled Service Architecture for Mashups over Streaming and Stored Data**.
+_ESWC_ **(2)** 2011: 300-314
+[[preprint]](http://eprints.soton.ac.uk/272696/)
 
 Belhajjame, K.; Goble, C.; Soiland-Reyes, S. & De Roure, D. (2011), Fostering Scientific Workflow Preservation through Discovery of Substitute Services, in **E-Science (e-Science), 2011 IEEE 7th International Conference on**, pp. 97-104.
 
@@ -73,16 +94,18 @@ Jupp, S.; Eales, J.; Fischer, S.; Land, S.; Ramgolam, R.; Williams, A. & Stevens
 Jupp, S.; Klein, J.; Schanstra, J. & Stevens, R. (2011), **Developing a kidney and urinary pathway knowledge base**, Journal of biomedical semantic 2 Suppl 2:S7.
 
 
-Missier, P. & Goble, C. (2011), **Workflows to open provenance graphs, round-trip **, Future Generation Computer Systems  27(6), 812 - 819.
+Missier, P. & Goble, C. (2011), **Workflows to open provenance graphs, round-trip**, Future Generation Computer Systems  27(6), 812 - 819.
 
 
-Neudecker, C.; Schlarb, S.; Dogan, Z. M.; Missier, P.; Sufi, S.; Williams, A. & Wolstencroft, K. (2011), An experimental workflow development platform for historical document digitisation and analysis, Association for Computing Machinery, pp. 161.
+Neudecker, C.; Schlarb, S.; Dogan, Z. M.; Missier, P.; Sufi, S.; Williams, A. & Wolstencroft, K. (2011), **An experimental workflow development platform for historical document digitisation and analysis**, Association for Computing Machinery, pp. 161.
 
 
-Tan, W.; Zhang, J.; Madduri, R.; Foster, I.; De Roure, D. & Goble, C. (2011), ServiceMap: Providing Map and GPS Assistance to Service Composition in Bioinformatics, in **Services Computing (SCC), 2011 IEEE International Conference on**, pp. 632-639.
+Wei Tan, Jia Zhang, Ravi Madduri, Ian Foster, David De Roure and Carole Goble (2011)
+**ServiceMap: Providing Map and GPS Assistance to Service Composition in Bioinformatics**.
+_IEEE International Conference on Services Computing 2011_. [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/scc-serviceMap-05292011.pdf)
 
 
-Wolstencroft, K.; Owen, S.; du Preez, F.; Krebs, O.; Mueller, W.; Goble, C. & Snoep, J. L. (2011), Chapter twenty-nine - The SEEK: A Platform for Sharing Data and Models in Systems Biology , in Malkhey Verma Daniel Jameson & Hans V. Westerhoff, ed., **Methods in Systems Biology**, Academic Press, , pp. 629 - 655.
+Wolstencroft, K.; Owen, S.; du Preez, F.; Krebs, O.; Mueller, W.; Goble, C. & Snoep, J. L. (2011), Chapter twenty-nine - **The SEEK: A Platform for Sharing Data and Models in Systems Biology** , in Malkhey Verma Daniel Jameson & Hans V. Westerhoff, ed., **Methods in Systems Biology**, Academic Press, , pp. 629 - 655.
 
 
 Wolstencroft, K.; Owen, S.; Horridge, M.; Krebs, O.; Mueller, W.; Snoep, J. L.; du Preez, F. & Goble, C. (2011), **RightField: embedding ontology annotation in spreadsheets**, Bioinformatics 27(14), 2021-2022.
@@ -91,7 +114,10 @@ Wolstencroft, K.; Owen, S.; Horridge, M.; Krebs, O.; Mueller, W.; Snoep, J. L.; 
 Zhao, J.; Sahoo, S.; Missier, P.; Sheth, A. & Goble, C. (2011), **Extending Semantic Provenance into the Web of Data**, Internet Computing, IEEE 15(1), 40-48.
 
 
-
+David De Roure, Khalid Belhajjam, Paolo Missier, José Manuel Gómez-Pérez, Raúl Palma, José Enrique Ruiz, Kristina Hettne, Marco Roos, Graham Klyne, Carole Goble (2011):
+**Towards the Preservation of Scientific Workflows**.
+Accepted for _8th International Conference on Preservation of Digital Objects (iPRES 2011)_. 
+[[pdf]](http://users.ox.ac.uk/~oerc0033/preprints/wfpreservev10.pdf)
 
 
 ## 2010
