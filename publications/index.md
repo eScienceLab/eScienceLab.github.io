@@ -54,7 +54,7 @@ _Nucleic Acids Research_ 2015 gkv1116.
 ## 2014
 
 Carole Goble (2014): **Better Software, Better Research**. _IEEE Internet Computing_ **18**(5) pp.4-, Sept/Oct 2014. Editorial. [doi:10.1109/MIC.2014.88](http://dx.doi.org/10.1109/MIC.2014.88)
-[preprint](http://www.software.ac.uk/resources/publications/better-software-better-research)
+[[preprint]](http://www.software.ac.uk/resources/publications/better-software-better-research)
 
 Carole Goble,
 Alasdair J G Gray,
@@ -86,10 +86,12 @@ Judy Qiu, Ian T. Foster, Carole A. Goble (2014):
 _Concurrency and Computation: Practice and Experience_ **26**(6): 1231-1233
 [doi:10.1002/cpe.3101](http://dx.doi.org/10.1002/cpe.3101)
 
+
 Pinar Alper, Carole A Goble, Khalid Belhajjame (2014):
 **On assisting scientific data curation in collection-based dataflows using labels.**
 _Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_. pp 7-16
 [doi:10.1145/2534248.2534249](http://dx.doi.org/10.1145/2534248.2534249)
+([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/4))
 
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014):
@@ -205,10 +207,12 @@ Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):
 **Enhancing and abstracting scientific workflow provenance for data publishing**.
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
 [[journal article]](http://dl.acm.org/citation.cfm?id=2457370)
+([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/3))
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013),
 **Workflows for Heliophysics**.
 _Journal of Grid Computing_ **11**(3), 481-503. [doi:10.1007/s10723-013-9256-5](http://dx.doi.org/10.1007/s10723-013-9256-5)
+[[researchgate]](https://www.researchgate.net/publication/236683534_Workflows_for_Heliophysics)
 
 
 Stephen Crouch, Neil Chue Hong, Simon Hettrick, Mike Jackson, Aleksandra Pawlik, Shoaib Sufi, Les Carr, David De Roure, Carole Goble, Mark Parsons (2013):
@@ -216,6 +220,7 @@ Stephen Crouch, Neil Chue Hong, Simon Hettrick, Mike Jackson, Aleksandra Pawlik,
 _Computing in Science and Engineering_
 **15**(6) pp 74-80
 [doi:10.1109/MCSE.2013.133](http://dx.doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
+([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/2))
 
 
 Paolo Missier, Saumen Dey, Khalid Belhajjame, Victor Cuevas-Vicenttín, Bertram Ludäscher (2013):
