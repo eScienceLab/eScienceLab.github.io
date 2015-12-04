@@ -4,7 +4,7 @@ name: Open PHACTS
 title: Open PHACTS
 collection: projects
 description: linked data for pharmacology 
-expired: true
+expired: false
 ---
 
 #Open PHACTS
