@@ -30,6 +30,7 @@ Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):
 _BCS HCI 2015: Proceedings of the 2015 British HCI Conference_: pp 269-270
 [doi:10.1145/2783446.2783605](http://dx.doi.org/10.1145/2783446.2783605)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:274873&datastreamId=FULL-TEXT.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:274873)
 
 Aleksandra Pawlik, Judith Segal, Helen Sharp, Marian Petre (2015):
 **Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy documentation project**.
@@ -37,14 +38,18 @@ Aleksandra Pawlik, Judith Segal, Helen Sharp, Marian Petre (2015):
 [doi:10.1109/MCSE.2014.93](http://dx.doi.org/10.1109/MCSE.2014.93)
 [[preprint]](http://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/T-06879046.pdf)
 
-Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang ; David De Roure, Carole Goble
+Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang, David De Roure, Carole Goble
 (2015):
 **ReputationNet: Reputation-Based Service Recommendation for e-Science**.
-_IEEE Transactions on Services Computing_ **8**(3) [doi:10.1109/TSC.2014.2364029](http://dx.doi.org/10.1109/TSC.2014.2364029) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNet.pdf) [[researchgate]](https://www.researchgate.net/publication/272821108_ReputationNet_Reputation-Based_Service_Recommendation_for_e-Science)
+_IEEE Transactions on Services Computing_ **8**(3)
+[doi:10.1109/TSC.2014.2364029](http://dx.doi.org/10.1109/TSC.2014.2364029)
+[[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNet.pdf)
+[[researchgate]](https://www.researchgate.net/publication/272821108_ReputationNet_Reputation-Based_Service_Recommendation_for_e-Science)
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015):
 **Using a suite of ontologies for preserving workflow-centric research objects**.
-_Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-, [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
+_Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-,
+[doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
 
 Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller,, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen1 and Søren Brunak (2015):
 **Tools and data services registry: a community effort to document bioinformatics resources**.
@@ -53,7 +58,8 @@ _Nucleic Acids Research_ 2015 gkv1116.
 
 ## 2014
 
-Carole Goble (2014): **Better Software, Better Research**. _IEEE Internet Computing_ **18**(5) pp.4-, Sept/Oct 2014. Editorial. [doi:10.1109/MIC.2014.88](http://dx.doi.org/10.1109/MIC.2014.88)
+Carole Goble (2014): **Better Software, Better Research**. _IEEE Internet Computing_ **18**(5) pp.4-, Sept/Oct 2014. Editorial.
+[doi:10.1109/MIC.2014.88](http://dx.doi.org/10.1109/MIC.2014.88)
 [[preprint]](http://www.software.ac.uk/resources/publications/better-software-better-research)
 
 Carole Goble,
@@ -75,6 +81,7 @@ Pinar Karagoz (2014):
 _Provenance and Annotation of Data and Processes_, 5th International Provenance and Annotation Workshop, IPAW 20, Cologne, Germany, June 9-, 2014. Revised Selected Papers.
 [doi:10.1007/978-3-319-16462-5_7](http://dx.doi.org/10.1007/978-3-319-16462-5_7)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226843&datastreamId=FULL-TEXT.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226843)
 
 Sarah Cohen Boulakia, Jiuqiang Chen, Paolo Missier, Carole A. Goble, Alan R. Williams (2014):
 **Distilling structure in Taverna scientific workflows: a refactoring approach**.
@@ -92,6 +99,7 @@ Pinar Alper, Carole A Goble, Khalid Belhajjame (2014):
 _Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_. pp 7-16
 [doi:10.1145/2534248.2534249](http://dx.doi.org/10.1145/2534248.2534249)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:236944)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:236944&datastreamId=SUPPLEMENTARY-1.PDF)
 
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014):
@@ -121,7 +129,10 @@ Rutger Aldo Vos, Jordan Valkov Biserkov, Bachir Balech, Niall Beard, Matthew Bli
 _Biodiversity Data Journal_ **2**: e1125
 [doi:10.3897/BDJ.2.e1125](http://dx.doi.org/10.3897/BDJ.2.e1125)
 
-Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes, Daniel Garijo, Khalid Belhajjame, and Rudolf Mayer: **Research Objects for Audio Processing: Capturing Semantics for Reproducibility**, _53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7 [[Proceedings]](http://www.aes.org/e-lib/browse.cfm?elib=17116) [[Preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:213117&datastreamId=SUPPLEMENTARY-1.PDF)
+Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes, Daniel Garijo, Khalid Belhajjame, and Rudolf Mayer: **Research Objects for Audio Processing: Capturing Semantics for Reproducibility**, _53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7
+[[Proceedings]](http://www.aes.org/e-lib/browse.cfm?elib=17116)
+[[Preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:213117&datastreamId=SUPPLEMENTARY-1.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:213117)
 
 Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, John Chilton, Peter J A Cock, Markus Gumbel, Nomi Harris, Richard Holland, Matúš Kalaš, László Kaján, David R. Powell, Pjotr Prins, Jacqueline Quinn, Olivier Sallou, Francesco Strozzi, Torsten Seemann, Clare Sloggett, Stian Soiland-Reyes, Sascha Steinbiss, Andreas Tille, Anthony J. Travis, Roman Valls Guimera, Toshiaki Katayama, Brad A. Chapman (2014): **Community-driven development for computational biology at Sprints, Hackathons and Codefests.** _BMC Bioinformatics_ **15**(Suppl 14):S7 Supplement NETTAB 2013. [doi:10.1186/1471-2105-15-S14-S7](http://dx.doi.org/10.1186/1471-2105-15-S14-S7)
 
@@ -141,6 +152,7 @@ Shoaib Sufi, Neil Chue Hong, Simon Hettrick, Mario Antonioletti, Stephen Crouch,
 _Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering_. 2014.  
 [doi:10.1145/2618137.2618140](http://dx.doi.org/10.1145/2618137.2618140)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226534&datastreamId=FULL-TEXT.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226534)
 
 ## 2013
 
@@ -148,11 +160,18 @@ Katherine Wolstencroft, Robert Haines, Donal Fellows, Alan Williams, David Withe
 
 Hyde Zhang, Stian Soiland-Reyes, Carole Goble (2013): **Taverna Mobile: Taverna workflows on Android**, _EMBnet.journal_ **19**(B). [doi:10.14806/ej.19.B.727](http://dx.doi.org/10.14806/ej.19.B.727) [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
 
-Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a First Class Object**. _IEEE Internet Computing_. 2013 December; 17(6): 71-75. [doi:10.1109/MIC.2013.123](http://dx.doi.org/10.1109/MIC.2013.123) [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF) [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
+Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a First Class Object**. _IEEE Internet Computing_. 2013 December; 17(6): 71-75.
+[doi:10.1109/MIC.2013.123](http://dx.doi.org/10.1109/MIC.2013.123)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:211608)
+[arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
 
 Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Philip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):
 **Why linked data is not enough for scientists**.
-_Future Generation Computer Systems_ **29**(2), 599 - 611. [doi:10.1016/j.future.2011.08.004](http://dx.doi.org/10.1016/j.future.2011.08.004) [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
+_Future Generation Computer Systems_ **29**(2), 599 - 611.
+[doi:10.1016/j.future.2011.08.004](http://dx.doi.org/10.1016/j.future.2011.08.004)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:131684)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning**.
 _Journal of Biomedical Semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.org/10.1186/2041-1480-4-37)
@@ -160,24 +179,27 @@ _Journal of Biomedical Semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](ht
 Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole Goble (2013):
 **Common motifs in scientific workflows: An empirical analysis**.
 _Future Generation Computer Systems_, **36** pp 338-351.
-[doi:10.1016/j.future.2013.09.018](http://dx.doi.org/10.1016/j.future.2013.09.018) [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
+[doi:10.1016/j.future.2013.09.018](http://dx.doi.org/10.1016/j.future.2013.09.018)
+[[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
 
 Carole Goble, David De Roure and Sean Bechhofer (2013):
 **Accelerating Scientists’ Knowledge Turns.**
 Knowledge Discovery, Knowledge Engineering and Knowledge Management (Revised Selected Papers of Third International Joint Conference, IC3K 2011, Paris, France, October 26-29, 2011, editors: Ana Fred, Jan L. G. Dietz, Kecheng Liu, Joaquim Filipe). _Communications in Computer and Information Science_ **348** Springer Berlin Heidelberg, 2013. 3-25. 8 June 2013.
 [doi:10.1007/978-3-642-37186-8_1](http://dx.doi.org/10.1007/978-3-642-37186-8_1)
-[[preprint]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
-[[pdf]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
+[[preprint server]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
+[[preprint]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):
 **A workflow PROV-corpus based on Taverna and Wings**.
-_Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp. 331–332. [doi:10.1145/2457317.2457376](http://dx.doi.org/10.1145/2457317.2457376)
+_Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp. 331–332.
+[doi:10.1145/2457317.2457376](http://dx.doi.org/10.1145/2457317.2457376)
 [[pdf]](http://delicias.dia.fi.upm.es/members/dgarijo/papers/prov-bench-paper.pdf)
 [[related website]](https://github.com/provbench/Wf4Ever-PROV)
 
 Christian Brenninkmeijer, Chris Evelo, Carole Goble, Alasdair J G Gray, Paul Groth, Steve Pettifer, Robert Stevens, Antony J Williams, Egon L Willighagen (2013):
 **Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**.
-_Intelligent Systems for Molecular Biology and European Conference on Computational Biology_ (ISMB/ECCB 2013), Berlin, Germany, July 2013. [[pdf]](http://linkedscience.org/wp-content/uploads/2012/05/lisc2012_submission_8.pdf)
+_Intelligent Systems for Molecular Biology and European Conference on Computational Biology_ (ISMB/ECCB 2013), Berlin, Germany, July 2013.
+[[pdf]](http://linkedscience.org/wp-content/uploads/2012/05/lisc2012_submission_8.pdf)
 
 Tim Clark, Paolo Ciccarese, Carole A Goble (2013):
 **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**.
@@ -206,8 +228,9 @@ _2013 IEEE International Congress on Big Data_
 Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):
 **Enhancing and abstracting scientific workflow provenance for data publishing**.
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
-[[doi:10.1145/2457317.2457370](http://dx.doi.org/10.1145/2457317.2457370)
+[doi:10.1145/2457317.2457370](http://dx.doi.org/10.1145/2457317.2457370)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:282297)
+[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:282297&datastreamId=SUPPLEMENTARY-1.PDF)
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013),
 **Workflows for Heliophysics**.
