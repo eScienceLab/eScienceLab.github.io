@@ -27,6 +27,11 @@ See the [Jekyll documentation](http://jekyllrb.com/docs/home/)
     * `docker run -it --rm --name jekyll --volume=$(pwd):/srv/jekyll -p 4000:4000 jekyll/jekyll:pages`
     * Inspect at http://0.0.0.0:4000/ - edited files are updated live
     * Stop it with Ctrl-C or `docker stop jekyll`.
+* Images are layed out in grids using the [Masonry](https://github.com/desandro/masonry) JS Library. 
+ * We're using a CDN to load the library and the *HTML Option* from [the documentation](https://github.com/desandro/masonry)
+ * You can see some examples in /index.md and /people.md
+
+
 
 ## Contributing
 
