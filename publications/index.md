@@ -104,11 +104,11 @@ _Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014):
 **Structuring research methods and data with the research object model: genomics workflows as a case study**.
-_Journal of Biomedical Semantics_ **5**(41) [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
+_Journal of Biomedical Semantics_ **5**:41 [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
 Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A 't Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014):
 **A suite of research methods and data with the research object model: genomics workflows as a case study**.
-_Journal of Biomedical Semantics_, 5:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
+_Journal of Biomedical Semantics_, **5**:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
 Aidan Budd,
 Manuel Corpas,
@@ -154,6 +154,30 @@ _Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodolog
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226534&datastreamId=FULL-TEXT.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226534)
 
+Ramona L. Walls, John Deck, Robert Guralnick, Steve Baskauf, Reed Beaman, Stanley Blum, Shawn Bowers, Pier Luigi Buttigieg, Neil Davies, Dag Endresen, Maria Alejandra Gandolfo, Robert Hanner, Alyssa Janning, Leonard Krishtalka, Andréa Matsunaga, Peter Midford, Norman Morrison, Éamonn Ó. Tuama, Mark Schildhauer, Barry Smith, Brian J. Stucky, Andrea Thomer, John Wieczorek, Jamie Whitacre, John Wooley (2014):
+**Semantics in Support of Biodiversity Knowledge Discovery: An Introduction to the Biological Collections Ontology and Related Ontologies**.
+_PLoS ONE_ **9**(3): e89606
+[doi:10.1371/journal.pone.0089606](http://dx.doi.org/10.1371/journal.pone.0089606)
+
+
+Neil Davies, Dawn Field, Linda Amaral-Zettler, Katharine Barker, Mesude Bicak, Sarah Bourlat, Jonathan Coddington, John Deck, Alexei Drummond, Jack A. Gilbert, Frank Oliver Glöckner, Renzo Kottmann, Chris Meyer, Norman Morrison, Matthias Obst, Robert Robbins, Lynn Schriml, Peter Sterk, Steven Stones-Havas (2014):
+**Report of the 14th Genomic Standards Consortium Meeting, Oxford, UK, September 17-21, 2012**.
+_Standards in Genomics Disease_ **9**(3): 1236–1250. 
+[doi:10.4056/sigs.4319681](http://dx.doi.org/10.4056/sigs.4319681)
+[pubmed:PMC4148987](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148987/)
+
+Dawn Field, Peter Sterk, Renzo Kottmann, J. Wim De Smet, Linda Amaral-Zettler, Guy Cochrane, James R. Cole, Neil Davies, Peter Dawyndt, George M. Garrity, Jack A. Gilbert, Frank Oliver Glöckner, Lynette Hirschman, Hans-Peter Klenk, Rob Knight, Nikos Kyrpides, Folker Meyer, Ilene Karsch-Mizrachi, Norman Morrison, Robert Robbins, Inigo San Gil, Susanna Sansone, Lynn Schriml, Tatiana Tatusova, Dave Ussery, Pelin Yilmaz, Owen White, John Wooley, Gregory Caporaso (2014)
+**Genomic Standards Consortium Projects**.
+_Standards in Genomics Disease_ **9**(3): 599–601. 
+[doi:10.4056/sigs.5559680](http://dx.doi.org/10.4056/sigs.5559680)
+[pubmed:PMC4148985](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148985/)
+
+Neil Davies, Dawn Field, Linda Amaral-Zettler, Melody S Clark, John Deck, Alexei Drummond, Daniel P Faith, Jonathan Geller, Jack Gilbert, Frank Oliver Glöckner, Penny R Hirsch, Jo-Ann Leong, Chris Meyer, Matthias Obst, Serge Planes, Chris Scholin, Alfried P Vogler, Ruth D Gates, Rob Toonen, Véronique Berteaux-Lecellier, Michèle Barbier, Katherine Barker, Stefan Bertilsson, Mesude Bicak, Matthew J Bietz, Jason Bobe, Levente Bodrossy, Angel Borja, Jonathan Coddington, Jed Fuhrman, Gunnar Gerdts, Rosemary Gillespie, Kelly Goodwin, Paul C Hanson, Jean-Marc Hero, David Hoekman, Janet Jansson, Christian Jeanthon, Rebecca Kao, Anna Klindworth, Rob Knight, Renzo Kottmann, Michelle S Koo, Georgios Kotoulas, Andrew J Lowe, Viggó Thór Marteinsson, Folker Meyer, Norman Morrison, David D Myrold, Evangelos Pafilis, Stephanie Parker, John Jacob Parnell, Paraskevi N Polymenakou, Sujeevan Ratnasingham, George K Roderick, Naiara Rodriguez-Ezpeleta, Karsten Schonrogge, Nathalie Simon, Nathalie J Valette-Silver, Yuri P Springer, Graham N Stone, Steve Stones-Havas, Susanna-Assunta Sansone, Kate M Thibault, Patricia Wecker, Antje Wichels, John C Wooley, Tetsukazu Yahara, Adriana Zingone, GOs-COS (2014):
+**The founding charter of the Genomic Observatories Network**.
+_GigaScience_ **3**:2
+[doi:10.1186/2047-217X-3-2](http://dx.doi.org/10.1186/2047-217X-3-2)
+
+
 ## 2013
 
 Katherine Wolstencroft, Robert Haines, Donal Fellows, Alan Williams, David Withers, Stuart Owen, Stian Soiland-Reyes, Ian Dunlop, Aleksandra Nenadic, Paul Fisher, Jiten Bhagat, Khalid Belhajjame, Finn Bacall, Alex Hardisty, Abraham Nieva de la Hidalga, Maria P. Balcazar Vargas, Shoaib Sufi, Carole Goble (2013): **The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud**, _Nucleic Acids Research_ **41**(W1), W557-W561. [doi:10.1093/nar/gkt328](http://dx.doi.org/10.1093/nar/gkt328)
@@ -174,7 +198,7 @@ _Future Generation Computer Systems_ **29**(2), 599 - 611.
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:131684)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning**.
-_Journal of Biomedical Semantics_ **4** (1), 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.org/10.1186/2041-1480-4-37)
+_Journal of Biomedical Semantics_ **4**:1, 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.org/10.1186/2041-1480-4-37)
 
 Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole Goble (2013):
 **Common motifs in scientific workflows: An empirical analysis**.
@@ -244,12 +268,22 @@ _Computing in Science and Engineering_
 **15**(6) pp 74-80
 [doi:10.1109/MCSE.2013.133](http://dx.doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
 
-
 Paolo Missier, Saumen Dey, Khalid Belhajjame, Victor Cuevas-Vicenttín, Bertram Ludäscher (2013):
 **D-PROV: Extending the PROV Provenance Model with Workﬂow Structure**.
 _5th USENIX Workshop on the Theory and Practice of Provenance (TaPP '13)_., Lombard, IL, USA. 2013-04-02.
 [[pdf]](https://www.usenix.org/system/files/conference/tapp13/tapp13-final3.pdf)
 [[presentation]](https://www.usenix.org/conference/tapp13/technical-sessions/presentation/missier)
+
+Pier Luigi Buttigieg, Norman Morrison, Barry Smith, Christopher J Mungall, Suzanna E Lewis, the ENVO Consortium	(2013):
+**The environment ontology: contextualising biological and biomedical entities**.
+_Journal of Biomedical Semantics_ 2013, **4**:43  
+[doi:10.1186/2041-1480-4-43](http://dx.doi.org/10.1186/2041-1480-4-43)
+
+John Deck, Katharine Barker, Reed Beaman, Pier Luigi Buttigieg, Gabriele Dröge, Robert Guralnick, Chuck Miller, Éamonn Ó Tuama, Zack Murrell, Cynthia Parr, Bob Robbins, Dmitry Schigel, Brian Stucky, Ramona Walls, John Wieczorek, Norman Morrison, John Wooley (2013):
+**Clarifying Concepts and Terms in Biodiversity Informatics**.
+_Standards in Genomics Sciences_ **8**(2): 352–359. 
+[doi:10.4056/sigs.3907833](http://dx.doi.org/10.4056/sigs.3907833)
+[pubmed:PMC3746421](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746421/)
 
 ## 2002-2012
 
