@@ -8,6 +8,7 @@ This is an non-curated list of
 [myGrid publications](http://dev.mygrid.org.uk/wiki/display/about/myGrid+Publications) covering 2001-2012. See also the
 [current publications](/publications/).
 
+Feel free to help [improve this page](https://github.com/eScienceLab/eScienceLab.github.io/edit/master/publications/archive.md), e.g. by adding links to DOI and preprints. 
 
 ## 2012
 
