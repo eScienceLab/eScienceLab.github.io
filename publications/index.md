@@ -91,7 +91,7 @@ Pinar Alper, Carole A Goble, Khalid Belhajjame (2014):
 **On assisting scientific data curation in collection-based dataflows using labels.**
 _Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_. pp 7-16
 [doi:10.1145/2534248.2534249](http://dx.doi.org/10.1145/2534248.2534249)
-([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/4))
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:236944)
 
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014):
@@ -207,7 +207,7 @@ Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):
 **Enhancing and abstracting scientific workflow provenance for data publishing**.
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
 [[doi:10.1145/2457317.2457370](http://dx.doi.org/10.1145/2457317.2457370)
-([preprint missing](https://github.com/eScienceLab/eScienceLab.github.io/issues/3))
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:282297)
 
 Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013),
 **Workflows for Heliophysics**.
