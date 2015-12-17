@@ -15,4 +15,4 @@ Included in this version are some key new features:
 * A refinement of the administrative roles.
 * Publishing of entire Investigations as Snapshots - frozen in time as [Research Objects](http://researchobject.org), along with a DOI. In the future we will be extending this to also support more fine-grained Studies and Assays.
 
-For more details about this release please visit [http://fair-dom.org/news-seek-1.0](http://fair-dom.org/news-seek-1.0)
+For more details about this release, please visit [http://fair-dom.org/news-seek-1.0](http://fair-dom.org/news-seek-1.0)
