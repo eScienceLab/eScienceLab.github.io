@@ -5,7 +5,7 @@ date:   2015-12-17 15:29:00 +0000
 categories: announcements release
 ---
 
-We are pleased to announce the release of SEEK version 1.0.
+We are pleased to announce the release of [SEEK version 1.0](http://docs.seek4science.org/tech/releases/#version-101).
 
 This version of SEEK forms the base version for our new [FAIRDOMHUB](https://fairdomhub.org) service, about which we will be releasing more details in the new year.
 
