@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SEEK 1.0 Released !"
+date:   2015-12-17 15:29:00 +0000
+categories: announcements release
+---
+
+We are pleased to announce the release of SEEK version 1.0.
+
+This version of SEEK forms the base version for our new [FAIRDOMHUB](https://fairdomhub.org) service, about which we will be releasing more details in the new year.
+
+Included in this version are some key new features:
+
+* Support for the self creation and administration of Programmes, and Projects within them. If this feature is enabled, users will be able to setup their own Programmes and support them without the need of a full SEEK administrator other than the initial activation.
+* A refinement of the administrative roles.
+* Publishing of entire Investigations as Snapshots - frozen in time as [Research Objects](http://researchobject.org), along with a DOI. In the future we will be extending this to also support more fine-grained Studies and Assays.
+
+For more details about this release please visit [http://fair-dom.org/news-seek-1.0](http://fair-dom.org/news-seek-1.0)
