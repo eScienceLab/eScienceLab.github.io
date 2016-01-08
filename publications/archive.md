@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Publications archive (2001-2012)
+title: Publications archive (2002-2012)
 exclude_from_nav: true
 ---
 
-This is an non-curated list of
-[myGrid publications](http://dev.mygrid.org.uk/wiki/display/about/myGrid+Publications) covering 2001-2012. See also the
+This is an list of publications covering 2002-2012. See also the
 [current publications](/publications/).
 
-Feel free to help [improve this page](https://github.com/eScienceLab/eScienceLab.github.io/edit/master/publications/archive.md), e.g. by adding links to DOI and preprints. 
+Note that this list may not provide open access links for every publications. Feel free to help [improve this page](https://github.com/eScienceLab/eScienceLab.github.io/edit/master/publications/archive.md), e.g. by adding links to DOI and preprints. 
 
 ## 2012
 
