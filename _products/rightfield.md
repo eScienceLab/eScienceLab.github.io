@@ -7,8 +7,8 @@ collection: products
 description: Semantic annotation of text by stealth
 website: http://www.rightfield.org.uk/
 logo: /images/logo/rightfield-logo-with-text.png
+screenshot: /images/screenshots/rightfield.png
 ---
-
 
 
 RightField is an open-source tool for adding ontology term selection to Excel spreadsheets. RightField is used by a 'Template Creator' to create semantically aware Excel spreadsheet templates. The Excel templates are then reused by Scientists to collect and annotate their data; without any need to understand, or even be aware of, RightField or the ontologies used.

@@ -17,6 +17,10 @@ github_username:  eScienceLab
 encoding: UTF-8
 permalink: pretty
 
+#Gems
+gems:
+  - jekyll-sitemap
+
 # Build settings
 markdown: kramdown
 

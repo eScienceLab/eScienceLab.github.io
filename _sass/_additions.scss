@@ -3,3 +3,48 @@
   min-width: 20em;
   max-width: 30em;
 }
+
+.product-screenshot {
+  position: relative;
+  display: inline-block;
+  margin: 1em;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 4px #aaa;
+  color: $text-color;
+
+  &:visited {
+    text-decoration: none;
+    color: $text-color;
+  }
+
+  &:hover {
+    text-decoration: none;
+    border-color: $brand-color;
+    color: $text-color;
+  }
+}
+
+.product-screenshot h3 {
+  text-align: center;
+  padding: 0.2em;
+  margin: 0;
+}
+
+.product-screenshot img {
+  width: 320px;
+  height: 192px;
+}
+
+.product-screenshot .product-description {
+  position: absolute;
+  bottom: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+img.project-logo {
+  padding-bottom: 1em;
+  max-width: 20em;
+  max-height: 10em;
+}

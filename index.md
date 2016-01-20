@@ -19,7 +19,7 @@ reproducible science, linked data, provenance,
 community building and knowledge representation.
 
 <div class="grid js-masonry"
-  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 320 }'>
+  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 325 }'>
   {% for product in site.products %}  
     <div class="grid-item product-listing">
       <a href="{{product.url}}"><img src="{{product.logo}}"/></a>

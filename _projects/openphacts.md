@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: project
 name: Open PHACTS
 title: Open PHACTS
+path: openphacts.html
 collection: projects
 description: linked data for pharmacology 
+logo: openphacts.jpg
+website:
+start_date:
+duration:
 expired: false
 ---
 
