@@ -15,7 +15,7 @@ layout: default
         <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
       {% endif %}
       {% if (page.start_date | size > 2) %}
-        <li>Started: {{page.start_date | date_to_long_string }}</li>
+        <li>Started: {{page.start_date | date: '%B %-d, %Y' }}</li>
       {% endif %}
       {% if (page.duration | size > 2) %}
         <li>Duration: {{page.duration}}</li>
