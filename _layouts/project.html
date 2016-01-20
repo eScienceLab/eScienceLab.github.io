@@ -8,11 +8,11 @@ layout: default
   </header>
 
   <div class="post-content">
-    <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}"/>
+    <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}" class="project-logo"/>
 
     <ul>
       <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
-      <li>Started: {{page.start_date}}</li>
+      <li>Started: {{page.start_date | date: '%B %d, %Y'}}</li>
       <li>Duration: {{page.duration}}</li>
       <li>Project reference: <a href="{{page.project_reference}}">{{page.project_reference}}</a></li>
     </ul>

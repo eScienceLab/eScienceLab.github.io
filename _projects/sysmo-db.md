@@ -6,7 +6,7 @@ collection: projects
 description: SysMO Data management
 logo: sysmo-db.png
 website: http://www.sysmo-db.org
-start_date: 2008-01-01
+start_date: 2008-07-01
 duration:
 project_reference: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/G010218/1
 expired: true
