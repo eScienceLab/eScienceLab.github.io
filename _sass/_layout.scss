@@ -13,6 +13,14 @@
     box-shadow: 0 1px 3px darken($background-color, 50%);
 }
 
+.site-logo {
+  display: block;
+  position:relative;
+  float:left;
+  width: 8em;
+  padding-right: 1em
+}
+
 .site-title {
     font-size: 26px;
     font-weight: bold;
