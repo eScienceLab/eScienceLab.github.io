@@ -12,6 +12,15 @@ Product pages and metadata live in the `_products/` folder
 These are some of the software products that has been developed by
 the projects the eScience Lab are involved with.
 
+<div>
 {% for product in site.products %}
-* [{{ product.title }}]({{ product.url }}) - {{ product.description }}
+    <a href="{{ product.url }}" class="product-screenshot">
+        <h3>{{ product.title }}</h3>
+        <img src="{{ product.screenshot }}"/>
+        <div class="product-description">
+            {{ product.description }}
+        </div>
+    </a>
 {% endfor %}
+</div>
+
