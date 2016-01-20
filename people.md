@@ -23,7 +23,7 @@ permalink: /people/
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0002-2627-0231"><img src="/images/profiles/niall-beard.png" class="profile_picture"></a>
 		<div class="name">Niall Beard</div>
-		<div class="role">Research Software Engineer</div>
+		<div class="role">Scientific Web Technologist</div>
 	</div>
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0001-7066-3350"><img src="/images/profiles/ian-dunlop.jpg" class="profile_picture"></a>
@@ -78,7 +78,7 @@ permalink: /people/
 </div>
 
 
-##Students
+##PhD Students
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
 	<div class="grid-item profile_box">
@@ -98,9 +98,60 @@ permalink: /people/
 	</div>
 </div>
 
-##Former Team Members and Associates
+## Current Associates
+<div class="grid js-masonry"
+  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
+	<div class="grid-item profile_box">
+		<a href="http://www.manchester.ac.uk/research/andy.brass/personaldetails"><img src="/images/profiles/andy_brass.jpg" class="profile_picture"></a>
+		<div class="name">Andy Brass</div>
+		<!-- <div class="role">PhD Student</div> -->
+	</div>
+		<div class="grid-item profile_box">
+		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier.png" class="profile_picture"></a>
+		<div class="name">Paolo Misser</div>
+	</div>
+	<div class="grid-item profile_box">
+		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft.jpg" class="profile_picture"></a>
+		<div class="name">Katy Wolstencroft</div>
+	</div>
 
+	<div class="grid-item profile_box">
+		<a href="http://orcid.org/0000-0002-1809-5621"><img src="/images/profiles/steve-pettifer.png" class="profile_picture"></a>
+		<div class="name">Steven Pettifer</div>
+	</div>
+
+	<div class="grid-item profile_box">
+		<a href="http://orcid.org/0000-0002-8691-772X"><img src="/images/profiles/marco-roos.jpg" class="profile_picture"></a>
+		<div class="name">Marco Roos</div>
+	</div>
+<!-- 
+	<div class="grid-item profile_box">
+		<a href=""><img src="/images/profiles/" class="profile_picture"></a>
+		<div class="name"></div>
+	</div>
+ -->
+
+</div>
+
+
+
+
+
+
+##Former Team Members and Associates
 <ul>
+<!-- <li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li>
+<li><a href=""></a></li> -->
+<li><a href="http://orcid.org/0000-0003-4913-1485">Mattew Gamble</a></li>
+<li><a href="http://orcid.org/0000-0002-9538-7919">Robert Haines</a></li>
+<li><a href="http://orcid.org/0000-0002-2937-7819">Christian Y A Brenninkmeijer</a></li>
+<li><a href="http://orcid.org/0000-0002-1279-5133">Katy Wolstencroft</a></li>
+<li>Rishi Ramgolam</li>
 <li>Sergejs Aleksejevs</li>
 <li>Constantinos Astreos</li>
 <li>Jiten (Jits) Bhagat</li>
@@ -110,40 +161,35 @@ permalink: /people/
 <li>Phillip Cotter</li>
 <li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
 <li>Suzanne Embury</li>
-<li>June Finch	 	 	 	 </li>
+<li>June Finch</li>
 <li><a href="http://orcid.org/0000-0003-1983-9204">Paul Fisher</a></li>
-<li>Jeremy Frey	 	 	 	 </li>
-<li>Andrew Gibson	 </li>
+<li>Jeremy Frey</li>
+<li>Andrew Gibson</li>
 <li>Antoon Goderis</li>
 <li><a href="http://orcid.org/0000-0002-5711-4872">Alasdair J G Gray</a></li>
 <li>Helen Hulme	</li>
 <li><a href="http://orcid.org/0000-0003-2387-503X">Duncan Hull</a></li>
 <li><a href="http://orcid.org/0000-0002-0643-3144">Simon Jupp</a></li>
-<li>Bharathi Kattamuri	 	 	 	 </li>
-<li>Phillip Lord	 </li>
-<li>James Marsh	 	</li>
-<li>Philip McDermott	</li>
-<li>Danius Michaelides	</li>
-<li>Georgina Moulton	 </li>
-<li>Luc Moreau	 </li>
+<li>Bharathi Kattamuri</li>
+<li>Phillip Lord</li>
+<li>James Marsh</li>
+<li>Philip McDermott</li>
+<li>Danius Michaelides</li>
+<li>Georgina Moulton</li>
+<li>Luc Moreau</li>
 <li>David Newman</li>
-<li>Rory Newton	 	 	 	 </li>
-<li>Eric Nzuobontane	 </li>
-<li>Tom Oinn		</li>
-<li>Mannie Tagarira	 </li>
-<li>Franck Tanoh	</li>
-<li>Daniele Turi	</li>
-<li>David Withers	</li>
-<li>Anil Wipat	 	 </li>
-<li>Christopher Wroe	 </li>
-<li>Quiwei Yu	 	 	 	 </li>
-<li>Ed Zaluska	</li>
+<li>Rory Newton</li>
+<li>Eric Nzuobontane</li>
+<li>Tom Oinn</li>
+<li>Mannie Tagarira</li>
+<li>Franck Tanohli</li>
+<li>Daniele Turili</li>
+<li>David Withers</li>
+<li>Anil Wipat</li>
+<li>Christopher Wroe</li>
+<li>Quiwei Yu</li>
+<li>Ed Zaluskali</li>
 </ul>
-
-	 	
-
-
-
 
 
 [cg]: {{ site.url }}/images/profiles/carole-goble.jpg "Carole Goble"
@@ -159,3 +205,8 @@ permalink: /people/
 [ssr]: {{ site.url }}/images/profiles/stian-soiland-reyes.png "Stian Soiland Reyes"
 [ss]: {{ site.url }}/images/profiles/shoaib-sufi.png "Shoaib Sufi"
 [aw]: {{ site.url }}/images/profiles/alan-williams.png "Alan Williams"
+[sp]: {{ site.url }}/images/profiles/steve-pettifer.png "Steve Pettifer"
+[pm]: {{ site.url }}/images/profiles/paolo-missier.png "Paolo Misser"
+[ib]: {{ site.url }}/images/profiles/iain-buchan.png "Iain Buchan"
+[ab]: {{ site.url }}/images/profiles/andy_brass.jpg "Andy Brass"
+
