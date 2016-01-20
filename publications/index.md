@@ -15,7 +15,7 @@ distributed under a [Creative Commons Attribution 4.0 License](http://creativeco
 Source: [openaccessweek.org](http://www.openaccessweek.org/page/englishhigh-resolution-1)_
 </small>
 
-University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide [green open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436)
+The University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide [green open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436)
 preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
@@ -51,7 +51,7 @@ Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Rau
 _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-,
 [doi:10.1016/j.websem.2015.01.003](http://dx.doi.org/10.1016/j.websem.2015.01.003)
 
-Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller,, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen1 and Søren Brunak (2015):
+Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen1 and Søren Brunak (2015):
 **Tools and data services registry: a community effort to document bioinformatics resources**.
 _Nucleic Acids Research_ 2015 gkv1116.
 [doi:10.1093/nar/gkv1116](http://dx.doi.org/10.1093/nar/gkv1116)
@@ -106,9 +106,6 @@ Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Bel
 **Structuring research methods and data with the research object model: genomics workflows as a case study**.
 _Journal of Biomedical Semantics_ **5**:41 [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
-Kristina M Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julian Garrido, David de Roure, Oscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A 't Hoen, Sean Bechhofer, Carole Goble, Marco Roos (2014):
-**A suite of research methods and data with the research object model: genomics workflows as a case study**.
-_Journal of Biomedical Semantics_, **5**:41. [doi:10.1186/2041-1480-5-41](http://dx.doi.org/10.1186/2041-1480-5-41)
 
 Aidan Budd,
 Manuel Corpas,
