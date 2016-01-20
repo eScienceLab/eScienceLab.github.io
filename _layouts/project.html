@@ -11,10 +11,18 @@ layout: default
     <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}"/>
 
     <ul>
-      <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
-      <li>Started: {{page.start_date}}</li>
-      <li>Duration: {{page.duration}}</li>
-      <li>Project reference: <a href="{{page.project_reference}}">{{page.project_reference}}</a></li>
+      {% if (page.website | size > 2) %}
+        <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
+      {% endif %}
+      {% if (page.start_date | size > 2) %}
+        <li>Started: {{page.start_date | date_to_long_string }}</li>
+      {% endif %}
+      {% if (page.duration | size > 2) %}
+        <li>Duration: {{page.duration}}</li>
+      {% endif %}
+      {% if (page.project_reference | size > 2) %}
+        <li>Project reference: <a href="{{page.project_reference}}">{{page.project_reference}}</a></li>
+      {% endif %}
     </ul>
     {{ content }}
   </div>
