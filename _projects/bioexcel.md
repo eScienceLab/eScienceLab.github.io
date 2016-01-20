@@ -7,7 +7,7 @@ collection: projects
 description: Centre of Excellence for Biomolecular Research
 logo: bioexcel.svg
 website: http://bioexcel.eu
-start_date: 2015-11-01
+start_date: 2015-11-1
 duration: 36 months
 project_reference: http://cordis.europa.eu/project/rcn/198303
 ---

@@ -6,7 +6,7 @@ collection: projects
 description: Centre for Collaborative Multidisciplinary e-Research in the North West
 logo:
 website:
-start_date: 2007-03-01
+start_date: 2007-3-1
 duration: 36 months
 project_reference: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D057248/1
 expired: true

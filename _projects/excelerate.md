@@ -7,7 +7,7 @@ collection: projects
 description: Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences
 logo: excelerate.png
 website: https://www.elixir-europe.org/excelerate
-start_date: 2015-09-01
+start_date: 2015-9-1
 duration: 48 months
 project_reference: http://cordis.europa.eu/project/rcn/198519
 ---
