@@ -11,7 +11,9 @@ layout: default
     <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}"/>
 
     <ul>
-      <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
+      {% if (page.website | size > 2) %}
+        <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
+      {% endif %}
     </ul>
     {{ content }}
   </div>
