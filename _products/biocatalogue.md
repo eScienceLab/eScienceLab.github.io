@@ -1,7 +1,7 @@
 ---
 layout: product
 name: biocatalogue
-title: Biocatalogue
+title: BioCatalogue
 path: Biocatalogue
 collection: products
 description: A curated catalogue of life science Web services
