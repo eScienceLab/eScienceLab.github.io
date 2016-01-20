@@ -7,6 +7,7 @@ collection: products
 description:
 website: http://www.researchobject.org/
 logo: /images/logo/researchobject.png
+screenshot: /images/screenshots/sm_researchobject.png
 ---
 
 Research Objects is an emerging approach to the publication, and exchange of scholarly information on the Web.
