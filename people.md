@@ -98,6 +98,53 @@ permalink: /people/
 	</div>
 </div>
 
+##Former Team Members and Associates
+
+<ul>
+<li>Sergejs Aleksejevs</li>
+<li>Constantinos Astreos</li>
+<li>Jiten (Jits) Bhagat</li>
+<li><a href="http://orcid.org/0000-0001-6938-0820">Khalid Belhajjame</a></li>
+<li>Mark Borkum</li>
+<li><a href="http://orcid.org/0000-0002-9260-0753">Oscar Corcho</a></li>
+<li>Phillip Cotter</li>
+<li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
+<li>Suzanne Embury</li>
+<li>June Finch	 	 	 	 </li>
+<li><a href="http://orcid.org/0000-0003-1983-9204">Paul Fisher</a></li>
+<li>Jeremy Frey	 	 	 	 </li>
+<li>Andrew Gibson	 </li>
+<li>Antoon Goderis</li>
+<li><a href="http://orcid.org/0000-0002-5711-4872">Alasdair J G Gray</a></li>
+<li>Helen Hulme	</li>
+<li><a href="http://orcid.org/0000-0003-2387-503X">Duncan Hull</a></li>
+<li><a href="http://orcid.org/0000-0002-0643-3144">Simon Jupp</a></li>
+<li>Bharathi Kattamuri	 	 	 	 </li>
+<li>Phillip Lord	 </li>
+<li>James Marsh	 	</li>
+<li>Philip McDermott	</li>
+<li>Danius Michaelides	</li>
+<li>Georgina Moulton	 </li>
+<li>Luc Moreau	 </li>
+<li>David Newman</li>
+<li>Rory Newton	 	 	 	 </li>
+<li>Eric Nzuobontane	 </li>
+<li>Tom Oinn		</li>
+<li>Mannie Tagarira	 </li>
+<li>Franck Tanoh	</li>
+<li>Daniele Turi	</li>
+<li>David Withers	</li>
+<li>Anil Wipat	 	 </li>
+<li>Christopher Wroe	 </li>
+<li>Quiwei Yu	 	 	 	 </li>
+<li>Ed Zaluska	</li>
+</ul>
+
+	 	
+
+
+
+
 
 [cg]: {{ site.url }}/images/profiles/carole-goble.jpg "Carole Goble"
 [gb]: {{ site.url }}/images/profiles/finn-bacall.png "Finn Bacall"
