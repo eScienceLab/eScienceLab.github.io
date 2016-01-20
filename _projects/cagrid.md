@@ -1,9 +1,15 @@
 ---
-layout: page
+layout: project
 name: cagrid
 title: caGrid
+path: cagrid.html
 collection: projects
 description: Support for running cancer-research workflows
+logo:
+website:
+start_date:
+duration:
+project_reference:
 expired: true
 ---
 

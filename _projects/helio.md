@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: project
 name: HELIO
 title: HELIO
 collection: projects
 description: Services and workflows for HelioPhysics
+logo:
+website: http://www.helio-vo.eu
+start_date: 2009-06-01
+duration: 42 months
+project_reference: http://cordis.europa.eu/project/rcn/94289_en.html
 expired: true
 ---
 

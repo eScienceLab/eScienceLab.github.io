@@ -24,6 +24,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
+  activities:
+    output: true
+    permalink: /:collection/:path/ # Note, trailing / needed to avoid .html
   products:
     output: true
     permalink: /:collection/:path/ # Note, trailing / needed to avoid .html

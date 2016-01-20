@@ -1,9 +1,15 @@
 ---
-layout: page
+layout: project
 name: comparaGrid
 title: comparaGrid
+path: comparagrid.html
 collection: projects
 description: Querying of genomic relationships
+logo:
+website:
+start_date:
+duration:
+project_reference:
 expired: true
 ---
 

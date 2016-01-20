@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: project
 name: e-Fungi
 title: e-Fungi
 collection: projects
 description: Webservices for comparative genomics
+logo:
+website:
+start_date:
+duration:
+project_reference:
 expired: true
 ---
 

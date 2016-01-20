@@ -8,6 +8,7 @@ description: Community Health Intelligence Partnership Semantic Epidemiology Too
 logo: farr.png
 website: http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html
 start_date:
+duration:
 project_reference: 
 ---
 

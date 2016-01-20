@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: project
 name: e-LICO
 title: e-LICO
 collection: projects
 description: Virtual laboratory for collaborative research
+logo:
+website: http://www.e-lico.eu
+start_date:
+duration:
+project_reference:
 expired: true
 ---
 
