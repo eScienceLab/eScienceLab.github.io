@@ -5,8 +5,8 @@ title: Open PHACTS
 path: openphacts.html
 collection: projects
 description: linked data for pharmacology 
-logo: openphacts.jpg
-website:
+logo: openphacts.png
+website: http://www.openphacts.org/
 start_date:
 duration:
 expired: false
