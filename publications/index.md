@@ -19,12 +19,28 @@ The University of Manchester strive to publish as [open access](http://www.libra
 preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
-##2016
+<!--
+
+Please try to use this citation style:
+
+First Name, Second Author, All Authors, Last Author (2016)
+**The title of the paper**
+_Journal of Papers_ **15**(2)
+[doi:10.1234/journal.152](http://dx.doi.org/10.1234/journal.152)
+[preprint](http://if/above/is/not/open-access.pdf)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:12345)
+
+Preprints MUST be provided if the doi is not pointing to an Open Access paper.
+(tip: try accessing it from home)
+
+-->
+
+## 2016
 
 Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Iain Buchan (2016)
 **Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**
-J Med Internet Res 2016;18(1):e13
-[doi:10.2196/jmir.4912](http://doi.org/10.2196/jmir.4912)
+_Journal of Medical Internet Research_ **18**(1):e13
+[doi:10.2196/jmir.4912](http://dx.doi.org/10.2196/jmir.4912)
 [PMID: 26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
 
 ## 2015
@@ -32,6 +48,10 @@ J Med Internet Res 2016;18(1):e13
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):
 **SEEK: a systems biology data and model management platform**.
 _BMC Systems Biology_ 20, **9**:33 [doi:10.1186/s12918-015-0174-y](http://dx.doi.org/10.1186/s12918-015-0174-y)
+
+Natalie J Stanford, Katherine Wolstencroft, Martin Golebiewski, Renate Kania, Nick Juty, Christopher Tomlinson, Stuart Owen, Sarah Butcher, Henning Hermjakob, Nicolas Le Novère, Wolfgang Mueller, Jacky Snoep, Carole Goble (2015):
+**The evolution of standards and data management practices in systems biology**
+[doi:10.15252/msb.20156053](http://dx.doi.org/10.15252/msb.20156053)
 
 Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):
 **Framing the community data system interface**.
