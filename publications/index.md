@@ -19,6 +19,14 @@ The University of Manchester strive to publish as [open access](http://www.libra
 preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
+##2016
+
+Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Iain Buchan (2016)
+**Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**
+J Med Internet Res 2016;18(1):e13
+[doi:10.2196/jmir.4912](http://doi.org/10.2196/jmir.4912)
+[PMID: 26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
+
 ## 2015
 
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):
