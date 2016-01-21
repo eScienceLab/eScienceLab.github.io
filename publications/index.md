@@ -51,6 +51,7 @@ _BMC Systems Biology_ 20, **9**:33 [doi:10.1186/s12918-015-0174-y](http://dx.doi
 
 Natalie J Stanford, Katherine Wolstencroft, Martin Golebiewski, Renate Kania, Nick Juty, Christopher Tomlinson, Stuart Owen, Sarah Butcher, Henning Hermjakob, Nicolas Le Novère, Wolfgang Mueller, Jacky Snoep, Carole Goble (2015):
 **The evolution of standards and data management practices in systems biology**
+_Molecular Systems Biology_ **11**:851
 [doi:10.15252/msb.20156053](http://dx.doi.org/10.15252/msb.20156053)
 
 Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):
