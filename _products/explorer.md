@@ -6,7 +6,7 @@ path: methodbox
 collection: products
 description: Pharmacology data discovery and browsing
 website: https://explorer.openphacts.org
-logo: /images/logo/explorer.png
+logo: /images/logo/openphacts-explorer.svg
 screenshot: /images/screenshots/sm_explorer.png
 ---
 
