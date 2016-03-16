@@ -311,6 +311,8 @@ _Standards in Genomics Sciences_ **8**(2): 352–359.
 [doi:10.4056/sigs.3907833](http://dx.doi.org/10.4056/sigs.3907833)
 [pubmed:PMC3746421](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746421/)
 
+Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013): **A Checklist-Based Approach for Quality Assessment of Scientific Information.** _3rd International Workshop on Linked Science 2013 ([LISC2013](http://linkedscience.org/events/lisc2013/))_.  [[preprint]](http://linkedscience.org/wp-content/uploads/2013/04/paper5.pdf) [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
+
 ## 2002-2012
 
 See also the 
