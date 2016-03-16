@@ -313,5 +313,5 @@ _Standards in Genomics Sciences_ **8**(2): 352–359.
 
 ## 2002-2012
 
-See also the list of
-[myGrid publications](archive/) covering the group activity for the period 2002-2012.
+See also the 
+[archived publications](archive/) covering the group activity for the period 2002-2012.
