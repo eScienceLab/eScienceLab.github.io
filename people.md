@@ -5,7 +5,7 @@ permalink: /people/
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
 
-##Staff
+## Staff
 
 <div class="profile_box">
 	<a href="http://orcid.org/0000-0003-1219-2137"><img src="/images/profiles/carole-goble.jpg" class="profile_picture"></a>
