@@ -11,7 +11,7 @@ Note that this list may not provide open access links for every publications. Fe
 
 ## 2012
 
-Matthew Gamble, Carole Goble, Graham Klyne, Jun Zhao (2012): **MIM: A minimum information model vocabulary and framework for scientific linked data**, _2012 IEEE 8th International Conference on E-Science_, e-Science 2012. [doi:10.1109/eScience.2012.6404489](http://dx.doi.org/10.1109/eScience.2012.6404489) [preprint](preprints/2012/gamble-mim-10.1109_eScience.2012.6404489.pdf)
+Matthew Gamble, Carole Goble, Graham Klyne, Jun Zhao (2012): **MIM: A minimum information model vocabulary and framework for scientific linked data**, _2012 IEEE 8th International Conference on E-Science_, e-Science 2012. [doi:10.1109/eScience.2012.6404489](http://dx.doi.org/10.1109/eScience.2012.6404489) [[preprint]](preprints/2012/gamble-mim-10.1109_eScience.2012.6404489.pdf)
 
 Belhajjame, K.; Corcho, O.; Garijo, D.; Zhao, J.; Missier, P.; Newman, D.; Palma, R.; Bechhofer, S.; García Cuesta, E.; Gómez-Pérez, J. M.; Soiland-Reyes, S.; Verdes-Montenegro, L.; De Roure, D. & Goble, C. (2012), Workflow-Centric Research Objects: First Class Citizens in Scholarly Discourse, in **Proceedings of Workshop on the Semantic Publishing**. [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:192020&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
