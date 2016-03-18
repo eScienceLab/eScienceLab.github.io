@@ -107,7 +107,7 @@ Wei Tan, Jia Zhang, Ravi Madduri, Ian Foster, David De Roure and Carole Goble (2
 _IEEE International Conference on Services Computing 2011_. [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/scc-serviceMap-05292011.pdf)
 
 
-Wolstencroft, K.; Owen, S.; du Preez, F.; Krebs, O.; Mueller, W.; Goble, C. & Snoep, J. L. (2011), Chapter twenty-nine - **The SEEK: A Platform for Sharing Data and Models in Systems Biology** , in Malkhey Verma Daniel Jameson & Hans V. Westerhoff, ed., **Methods in Systems Biology**, Academic Press, , pp. 629 - 655.
+Wolstencroft, K.; Owen, S.; du Preez, F.; Krebs, O.; Mueller, W.; Goble, C. & Snoep, J. L. (2011), Chapter twenty-nine - **The SEEK: A Platform for Sharing Data and Models in Systems Biology** , in Malkhey Verma Daniel Jameson & Hans V. Westerhoff, ed., **Methods in Systems Biology**, Academic Press, , pp. 629 - 655. [doi:10.1016/B978-0-12-385118-5.00029-3 ](http://dx.doi.org/10.1016/B978-0-12-385118-5.00029-3) [eScholar](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:298924)
 
 
 Wolstencroft, K.; Owen, S.; Horridge, M.; Krebs, O.; Mueller, W.; Snoep, J. L.; du Preez, F. & Goble, C. (2011), **RightField: embedding ontology annotation in spreadsheets**, Bioinformatics 27(14), 2021-2022.
