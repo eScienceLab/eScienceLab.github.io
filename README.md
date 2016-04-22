@@ -1,6 +1,6 @@
 # eScienceLab.github.io
 
-draft website for eScience Lab, University of Manchester
+website for eScience Lab, University of Manchester
 
 
 Published at http://www.esciencelab.org.uk/
