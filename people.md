@@ -68,7 +68,7 @@ permalink: /people/
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0001-6390-2616"><img src="/images/profiles/shoaib-sufi.jpg" class="profile_picture"></a>
 		<div class="name">Shoaib Sufi</div>
-		<div class="role">Community Manager</div>
+		<div class="role">Project Portfolio Manager, Community Manager</div>
 	</div>
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0003-3156-2105"><img src="/images/profiles/alan-williams.png" class="profile_picture"></a>
