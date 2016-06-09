@@ -69,9 +69,10 @@ a.logo-grid-item {
   min-width: 300px;
   img {
     filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
     &:hover {
       filter: none;
-
+      -webkit-filter: none;
     }
   }
 }
