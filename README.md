@@ -33,6 +33,8 @@ See the [Jekyll documentation](http://jekyllrb.com/docs/home/)
 
 ## Types of pages
 
+The corresponding source file for a particular URL depends on what type it is.
+
 ### Regular pages
 
 **Regular pages** like [about.md](about.md) correspond directly to pages on http://www.esciencelab.org.uk/, but with `/` as ending instead of `.md`, e.g. http://www.esciencelab.org.uk/about/.  These can be nested in folders, e.g.
@@ -48,9 +50,9 @@ permalink: /about/
 ---
 ```
 
-The `title` is used to generate the `<title>` text, and `permalink` can be added to modify the final relative URI. If a page should NOT be included in the menu, then also add `exclude_from_nav: true`. 
+The `title` is used to generate the `<title>` and `<h1>` text, and `permalink` can be added to modify the final relative URI. If a page should NOT be included in the menu, then also add `exclude_from_nav: true`. 
 
-Note that the MarkDown preview in GitHub might differ slightly from the final Jekyll's rendering.
+Note that the MarkDown preview in GitHub might differ slightly from the final Jekyll's rendering on http://esciencelab.org.uk.
 
 
 ### Pages using Jekyll templates
@@ -68,7 +70,7 @@ The layout files and some of the top-level pages use [Jekyll Liquid Templates](h
 ```
 
 You can recognize templates as using the `{{` or `{%` syntax. You should be more careful when editing 
-these, usually by running your own Jekyll locally. 
+these, e.g. by testing with your own Jekyll locally and check the logs.
 
 In the example above, the properties are picked up from the headers of the 
 files in the corresponding [_project](_project) folder. 
@@ -76,23 +78,23 @@ files in the corresponding [_project](_project) folder.
 
 ### Collection pages
 
-The pages in the `_` folder are called *collection pages*, because they are listed in their parent pages. For instance the folder [_products](_products) is used to generate both http://www.esciencelab.org.uk/products/, where sub-pages like http://www.esciencelab.org.uk/products/researchobject/ correspond to [_products/researchobject.md](_products/researchobject.md).
+The pages in `_` folders are called *collection pages*, because they are listed in their parent pages. For instance the folder [_products](_products) is used to generate http://www.esciencelab.org.uk/products/, where sub-pages like http://www.esciencelab.org.uk/products/researchobject/ correspond to [_products/researchobject.md](_products/researchobject.md).
 
-It is important to maintain the special collection page headers; each collection folder has a different `layout` and (somewhat) differerent properties. The easiest is to copy from a neighbouring collection page that looks complete, for instance  [_projects/elixir.md](_projects/elixir.md) has Markdown headers like:
+It is important to maintain the special collection page _headers_; each collection folder has a different `layout` and (somewhat) differerent properties. The easiest is to copy from a neighbouring collection page that looks complete, for instance  [_projects/bioexcel.md](_projects/bioexcel.md) has Markdown headers like:
 
 ```markdown
 ---
 layout: project
-name: elixir
-title: Elixir
-path: elixir.html
+name: bioexcel
+title: BioExcel
+path: bioexcel.html
 collection: projects
-description: Elixir description
-logo: elixir.png
-website: http://elixir-europe.org
-start_date:
-duration:
-project_reference: http://www.elixir-europe.org/sites/default/files/documents/elixir_scientific_programme_final.pdf
+description: Centre of Excellence for Biomolecular Research
+logo: bioexcel.svg
+website: http://bioexcel.eu
+start_date: 2015-11-01
+duration: 36 months
+project_reference: http://cordis.europa.eu/project/rcn/198303
 ---
 ```
 
