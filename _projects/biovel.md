@@ -16,3 +16,5 @@ expired: true
 BioVeL supports scientists to carry out research on biodiversity by offering computerized tools ("workflows")
 to process large amounts of data from your own and cross-disciplinary sources,
 as well as tools for designing and running workflows.
+
+The [BioVeL Portal](https://portal.biovel.eu/) was built using the [SEEK Platform](/products/seek/)
