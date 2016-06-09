@@ -7,7 +7,7 @@ description: SysMO Data management
 logo: sysmo-db.png
 website: http://www.sysmo-db.org
 start_date: 2008-7-1
-duration:
+duration: 78 months
 project_reference: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/G010218/1
 expired: true
 ---
@@ -24,6 +24,6 @@ We aimed to devise a progressive and scalable solution to the data management ne
 * provides an integrated platform for the dissemination of the results of the SysMO projects to the scientific community; and
 * facilitates standardisation of practices in Systems Biology for the interfacing of modelling and experimentation.
 
-SysMO-DB had a second round of funding - [SysMO-DB2](http://www.bbsrc.ac.uk/research/grants-search/AwardDetails/?FundingReference=BB%2fI004637%2f1) - that ran from Nov 2014 until November 2014 .
+SysMO-DB had a second round of funding - [SysMO-DB2](http://www.bbsrc.ac.uk/research/grants-search/AwardDetails/?FundingReference=BB%2fI004637%2f1) - that ran from November 2010 until November 2014 .
 
 The success of SysMO-DB eventually lead to the formation and funding of [FAIRDOM](/projects/fairdom)
