@@ -11,7 +11,7 @@ Note that this list may not provide open access links for every publications. Fe
 
 ## 2012
 
-Wolstencroft, K, Owen, S, Horridge, M, Jupp, S, Krebs, O, Snoep, J, du Preez, F, Mueller, W, Stevens, R, Goble, C (2012)
+Wolstencroft, K, Owen, S, HorridToward interoperable bioscience datage, M, Jupp, S, Krebs, O, Snoep, J, du Preez, F, Mueller, W, Stevens, R, Goble, C (2012)
 **Stealthy annotation of experimental biology by spreadsheets**
 _Concurrency and Computation: Practice and Experience_ **25**:4, pp. 467-480, October 2012
 [doi:10.1002/cpe.2941](http://dx.doi.org/10.1002/cpe.2941)
@@ -56,8 +56,12 @@ Klein, J.; Jupp, S.; Moulos, P.; Fernandez, M.; Buffin-Meyer, B.; Casemayou, A.;
 Page, K.; Palma, R.; Holubowicz, P.; Klyne, G.; Soiland-Reyes, S.; Cruickshank, D.; Cabero, R. G.; Cuesta, E. G.; Roure, D. D. & Zhao, J. (2012), **From workflows to Research Objects: an architecture for preserving the semantics of science**, Proceedings of the 2nd International Workshop on Linked Science.
 [[pdf]](http://linkedscience.org/wp-content/uploads/2012/05/lisc2012_submission_15.pdf)
 
+Susanna-Assunta Sansone,	Philippe Rocca-Serra,	Dawn Field,	Eamonn Maguire,	Chris Taylor, Oliver Hofmann,	Hong Fang,	Steffen Neumann,	Weida Tong,	Linda Amaral-Zettler,	Kimberly Begley,	Tim Booth,	Lydie Bougueleret,	Gully Burns,	Brad Chapman,	Tim Clark,	Lee-Ann Coleman,	Jay Copeland,	Sudeshna Das,	Antoine de Daruvar,	Paula de Matos,	Ian Dix,	Scott Edmunds,	Chris T Evelo,	Mark J Forster,	Pascale Gaudet,	Jack Gilbert,	Carole Goble,	Julian L Griffin,	Daniel Jacob,	Jos Kleinjans,	Lee Harland,	Kenneth Haug,	Henning Hermjakob, Shannan J Ho Sui,	Alain Laederach,	Shaoguang Liang,	Stephen Marshall,	Annette McGrath, Emily Merrill,	Dorothy Reilly,	Magali Roux,	Caroline E Shamu,	Catherine A Shang,	Christoph Steinbeck,	Anne Trefethen,	Bryn Williams-Jones,	Katherine Wolstencroft,	Ioannis Xenario, Winston Hide	(2012): 
+**Toward interoperable bioscience data**, 
+_Nature Genetics_ **44**(2), 121--126. 
+[doi:10.1038/ng.1054](http://dx.doi.org/10.1038/ng.1054)
 
-Sansone, S.-A.; Rocca-Serra, P.; Field, D.; Maguire, E.; Taylor, C.; Hofmann, O.; Fang, H.; Neumann, S.; Tong, W.; Amaral-Zettler, L.; Begley, K.; Booth, T.; Bougueleret, L.; Burns, G.; Chapman, B.; Clark, T.; Coleman, L.-A.; Copeland, J.; Das, S.; de Daruvar, A.; de Matos, P.; Dix, I.; Edmunds, S.; Evelo, C. T.; Forster, M. J.; Gaudet, P.; Gilbert, J.; Goble, C.; Griffin, J. L.; Jacob, D.; Kleinjans, J.; Harland, L.; Haug, K.; Hermjakob, H.; Sui, S. J. H.; Laederach, A.; Liang, S.; Marshall, S.; McGrath, A.; Merrill, E.; Reilly, D.; Roux, M.; Shamu, C. E.; Shang, C. A.; Steinbeck, C.; Trefethen, A.; Williams-Jones, B.; Wolstencroft, K.; Xenarios, I. & Hide, W. (2012), **Toward interoperable bioscience data**, Nat Genet 44(2), 121--126.
+
 
 Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
 **Open PHACTS: semantic interoperability for drug discovery**, 
