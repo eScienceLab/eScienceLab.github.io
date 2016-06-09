@@ -519,7 +519,7 @@ Walton, N.; Witherick, D.; Oinn, T. & Benson, K. (2007), Taverna and Workflows i
 Wolstencroft, K.; Alper, P.; Hull, D.; Wroe, C.; Lord, P.; Stevens, R. & Goble, C. (2007), **The myGrid ontology: bioinformatics service discovery**, International Journal of Bioinformatics Resesearch and Applications 3(3), 303--325.
 
 
-Wolstencroft, K.; Stevens, R. & Haarsley, V.Baker, C. & Cheung, K.-H., ed.,  (2007), Applying OWL Reasoning to Genomics: A Case Study, Springer-Verlag New York Inc.
+Wolstencroft, K.; Stevens, R. & Haarsley, V.Baker, C. & Cheung, K.-H., ed.,  (2007), **Applying OWL Reasoning to Genomics: A Case Study**, Springer-Verlag New York Inc.
 
 
 Wroe, C. & Stevens, R.Lengauer, T., ed.,  (2007), Ontologies for molecular biology, Wiley VCH, pp. 1061-1085.
