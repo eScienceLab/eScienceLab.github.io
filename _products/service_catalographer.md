@@ -7,6 +7,7 @@ collection: products
 description: Domain-independent cataloguing of Web services
 website: http://www.servicecatalogue.org.uk/
 logo: /images/logo/service_catalographer_logo.png
+screenshot: /images/screenshots/sm_servicecatalographer.png
 ---
 
 ServiceCatalographer is an open-source Web-based platform for describing, annotating, searching and monitoring REST and SOAP Web services. Service providers and institutions can use it to curate and publicise their Web services. Scientists can use its powerful search capabilities for locating the services they need to help them with their scientific research and work. ServiceCatalographer can monitor availability and reliability of services over time to provide users with suggestions as to which services are the most reliable.
