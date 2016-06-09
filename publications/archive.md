@@ -177,7 +177,11 @@ Missier, P.; Paton, N. & Belhajjame, K. (2010), Fine-grained and efficient linea
 Missier, P.; Sahoo, S.; Zhao, J.; Goble, C. & Sheth, A. (2010), Janus: from Workflows to Semantic Provenance and Linked Open Data, in **IPAW-10**.
 
 
-Missier, P.; Soiland-Reyes, S.; Owen, S.; Tan, W.; Nenadic, A.; Dunlop, I.; Williams, A.; Oinn, T. & Goble, C. (2010), Taverna, reloaded, in M. Gertz; T. Hey & B. Ludaescher, ed., **SSDBM 2010**.
+Paolo Missier, Stian Soiland-Reyes, Stuart Owen, Wei Tan, Alexandra Nenadic, Ian Dunlop, Alan Williams, Tom Oinn, Carole Goble (2010)
+**Taverna, Reloaded**
+_Scientific and Statistical Database Management: 22nd International Conference, SSDBM 2010, Heidelberg, Germany, June 30--July 2, 2010. Proceedings_
+[doi:10.1007/978-3-642-13818-8_33](http://dx.doi.org/10.1007/978-3-642-13818-8_33)
+
 
 
 Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K. & Goble, C. (2010), Functional Units: Abstractions for Web Service Annotations, in IEEE 2010 Fourth International Workshop on Scientific Workflows SWF 2010
@@ -198,11 +202,17 @@ Roure, D. & Goble, C. (2010), Supporting e-Science Using Semantic Web Technologi
 Swainston, N.; Jameson, D.; Li, P.; Spasic, I.; Mendes, P. & Paton, N. (2010), Integrative Information Management for Systems Biology, in **7th International Conference on Data Integration in the Life Sciences (DILS 2010)**.
 
 
-Tan, W.; Madduri, R.; Nenadic, A.; Soiland-Reyes, S.; Sulakhe, D.; Foster, I. & Goble, C. A. (2010), **CaGrid Workflow Toolkit: A taverna based workflow tool for cancer grid**, BM 11, 542.
+Wei Tan, Ravi Madduri, Alexandra Nenadic, Stian Soiland-Reyes, Dinanath Sulakhe, Ian Foster and Carole A Goble (2010):
+**CaGrid Workflow Toolkit: A Taverna based workflow tool for cancer grid**
+_BMC Bioinformatics_ **11**:542.
+[doi:10.1186/1471-2105-11-542](http://dx.doi.org/10.1186/1471-2105-11-542)
 
 
-Tan, W.; Missier, P.; Foster, I.; Madduri, R.; De Roure, D. & Goble, C. (2010), **A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**, Concurrency and Computation: Practice and Experience 22(9), 1098-1117.
 
+Wei Tan, Paolo Missier, Ian Foster,  Ravi Madduri, David De Roure, Carole Goble (2009): 
+**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
+_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117
+[doi:10.1002/cpe.1547](http://dx.doi.org/10.1002/cpe.1547)
 
 
 
@@ -272,8 +282,11 @@ Pettifer, S.; Thorne, D.; McDermott, P.; Marsh, J.; Villéger, A.; Kell, D. B. &
 
 Sroka, J.; Hidders, J.; Missier, P. & Goble, C. (2009), **A formal semantics for the Taverna 2 workflow model**, Journal of Computer and System Sciences 76(6), 490-508.
 
-
-Tan, W.; Chard, K.; Sulakhe, D.; Madduri, R.; Foster, I.; Soiland-Reyes, S. & Goble, C. (2009), Scientific Workflows as Services in caGrid: A Taverna and gRAVI Approach, in **Proceedings of the 2009 IEEE International Conference on Web Services**, pp. 413-420.
+Wei Tan, Kyle Chard, Dinanath Sulakhe, Ravi Madduri, Ian Foster, Stian Soiland‐Reyes, Carole Goble (2009):
+**Scientific workflows as services in caGrid: a Taverna and gRAVI approach**
+_IEEE International Conference on Web Services (ICWS 2009)_
+[doi:10.1109/ICWS.2009.19](http://dx.doi.org/10.1109/ICWS.2009.19)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:192018)
 
 
 Tan, W.; Missier, P.; Madduri, R. & Foster, I. (2009), Building Scientific Workflow with Taverna and BPEL: A Comparative Study in caGrid, in **Service-Oriented Computing - ICSOC 2008 Workshops**, Springer Berlin / Heidelberg, , pp. 118-129.
