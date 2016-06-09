@@ -142,7 +142,7 @@ permalink: /people/
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li> -->
-<li><a href="http://orcid.org/0000-0003-4913-1485">Mattew Gamble</a></li>
+<li><a href="http://orcid.org/0000-0003-4913-1485">Matthew Gamble</a></li>
 <li><a href="http://orcid.org/0000-0002-9538-7919">Robert Haines</a></li>
 <li><a href="http://orcid.org/0000-0002-2937-7819">Christian Y A Brenninkmeijer</a></li>
 <li><a href="http://orcid.org/0000-0002-1279-5133">Katy Wolstencroft</a></li>
@@ -152,6 +152,7 @@ permalink: /people/
 <li>Jiten (Jits) Bhagat</li>
 <li><a href="http://orcid.org/0000-0001-6938-0820">Khalid Belhajjame</a></li>
 <li>Mark Borkum</li>
+<li>Tim Clark</li>
 <li><a href="http://orcid.org/0000-0002-9260-0753">Oscar Corcho</a></li>
 <li>Phillip Cotter</li>
 <li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
