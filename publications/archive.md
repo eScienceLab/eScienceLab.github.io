@@ -59,8 +59,9 @@ Page, K.; Palma, R.; Holubowicz, P.; Klyne, G.; Soiland-Reyes, S.; Cruickshank, 
 
 Sansone, S.-A.; Rocca-Serra, P.; Field, D.; Maguire, E.; Taylor, C.; Hofmann, O.; Fang, H.; Neumann, S.; Tong, W.; Amaral-Zettler, L.; Begley, K.; Booth, T.; Bougueleret, L.; Burns, G.; Chapman, B.; Clark, T.; Coleman, L.-A.; Copeland, J.; Das, S.; de Daruvar, A.; de Matos, P.; Dix, I.; Edmunds, S.; Evelo, C. T.; Forster, M. J.; Gaudet, P.; Gilbert, J.; Goble, C.; Griffin, J. L.; Jacob, D.; Kleinjans, J.; Harland, L.; Haug, K.; Hermjakob, H.; Sui, S. J. H.; Laederach, A.; Liang, S.; Marshall, S.; McGrath, A.; Merrill, E.; Reilly, D.; Roux, M.; Shamu, C. E.; Shang, C. A.; Steinbeck, C.; Trefethen, A.; Williams-Jones, B.; Wolstencroft, K.; Xenarios, I. & Hide, W. (2012), **Toward interoperable bioscience data**, Nat Genet 44(2), 121--126.
 
-
-Williams, A. J.; Harland, L.; Groth, P.; Pettifer, S.; Chichester, C.; Willighagen, E. L.; Evelo, C. T.; Blomberg, N.; Ecker, G.; Goble, C. & Mons, B. (2012), **Open PHACTS: semantic interoperability for drug discovery**, Drug Discovery Today  17, 1188 - 1198.
+Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
+**Open PHACTS: semantic interoperability for drug discovery**, 
+_Drug Discovery Today_  **17**(21-22) pp 1188 - 1198. [doi:10.1016/j.drudis.2012.05.016](http://dx.doi.org/10.1016/j.drudis.2012.05.016)
 
 
 Zhao, J.; Klyne, G.; Holubowicz, P.; Palma, R.; Soiland-Reyes, S.; Hettne, K.; Ruiz, J. E.; Roos, M.; Page, K. & Gómez-Pérez, J. M. (2012), **RO-Manager: A Tool for Creating and Manipulating Research Objects to Support Reproducibility and Reuse in Sciences**, Proc. 2nd Intl. Workshop on Linked Science.
