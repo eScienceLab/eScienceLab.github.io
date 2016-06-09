@@ -32,6 +32,7 @@ eScience Lab contributed multiple products that together form the the Open PHACT
 * Searching: [Open PHACTS search service](https://github.com/openphacts/ops-search), populates an ElasticSearch instance with JSON-LD documents with searchable labels extracted from SPARQL queries
 * Deployment: [Open PHACTS Docker installation](https://github.com/openphacts/ops-docker/) installs the OPS platform
 * Standardization: [Open PHACTS Dataset descriptions](http://www.openphacts.org/specs/2013/WD-datadesc-20130912/) and the [W3C HCLS]() working group's [Dataset Descriptions: HCLS Community Profile](https://www.w3.org/TR/hcls-dataset/)
+* [Open PHACTS VoID editor](https://github.com/openphacts/Void-Editor2), a web-based editor to create OPS Dataset and Linkset Descriptions with provenance
 
 ## Related projects and initiatives
 
@@ -53,6 +54,18 @@ Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Z
 _Nature Scientific Data_ **3**, 2016
 [doi:10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
 
+Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve Pettifer (2014):
+**API-centric Linked Data integration: The Open PHACTS Discovery Platform case study**
+_Web Semantics: Science, Services and Agents on the World Wide Web_
+[doi:10.1016/j.websem.2014.03.003](http://dx.doi.org/10.1016/j.websem.2014.03.003)
+[[researchgate]](https://www.researchgate.net/publication/261440552_API-centric_Linked_data_integration_The_open_PHACTS_discovery_platform_case_study)
+
+Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2014):
+**Applying linked data approaches to pharmacology: Architectural decisions and implementation**.
+_Semantic Web_ **5**(3), 1–13.
+[[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf)
+[[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
+[[doi:10.3233/SW-2012-0088](http://dx.doi.org/10.3233/SW-2012-0088)
 
 Carole Goble,
 Alasdair J G Gray,
@@ -69,14 +82,17 @@ _Intelligent Systems for Molecular Biology and European Conference on Computatio
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning**.
 _Journal of Biomedical Semantics_ **4**:1, 37. [doi:10.1186/2041-1480-4-37](http://dx.doi.org/10.1186/2041-1480-4-37)
 
-Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2013):
-**Applying linked data approaches to pharmacology**.
-_Semantic Web_ **5**(3), 1–13.
-[[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf)
-[[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):
 **Computing Identity Co-Reference Across Drug Discovery Datasets**.
 _Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)_; CEUR-WS.org; 2013.
 [http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf](http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf)
+
+Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
+**Open PHACTS: semantic interoperability for drug discovery**, 
+_Drug Discovery Today_  **17**(21-22) pp 1188 - 1198. [doi:10.1016/j.drudis.2012.05.016](http://dx.doi.org/10.1016/j.drudis.2012.05.016)
+
+Lee Harland (2012): **Open PHACTS: A Semantic Knowledge Infrastructure for Public and Commercial Drug Discovery Research**
+_18th International Conference, EKAW 2012, Galway City, Ireland, October 8-12, 2012. Proceedings_
+[doi:10.1007/978-3-642-33876-2_1](http://dx.doi.org/10.1007/978-3-642-33876-2_1) [[preprint]](http://www.openphacts.org/documents/publications/Harland_Open%20PHACTS_A%20semantic%20knowledge%20infrastructure%20for%20public%20and%20commercial%20drug%20discovery%20research_Springer_Lecture%20Notes%20in%20Computer%20Science_V%207603_2012_p1-7.pdf)
 
