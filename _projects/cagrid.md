@@ -44,6 +44,7 @@ Wei Tan, Kyle Chard, Dinanath Sulakhe, Ravi Madduri, Ian Foster, Stian Soilandâ€
 **Scientific workflows as services in caGrid: a Taverna and gRAVI approach**
 _IEEE International Conference on Web Services (ICWS 2009)_
 [doi:10.1109/ICWS.2009.19](http://dx.doi.org/10.1109/ICWS.2009.19)
+[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:192018)
 
 
 Wei Tan, Paolo Missier, Ravi Madduri, Ian Foster (2009):
@@ -51,9 +52,9 @@ Wei Tan, Paolo Missier, Ravi Madduri, Ian Foster (2009):
 _ICSOC 2008 International Workshops, Sydney, Australia, December 1st, 2008, Revised Selected Papers_
 [doi:10.1007/978-3-642-01247-1_11](http://dx.doi.org/10.1007/978-3-642-01247-1_11)
 
-
 Wei Tan, Paolo Missier, Ian Foster,  Ravi Madduri, David De Roure, Carole Goble (2009): 
-#**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
+**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
+_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117
 [doi:10.1002/cpe.1547](http://dx.doi.org/10.1002/cpe.1547)
 
 #Wei Tan, Ian Foster and Ravi Madduri (2008)
