@@ -189,20 +189,3 @@ permalink: /people/
 </ul>
 
 
-[cg]: {{ site.url }}/images/profiles/carole-goble.jpg "Carole Goble"
-[gb]: {{ site.url }}/images/profiles/finn-bacall.png "Finn Bacall"
-[nb]: {{ site.url }}/images/profiles/niall-beard.png "Niall Beard"
-[df]: {{ site.url }}/images/profiles/donal-fellows.png "Donal Fellows"
-[nm]: {{ site.url }}/images/profiles/norman-morrison.png "Norman Morisson"
-[an]: {{ site.url }}/images/profiles/aleks-nenadic.png "Aleksandra Nenadic"
-[so]: {{ site.url }}/images/profiles/stuart-owen.png "Stuart Owen"
-[ap]: {{ site.url }}/images/profiles/aleks-pawlik.png "Aleksandra Pawlik"
-[ns]: {{ site.url }}/images/profiles/natalie-stanford.png "Natalie Stanford"
-[ssr]: {{ site.url }}/images/profiles/stian-soiland-reyes.png "Stian Soiland Reyes"
-[ss]: {{ site.url }}/images/profiles/shoaib-sufi.png "Shoaib Sufi"
-[aw]: {{ site.url }}/images/profiles/alan-williams.png "Alan Williams"
-[sp]: {{ site.url }}/images/profiles/steve-pettifer.png "Steve Pettifer"
-[pm]: {{ site.url }}/images/profiles/paolo-missier.png "Paolo Misser"
-[ib]: {{ site.url }}/images/profiles/iain-buchan.png "Iain Buchan"
-[ab]: {{ site.url }}/images/profiles/andy_brass.jpg "Andy Brass"
-
