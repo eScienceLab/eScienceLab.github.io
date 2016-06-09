@@ -12,6 +12,4 @@ project_reference:
 expired: true
 ---
 
-# e-LICO
-
 [e-LICO](http://www.e-lico.eu/index.php)

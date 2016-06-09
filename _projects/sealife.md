@@ -7,8 +7,6 @@ description: Semantic grid browser for the life sciences
 expired: true
 ---
 
-# Sealife
-
 >The objective of Sealife is the conception and realisation of a semantic Grid browser for the Life Sciences,
 >which will link the existing Web to the currently emerging eScience infrastructure.
 

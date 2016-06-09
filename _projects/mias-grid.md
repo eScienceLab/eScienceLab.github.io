@@ -7,8 +7,6 @@ description: Medical Imaging
 expired: true
 ---
 
-# MIASGrid
-
 The MIAS project examined the requirements of Medical Imaging and Signals.
 The MIASGrid sub-project, took examples of those requirements and investigated how e-Science and the myGrid tools in particular could satisfy them.
 The project was funded by the [EPSRC](http://www.epsrc.ac.uk/) for £494k and ran until April 2006.

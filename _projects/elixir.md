@@ -12,8 +12,6 @@ duration:
 project_reference: http://www.elixir-europe.org/sites/default/files/documents/elixir_scientific_programme_final.pdf
 ---
 
-# Elixir
-
 The goal of ELIXIR is to orchestrate the collection, quality control
 and archiving of large amounts of biological data produced by life
 science experiments. Some of these datasets are highly specialised and

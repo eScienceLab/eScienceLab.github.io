@@ -12,8 +12,6 @@ duration:
 project_reference: 
 ---
 
-# CHIP-SET
-
 The [CHIP-SET project](http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html) is part of the Farr Institute of Health
 Informatics Research e-infrastructure [working group](http://www.farrinstitute.org/5_EInfrastructure.html).
 

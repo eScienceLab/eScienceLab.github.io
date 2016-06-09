@@ -12,8 +12,6 @@ duration:
 project_reference:
 ---
 
-# SSI
-
 The Software Sustainability Institute was founded to support the UK’s
 research software community - a community that includes the majority
 of UK’s researchers.

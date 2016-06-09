@@ -7,8 +7,6 @@ description: Use of semantics to run workflows
 expired: true
 ---
 
-# Shared Genomics
-
 This project in partnership with [Microsoft](http://www.microsoft.com/) aimed to develop accessible High Power Computing infrastructure to support the analysis of large genetic data. An essential part of the work was the integration of results with metadata retrieved from knowledge repositories.
 
 This work built upon the myGrid achievements in the association of metadata with data and the description of the semantics of services.

@@ -9,8 +9,6 @@ logo: software-carpentry.png
 website: http://software-carpentry.org
 ---
 
-# Software Carpentry
-
 Software Carpentry is a volunteer organization whose goal is to make
 scientists more productive, and their work more reliable, by teaching
 them basic computing skills. Founded in 1998, it runs short, intensive

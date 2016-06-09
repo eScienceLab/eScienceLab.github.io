@@ -13,8 +13,6 @@ project_reference:
 expired: true
 ---
 
-# caGrid Project
-
 [caGrid](http://www.cagrid.org/) was part of [caBIG](https://en.wikipedia.org/wiki/CaBIG) (cancer Biomedical Informatics Grid), a US project to carry out eScience and bioinformatics in cancer research.
 
 The myGrid team were funded by the US National Cancer Institute ([NCI](http://www.cancer.gov/)) to help caGrid integrate Taverna and caGrid, so that [Taverna](http://www.taverna.org.uk/) can find and use (secured) caBIG services.

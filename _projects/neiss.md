@@ -7,8 +7,6 @@ description: National e-Infrastructure for Social Simulation
 expired: true
 ---
 
-# NeISS
-
 The National e-Infrastructure for Social Simulation is a JISC funded project to undertake a coordinated programme of productionising services and
 furthering uptake through community engagement to create a sustainable, long-term platform for social simulation with potential for major strategic impact,
 both in the UK and internationally. The project involves [Leeds University](http://www.leeds.ac.uk/),

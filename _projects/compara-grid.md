@@ -13,8 +13,6 @@ project_reference:
 expired: true
 ---
 
-# ComparaGrid
-
 [ComparaGrid](http://www.comparagrid.org/) was a [BBSRC](http://www.bbsrc.ac.uk/) funded project to develop a prototype system to capture the details of relationships between genomic data
 either within or across species thus enabling complex ad hoc queries to be run. ComparaGrid demonstrates that the underlying raw data
 can be combined to draw maximum benefit from those data for all genomic communities.
