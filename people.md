@@ -152,7 +152,7 @@ permalink: /people/
 <li>Jiten (Jits) Bhagat</li>
 <li><a href="http://orcid.org/0000-0001-6938-0820">Khalid Belhajjame</a></li>
 <li>Mark Borkum</li>
-<li>Tim Clark</li>
+<li><a href="http://orcid.org/0000-0003-4994-3803">Tim Clark</a></li>
 <li><a href="http://orcid.org/0000-0002-9260-0753">Oscar Corcho</a></li>
 <li>Phillip Cotter</li>
 <li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
