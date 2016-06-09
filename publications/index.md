@@ -114,6 +114,12 @@ Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, A
 **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**.
 _Biodiversity Data Journal 12/2014_; **2**:e4221. [doi:10.3897/BDJ.2.e4221](http://dx.doi.org/10.3897/BDJ.2.e4221)
 
+Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve Pettifer (2014):
+**API-centric Linked Data integration: The Open PHACTS Discovery Platform case study**
+_Web Semantics: Science, Services and Agents on the World Wide Web_
+[doi:10.1016/j.websem.2014.03.003](http://dx.doi.org/10.1016/j.websem.2014.03.003)
+[[researchgate]](https://www.researchgate.net/publication/261440552_API-centric_Linked_data_integration_The_open_PHACTS_discovery_platform_case_study)
+
 Pinar Alper,
 Khalid Belhajjame,
 Carole A. Goble,
@@ -214,6 +220,7 @@ Neil Davies, Dawn Field, Linda Amaral-Zettler, Melody S Clark, John Deck, Alexei
 **The founding charter of the Genomic Observatories Network**.
 _GigaScience_ **3**:2
 [doi:10.1186/2047-217X-3-2](http://dx.doi.org/10.1186/2047-217X-3-2)
+
 
 
 ## 2013
