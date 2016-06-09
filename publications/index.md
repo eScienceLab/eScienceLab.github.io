@@ -221,6 +221,13 @@ Neil Davies, Dawn Field, Linda Amaral-Zettler, Melody S Clark, John Deck, Alexei
 _GigaScience_ **3**:2
 [doi:10.1186/2047-217X-3-2](http://dx.doi.org/10.1186/2047-217X-3-2)
 
+Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2014):
+**Applying linked data approaches to pharmacology: Architectural decisions and implementation**.
+_Semantic Web_ **5**(3), 1–13.
+[[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf)
+[[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
+[[doi:10.3233/SW-2012-0088](http://dx.doi.org/10.3233/SW-2012-0088)
+
 
 
 ## 2013
@@ -280,13 +287,6 @@ Tim Clark, Paolo Ciccarese, Carole A Goble (2013):
 _Journal of Biomedical Semantics_ **5**:28
 [doi:10.1186/2041-1480-5-28](http://dx.doi.org/10.1186/2041-1480-5-28)
 [[poster]](http://f1000research.com/posters/1093963)
-
-Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2013):
-**Applying linked data approaches to pharmacology**.
-_Semantic Web_ **5**(3), 1–13.
-[[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf)
-[[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
-
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):
 **Computing Identity Co-Reference Across Drug Discovery Datasets**.
