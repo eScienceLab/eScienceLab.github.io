@@ -34,7 +34,7 @@ FAIRDOM builds on the outcomes of the successful [SysMO-DB](http://sysmo-db.org/
 
 We achieve this by:
 
-* The FAIRDOM Open Software [Platform](http://fair-dom.org/platform/) and toolset to manage data, models and projects that combines standards, the [SEEK4Science](http://fair-dom.org/platform/seek/) and [openBIS](http://fair-dom.org/platform/openbis/) tool suites and community tools.
+* The FAIRDOM Open Software [Platform](http://fair-dom.org/platform/) and toolset to manage data, models and projects that combines standards, the [SEEK](/products/seek/) and [openBIS](http://fair-dom.org/platform/openbis/) tool suites and community tools.
 * A centrally hosted, public [FAIRDOMHub](https://fairdomhub.org/) – a “Systems Biology Community Commons” – for independent researchers, projects and programmes.  Researchers can manage their projects and project assets in a secure way. Journals, funders and communities have a resource for shared and published data, models and methods. FAIRDOMHub brings together already established programme SEEKs for SysMO, [VLN](http://www.virtual-liver.de/) and independent project SEEKs.
 * A Facility of support services for curation, training, and data management planning for the [EraSysAPP](https://www.erasysapp.eu/) projects.
 * A European Knowledge community for standards, data and model management expertise, FAIRDOM users and developers, and developers of Systems Biology tools and resources. We run workshops and summer schools, and will develop a library of standard templates for data, model and SOP management.
