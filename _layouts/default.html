@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
 
-  {% include head.html %}
+<div class="page-content">
+  <div class="wrapper">
+    {% include cse.html %}
 
-  <body>
+    {{ content }}
+  </div>
+</div>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {% include cse.html %}
-
-        {{ content }}
-      </div>
-    </div>
-
-    {% include external-links-script.html %}
-    {% include footer.html %}
-
-  </body>
-
-</html>

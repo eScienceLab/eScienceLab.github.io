@@ -2,6 +2,10 @@
   float: right;
   min-width: 20em;
   max-width: 30em;
+  .gsc-control-cse {
+    background-color: transparent !important;
+    border: none !important;
+  }
 }
 
 .product-screenshot {
@@ -48,3 +52,25 @@ img.project-logo {
   max-width: 20em;
   max-height: 10em;
 }
+
+div.logo-grid {
+  clear: both;
+  margin-top: 10px;
+  text-align: center;
+}
+
+a.logo-grid-item {
+  display: inline-block;
+  padding: 10px;
+  width: 33%;
+  min-width: 300px;
+  img {
+    filter: grayscale(100%);
+    &:hover {
+      filter: none;
+
+    }
+  }
+}
+
+
