@@ -12,7 +12,7 @@ duration:
 project_reference:
 ---
 
-The Software Sustainability Institute was founded to support the UK’s research software community - a community that includes the majority of UK’s researchers.
+**The Software Sustainability Institute was founded to support the UK’s research software community - a community that includes the majority of UK’s researchers**.
 
 Its mission is to cultivate better, more sustainable, research software to enable world-class research ([better software, better research](http://softwaresaved.spreadshirt.co.uk/). Software is fundamental to research: [seven out of ten UK researchers report that their work would be impossible without it](http://www.software.ac.uk/blog/2014-12-04-its-impossible-conduct-research-without-software-say-7-out-10-uk-researchers).
 
