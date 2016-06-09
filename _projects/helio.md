@@ -12,7 +12,7 @@ project_reference: http://cordis.europa.eu/project/rcn/94289_en.html
 expired: true
 ---
 
-#HELIO
+# HELIO
 
 HELIO, the Heliophysics Integrated Observatory, was a three year EU funded project and started in June 2009.
 

@@ -7,7 +7,7 @@ description: Use of semantics to run workflows
 expired: true
 ---
 
-#Shared Genomics
+# Shared Genomics
 
 This project in partnership with [Microsoft](http://www.microsoft.com/) aimed to develop accessible High Power Computing infrastructure to support the analysis of large genetic data. An essential part of the work was the integration of results with metadata retrieved from knowledge repositories.
 
@@ -18,6 +18,6 @@ industrial partners such as [Astra Zeneca](http://www.astrazeneca.co.uk/), and t
 
 The project was funded for £600k and ran from March 2008 to February 2010.
 
-##Enable Taverna workflows in a Shared Genomics causality workbench
+## Enable Taverna workflows in a Shared Genomics causality workbench
 
 This was an [ENGAGE](http://www.mygrid.org.uk/projects/engage/) funded project to enable [Taverna](http://www.taverna.org.uk/) workflows using Shared Genomics services to be called in a more efficient manner. This work builds on the .

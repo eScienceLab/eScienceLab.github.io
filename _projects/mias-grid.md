@@ -7,7 +7,7 @@ description: Medical Imaging
 expired: true
 ---
 
-#MIASGrid
+# MIASGrid
 
 The MIAS project examined the requirements of Medical Imaging and Signals.
 The MIASGrid sub-project, took examples of those requirements and investigated how e-Science and the myGrid tools in particular could satisfy them.

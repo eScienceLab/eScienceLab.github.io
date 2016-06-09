@@ -13,7 +13,7 @@ project_reference:
 expired: true
 ---
 
-#caGrid Project
+# caGrid Project
 
 [caGrid](http://www.cagrid.org/) was part of [caBIG](https://en.wikipedia.org/wiki/CaBIG) (cancer Biomedical Informatics Grid), a US project to carry out eScience and bioinformatics in cancer research.
 

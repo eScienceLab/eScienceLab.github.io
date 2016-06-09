@@ -12,7 +12,7 @@ project_reference:
 expired: true
 ---
 
-#e-Fungi
+# e-Fungi
 
 e-Fungi was a [BBSRC](http://www.bbsrc.ac.uk/) funded project to produce an e-Science infrastructure for comparative functional genomics in fungal species.
 Parts of the e-Fungi project include the development of a data warehouse and analysis libraries that are exposed as webservices.

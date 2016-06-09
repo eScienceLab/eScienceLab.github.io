@@ -7,7 +7,7 @@ description: Integrating functionality between two university systems
 expired: true
 ---
 
-#Semantic Provenance Project
+# Semantic Provenance Project
 
 The Semantic Provenance Project was an [Eli Lilly](http://www.lilly.com/) funded project. It added value to Eli Lilly’s Lilly Science Grid (LSG)
 by integrating functionality from Indiana University’s provenance system Karma and the University of Manchester’s S-OGSA system

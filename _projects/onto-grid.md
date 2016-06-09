@@ -7,7 +7,7 @@ description: Infrastructure for open services for the semantic Grid
 expired: true
 ---
 
-#OntoGrid
+# OntoGrid
 
 This was an EU funded project that ran from September 2004 to September 2007. Its goal was to:
 

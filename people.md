@@ -78,7 +78,7 @@ permalink: /people/
 </div>
 
 
-##PhD Students
+## PhD Students
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
 	<div class="grid-item profile_box">
@@ -138,7 +138,7 @@ permalink: /people/
 
 
 
-##Former Team Members and Associates
+## Former Team Members and Associates
 <ul>
 <!-- <li><a href=""></a></li>
 <li><a href=""></a></li>

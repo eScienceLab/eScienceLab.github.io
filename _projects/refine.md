@@ -7,7 +7,7 @@ description: Text mining and visualisation
 expired: true
 ---
 
-#REFINE
+# REFINE
 
 [REFINE](http://www.nactem.ac.uk/pathtext/), Tools for the text mining-based visualisation of the provenance of biochemical networks, was a [BBSRC](http://www.bbsrc.ac.uk/) funded project
 to find solutions for the terminology problem in systems biology, by developing techniques for recognising synonym terms.

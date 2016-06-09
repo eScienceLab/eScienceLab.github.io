@@ -7,7 +7,7 @@ description: Integration of Biological data
 expired: true
 ---
 
-#ONDEX
+# ONDEX
 
 [ONDEX](http://ondex.sourceforge.net/) was an opensource suite of software that “enables data from diverse biological data sets to be linked, integrated and visualised”.
 This [BBSRC](http://www.bbsrc.ac.uk/) funded [project](http://www.ondex.org/index.shtml) aimed to support ONDEX and its integration with more general bioinformatics tools, such as those developed by the myGrid team.

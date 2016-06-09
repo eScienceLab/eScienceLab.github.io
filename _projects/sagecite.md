@@ -7,7 +7,7 @@ description: Citation framework for linking data, methods and publications
 expired: true
 ---
 
-#SageCite
+# SageCite
 
 [SageCite](http://www.mygrid.org.uk/projects/sagecite/) was a JISC funded project to develop and test a Citation Framework linking data, methods and publications.
 The project had international links with the [Concept Web Alliance](http://conceptweblog.wordpress.com/) and [Bio2RDF](http://bio2rdf.org/). The partners were [UKOLN](http://www.ukoln.ac.uk/),

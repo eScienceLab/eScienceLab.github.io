@@ -7,7 +7,7 @@ description: (BioCatalogue)
 expired: true
 ---
 
-#Web Services for Life Sciences (BioCatalogue)
+# Web Services for Life Sciences (BioCatalogue)
 
 The WS4LS project has been funded to create the [BioCatalogue](/products/biocatalogue). The partners in the project are the [University of Manchester](http://www.manchester.ac.uk/) and the
 [European Bioinformatics Institute](http://www.ebi.ac.uk/) (Rodrigo Lopez).
