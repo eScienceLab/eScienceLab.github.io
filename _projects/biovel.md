@@ -13,7 +13,7 @@ project_reference:
 expired: true
 ---
 
-BioVeL supports scientists to carry out research on biodiversity by offering computerized tools ("workflows")
+BioVeL supports scientists to carry out research on biodiversity by offering computerised tools ("workflows")
 to process large amounts of data from your own and cross-disciplinary sources,
 as well as tools for designing and running workflows.
 
