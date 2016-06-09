@@ -48,5 +48,5 @@ The eScience Lab contributes to BioExcel in two work packages:
 ## Related projects
 
  * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
- * [Open PHACTS](http://www.openphacts.org/)
- * [Elixir-UK](http://elixir-uk.org/)
+ * [Open PHACTS](/projects/openphacts)
+ * [Elixir-UK](http://elixir-uk.org/), [Excellerate](excellerate)

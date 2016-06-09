@@ -4,7 +4,7 @@ name: ssi
 title: SSI
 path: ssi.html
 collection: projects
-description: Software Sustainability Institute
+description: Facilitating self-sustainability of research software
 logo: ssi.png
 website: http://www.software.ac.uk
 start_date:

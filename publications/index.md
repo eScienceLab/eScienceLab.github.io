@@ -43,6 +43,18 @@ _Journal of Medical Internet Research_ **18**(1):e13
 [doi:10.2196/jmir.4912](http://dx.doi.org/10.2196/jmir.4912)
 [PMID: 26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
 
+Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak,
+Niklas Blomberg, Jan-Willem Boiten, Luiz Bonino da Silva Santos, Philip E. Bourne, Jildau Bouwman, Anthony J. Brookes,
+Tim Clark, Mercè Crosas, Ingrid Dillo, Olivier Dumon, Scott Edmunds, Chris T. Evelo, Richard Finkers,
+Alejandra Gonzalez-Beltran, Alasdair J.G. Gray, Paul Groth, Carole Goble, Jeffrey S. Grethe, Jaap Heringa,
+Peter A.C ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J. Lusher, Maryann E. Martone, Albert Mons,
+Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes,
+Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
+Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao & Barend Mons (2016)
+**The FAIR Guiding Principles for scientific data management and stewardship**
+_Nature Scientific Data_ **3**, 2016
+[doi:10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
+
 ## 2015
 
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):
@@ -215,6 +227,11 @@ Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a Fi
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:211608)
 [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
+
+Katherine Wolstencroft, Stuart Owen, Olga Krebs, Wolfgang Mueller, Quyen Nguyen, Jacky L. Snoep, Carole Goble (2013)
+**Semantic Data and Models Sharing in Systems Biology: The Just Enough Results Model and the SEEK Platform**
+_The Semantic Web – ISWC 2013, October 21-25, 2013, Proceedings, Part II_ pp 212-227.
+[doi:10.1007/978-3-642-41338-4_14](http://dx.doi.org/10.1007/978-3-642-41338-4_14)
 
 Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Philip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):
 **Why linked data is not enough for scientists**.
