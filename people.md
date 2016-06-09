@@ -26,11 +26,6 @@ permalink: /people/
 		<div class="role">Scientific Web Technologist</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-7066-3350"><img src="/images/profiles/ian-dunlop.jpg" class="profile_picture"></a>
-		<div class="name">Ian Dunlop</div>
-		<div class="role">Senior Software Engineer</div>
-	</div>
-	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0002-9091-5938"><img src="/images/profiles/donal-fellows.jpg" class="profile_picture"></a>
 		<div class="name">Donal Fellows</div>
 		<div class="role">Senior Research Software Engineer</div>
@@ -160,6 +155,7 @@ permalink: /people/
 <li><a href="http://orcid.org/0000-0002-9260-0753">Oscar Corcho</a></li>
 <li>Phillip Cotter</li>
 <li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
+<li><a href="http://orcid.org/0000-0001-7066-3350">Ian Dunlop</li>
 <li>Suzanne Embury</li>
 <li>June Finch</li>
 <li><a href="http://orcid.org/0000-0003-1983-9204">Paul Fisher</a></li>
@@ -195,7 +191,6 @@ permalink: /people/
 [cg]: {{ site.url }}/images/profiles/carole-goble.jpg "Carole Goble"
 [gb]: {{ site.url }}/images/profiles/finn-bacall.png "Finn Bacall"
 [nb]: {{ site.url }}/images/profiles/niall-beard.png "Niall Beard"
-[id]: {{ site.url }}/images/profiles/ian-dunlop.png "Ian Dunlop"
 [df]: {{ site.url }}/images/profiles/donal-fellows.png "Donal Fellows"
 [nm]: {{ site.url }}/images/profiles/norman-morrison.png "Norman Morisson"
 [an]: {{ site.url }}/images/profiles/aleks-nenadic.png "Aleksandra Nenadic"
