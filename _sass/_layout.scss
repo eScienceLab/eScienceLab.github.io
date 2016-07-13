@@ -257,7 +257,13 @@ img.product-logo {
 }
 
 .hero {
-    background-image: url('/images/garden.png');
+    // background-image: url('/images/garden.png');
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5a7999+9,344659+81 */
+    background: #5a7999; /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #5a7999 9%, #344659 81%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #5a7999 9%,#344659 81%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #5a7999 9%,#344659 81%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5a7999', endColorstr='#344659',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% auto;
