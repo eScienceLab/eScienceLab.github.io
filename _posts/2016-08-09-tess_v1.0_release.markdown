@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "TeSS Release V1.0"
+date:   2016-08-09 17:09:47 +0000
+categories: announcements tess product
+---
+
+The [TeSS team](http://www.esciencelab.org.uk/products/tess/) proudly announced the v1.0 release of TeSS using the new platform (Ruby on Rails). This is a follow up from the release v0.9 (alpha) announced at the ELIXIR All Hands meeting in Barcelona in March 2016.
+
+TeSS is available at https://tess.elixir-uk.org/ and, at the moment, contains more than 3,000 training resources (events and materials) from 22 content providers.
+
+This release completes the port from the old TeSS piloted last year: all features from the pilot having now been implemented and improved in the new TeSS. This includes fixes and improvements to the user interface and support for small devices, full support for training workflows, support for linking resources in TeSS with other external resources, as well as the increased number of training resources and content providers via scrapers.
