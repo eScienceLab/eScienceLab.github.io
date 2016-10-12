@@ -17,9 +17,6 @@ layout: default
       {% if page.start_date or size > 2 %}
         <li>Started: {{page.start_date | date: '%B %-d, %Y' }}</li>
       {% endif %}
-      {% if page.duration or size > 2 %}
-        <li>Duration: {{page.duration}}</li>
-      {% endif %}
       {% if page.project_reference or size > 2 %}
         <li>Project reference: <a href="{{page.project_reference}}">{{page.project_reference}}</a></li>
       {% endif %}
