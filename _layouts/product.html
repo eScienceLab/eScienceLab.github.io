@@ -9,10 +9,19 @@ layout: default
     </header>
 
     <div class="post-content">
+      {% if page.description %}
+        <h2 class="post-tagline">{{ page.description }}</h2>
+      {% endif %}
+
         <div style="margin-bottom: 5px;">
-            <img src="{{ page.logo  }}" alt="{{ page.title }}" class='product-logo'>
+            <img src="{{ page.logo }}" alt="{{ page.title }}" class='product-logo'>
         </div>
         {{ content }}
+    </div>
+    <div class="screenshot">
+      <a href="{{ page.website }}" target="_blank">
+        <img src="{{ page.screenshot | replace_first: "/sm_", "/lg_" }}" alt="{{ page.title }}" title="Screenshot of {{ page.title }}"/>
+      </a>
     </div>
 
     <div>
