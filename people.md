@@ -95,7 +95,7 @@ permalink: /people/
 	</div>
 		<div class="grid-item profile_box">
 		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier.png" class="profile_picture"></a>
-		<div class="name">Paolo Misser</div>
+		<div class="name">Paolo Missier</div>
 	</div>
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft.jpg" class="profile_picture"></a>
