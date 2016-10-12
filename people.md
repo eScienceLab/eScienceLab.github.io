@@ -24,10 +24,6 @@ staff:
   orcid: 0000-0002-5945-1709
   img: anna-leida.png
   role: Senior Research Software Engineer
-- name: Norman Morrison
-  orcid: 0000-0003-1604-1512
-  img: norman-morrison.jpg
-  role: Project Manager, Data Scientist
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic.png
@@ -78,6 +74,9 @@ associate:
 - name: Marco Roos
   orcid: 0000-0002-8691-772X
   img: marco-roos.jpg
+- name: Norman Morrison
+  orcid: 0000-0003-1604-1512
+  img: norman-morrison.jpg
 former:
 - name: Kristian Garza
   orcid: http://orcid.org/0000-0003-3484-6875
