@@ -10,7 +10,5 @@ website: http://www.datacarpentry.org
 ---
 
 Data Carpentry is a sibling organization of Software Carpentry
-designed to teach fundamental concepts, skills and tools for working
-more effectively with data.
-
-_Aleks P to fill in_
+[estabilished at the end of 2014](http://www.datacarpentry.org/blog/first/
+that develop and maintain domain specific lessons targeting fundamental data analysis and data management challenges. Data Carpentry also run workshops based on their lessons suitable for researchers with little or no prior programming experience.
