@@ -31,6 +31,11 @@ permalink: /people/
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
+    		<a href="orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida.png" class="profile_picture"></a>
+    		<div class="name">Anna Leida</div>
+    		<div class="role">Senior Research Software Engineer</div>
+    	</div>
+	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0003-1604-1512"><img src="/images/profiles/norman-morrison.jpg" class="profile_picture"></a>
 		<div class="name">Norman Morrison</div>
 		<div class="role">Project Manager, Data Scientist</div>
