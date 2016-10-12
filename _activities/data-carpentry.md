@@ -4,7 +4,7 @@ name: data-carpentry
 title: Data Carpentry
 path: data-carpentry.html
 collection: activities
-description: Data Carpentry
+description: Teaching domain specific data analysis and data management best practices.
 logo: data-carpentry.png
 website: http://www.datacarpentry.org
 ---
