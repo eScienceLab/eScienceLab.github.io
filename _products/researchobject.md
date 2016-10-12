@@ -1,7 +1,7 @@
 ---
 layout: product
 name: research_object
-title: Research Object
+title: Research Objects
 path: research_object
 collection: products
 description:
@@ -10,7 +10,7 @@ logo: /images/logo/researchobject.png
 screenshot: /images/screenshots/sm_researchobject.png
 ---
 
-Research Objects is an emerging approach to the publication, and exchange of scholarly information on the Web.
+Research Objects are an emerging approach to the publication, and exchange of scholarly information on the Web.
 
 Research Objects aim to improve reuse and reproducibility by:
 
