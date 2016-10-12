@@ -4,7 +4,7 @@ name: elixir
 title: Elixir
 path: elixir.html
 collection: projects
-description: Elixir description
+description: 
 logo: elixir.png
 website: http://elixir-europe.org
 start_date:
