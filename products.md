@@ -9,7 +9,7 @@ This is a dynamically generated list of products.
 Product pages and metadata live in the `_products/` folder
 -->
 
-These are some of the software products that has been developed by
+These are some of the software products that have been developed by
 the projects the eScience Lab are involved with.
 
 <div>
