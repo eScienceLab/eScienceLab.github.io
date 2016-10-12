@@ -2,174 +2,203 @@
 layout: page
 title: People
 permalink: /people/
+head:
+- name: Professor Carole Goble
+  orcid: 0000-0003-1219-2137
+  img: carole-goble.jpg
+  role: Head
+staff:
+- name: Finn Bacall
+  orcid: 0000-0002-0048-3300
+  img: finn-bacall.jpg
+  role: Software Developer
+- name: Niall Beard
+  orcid: 0000-0002-2627-0231
+  img: niall-beard.png
+  role: Scientific Web Technologist
+- name: Donal Fellows
+  orcid: 0000-0002-9091-5938
+  img: donal-fellows.jpg
+  role: Senior Research Software Engineer
+- name: Anna Leida
+  orcid: 0000-0002-5945-1709
+  img: anna-leida.png
+  role: Senior Research Software Engineer
+- name: Aleksandra Nenadic
+  orcid: 0000-0002-2269-3894
+  img: aleks-nenadic.png
+  role: Training Manager, Senior Research Software Engineer
+- name: Stuart Owen
+  orcid: 0000-0003-2130-0865
+  img: stuart-owen.png
+  role: Senior Technical Architect
+- name: Natalie J. Stanford
+  orcid: 0000-0003-4958-0184
+  img: natalie-stanford.png
+  role: Research Community Manager, Data Scientist
+- name: Stian Soiland-Reyes
+  orcid: 0000-0001-9842-9718
+  img: stian-soiland-reyes.png
+  role: Technical Architect
+- name: Raniere Silva
+  orcid: 0000-0002-8381-3749
+  img: raniere-silva.jpg
+  role: Community Officer
+- name: Shoaib Sufi
+  orcid: 0000-0001-6390-2616
+  img: shoaib-sufi.jpg
+  role: Project Portfolio Manager, Community Manager
+- name: Alan R Williams
+  orcid: 0000-0003-3156-2105
+  img: alan-williams.png
+  role: Senior Research Software Engineer
+phd:
+- name: Lefteris Tatakis
+  orcid: 0000-0001-5554-7634
+  img: lefteris-tatakis.jpg
+associate:
+- name: Andy Brass
+  orcid:
+  url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
+  img: andy_brass.jpg
+- name: Paolo Missier
+  orcid:
+  url: https://www.researchgate.net/profile/Paolo_Missier
+  img: paolo-missier.png
+- name: Katy Wolstencroft
+  orcid: 0000-0002-1279-5133
+  img: katy-wolstencroft.jpg
+- name: Steven Pettifer
+  orcid: 0000-0002-1809-5621
+  img: steve-pettifer.png
+- name: Marco Roos
+  orcid: 0000-0002-8691-772X
+  img: marco-roos.jpg
+- name: Norman Morrison
+  orcid: 0000-0003-1604-1512
+  img: norman-morrison.jpg
+former:
+- name: Kristian Garza
+  orcid: http://orcid.org/0000-0003-3484-6875
+- name: Pinar Alper
+  orcid: http://orcid.org/0000-0002-2224-0780
+- name: Aleksandra Pawlik
+  orcid: http://orcid.org/0000-0001-8418-6735
+- name: Matthew Gamble
+  orcid: http://orcid.org/0000-0003-4913-1485
+- name: Robert Haines
+  orcid: http://orcid.org/0000-0002-9538-7919
+- name: Christian Y. A. Brenninkmeijer
+  orcid: http://orcid.org/0000-0002-2937-7819
+- name: Katy Wolstencroft
+  orcid: http://orcid.org/0000-0002-1279-5133)
+- name: Rishi Ramgolam
+- name: Sergejs Aleksejevs
+- name: Constantinos Astreos
+- name: Jiten (Jits) Bhagat
+- name: Khalid Belhajjame
+  orcid: http://orcid.org/0000-0001-6938-0820
+- name: Mark Borkum
+- name: Tim Clark
+  orcid: http://orcid.org/0000-0003-4994-3803
+- name: Oscar Corcho
+  orcid: http://orcid.org/0000-0002-9260-0753
+- name: Phillip Cotter
+- name: Don Cruickshank
+  orcid: http://orcid.org/0000-0002-0777-0855
+- name: Ian Dunlop
+  orcid: http://orcid.org/0000-0001-7066-3350
+- name: Suzanne Embury
+- name: June Finch
+- name: Paul Fisher
+  orcid: http://orcid.org/0000-0003-1983-9204
+- name: Jeremy Frey
+- name: Andrew Gibson
+- name: Antoon Goderis
+- name: Alasdair J. G. Gray
+  orcid: http://orcid.org/0000-0002-5711-4872
+- name: Helen Hulme
+- name: Duncan Hull
+  orcid: http://orcid.org/0000-0003-2387-503X
+- name: Simon Jupp]
+  orcid: http://orcid.org/0000-0002-0643-3144
+- name: Bharathi Kattamuri
+- name: Phillip Lord
+- name: James Marsh
+- name: Philip McDermott
+- name: Danius Michaelides
+- name: Georgina Moulton
+- name: Luc Moreau
+- name: David Newman
+- name: Rory Newton
+- name: Eric Nzuobontane
+- name: Tom Oinn
+- name: Mannie Tagarira
+- name: Franck Tanohli
+- name: Daniele Turili
+- name: David Withers
+- name: Anil Wipat
+- name: Christopher Wroe
+- name: Quiwei Yu
+- name: Ed Zaluskali
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
 
 ## Staff
 
-
-<div class="profile_box">
-	<a href="http://orcid.org/0000-0003-1219-2137"><img src="/images/profiles/carole-goble-sm.png" class="profile_picture"></a>
- 	<div class="name">Professor Carole Goble</div>
- 	<div class="role">Head</div>
+<div class="grid js-masonry"
+  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
+  {% for member in page.head %}
+  <div class="grid-item profile_box">
+	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+ 	<div class="name">{{member.name}}</div>
+ 	<div class="role">{{member.role}}</div>
+  </div>
+  {% endfor %}
 </div>
-
 
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-0048-3300"><img src="/images/profiles/finn-bacall-sm.png" class="profile_picture"></a>
-		<div class="name">Finn Bacall</div>
-		<div class="role">Software Developer</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-2627-0231"><img src="/images/profiles/niall-beard-sm.png" class="profile_picture"></a>
-		<div class="name">Niall Beard</div>
-		<div class="role">Scientific Web Technologist</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-9091-5938"><img src="/images/profiles/donal-fellows-sm.png" class="profile_picture"></a>
-		<div class="name">Donal Fellows</div>
-		<div class="role">Senior Research Software Engineer</div>
-	</div>
-	<div class="grid-item profile_box">
-    		<a href="http://orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida-sm.png" class="profile_picture"></a>
-    		<div class="name">Anna Leida</div>
-    		<div class="role">Senior Research Software Engineer</div>
-    	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-1604-1512"><img src="/images/profiles/norman-morrison-sm.png" class="profile_picture"></a>
-		<div class="name">Norman Morrison</div>
-		<div class="role">Project Manager, Data Scientist</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-2269-3894"><img src="/images/profiles/aleks-nenadic-sm.png" class="profile_picture"></a>
-		<div class="name">Aleksandra Nenadic </div>
-		<div class="role">Training Manager, Senior Research Software Engineer</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-2130-0865"><img src="/images/profiles/stuart-owen-sm.png" class="profile_picture"></a>
-		<div class="name">Stuart Owen</div>
-		<div class="role">Senior Technical Architect</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-4958-0184"><img src="/images/profiles/natalie-stanford-sm.png" class="profile_picture"></a>
-		<div class="name">Natalie J Stanford</div>
-		<div class="role">Research Community Manager, Data Scientist</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-9842-9718"><img src="/images/profiles/stian-soiland-reyes-sm.png" class="profile_picture"></a>
-		<div class="name">Stian Soiland-Reyes</div>
-		<div class="role">Technical Architect</div>
-	</div>
-	<div class="grid-item profile_box">
-		<img src="/images/profiles/raniere-silva-sm.png" class="profile_picture">
-		<div class="name">Raniere Silva</div>
-		<div class="role">Community Officer</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-6390-2616"><img src="/images/profiles/shoaib-sufi-sm.png" class="profile_picture"></a>
-		<div class="name">Shoaib Sufi</div>
-		<div class="role">Project Portfolio Manager, Community Manager</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-3156-2105"><img src="/images/profiles/alan-williams-sm.png" class="profile_picture"></a>
-		<div class="name">Alan R Williams</div>
-		<div class="role">Senior Research Software Engineer</div>
-	</div>
+  {% for member in page.staff %}
+  <div class="grid-item profile_box">
+	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+ 	<div class="name">{{member.name}}</div>
+ 	<div class="role">{{member.role}}</div>
+  </div>
+  {% endfor %}
 </div>
-
 
 ## PhD Students
+
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
-    <div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-5554-7634"><img src="/images/profiles/lefteris-tatakis-sm.png" class="profile_picture"></a>
-		<div class="name"><!--Eleftherios--> Lefteris Tatakis</div>
-		<div class="role">PhD Student</div>
-	</div>
+  {% for member in page.phd %}
+  <div class="grid-item profile_box">
+	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+ 	<div class="name">{{member.name}}</div>
+ 	<div class="role">PhD Student</div>
+  </div>
+  {% endfor %}
 </div>
 
 ## Current Associates
+
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
-	<div class="grid-item profile_box">
-		<a href="http://www.manchester.ac.uk/research/andy.brass/personaldetails"><img src="/images/profiles/andy_brass.jpg" class="profile_picture"></a>
-		<div class="name">Andy Brass</div>
-		<!-- <div class="role">PhD Student</div> -->
-	</div>
-		<div class="grid-item profile_box">
-		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier-sm.png" class="profile_picture"></a>
-		<div class="name">Paolo Missier</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft-sm.png" class="profile_picture"></a>
-		<div class="name">Katy Wolstencroft</div>
-	</div>
-
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-1809-5621"><img src="/images/profiles/steve-pettifer-sm.png" class="profile_picture"></a>
-		<div class="name">Steven Pettifer</div>
-	</div>
-
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-8691-772X"><img src="/images/profiles/marco-roos-sm.png" class="profile_picture"></a>
-		<div class="name">Marco Roos</div>
-	</div>
-<!-- 
-	<div class="grid-item profile_box">
-		<a href=""><img src="/images/profiles/" class="profile_picture"></a>
-		<div class="name"></div>
-	</div>
- -->
-
+  {% for member in page.associate %}
+  <div class="grid-item profile_box">
+	<a href="{% if member.url %}{{member.url}}{% else %}http://orcid.org/{{member.orcid}}{% endif %}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+ 	<div class="name">{{member.name}}</div>
+  </div>
+  {% endfor %}
 </div>
 
 ## Former Team Members and Associates
- * [Kristian Garza](http://orcid.org/0000-0003-3484-6875)
- * [Pinar Alper](http://orcid.org/0000-0002-2224-0780)
- * [Aleksandra Pawlik](http://orcid.org/0000-0001-8418-6735)
- * [Matthew Gamble](http://orcid.org/0000-0003-4913-1485)
- * [Robert Haines](http://orcid.org/0000-0002-9538-7919)
- * [Christian Y A Brenninkmeijer](http://orcid.org/0000-0002-2937-7819)
- * [Katy Wolstencroft](http://orcid.org/0000-0002-1279-5133)
- * Rishi Ramgolam
- * Sergejs Aleksejevs
- * Constantinos Astreos
- * Jiten (Jits) Bhagat
- * [Khalid Belhajjame](http://orcid.org/0000-0001-6938-0820)
- * Mark Borkum
- * [Tim Clark](http://orcid.org/0000-0003-4994-3803)
- * [Oscar Corcho](http://orcid.org/0000-0002-9260-0753)
- * Phillip Cotter
- * [Don Cruickshank](http://orcid.org/0000-0002-0777-0855)
- * [Ian Dunlop](http://orcid.org/0000-0001-7066-3350)
- * Suzanne Embury
- * June Finch
- * [Paul Fisher](http://orcid.org/0000-0003-1983-9204)
- * Jeremy Frey
- * Andrew Gibson
- * Antoon Goderis
- * [Alasdair J G Gray](http://orcid.org/0000-0002-5711-4872)
- * Helen Hulme
- * [Duncan Hull](http://orcid.org/0000-0003-2387-503X)
- * [Simon Jupp](http://orcid.org/0000-0002-0643-3144)
- * Bharathi Kattamuri
- * Phillip Lord
- * James Marsh
- * Philip McDermott
- * Danius Michaelides
- * Georgina Moulton
- * Luc Moreau
- * David Newman
- * Rory Newton
- * Eric Nzuobontane
- * Tom Oinn
- * Mannie Tagarira
- * Franck Tanohli
- * Daniele Turili
- * David Withers
- * Anil Wipat
- * Christopher Wroe
- * Quiwei Yu
- * Ed Zaluskali
+
+{% for member in page.former %}
+{% if member.orcid %}
+- {{ member.name }}
+{% else %}
+- [{{member.name}}]({{member.orcid}})
+{% endif %}
+{% endfor %}
