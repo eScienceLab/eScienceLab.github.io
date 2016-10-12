@@ -1,10 +1,10 @@
 ---
 layout: project
 name: elixir
-title: Elixir
+title: ELIXIR
 path: elixir.html
 collection: projects
-description: 
+description: Distributed European infrastructure for life-science resources (data, tools, standards, compute services and training)
 logo: elixir.png
 website: http://elixir-europe.org
 start_date:

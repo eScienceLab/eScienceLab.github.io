@@ -10,7 +10,7 @@ logo: /images/logo/researchobject.png
 screenshot: /images/screenshots/sm_researchobject.png
 ---
 
-Research Objects are an emerging approach to the publication, and exchange of scholarly information on the Web.
+_Research Object_ is an emerging approach to the publication, and exchange of scholarly information on the Web.
 
 Research Objects aim to improve reuse and reproducibility by:
 
