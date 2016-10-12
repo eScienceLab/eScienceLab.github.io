@@ -47,14 +47,25 @@
   position: absolute;
   bottom: 0;
   background: #fff;
-  border: 1px solid #ccc;
+  border-top: 1px solid #ccc;
   padding: 5px;
+  width: 100%;
 }
+
+h2.post-tagline { 
+  font-size: 110%;
+  font-style: italic;
+  font-weight: normal;
+  letter-spacing: 0.07em;
+}
+
 
 img.project-logo {
   padding-bottom: 1em;
-  max-width: 20em;
-  max-height: 10em;
+  @include media-query($on-laptop) {
+    max-width: 50%;
+  }
+  max-width: 100%;
 }
 
 div.logo-grid {
