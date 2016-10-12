@@ -4,7 +4,7 @@ name: software-carpentry
 title: Software Carpentry
 path: software-carpentry.html
 collection: activities
-description: teaching researchers basic programming skills and best practices, including task automation, structured code design and testing, version control and data structuring
+description: Teaching researchers basic programming skills and best practices, including task automation, structured code design and testing, version control and data structuring
 logo: software-carpentry.png
 website: http://software-carpentry.org
 ---
