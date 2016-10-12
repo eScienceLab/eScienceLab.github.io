@@ -5,78 +5,78 @@ permalink: /people/
 head:
 - name: Professor Carole Goble
   orcid: 0000-0003-1219-2137
-  img: carole-goble.jpg
+  img: carole-goble-sm.png
   role: Head
 staff:
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
-  img: finn-bacall.jpg
+  img: finn-bacall-sm.png
   role: Software Developer
 - name: Niall Beard
   orcid: 0000-0002-2627-0231
-  img: niall-beard.png
+  img: niall-beard-sm.png
   role: Scientific Web Technologist
 - name: Donal Fellows
   orcid: 0000-0002-9091-5938
-  img: donal-fellows.jpg
+  img: donal-fellows-sm.png
   role: Senior Research Software Engineer
 - name: Anna Leida
   orcid: 0000-0002-5945-1709
-  img: anna-leida.png
+  img: anna-leida-sm.png
   role: Senior Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
-  img: aleks-nenadic.png
+  img: aleks-nenadic-sm.png
   role: Training Manager, Senior Research Software Engineer
 - name: Stuart Owen
   orcid: 0000-0003-2130-0865
-  img: stuart-owen.png
+  img: stuart-owen-sm.png
   role: Senior Technical Architect
 - name: Natalie J. Stanford
   orcid: 0000-0003-4958-0184
-  img: natalie-stanford.png
+  img: natalie-stanford-sm.png
   role: Research Community Manager, Data Scientist
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
-  img: stian-soiland-reyes.png
+  img: stian-soiland-reyes-sm.png
   role: Technical Architect
 - name: Raniere Silva
   orcid: 0000-0002-8381-3749
-  img: raniere-silva.jpg
+  img: raniere-silva-sm.png
   role: Community Officer
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
-  img: shoaib-sufi.jpg
+  img: shoaib-sufi-sm.png
   role: Project Portfolio Manager, Community Manager
 - name: Alan R Williams
   orcid: 0000-0003-3156-2105
-  img: alan-williams.png
+  img: alan-williams-sm.png
   role: Senior Research Software Engineer
 phd:
 - name: Lefteris Tatakis
   orcid: 0000-0001-5554-7634
-  img: lefteris-tatakis.jpg
+  img: lefteris-tatakis-sm.png
 associate:
 - name: Andy Brass
   orcid:
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
-  img: andy_brass.jpg
+  img: andy_brass-sm.png
 - name: Paolo Missier
   orcid:
   url: https://www.researchgate.net/profile/Paolo_Missier
-  img: paolo-missier.png
+  img: paolo-missier-sm.png
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
-  img: katy-wolstencroft.jpg
+  img: katy-wolstencroft-sm.png
 - name: Steven Pettifer
   orcid: 0000-0002-1809-5621
-  img: steve-pettifer.png
+  img: steve-pettifer-sm.png
 - name: Marco Roos
   orcid: 0000-0002-8691-772X
-  img: marco-roos.jpg
+  img: marco-roos-sm.png
 - name: Norman Morrison
   orcid: 0000-0003-1604-1512
-  img: norman-morrison.jpg
+  img: norman-morrison-sm.png
 former:
 - name: Kristian Garza
   orcid: http://orcid.org/0000-0003-3484-6875
