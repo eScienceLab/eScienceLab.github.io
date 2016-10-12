@@ -1,7 +1,7 @@
 ---
 layout: product
 name: seek
-title: SEEK Platform
+title: The SEEK Platform
 path: seek
 collection: products
 description: Finding, sharing and exchanging data, models, simulations and processes in life sciences
