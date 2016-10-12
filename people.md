@@ -9,7 +9,7 @@ permalink: /people/
 
 
 <div class="profile_box">
-	<a href="http://orcid.org/0000-0003-1219-2137"><img src="/images/profiles/carole-goble.jpg" class="profile_picture"></a>
+	<a href="http://orcid.org/0000-0003-1219-2137"><img src="/images/profiles/carole-goble-sm.png" class="profile_picture"></a>
  	<div class="name">Professor Carole Goble</div>
  	<div class="role">Head</div>
 </div>
@@ -18,62 +18,62 @@ permalink: /people/
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-0048-3300"><img src="/images/profiles/finn-bacall.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-0048-3300"><img src="/images/profiles/finn-bacall-sm.png" class="profile_picture"></a>
 		<div class="name">Finn Bacall</div>
 		<div class="role">Software Developer</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-2627-0231"><img src="/images/profiles/niall-beard.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-2627-0231"><img src="/images/profiles/niall-beard-sm.png" class="profile_picture"></a>
 		<div class="name">Niall Beard</div>
 		<div class="role">Scientific Web Technologist</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-9091-5938"><img src="/images/profiles/donal-fellows.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-9091-5938"><img src="/images/profiles/donal-fellows-sm.png" class="profile_picture"></a>
 		<div class="name">Donal Fellows</div>
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
-    		<a href="http://orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida.png" class="profile_picture"></a>
+    		<a href="http://orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida-sm.png" class="profile_picture"></a>
     		<div class="name">Anna Leida</div>
     		<div class="role">Senior Research Software Engineer</div>
     	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-1604-1512"><img src="/images/profiles/norman-morrison.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0003-1604-1512"><img src="/images/profiles/norman-morrison-sm.png" class="profile_picture"></a>
 		<div class="name">Norman Morrison</div>
 		<div class="role">Project Manager, Data Scientist</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-2269-3894"><img src="/images/profiles/aleks-nenadic.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-2269-3894"><img src="/images/profiles/aleks-nenadic-sm.png" class="profile_picture"></a>
 		<div class="name">Aleksandra Nenadic </div>
 		<div class="role">Training Manager, Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-2130-0865"><img src="/images/profiles/stuart-owen.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0003-2130-0865"><img src="/images/profiles/stuart-owen-sm.png" class="profile_picture"></a>
 		<div class="name">Stuart Owen</div>
 		<div class="role">Senior Technical Architect</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-4958-0184"><img src="/images/profiles/natalie-stanford.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0003-4958-0184"><img src="/images/profiles/natalie-stanford-sm.png" class="profile_picture"></a>
 		<div class="name">Natalie J Stanford</div>
 		<div class="role">Research Community Manager, Data Scientist</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-9842-9718"><img src="/images/profiles/stian-soiland-reyes.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0001-9842-9718"><img src="/images/profiles/stian-soiland-reyes-sm.png" class="profile_picture"></a>
 		<div class="name">Stian Soiland-Reyes</div>
 		<div class="role">Technical Architect</div>
 	</div>
 	<div class="grid-item profile_box">
-		<img src="/images/profiles/raniere-silva.jpg" class="profile_picture">
+		<img src="/images/profiles/raniere-silva-sm.png" class="profile_picture">
 		<div class="name">Raniere Silva</div>
 		<div class="role">Community Officer</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-6390-2616"><img src="/images/profiles/shoaib-sufi.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0001-6390-2616"><img src="/images/profiles/shoaib-sufi-sm.png" class="profile_picture"></a>
 		<div class="name">Shoaib Sufi</div>
 		<div class="role">Project Portfolio Manager, Community Manager</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-3156-2105"><img src="/images/profiles/alan-williams.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0003-3156-2105"><img src="/images/profiles/alan-williams-sm.png" class="profile_picture"></a>
 		<div class="name">Alan R Williams</div>
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
@@ -84,7 +84,7 @@ permalink: /people/
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
     <div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-5554-7634"><img src="/images/profiles/lefteris-tatakis.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0001-5554-7634"><img src="/images/profiles/lefteris-tatakis-sm.png" class="profile_picture"></a>
 		<div class="name"><!--Eleftherios--> Lefteris Tatakis</div>
 		<div class="role">PhD Student</div>
 	</div>
@@ -99,21 +99,21 @@ permalink: /people/
 		<!-- <div class="role">PhD Student</div> -->
 	</div>
 		<div class="grid-item profile_box">
-		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier.png" class="profile_picture"></a>
+		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier-sm.png" class="profile_picture"></a>
 		<div class="name">Paolo Missier</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft-sm.png" class="profile_picture"></a>
 		<div class="name">Katy Wolstencroft</div>
 	</div>
 
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-1809-5621"><img src="/images/profiles/steve-pettifer.png" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-1809-5621"><img src="/images/profiles/steve-pettifer-sm.png" class="profile_picture"></a>
 		<div class="name">Steven Pettifer</div>
 	</div>
 
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-8691-772X"><img src="/images/profiles/marco-roos.jpg" class="profile_picture"></a>
+		<a href="http://orcid.org/0000-0002-8691-772X"><img src="/images/profiles/marco-roos-sm.png" class="profile_picture"></a>
 		<div class="name">Marco Roos</div>
 	</div>
 <!-- 
