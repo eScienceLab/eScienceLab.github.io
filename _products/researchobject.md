@@ -4,7 +4,7 @@ name: research_object
 title: Research Objects
 path: research_object
 collection: products
-description:
+description: Research publications, data, code and more bundled into a shareable, cite-able, reusable format
 website: http://www.researchobject.org/
 logo: /images/logo/researchobject.png
 screenshot: /images/screenshots/sm_researchobject.png
