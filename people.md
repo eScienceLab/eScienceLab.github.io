@@ -128,64 +128,48 @@ permalink: /people/
 
 </div>
 
-
-
-
-
-
 ## Former Team Members and Associates
-<ul>
-<!-- <li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li> -->
-<li><a href="http://orcid.org/0000-0003-4913-1485">Matthew Gamble</a></li>
-<li><a href="http://orcid.org/0000-0002-9538-7919">Robert Haines</a></li>
-<li><a href="http://orcid.org/0000-0002-2937-7819">Christian Y A Brenninkmeijer</a></li>
-<li><a href="http://orcid.org/0000-0002-1279-5133">Katy Wolstencroft</a></li>
-<li>Rishi Ramgolam</li>
-<li>Sergejs Aleksejevs</li>
-<li>Constantinos Astreos</li>
-<li>Jiten (Jits) Bhagat</li>
-<li><a href="http://orcid.org/0000-0001-6938-0820">Khalid Belhajjame</a></li>
-<li>Mark Borkum</li>
-<li><a href="http://orcid.org/0000-0003-4994-3803">Tim Clark</a></li>
-<li><a href="http://orcid.org/0000-0002-9260-0753">Oscar Corcho</a></li>
-<li>Phillip Cotter</li>
-<li><a href="http://orcid.org/0000-0002-0777-0855">Don Cruickshank</a></li>
-<li><a href="http://orcid.org/0000-0001-7066-3350">Ian Dunlop</li>
-<li>Suzanne Embury</li>
-<li>June Finch</li>
-<li><a href="http://orcid.org/0000-0003-1983-9204">Paul Fisher</a></li>
-<li>Jeremy Frey</li>
-<li>Andrew Gibson</li>
-<li>Antoon Goderis</li>
-<li><a href="http://orcid.org/0000-0002-5711-4872">Alasdair J G Gray</a></li>
-<li>Helen Hulme	</li>
-<li><a href="http://orcid.org/0000-0003-2387-503X">Duncan Hull</a></li>
-<li><a href="http://orcid.org/0000-0002-0643-3144">Simon Jupp</a></li>
-<li>Bharathi Kattamuri</li>
-<li>Phillip Lord</li>
-<li>James Marsh</li>
-<li>Philip McDermott</li>
-<li>Danius Michaelides</li>
-<li>Georgina Moulton</li>
-<li>Luc Moreau</li>
-<li>David Newman</li>
-<li>Rory Newton</li>
-<li>Eric Nzuobontane</li>
-<li>Tom Oinn</li>
-<li>Mannie Tagarira</li>
-<li>Franck Tanohli</li>
-<li>Daniele Turili</li>
-<li>David Withers</li>
-<li>Anil Wipat</li>
-<li>Christopher Wroe</li>
-<li>Quiwei Yu</li>
-<li>Ed Zaluskali</li>
-</ul>
-
-
+ * [Matthew Gamble](http://orcid.org/0000-0003-4913-1485)
+ * [Robert Haines](http://orcid.org/0000-0002-9538-7919)
+ * [Christian Y A Brenninkmeijer](http://orcid.org/0000-0002-2937-7819)
+ * [Katy Wolstencroft](http://orcid.org/0000-0002-1279-5133)
+ * Rishi Ramgolam
+ * Sergejs Aleksejevs
+ * Constantinos Astreos
+ * Jiten (Jits) Bhagat
+ * [Khalid Belhajjame](http://orcid.org/0000-0001-6938-0820)
+ * Mark Borkum
+ * [Tim Clark](http://orcid.org/0000-0003-4994-3803)
+ * [Oscar Corcho](http://orcid.org/0000-0002-9260-0753)
+ * Phillip Cotter
+ * [Don Cruickshank](http://orcid.org/0000-0002-0777-0855)
+ * [Ian Dunlop](http://orcid.org/0000-0001-7066-3350)
+ * Suzanne Embury
+ * June Finch
+ * [Paul Fisher](http://orcid.org/0000-0003-1983-9204)
+ * Jeremy Frey
+ * Andrew Gibson
+ * Antoon Goderis
+ * [Alasdair J G Gray](http://orcid.org/0000-0002-5711-4872)
+ * Helen Hulme	
+ * [Duncan Hull](http://orcid.org/0000-0003-2387-503X)
+ * [Simon Jupp](http://orcid.org/0000-0002-0643-3144)
+ * Bharathi Kattamuri
+ * Phillip Lord
+ * James Marsh
+ * Philip McDermott
+ * Danius Michaelides
+ * Georgina Moulton
+ * Luc Moreau
+ * David Newman
+ * Rory Newton
+ * Eric Nzuobontane
+ * Tom Oinn
+ * Mannie Tagarira
+ * Franck Tanohli
+ * Daniele Turili
+ * David Withers
+ * Anil Wipat
+ * Christopher Wroe
+ * Quiwei Yu
+ * Ed Zaluskali
