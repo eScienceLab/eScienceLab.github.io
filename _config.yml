@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The eScience Lab team is a multi-disciplinary internationally leading research group
   focusing on the challenges of eScience. We specialise in data and knowledge-intensive e-Laboratories.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://esciencelab.org.uk" # the base hostname & protocol for your site
+url: "http://www.esciencelab.org.uk" # the base hostname & protocol for your site
 github_username:  eScienceLab
 encoding: UTF-8
 permalink: pretty
