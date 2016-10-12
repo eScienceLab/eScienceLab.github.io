@@ -31,7 +31,7 @@ permalink: /people/
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
-    		<a href="orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida.png" class="profile_picture"></a>
+    		<a href="http://orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida.png" class="profile_picture"></a>
     		<div class="name">Anna Leida</div>
     		<div class="role">Senior Research Software Engineer</div>
     	</div>
