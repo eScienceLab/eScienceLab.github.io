@@ -31,6 +31,11 @@ permalink: /people/
 		<div class="role">Senior Research Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
+    		<a href="http://orcid.org/0000-0002-5945-1709"><img src="/images/profiles/anna-leida.png" class="profile_picture"></a>
+    		<div class="name">Anna Leida</div>
+    		<div class="role">Senior Research Software Engineer</div>
+    	</div>
+	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0003-1604-1512"><img src="/images/profiles/norman-morrison.jpg" class="profile_picture"></a>
 		<div class="name">Norman Morrison</div>
 		<div class="role">Project Manager, Data Scientist</div>
@@ -44,11 +49,6 @@ permalink: /people/
 		<a href="http://orcid.org/0000-0003-2130-0865"><img src="/images/profiles/stuart-owen.png" class="profile_picture"></a>
 		<div class="name">Stuart Owen</div>
 		<div class="role">Senior Technical Architect</div>
-	</div>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-8418-6735"><img src="/images/profiles/aleksandra-pawlik.png" class="profile_picture"></a>
-		<div class="name">Aleksandra Pawlik</div>
-		<div class="role">Training Leader, Software Engineer</div>
 	</div>
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0003-4958-0184"><img src="/images/profiles/natalie-stanford.png" class="profile_picture"></a>
@@ -129,6 +129,7 @@ permalink: /people/
 </div>
 
 ## Former Team Members and Associates
+ * [Aleksandra Pawlik](http://orcid.org/0000-0001-8418-6735)
  * [Matthew Gamble](http://orcid.org/0000-0003-4913-1485)
  * [Robert Haines](http://orcid.org/0000-0002-9538-7919)
  * [Christian Y A Brenninkmeijer](http://orcid.org/0000-0002-2937-7819)
@@ -151,7 +152,7 @@ permalink: /people/
  * Andrew Gibson
  * Antoon Goderis
  * [Alasdair J G Gray](http://orcid.org/0000-0002-5711-4872)
- * Helen Hulme	
+ * Helen Hulme
  * [Duncan Hull](http://orcid.org/0000-0003-2387-503X)
  * [Simon Jupp](http://orcid.org/0000-0002-0643-3144)
  * Bharathi Kattamuri
