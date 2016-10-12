@@ -51,11 +51,6 @@ permalink: /people/
 		<div class="role">Senior Technical Architect</div>
 	</div>
 	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0001-8418-6735"><img src="/images/profiles/aleksandra-pawlik.png" class="profile_picture"></a>
-		<div class="name">Aleksandra Pawlik</div>
-		<div class="role">Training Leader, Software Engineer</div>
-	</div>
-	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0003-4958-0184"><img src="/images/profiles/natalie-stanford.png" class="profile_picture"></a>
 		<div class="name">Natalie J Stanford</div>
 		<div class="role">Research Community Manager, Data Scientist</div>
@@ -147,6 +142,7 @@ permalink: /people/
 <li><a href=""></a></li>
 <li><a href=""></a></li>
 <li><a href=""></a></li> -->
+<li><a href="http://orcid.org/0000-0001-8418-6735">Aleksandra Pawlik</a></li>
 <li><a href="http://orcid.org/0000-0003-4913-1485">Matthew Gamble</a></li>
 <li><a href="http://orcid.org/0000-0002-9538-7919">Robert Haines</a></li>
 <li><a href="http://orcid.org/0000-0002-2937-7819">Christian Y A Brenninkmeijer</a></li>
