@@ -18,4 +18,4 @@ both in the UK and internationally. The project involved [Leeds University](http
 Within the project, the eScienceLab team were working on:
 
 * the integration of Taverna functionality into a Portal, i.e., providing JSR 168/286 compliant components that provide access to enactment, management, monitoring and creation of workflows;
-* the re-purposing of services from myExperiment, facilitating their integration into a portal. An important focus will be the incorporation of social networking functionality to provide extended archiving and documentation capability for social simulations
+* the re-purposing of services from myExperiment, facilitating their integration into a portal. An important focus was the incorporation of social networking functionality to provide extended archiving and documentation capability for social simulations.
