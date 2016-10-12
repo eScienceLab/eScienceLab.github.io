@@ -52,8 +52,10 @@
 
 img.project-logo {
   padding-bottom: 1em;
-  max-width: 20em;
-  max-height: 10em;
+  @include media-query($on-laptop) {
+    max-width: 50%;
+  }
+  max-width: 100%;
 }
 
 div.logo-grid {
