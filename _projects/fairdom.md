@@ -9,7 +9,7 @@ logo: fairdom.png
 website: http://fair-dom.org
 start_date: 2014-11-1
 duration:
-project_reference:
+project_reference: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/M013189/1
 ---
 
 FAIRDOM is a joint action of ERA-Net
