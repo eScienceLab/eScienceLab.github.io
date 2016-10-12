@@ -1,7 +1,7 @@
 ---
 layout: product
 name: research_object
-title: Research Object
+title: Research Objects
 path: research_object
 collection: products
 description:
