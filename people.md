@@ -78,19 +78,9 @@ permalink: /people/
 ## PhD Students
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
-	<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0003-3484-6875"><img src="/images/profiles/kristian-garza.jpg" class="profile_picture"></a>
-		<div class="name">Kristian Garza</div>
-		<div class="role">PhD Student</div>
-	</div>
-		<div class="grid-item profile_box">
+    <div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0001-5554-7634"><img src="/images/profiles/lefteris-tatakis.jpg" class="profile_picture"></a>
 		<div class="name"><!--Eleftherios--> Lefteris Tatakis</div>
-		<div class="role">PhD Student</div>
-	</div>
-		<div class="grid-item profile_box">
-		<a href="http://orcid.org/0000-0002-2224-0780"><img src="/images/profiles/pinar-alper.png" class="profile_picture"></a>
-		<div class="name">Pinar Alper</div>
 		<div class="role">PhD Student</div>
 	</div>
 </div>
@@ -105,7 +95,7 @@ permalink: /people/
 	</div>
 		<div class="grid-item profile_box">
 		<a href="https://www.researchgate.net/profile/Paolo_Missier"><img src="/images/profiles/paolo-missier.png" class="profile_picture"></a>
-		<div class="name">Paolo Misser</div>
+		<div class="name">Paolo Missier</div>
 	</div>
 	<div class="grid-item profile_box">
 		<a href="http://orcid.org/0000-0002-1279-5133"><img src="/images/profiles/katy-wolstencroft.jpg" class="profile_picture"></a>
@@ -131,6 +121,8 @@ permalink: /people/
 </div>
 
 ## Former Team Members and Associates
+ * [Kristian Garza](http://orcid.org/0000-0003-3484-6875)
+ * [Pinar Alper](http://orcid.org/0000-0002-2224-0780)
  * [Aleksandra Pawlik](http://orcid.org/0000-0001-8418-6735)
  * [Matthew Gamble](http://orcid.org/0000-0003-4913-1485)
  * [Robert Haines](http://orcid.org/0000-0002-9538-7919)
