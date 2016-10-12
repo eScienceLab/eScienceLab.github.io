@@ -4,7 +4,7 @@ name: software-carpentry
 title: Software Carpentry
 path: software-carpentry.html
 collection: activities
-description: Software Carpentry
+description: Teaching programming best practices, e.g. version control, testing, and task automation.
 logo: software-carpentry.png
 website: http://software-carpentry.org
 ---
