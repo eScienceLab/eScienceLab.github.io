@@ -2,6 +2,7 @@
   float: right;
   min-width: 20em;
   max-width: 30em;
+  box-sizing: content-box;
   .gsc-control-cse {
     background-color: transparent !important;
     border: none !important;
