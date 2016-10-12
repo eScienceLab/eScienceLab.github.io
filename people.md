@@ -91,7 +91,7 @@ former:
 - name: Christian Y. A. Brenninkmeijer
   orcid: http://orcid.org/0000-0002-2937-7819
 - name: Katy Wolstencroft
-  orcid: http://orcid.org/0000-0002-1279-5133)
+  orcid: http://orcid.org/0000-0002-1279-5133
 - name: Rishi Ramgolam
 - name: Sergejs Aleksejevs
 - name: Constantinos Astreos
@@ -120,7 +120,7 @@ former:
 - name: Helen Hulme
 - name: Duncan Hull
   orcid: http://orcid.org/0000-0003-2387-503X
-- name: Simon Jupp]
+- name: Simon Jupp
   orcid: http://orcid.org/0000-0002-0643-3144
 - name: Bharathi Kattamuri
 - name: Phillip Lord
@@ -197,8 +197,8 @@ former:
 
 {% for member in page.former %}
 {% if member.orcid %}
-- {{ member.name }}
-{% else %}
 - [{{member.name}}]({{member.orcid}})
+{% else %}
+- {{ member.name }}
 {% endif %}
 {% endfor %}
