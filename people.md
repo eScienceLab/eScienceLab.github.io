@@ -7,11 +7,13 @@ permalink: /people/
 
 ## Staff
 
+
 <div class="profile_box">
 	<a href="http://orcid.org/0000-0003-1219-2137"><img src="/images/profiles/carole-goble.jpg" class="profile_picture"></a>
  	<div class="name">Professor Carole Goble</div>
  	<div class="role">Head</div>
 </div>
+
 
 <div class="grid js-masonry"
   data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
