@@ -88,7 +88,7 @@ _Interface Focus_ **6**:20150103.
 
 
 Alice Allen, Cecilia Aragon, Christoph Becker, Jeffrey Carver, Andrei Chis, Benoit Combemale, Mike Croucher, Kevin Crowston, Daniel Garijo, Ashish Gehani, Carole Goble, Robert Haines, Robert Hirschfeld, James Howison, Kathryn Huff, Caroline Jay, Daniel Katz, Claude Kirchner, Kateryna Kuksenok, Ralf Lämmel, Oscar Nierstrasz, Matthew Turk, Rob Van Nieuwpoort, Matthew Vaughn, Jurgen Vinju (2016):
-**Lightning Talk:''I solemnly pledge'' A Manifesto for Personal Responsibility in the Engineering of Academic Software**
+**Lightning Talk: "I solemnly pledge" A Manifesto for Personal Responsibility in the Engineering of Academic Software**
 _Proceedings of the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)_,
 _CEUR_ **1686**
 http://ceur-ws.org/Vol-1686/WSSSPE4_paper_15.pdf
