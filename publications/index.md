@@ -39,14 +39,26 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Mélanie Courtot, John Deck, Michel Dumontier, Donal K Fellows, Alejandra Gonzalez-Beltran, Philipp Gormanns, Janna Hastings, Melissa A Haendel, Henning Hermjakob, Jean-Karim Hériché, Jon C Ison, Rafael C Jimenez, Simon Jupp, John Kunze, Camille Laibe, Nicolas Le Novère, James Malone, Maria Jesus Martin, Johanna R McEntyre, Chris Morris, Juha Muilu, Wolfgang Müller, Christopher J Mungall, Philippe Rocca-Serra, Susanna-Assunta Sansone, Murat Sariyar, Jacky L Snoep, Natalie J Stanford, Stian Soiland-Reyes, Neil Swainston, Nicole Washington, Alan R Williams, Katherine Wolstencroft, Carole Goble, Helen Parkinson (2016):
 **Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize data utility and impact**.
-Submitted to _PLOS Biology_ 2016-10-04
+Submitted to _PLOS Biology_ 2016-10-04.
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/identifiers-(2b43a199-444c-4129-9de7-a281348ea7fd).html)
 [[pdf]](https://www.research.manchester.ac.uk/portal/files/47071293/21st_Century_Identifiers_2016_10_06.pdf)
 [doi:10.5281/zenodo.163459](http://dx.doi.org/10.5281/zenodo.163459)
 
+Pablo Carbonell, Andrew Currin, Mark Dunstan, Donal Fellows, Adrian Jervis, Nicholas J.W. Rattray, Christopher J. Robinson, Neil Swainston, Maria Vinaixa, Alan Williams, Cunyu Yan, Perdita Barran, Rainer Breitling, George Guo-Qiang Chen, Jean-Loup Faulon, Carole Goble, Royston Goodacre, Douglas B. Kell, Rosalind Le Feuvre, Jason Micklefield, Nigel S. Scrutton, Philip Shapira, Eriko Takano, Nicholas J. Turner (2016):
+**SYNBIOCHEM–a SynBio foundry for the biosynthesis and sustainable production of fine and speciality chemicals**.
+_Biochemical Society Transactions_ **44**(3) 675-677
+[doi:10.1042/BST20160009](http://dx.doi.org/10.1042/BST20160009)
+
+Pinar Alper, Khalid Belhajjame, Carole A. Goble (2016):
+**Automatic Versus Manual Provenance Abstractions: Mind the Gap**.
+_8th USENIX Workshop on the Theory and Practice of Provenance (TaPP 16)_.
+[[usenix]](https://www.usenix.org/conference/tapp16/workshop-program/presentation/alper)
+[arxiv:1605.06669](https://arxiv.org/abs/1605.06669)
+[[pdf]](https://www.usenix.org/system/files/conference/tapp16/tapp16-paper-alper.pdf)
+
 Alex R. Hardisty, Finn Bacall, Niall Beard, Maria-Paula Balcázar-Vargas, Bachir Balech, Zoltán Barcza, Sarah J. Bourlat, Renato De Giovanni, Yde de Jong, Francesca De Leo, Laura Dobor, Giacinto Donvito, Donal Fellows, Antonio Fernandez Guerra, Nuno Ferreira, Yuliya Fetyukova, Bruno Fosso, Jonathan Giddy, Carole Goble, Anton Güntsch, Robert Haines, Vera Hernández Ernst, Hannes Hettling, Dóra Hidy, Ferenc Horváth, Dóra Ittzés, Péter Ittzés, Andrew Jones, Renzo Kottmann, Robert Kulawik, Sonja Leidenberger, Päivi Lyytikäinen-Saarenmaa, Cherian Mathew, Norman Morrison, Aleksandra Nenadic, Abraham Nieva de la Hidalga, Matthias Obst, Gerard Oostermeijer, Elisabeth Paymal, Graziano Pesole, Salvatore Pinto, Axel Poigné, Francisco Quevedo Fernandez, Monica Santamaria, Hannu Saarenmaa, Gergely Sipos, Karl-Heinz Sylla, Marko Tähtinen, Saverio Vicario, Rutger Aldo Vos, Alan R. Williams, Pelin Yilmaz (2016):
 **BioVeL: a virtual laboratory for data analysis and modelling in biodiversity science and ecology**.
-_BMC Ecology_ **16**:(49)
+_BMC Ecology_ **16**(49)
 [doi:10.1186/s12898-016-0103-y](http://dx.doi.org/10.1186/s12898-016-0103-y)
 [PMID:27765035](http://www.ncbi.nlm.nih.gov/pubmed/27765035)
 
@@ -54,7 +66,7 @@ Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Ia
 **Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**.
 _Journal of Medical Internet Research_ **18**(1):e13
 [doi:10.2196/jmir.4912](http://dx.doi.org/10.2196/jmir.4912)
-[PMID: 26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
+[PMID:26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
 
 Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak,
 Niklas Blomberg, Jan-Willem Boiten, Luiz Bonino da Silva Santos, Philip E. Bourne, Jildau Bouwman, Anthony J. Brookes,
@@ -67,6 +79,13 @@ Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Z
 **The FAIR Guiding Principles for scientific data management and stewardship**.
 _Nature Scientific Data_ **3**, 2016
 [doi:10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
+
+David Nickerson, Koray Atalag, Bernard de Bono, Jörg Geiger, Carole Goble, Susanne Hollmann, Joachim Lonien, Wolfgang Müller, Babette Regierer, Natalie J. Stanford, Martin Golebiewski, Peter Hunter (2016):
+**The Human Physiome: how standards, software and innovative service infrastructures are providing the building blocks to make it achievable**
+_Interface Focus_ **6**:20150103.
+[[pdf]](http://rsfs.royalsocietypublishing.org/content/royfocus/6/2/20150103.full.pdf)
+[doi:10.1098/rsfs.2015.0103](http://dx.doi.org/10.1098/rsfs.2015.0103 )
+
 
 ## 2015
 
