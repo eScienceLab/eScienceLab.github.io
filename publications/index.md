@@ -37,8 +37,21 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2016
 
-Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Iain Buchan (2016)
-**Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**
+Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Mélanie Courtot, John Deck, Michel Dumontier, Donal K Fellows, Alejandra Gonzalez-Beltran, Philipp Gormanns, Janna Hastings, Melissa A Haendel, Henning Hermjakob, Jean-Karim Hériché, Jon C Ison, Rafael C Jimenez, Simon Jupp, John Kunze, Camille Laibe, Nicolas Le Novère, James Malone, Maria Jesus Martin, Johanna R McEntyre, Chris Morris, Juha Muilu, Wolfgang Müller, Christopher J Mungall, Philippe Rocca-Serra, Susanna-Assunta Sansone, Murat Sariyar, Jacky L Snoep, Natalie J Stanford, Stian Soiland-Reyes, Neil Swainston, Nicole Washington, Alan R Williams, Katherine Wolstencroft, Carole Goble, Helen Parkinson (2016):
+**Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize data utility and impact**.
+Submitted to _PLOS Biology_ 2016-10-04
+[[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/identifiers-(2b43a199-444c-4129-9de7-a281348ea7fd).html)
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/47071293/21st_Century_Identifiers_2016_10_06.pdf)
+[doi:10.5281/zenodo.163459](http://dx.doi.org/10.5281/zenodo.163459)
+
+Alex R. Hardisty, Finn Bacall, Niall Beard, Maria-Paula Balcázar-Vargas, Bachir Balech, Zoltán Barcza, Sarah J. Bourlat, Renato De Giovanni, Yde de Jong, Francesca De Leo, Laura Dobor, Giacinto Donvito, Donal Fellows, Antonio Fernandez Guerra, Nuno Ferreira, Yuliya Fetyukova, Bruno Fosso, Jonathan Giddy, Carole Goble, Anton Güntsch, Robert Haines, Vera Hernández Ernst, Hannes Hettling, Dóra Hidy, Ferenc Horváth, Dóra Ittzés, Péter Ittzés, Andrew Jones, Renzo Kottmann, Robert Kulawik, Sonja Leidenberger, Päivi Lyytikäinen-Saarenmaa, Cherian Mathew, Norman Morrison, Aleksandra Nenadic, Abraham Nieva de la Hidalga, Matthias Obst, Gerard Oostermeijer, Elisabeth Paymal, Graziano Pesole, Salvatore Pinto, Axel Poigné, Francisco Quevedo Fernandez, Monica Santamaria, Hannu Saarenmaa, Gergely Sipos, Karl-Heinz Sylla, Marko Tähtinen, Saverio Vicario, Rutger Aldo Vos, Alan R. Williams, Pelin Yilmaz (2016):
+**BioVeL: a virtual laboratory for data analysis and modelling in biodiversity science and ecology**.
+_BMC Ecology_ **16**:(49)
+[doi:10.1186/s12898-016-0103-y](http://dx.doi.org/10.1186/s12898-016-0103-y)
+[PMID:27765035](http://www.ncbi.nlm.nih.gov/pubmed/27765035)
+
+Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Iain Buchan (2016):
+**Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**.
 _Journal of Medical Internet Research_ **18**(1):e13
 [doi:10.2196/jmir.4912](http://dx.doi.org/10.2196/jmir.4912)
 [PMID: 26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
@@ -51,7 +64,7 @@ Peter A.C ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J. Lush
 Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes,
 Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
 Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao & Barend Mons (2016)
-**The FAIR Guiding Principles for scientific data management and stewardship**
+**The FAIR Guiding Principles for scientific data management and stewardship**.
 _Nature Scientific Data_ **3**, 2016
 [doi:10.1038/sdata.2016.18](http://dx.doi.org/10.1038/sdata.2016.18)
 
@@ -62,7 +75,7 @@ Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanfor
 _BMC Systems Biology_ 20, **9**:33 [doi:10.1186/s12918-015-0174-y](http://dx.doi.org/10.1186/s12918-015-0174-y)
 
 Natalie J Stanford, Katherine Wolstencroft, Martin Golebiewski, Renate Kania, Nick Juty, Christopher Tomlinson, Stuart Owen, Sarah Butcher, Henning Hermjakob, Nicolas Le Novère, Wolfgang Mueller, Jacky Snoep, Carole Goble (2015):
-**The evolution of standards and data management practices in systems biology**
+**The evolution of standards and data management practices in systems biology**.
 _Molecular Systems Biology_ **11**:851
 [doi:10.15252/msb.20156053](http://dx.doi.org/10.15252/msb.20156053)
 
