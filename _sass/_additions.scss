@@ -89,4 +89,33 @@ a.logo-grid-item {
   }
 }
 
+.profile_box {
+  width: 180px;
+  height: 280px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .role {
+    text-align: center;
+    font-size: smaller;
+  }
+  .profile_picture {
+    display: block;
+    max-width: 150px;
+    height: 150px;
+    margin: auto;
+    border: 10px;
+  }
+  &.head {
+    display: block;
+  }
+}
 
+div.former-members li {
+  width: 16em;
+  float: left;
+}

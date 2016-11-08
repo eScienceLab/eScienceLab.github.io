@@ -142,58 +142,47 @@ former:
 - name: Quiwei Yu
 - name: Ed Zaluskali
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/3.3.2/masonry.pkgd.min.js"></script>
 
 ## Staff
 
-<div class="grid js-masonry"
-  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
   {% for member in page.head %}
-  <div class="grid-item profile_box">
-	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
- 	<div class="name">{{member.name}}</div>
- 	<div class="role">{{member.role}}</div>
+  <div class="profile_box head">
+   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+    <div class="name">{{member.name}}</div>
+    <div class="role">{{member.role}}</div>
   </div>
   {% endfor %}
-</div>
-
-<div class="grid js-masonry"
-  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
+  
   {% for member in page.staff %}
-  <div class="grid-item profile_box">
-	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
- 	<div class="name">{{member.name}}</div>
- 	<div class="role">{{member.role}}</div>
+  <div class="profile_box">
+   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+    <div class="name">{{member.name}}</div>
+    <div class="role">{{member.role}}</div>
   </div>
   {% endfor %}
-</div>
 
 ## PhD Students
 
-<div class="grid js-masonry"
-  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
   {% for member in page.phd %}
-  <div class="grid-item profile_box">
-	<a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
- 	<div class="name">{{member.name}}</div>
- 	<div class="role">PhD Student</div>
+  <div class="profile_box">
+   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+    <div class="name">{{member.name}}</div>
+    <div class="role">PhD Student</div>
   </div>
   {% endfor %}
-</div>
 
 ## Current Associates
 
-<div class="grid js-masonry"
-  data-masonry-options='{ "itemSelector": ".grid-item", "columnWidth": 100 }'>
   {% for member in page.associate %}
   <div class="grid-item profile_box">
-	<a href="{% if member.url %}{{member.url}}{% else %}http://orcid.org/{{member.orcid}}{% endif %}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
- 	<div class="name">{{member.name}}</div>
+   <a href="{% if member.url %}{{member.url}}{% else %}http://orcid.org/{{member.orcid}}{% endif %}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+   <div class="name">{{member.name}}</div>
   </div>
   {% endfor %}
-</div>
 
 ## Former Team Members and Associates
+
+<div markdown='1' class="former-members">
 
 {% for member in page.former %}
 {% if member.orcid %}
@@ -202,3 +191,5 @@ former:
 - {{ member.name }}
 {% endif %}
 {% endfor %}
+
+</div>
