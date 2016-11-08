@@ -80,8 +80,8 @@ a.logo-grid-item {
   width: 33%;
   min-width: 300px;
   img {
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
+    filter: grayscale(75%);
+    -webkit-filter: grayscale(75%);
     &:hover {
       filter: none;
       -webkit-filter: none;
