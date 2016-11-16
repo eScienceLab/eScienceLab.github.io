@@ -4,10 +4,10 @@ name: e-Fungi
 title: e-Fungi
 collection: projects
 description: Webservices for comparative genomics
-logo:
-website:
-start_date:
-duration:
+logo:efungi_logo.jpg
+website:http://www.cs.man.ac.uk/~cornell/eFungi/
+start_date:2004-10-1
+duration:46 months
 project_reference:
 expired: true
 ---
