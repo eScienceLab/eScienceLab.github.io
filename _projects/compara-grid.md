@@ -7,13 +7,13 @@ collection: projects
 description: Querying of genomic relationships
 logo:
 website:
-start_date:
-duration:
-project_reference:
+start_date: 2005-01-01
+duration: 36 months
+project_reference: http://www.bbsrc.ac.uk/research/grants-search/AwardDetails/?FundingReference=BBS/B/17131
 expired: true
 ---
 
-[ComparaGrid](http://www.comparagrid.org/) was a [BBSRC](http://www.bbsrc.ac.uk/) funded project to develop a prototype system to capture the details of relationships between genomic data
+ComparaGrid was a [BBSRC](http://www.bbsrc.ac.uk/) funded project to develop a prototype system to capture the details of relationships between genomic data
 either within or across species thus enabling complex ad hoc queries to be run. ComparaGrid demonstrates that the underlying raw data
 can be combined to draw maximum benefit from those data for all genomic communities.
 
