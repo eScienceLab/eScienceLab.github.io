@@ -12,8 +12,10 @@ layout: default
       <h2 class="post-tagline">{{ page.description }}</h2>
     {% endif %}
 
+    {% if page.logo %}
     <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}" class="project-logo"/>
-
+    {% endif %}
+    
     <ul>
       {% if page.website %}
         <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
