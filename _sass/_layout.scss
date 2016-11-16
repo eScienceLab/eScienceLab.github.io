@@ -267,7 +267,7 @@ img.product-logo {
     background-repeat: no-repeat;
     background-position: center center;
     background-image: url('/images/garden_cropped_scaled.jpg');
-    background-size: 100% auto;
+    background-size: auto;
     height: 350px;
     @include media-query($on-laptop) {
         height: 200px;
@@ -277,13 +277,15 @@ img.product-logo {
     h1 {
         font-family: 'Titillium Web', sans-serif;
         font-size: 80px;
+        line-height: 350px;
         color: white;
         text-shadow: 1px 1px 3px #000;
-        padding: 50px 0;
-        clear: both;
+        padding: 0;
+        float: left;
+        position: absolute;
         @include media-query($on-laptop) {
-            padding: 0;
             font-size: 60px;
+            line-height: 200px;
         }
     }
 }
