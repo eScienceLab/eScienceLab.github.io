@@ -42,6 +42,7 @@ Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Ba
 _Nucleic Acids Research_.
 [doi:10.1093/nar/gkw1032](http://dx.doi.org/10.1093/nar/gkw1032)
 [[pdf]](https://www.research.manchester.ac.uk/portal/files/48515288/Nucl._Acids_Res._2016_Wolstencroft_nar_gkw1032.pdf)
+[[html]](https://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full.pdf+html)
 
 Kyle Chard, Mike D’ Arcy, Ben Heavner, Ian Foster, Carl Kesselman, Ravi Madduri, Alexis Rodriguez, Stian Soiland-Reyes, Carole Goble, Kristi Clark, Eric W. Deutsch, Ivo Dinov, Nathan Price, Arthur Toga (2016): 
 **I’ll Take That to Go: Big Data Bags and Minimal Identifiers for Exchange of Large, Complex Datasets.**
