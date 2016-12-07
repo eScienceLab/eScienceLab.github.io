@@ -37,6 +37,26 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2016
 
+Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Bacall, Martin Golebiewski, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, David D. van Niekerk, Alan R. Williams, Lars Malmström, Bernd Rinn, Wolfgang Müller, Carole Goble (2016):
+**FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**
+_Nucleic Acids Research_.
+[doi:10.1093/nar/gkw1032](http://dx.doi.org/10.1093/nar/gkw1032)
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/48515288/Nucl._Acids_Res._2016_Wolstencroft_nar_gkw1032.pdf)
+
+Kyle Chard, Mike D’ Arcy, Ben Heavner, Ian Foster, Carl Kesselman, Ravi Madduri, Alexis Rodriguez, Stian Soiland-Reyes, Carole Goble, Kristi Clark, Eric W. Deutsch, Ivo Dinov, Nathan Price, Arthur Toga (2016): 
+**I’ll Take That to Go: Big Data Bags and Minimal Identifiers for Exchange of Large, Complex Datasets.**
+Accepted at _[IEEE International Conference on Big Data 2016](http://cci.drexel.edu/bigdata/bigdata2016/)_.
+[[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/ill-take-that-to-go-big-data-bags-and-minimal-identifiers-for-exchange-of-large-complex-datasets(8335e672-1d85-4649-a245-56fbdb1bd423).html)
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/45989205/bagminid.pdf)
+[[researchgate]](https://www.researchgate.net/publication/309779617_I'll_Take_That_to_Go_Big_Data_Bags_and_Minimal_Identifiers_for_Exchange_of_Large_Complex_Datasets)
+
+Antonis Troumpoukis, Angelos Charalambidis, Giannis Mouchakis, Stasinos Konstantopoulos, Ronald Siebes, Victor de Boer, Stian Soiland-Reyes, Daniela Digles (2016):
+**Developing a Benchmark Suite for Semantic Web Data from Existing Workflows**
+Accepted at _[BLINK 2016 Workshop on Benchmarking Linked Data](https://project-hobbit.eu/events/blink-2016/)_. Kobe, Japan.
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/45510530/BLINK_2016_paper_2.pdf)
+[[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/developing-a-benchmark-suite-for-semantic-web-data-from-existing-workflows(03047934-c3d3-4cd4-b001-e0b913766a92).html)
+
+
 Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Mélanie Courtot, John Deck, Michel Dumontier, Donal K Fellows, Alejandra Gonzalez-Beltran, Philipp Gormanns, Janna Hastings, Melissa A Haendel, Henning Hermjakob, Jean-Karim Hériché, Jon C Ison, Rafael C Jimenez, Simon Jupp, John Kunze, Camille Laibe, Nicolas Le Novère, James Malone, Maria Jesus Martin, Johanna R McEntyre, Chris Morris, Juha Muilu, Wolfgang Müller, Christopher J Mungall, Philippe Rocca-Serra, Susanna-Assunta Sansone, Murat Sariyar, Jacky L Snoep, Natalie J Stanford, Stian Soiland-Reyes, Neil Swainston, Nicole Washington, Alan R Williams, Katherine Wolstencroft, Carole Goble, Helen Parkinson (2016):
 **Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize data utility and impact**.
 Submitted to _PLOS Biology_ 2016-10-04.
