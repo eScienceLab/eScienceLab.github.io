@@ -150,7 +150,7 @@ former:
 
   {% for member in page.head %}
   <div class="profile_box head">
-   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+   <a {% if member.orcid %}href="http://orcid.org/{{member.orcid}}"{% endif %}><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
     <div class="name">{{member.name}}</div>
     <div class="role">{{member.role}}</div>
   </div>
@@ -158,7 +158,7 @@ former:
   
   {% for member in page.staff %}
   <div class="profile_box">
-   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+   <a {% if member.orcid %}href="http://orcid.org/{{member.orcid}}"{% endif %}><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
     <div class="name">{{member.name}}</div>
     <div class="role">{{member.role}}</div>
   </div>
@@ -168,7 +168,7 @@ former:
 
   {% for member in page.phd %}
   <div class="profile_box">
-   <a href="http://orcid.org/{{member.orcid}}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+   <a {% if member.orcid %}href="http://orcid.org/{{member.orcid}}"{% endif %}><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
     <div class="name">{{member.name}}</div>
     <div class="role">PhD Student</div>
   </div>
@@ -178,7 +178,7 @@ former:
 
   {% for member in page.associate %}
   <div class="grid-item profile_box">
-   <a href="{% if member.url %}{{member.url}}{% else %}http://orcid.org/{{member.orcid}}{% endif %}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
+   <a href="{% if member.url %}{{member.url}}{% elsif member.orcid %}http://orcid.org/{{member.orcid}}{% endif %}"><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
    <div class="name">{{member.name}}</div>
   </div>
   {% endfor %}
