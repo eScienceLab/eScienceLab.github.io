@@ -52,6 +52,9 @@ phd:
 - name: Lefteris Tatakis
   orcid: 0000-0001-5554-7634
   img: lefteris-tatakis-sm.jpg
+- name: Catarina Martins
+  orcid: 0000-0001-9021-8860
+  img: catarina-martins-sm.jpg
 associate:
 - name: Andy Brass
   orcid:
