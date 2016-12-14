@@ -36,6 +36,9 @@
   text-align: center;
   padding: 0.2em;
   margin: 0;
+  background: $header-background-color;
+  color: $header-text-color;
+  font-size: $base-font-size;
 }
 
 .product-screenshot img {
