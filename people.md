@@ -16,10 +16,6 @@ staff:
   orcid: 0000-0002-2627-0231
   img: niall-beard-sm.jpg
   role: Scientific Web Technologist
-- name: Donal Fellows
-  orcid: 0000-0002-9091-5938
-  img: donal-fellows-sm.jpg
-  role: Senior Research Software Engineer
 - name: Anna Leida
   orcid: 0000-0002-5945-1709
   img: anna-leida-sm.jpg
@@ -141,6 +137,10 @@ former:
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
+- name: Donal Fellows
+  orcid: 0000-0002-9091-5938
+  img: donal-fellows-sm.jpg
+  role: Senior Research Software Engineer
 ---
 
 ## Staff
