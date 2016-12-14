@@ -69,6 +69,10 @@
             padding-top: 6px;
             text-align: center;
 
+            &:hover {
+                cursor: pointer;
+            }
+
             > svg {
                 width: 18px;
                 height: 15px;
