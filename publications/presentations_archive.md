@@ -8,7 +8,7 @@ exclude_from_nav: true
 |-------|------|---------|------|
 | Open SourceNGS Annotation Pipelinesin the Cloud | 2011 | Goble, C., Haines, R., Soiland-Reyes, S., Edwards, A., Noyes, H., Brass, A. and Fisher, P. | <a rel="nofollow" href="http://wiki.esi.ac.uk/w/files/f/f3/NGS_Carole_Goble.pdf" class="external-link">Download</a> |
 
-| Data-driven research withe-Laboratories | 2011 | Owen, S. | <a rel="nofollow" href="http://www.sysmo-db.org/sites/default/files/DIR-Workshop-2011.ppt" class="external-link">Download</a> |
+| Data-driven research withe-Laboratories | 2011 | Owen, S. | <a rel="nofollow" href="http://www.seek4science.org/sites/default/files/presentations/DIR-Workshop-2011.ppt" class="external-link">Download</a> |
 | Understanding Collaborative Studies Through Interoperable Workflow Provenance | 2010 | Altinas, I., Anand, M.K., Crawl, D., Belloum, D., Missier, P., Goble, C. and Sloot, P. |  |
 | BioCatalogue - The Life Science Web Service Registry | 2010 | Bhagat, J. | <a rel="nofollow" href="http://www.slideshare.net/BioCatalogue/ismb-2010-biocatalogue-presentation" class="external-link">Download</a> |
 | Semantic Virtual Observatory | 2010 | Brooke, J., Bentley, R., Csillaghy, A., Le Blanc, A., Hapgood, M., Perry, C., Acton, C., Thompson, B. and the HELIO team | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/HELIOposterA0.pdf" class="external-link">Download</a> |
