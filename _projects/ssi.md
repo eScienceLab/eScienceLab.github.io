@@ -1,8 +1,8 @@
 ---
 layout: project
-name: ssi
-title: SSI
-path: ssi.html
+name: Software Sustainability Institute
+title: Software Sustainability Institute
+path: ssi
 collection: projects
 description: Facilitating self-sustainability of research software
 logo: ssi.png
