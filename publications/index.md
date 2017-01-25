@@ -62,7 +62,7 @@ Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie 
 **Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize data utility and impact**.
 Submitted to _PLOS Biology_ 2016-10-04.
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/identifiers-(2b43a199-444c-4129-9de7-a281348ea7fd).html)
-[[pdf]](https://www.research.manchester.ac.uk/portal/files/47071293/21st_Century_Identifiers_2016_10_06.pdf)
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/49527016/21st_Century_Identifiers_2016_10_06.pdf)
 [doi:10.5281/zenodo.163459](http://dx.doi.org/10.5281/zenodo.163459)
 
 Pablo Carbonell, Andrew Currin, Mark Dunstan, Donal Fellows, Adrian Jervis, Nicholas J.W. Rattray, Christopher J. Robinson, Neil Swainston, Maria Vinaixa, Alan Williams, Cunyu Yan, Perdita Barran, Rainer Breitling, George Guo-Qiang Chen, Jean-Loup Faulon, Carole Goble, Royston Goodacre, Douglas B. Kell, Rosalind Le Feuvre, Jason Micklefield, Nigel S. Scrutton, Philip Shapira, Eriko Takano, Nicholas J. Turner (2016):
