@@ -8,6 +8,7 @@ description: Design, editing and execution of scientific workflows
 website: http://taverna.incubator.apache.org/
 logo: /images/logo/apache-taverna.svg
 screenshot: /images/screenshots/sm_taverna.png
+wiki: https://wikipedia.org/wiki/Apache_Taverna
 ---
 
 [Apache Taverna (incubating)](http://taverna.incubator.apache.org/)  is powerful,

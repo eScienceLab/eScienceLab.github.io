@@ -8,6 +8,7 @@ description: Pharmacology data discovery and browsing
 website: https://explorer.openphacts.org
 logo: /images/logo/openphacts-explorer.svg
 screenshot: /images/screenshots/sm_explorer.png
+wiki: https://en.wikipedia.org/wiki/OpenPHACTS
 ---
 
 The [Open PHACTS Explorer](https://explorer.openphacts.org) provides an intuitive way to query the multiple pharmacological and physicochemical data sources integrated in the [Open PHACTS Discovery Platform](https://www.openphacts.org/). 
