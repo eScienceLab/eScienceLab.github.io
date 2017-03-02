@@ -59,6 +59,7 @@ associate:
   img: andy_brass-sm.jpg
 - name: Alasdair J. G. Gray
   orcid: 0000-0002-5711-4872
+  img: alasdair-gray.jpg
 - name: Caroline Jay
   orcid: 0000-0002-6080-1382
   img: caroline-jay-sm.jpg
@@ -82,29 +83,10 @@ associate:
 
 
 former:
-- name: Lefteris Tatakis
-  orcid: 0000-0001-5554-7634
-- name: Anna Leida
-  orcid: 0000-0002-5945-1709
-- name: Steven Pettifer
-  orcid: 0000-0002-1809-5621
-  img: steve-pettifer-sm.jpg
-- name: Donal Fellows
-  orcid: 0000-0002-9091-5938
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
-- name: Kristian Garza
-  orcid: 0000-0003-3484-6875
-- name: Aleksandra Pawlik
-  orcid: 0000-0001-8418-6735
-- name: Matthew Gamble
-  orcid: 0000-0003-4913-1485
-- name: Robert Haines
-  orcid: 0000-0002-9538-7919
 - name: Christian Y. A. Brenninkmeijer
   orcid: 0000-0002-2937-7819
-- name: Katy Wolstencroft
-  orcid: 0000-0002-1279-5133
 - name: Rishi Ramgolam
 - name: Sergejs Aleksejevs
 - name: Constantinos Astreos
@@ -125,15 +107,25 @@ former:
 - name: June Finch
 - name: Paul Fisher
   orcid: 0000-0003-1983-9204
+- name: Donal Fellows
+  orcid: 0000-0002-9091-5938  
 - name: Jeremy Frey
+- name: Matthew Gamble
+  orcid: 0000-0003-4913-1485
+- name: Kristian Garza
+  orcid: 0000-0003-3484-6875  
 - name: Andrew Gibson
 - name: Antoon Goderis
+- name: Robert Haines
+  orcid: 0000-0002-9538-7919
 - name: Helen Hulme
 - name: Duncan Hull
   orcid: 0000-0003-2387-503X
 - name: Simon Jupp
   orcid: 0000-0002-0643-3144
 - name: Bharathi Kattamuri
+- name: Anna Leida
+  orcid: 0000-0002-5945-1709
 - name: Phillip Lord
 - name: James Marsh
 - name: Philip McDermott
@@ -144,11 +136,20 @@ former:
 - name: Rory Newton
 - name: Eric Nzuobontane
 - name: Tom Oinn
+- name: Aleksandra Pawlik
+  orcid: 0000-0001-8418-6735
+- name: Steven Pettifer
+  orcid: 0000-0002-1809-5621
+  img: steve-pettifer-sm.jpg
 - name: Mannie Tagarira
 - name: Franck Tanohli
+- name: Lefteris Tatakis
+  orcid: 0000-0001-5554-7634
 - name: Daniele Turi
 - name: David Withers
 - name: Anil Wipat
+- name: Katy Wolstencroft
+  orcid: 0000-0002-1279-5133
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
