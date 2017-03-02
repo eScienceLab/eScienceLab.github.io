@@ -57,22 +57,29 @@ associate:
   orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
+- name: Alasdair J. G. Gray
+  orcid: 0000-0002-5711-4872
+- name: Caroline Jay
+  orcid: 0000-0002-6080-1382
+  img: caroline-jay-sm.jpg
 - name: Paolo Missier
   orcid: 0000-0002-0978-2446
   url: https://www.researchgate.net/profile/Paolo_Missier
   img: paolo-missier-sm.jpg
-- name: Katy Wolstencroft
-  orcid: 0000-0002-1279-5133
-  img: katy-wolstencroft-sm.jpg
-- name: Marco Roos
-  orcid: 0000-0002-8691-772X
-  img: marco-roos-sm.jpg
 - name: Norman Morrison
   orcid: 0000-0003-1604-1512
   img: norman-morrison-sm.jpg
-- name: Caroline Jay
-  orcid: 0000-0002-6080-1382
-  img: caroline-jay-sm.jpg
+- name: Marco Roos
+  orcid: 0000-0002-8691-772X
+  img: marco-roos-sm.jpg
+- name: Robert Stevens
+  url: http://www.manchester.ac.uk/research/robert.stevens/
+  img: robert-stevens.jpg
+  orcid: 0000-0002-6038-9025
+- name: Katy Wolstencroft
+  orcid: 0000-0002-1279-5133
+  img: katy-wolstencroft-sm.jpg
+
 
 former:
 - name: Lefteris Tatakis
@@ -88,8 +95,6 @@ former:
   orcid: 0000-0002-2224-0780
 - name: Kristian Garza
   orcid: 0000-0003-3484-6875
-- name: Alasdair J. G. Gray
-  orcid: 0000-0002-5711-4872
 - name: Aleksandra Pawlik
   orcid: 0000-0001-8418-6735
 - name: Matthew Gamble
