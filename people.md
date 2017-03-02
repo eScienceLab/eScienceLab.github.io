@@ -2,11 +2,13 @@
 layout: page
 title: People
 permalink: /people/
+
 head:
 - name: Professor Carole Goble
   orcid: 0000-0003-1219-2137
   img: carole-goble-sm.jpg
   role: Head
+
 staff:
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
@@ -16,10 +18,6 @@ staff:
   orcid: 0000-0002-2627-0231
   img: niall-beard-sm.jpg
   role: Scientific Web Technologist
-- name: Anna Leida
-  orcid: 0000-0002-5945-1709
-  img: anna-leida-sm.jpg
-  role: Senior Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
@@ -48,79 +46,88 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
+
 phd:
-- name: Lefteris Tatakis
-  orcid: 0000-0001-5554-7634
-  img: lefteris-tatakis-sm.jpg
 - name: Catarina Martins
   orcid: 0000-0001-9021-8860
   img: catarina-martins-sm.jpg
+
 associate:
-- name: Andy Brass
-  orcid:
+- name: Andy M. Brass
+  orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
 - name: Paolo Missier
-  orcid:
+  orcid: 0000-0002-0978-2446
   url: https://www.researchgate.net/profile/Paolo_Missier
   img: paolo-missier-sm.jpg
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
   img: katy-wolstencroft-sm.jpg
-- name: Steven Pettifer
-  orcid: 0000-0002-1809-5621
-  img: steve-pettifer-sm.jpg
 - name: Marco Roos
   orcid: 0000-0002-8691-772X
   img: marco-roos-sm.jpg
 - name: Norman Morrison
   orcid: 0000-0003-1604-1512
   img: norman-morrison-sm.jpg
+- name: Caroline Jay
+  orcid: 0000-0002-6080-1382
+  img: caroline-jay-sm.jpg
+
 former:
-- name: Kristian Garza
-  orcid: http://orcid.org/0000-0003-3484-6875
+- name: Lefteris Tatakis
+  orcid: 0000-0001-5554-7634
+- name: Anna Leida
+  orcid: 0000-0002-5945-1709
+- name: Steven Pettifer
+  orcid: 0000-0002-1809-5621
+  img: steve-pettifer-sm.jpg
+- name: Donal Fellows
+  orcid: 0000-0002-9091-5938
 - name: Pinar Alper
-  orcid: http://orcid.org/0000-0002-2224-0780
+  orcid: 0000-0002-2224-0780
+- name: Kristian Garza
+  orcid: 0000-0003-3484-6875
+- name: Alasdair J. G. Gray
+  orcid: 0000-0002-5711-4872
 - name: Aleksandra Pawlik
-  orcid: http://orcid.org/0000-0001-8418-6735
+  orcid: 0000-0001-8418-6735
 - name: Matthew Gamble
-  orcid: http://orcid.org/0000-0003-4913-1485
+  orcid: 0000-0003-4913-1485
 - name: Robert Haines
-  orcid: http://orcid.org/0000-0002-9538-7919
+  orcid: 0000-0002-9538-7919
 - name: Christian Y. A. Brenninkmeijer
-  orcid: http://orcid.org/0000-0002-2937-7819
+  orcid: 0000-0002-2937-7819
 - name: Katy Wolstencroft
-  orcid: http://orcid.org/0000-0002-1279-5133
+  orcid: 0000-0002-1279-5133
 - name: Rishi Ramgolam
 - name: Sergejs Aleksejevs
 - name: Constantinos Astreos
 - name: Jiten (Jits) Bhagat
 - name: Khalid Belhajjame
-  orcid: http://orcid.org/0000-0001-6938-0820
+  orcid: 0000-0001-6938-0820
 - name: Mark Borkum
 - name: Tim Clark
-  orcid: http://orcid.org/0000-0003-4994-3803
+  orcid: 0000-0003-4994-3803
 - name: Oscar Corcho
-  orcid: http://orcid.org/0000-0002-9260-0753
+  orcid: 0000-0002-9260-0753
 - name: Phillip Cotter
 - name: Don Cruickshank
-  orcid: http://orcid.org/0000-0002-0777-0855
+  orcid: 0000-0002-0777-0855
 - name: Ian Dunlop
-  orcid: http://orcid.org/0000-0001-7066-3350
+  orcid: 0000-0001-7066-3350
 - name: Suzanne Embury
 - name: June Finch
 - name: Paul Fisher
-  orcid: http://orcid.org/0000-0003-1983-9204
+  orcid: 0000-0003-1983-9204
 - name: Jeremy Frey
 - name: Andrew Gibson
 - name: Antoon Goderis
-- name: Alasdair J. G. Gray
-  orcid: http://orcid.org/0000-0002-5711-4872
 - name: Helen Hulme
 - name: Duncan Hull
-  orcid: http://orcid.org/0000-0003-2387-503X
+  orcid: 0000-0003-2387-503X
 - name: Simon Jupp
-  orcid: http://orcid.org/0000-0002-0643-3144
+  orcid: 0000-0002-0643-3144
 - name: Bharathi Kattamuri
 - name: Phillip Lord
 - name: James Marsh
@@ -134,16 +141,12 @@ former:
 - name: Tom Oinn
 - name: Mannie Tagarira
 - name: Franck Tanohli
-- name: Daniele Turili
+- name: Daniele Turi
 - name: David Withers
 - name: Anil Wipat
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
-- name: Donal Fellows
-  orcid: 0000-0002-9091-5938
-  img: donal-fellows-sm.jpg
-  role: Senior Research Software Engineer
 ---
 
 ## Staff
@@ -155,7 +158,7 @@ former:
     <div class="role">{{member.role}}</div>
   </div>
   {% endfor %}
-  
+
   {% for member in page.staff %}
   <div class="profile_box">
    <a {% if member.orcid %}href="http://orcid.org/{{member.orcid}}"{% endif %}><img src="/images/profiles/{{member.img}}" class="profile_picture"></a>
@@ -189,7 +192,7 @@ former:
 
 {% for member in page.former %}
 {% if member.orcid %}
-- [{{member.name}}]({{member.orcid}})
+- [{{member.name}}](http://orcid.org/{{member.orcid}})
 {% else %}
 - {{ member.name }}
 {% endif %}
