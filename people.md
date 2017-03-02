@@ -26,18 +26,18 @@ staff:
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
   role: Senior Technical Architect
-- name: Natalie J. Stanford
-  orcid: 0000-0003-4958-0184
-  img: natalie-stanford-sm.jpg
-  role: Research Community Manager, Data Scientist
-- name: Stian Soiland-Reyes
-  orcid: 0000-0001-9842-9718
-  img: stian-soiland-reyes-sm.jpg
-  role: Technical Architect
 - name: Raniere Silva
   orcid: 0000-0002-8381-3749
   img: raniere-silva-sm.jpg
   role: Community Officer
+- name: Stian Soiland-Reyes
+  orcid: 0000-0001-9842-9718
+  img: stian-soiland-reyes-sm.jpg
+  role: Technical Architect
+- name: Natalie J. Stanford
+  orcid: 0000-0003-4958-0184
+  img: natalie-stanford-sm.jpg
+  role: Research Community Manager, Data Scientist
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
@@ -83,17 +83,16 @@ associate:
 
 
 former:
+- name: Sergejs Aleksejevs
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
-- name: Christian Y. A. Brenninkmeijer
-  orcid: 0000-0002-2937-7819
-- name: Rishi Ramgolam
-- name: Sergejs Aleksejevs
 - name: Constantinos Astreos
-- name: Jiten (Jits) Bhagat
 - name: Khalid Belhajjame
   orcid: 0000-0001-6938-0820
+- name: Jiten (Jits) Bhagat
 - name: Mark Borkum
+- name: Christian Y. A. Brenninkmeijer
+  orcid: 0000-0002-2937-7819
 - name: Tim Clark
   orcid: 0000-0003-4994-3803
 - name: Oscar Corcho
@@ -104,11 +103,11 @@ former:
 - name: Ian Dunlop
   orcid: 0000-0001-7066-3350
 - name: Suzanne Embury
+- name: Donal Fellows
+  orcid: 0000-0002-9091-5938  
 - name: June Finch
 - name: Paul Fisher
   orcid: 0000-0003-1983-9204
-- name: Donal Fellows
-  orcid: 0000-0002-9091-5938  
 - name: Jeremy Frey
 - name: Matthew Gamble
   orcid: 0000-0003-4913-1485
@@ -130,8 +129,8 @@ former:
 - name: James Marsh
 - name: Philip McDermott
 - name: Danius Michaelides
-- name: Georgina Moulton
 - name: Luc Moreau
+- name: Georgina Moulton
 - name: David Newman
 - name: Rory Newton
 - name: Eric Nzuobontane
@@ -141,13 +140,14 @@ former:
 - name: Steven Pettifer
   orcid: 0000-0002-1809-5621
   img: steve-pettifer-sm.jpg
+- name: Rishi Ramgolam  
 - name: Mannie Tagarira
 - name: Franck Tanohli
 - name: Lefteris Tatakis
   orcid: 0000-0001-5554-7634
 - name: Daniele Turi
-- name: David Withers
 - name: Anil Wipat
+- name: David Withers
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
 - name: Christopher Wroe
