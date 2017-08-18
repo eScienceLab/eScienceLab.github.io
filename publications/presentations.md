@@ -11,7 +11,7 @@ We also have videos on our [YouTube channel](http://www.youtube.com/user/mygrido
 
 * [Bioschemas for life science data]() - by Carole Goble, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=ag_wLjYQsfw)) ([slides](https://doi.org/10.7490/f1000research.1114494.1)) ([poster](https://doi.org/10.7490/f1000research.1114493.1))
 [https://doi.org/10.7490/f1000research.1114494.1](https://doi.org/10.7490/f1000research.1114494.1)
-* [Common Workflow Language viewer](https://doi.org/10.7490/f1000research.1114453.1) - presented by Stian Soiland-Reyes, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=iB_0l-Bm4nA)) ([slides](http://slides.com/markrobinson/cwlviewer)) ([poster](http://dx.doi.org/10.7490/f1000research.1114375.1))[https://doi.org/10.7490/f1000research.1114453.1](https://doi.org/10.7490/f1000research.1114453.1)
+* [Common Workflow Language viewer](https://doi.org/10.7490/f1000research.1114453.1) - presented by Stian Soiland-Reyes, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=iB_0l-Bm4nA)) ([slides](http://slides.com/markrobinson/cwlviewer)) ([poster](http://dx.doi.org/10.7490/f1000research.1114375.1)) [https://doi.org/10.7490/f1000research.1114453.1](https://doi.org/10.7490/f1000research.1114453.1)
 
 
 
