@@ -115,6 +115,13 @@ _CEUR_ **1686**
 http://ceur-ws.org/Vol-1686/WSSSPE4_paper_15.pdf
 
 
+Peter Amstutz, Michael R. Crusoe, Nebojša Tijanić (editors), Brad Chapman, John Chilton, Michael Heuer, Andrey Kartashov, Dan Leehr, Hervé Ménager, Maya Nedeljkovich, Matt Scales, Stian Soiland-Reyes, Luka Stojanovic (2016): 
+**Common Workflow Language, v1.0**
+Specification, _Common Workflow Language working group_. 
+[https://w3id.org/cwl/v1.0/](https://w3id.org/cwl/v1.0/)
+[https://doi.org/10.6084/m9.figshare.3115156.v2](https://doi.org/10.6084/m9.figshare.3115156.v2)
+
+
 ## 2015
 
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):
