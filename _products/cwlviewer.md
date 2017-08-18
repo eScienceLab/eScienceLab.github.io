@@ -10,7 +10,7 @@ logo: /images/logo/cwl.svg
 screenshot: /images/screenshots/sm_cwlviewer.png
 ---
 
-The [Common Workflow Language](/projects/cwl/) (CWL) is a community-developed specification for interoperable scientific workflows, supported by multiple workflow engine vendors and open source projects. Started as a third-year project and further developed as part of the [BioExcel project](/projects/bioexcel/), the eScience Lab have developed the [CWL Viewer](https://view.commonwl.org/) to visualize these
+The [Common Workflow Language](/activities/cwl/) (CWL) is a community-developed specification for interoperable scientific workflows, supported by multiple workflow engine vendors and open source projects. Started as a third-year project and further developed as part of the [BioExcel project](/projects/bioexcel/), the eScience Lab have developed the [CWL Viewer](https://view.commonwl.org/) to visualize these
 workflows, show their annotations and composition. 
 
 [CWL Viewer](https://view.commonwl.org/) has become the _de facto_ standard

@@ -27,7 +27,7 @@ larger supercomputer systems, while also making them easier for biomolecular
 researchers to use on computational infrastructures by providing training and
 guidance on best practices and integration with commonly used [workflow systems](http://bioexcel.eu/software/workflows/)
 such as 
-[CWL](/projects/cwl/), 
+[CWL](/activities/cwl/), 
 [KNIME](https://www.knime.org/), 
 [Galaxy](https://galaxyproject.org/), 
 [Apache Taverna](/products/taverna/) or 
@@ -46,7 +46,7 @@ the work packages:
 
  * _WP2: Portable Environments for Computing and Data Resources_ - integrating
    biomolecular tools with scientific workflow systems, improving deployment
-   with [Docker](https://www.docker.com/)) and [CWL](/projects/cwl/)
+   with [Docker](https://www.docker.com/)) and [CWL](/activities/cwl/)
  * _WP3: Consultancy & User Groups_ - engaging user community, training and
    documentation, hosting the 
    [Workflows interest group](http://bioexcel.eu/community/interest-groups/workflows-ig/) and
