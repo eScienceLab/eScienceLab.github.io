@@ -81,7 +81,6 @@ associate:
   orcid: 0000-0002-1279-5133
   img: katy-wolstencroft-sm.jpg
 
-
 former:
 - name: Sergejs Aleksejevs
 - name: Pinar Alper
@@ -141,6 +140,8 @@ former:
   orcid: 0000-0002-1809-5621
   img: steve-pettifer-sm.jpg
 - name: Rishi Ramgolam  
+- name: Mark Robinson
+  orcid: 0000-0002-8184-7507
 - name: Mannie Tagarira
 - name: Franck Tanohli
 - name: Lefteris Tatakis
