@@ -49,9 +49,6 @@ _F1000Research_ 2017 **6**:1020 ELIXIR-1040.
 [doi:10.12688/f1000research.11718.1](https://doi.org/10.12688/f1000research.11718.1)
 
 
-Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017): 
-
-**Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**.
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Charles Hadley S King IV, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hsinyi S Tsang, Jeremy Goecks, Jonas S Almeida, Lydia Guo, Mark Walderhaug, Paul Walsh, Robel Kahsay, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2017): 
 **Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**. 
