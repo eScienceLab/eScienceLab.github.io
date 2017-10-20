@@ -175,6 +175,7 @@ former:
   </div>
   {% endfor %}
 
+{%if page.phd %}
 ## PhD Students
 
   {% for member in page.phd %}
@@ -184,6 +185,7 @@ former:
     <div class="role">PhD Student</div>
   </div>
   {% endfor %}
+{% endif %}
 
 ## Current Associates
 
