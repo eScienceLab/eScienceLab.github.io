@@ -15,7 +15,7 @@ Started in 2008, MethodBox aimed to provide a simple, easy to use environment fo
 
 MethodBox was a Ruby on Rails based Web application seeded with csv style datasets. Its original intention was to support health researchers involved in obesity data investigations with emphasis on datasets from the UK Data Archive. It is now opened up to the community at large and anyone can browse and find data. Registered users can add their own data and create and download data subsets.
 
-From 2009 until July 2017 the public Methodbox instance was hosted at `methodbox.org` - a legacy instance remains available at [https://methodbox.cs.manchester.ac.uk/](https://methodbox.cs.manchester.ac.uk/) 
+From 2009 until July 2017 the public Methodbox instance was hosted at `methodbox.org` - a legacy instance remains available at [https://methodbox.cs.man.ac.uk/](https://methodbox.cs.man.ac.uk/) 
 and the source code at [https://github.com/myGrid/methodbox](https://github.com/myGrid/methodbox)
 
 ## Related publications 
