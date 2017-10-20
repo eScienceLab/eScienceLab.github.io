@@ -26,3 +26,5 @@ individual contributions.
 Mark Robinson, Stian Soiland-Reyes, Michael R Crusoe, Carole Goble (2017): [CWL Viewer: The Common Workflow Language viewer](https://www.research.manchester.ac.uk/portal/en/publications/cwl-viewer(b60c4d3c-303b-4b54-94f0-9cb1e9059b20).html) [version 1; not peer reviewed]. _F1000Research_ 2017, **6**(ISCB Comm J):1075 (poster) [https://doi.org/10.7490/f1000research.1114375.1](https://doi.org/10.7490/f1000research.1114375.1)
 
 Mark Robinson, Stian Soiland-Reyes, Michael R. Crusoe, Carole Goble (2017): **CWL Viewer: common-workflow-language/cwlviewer** _Zenodo_ [https://doi.org/10.5281/zenodo.823534](https://doi.org/10.5281/zenodo.823534)
+
+Mark Robinson (2017): **Reproducible Research using Research Objects**. _Zenodo_ [https://doi.org/10.5281/zenodo.823295](https://doi.org/10.5281/zenodo.823295)
