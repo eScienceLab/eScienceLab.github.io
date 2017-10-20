@@ -371,12 +371,10 @@ Katherine Wolstencroft, Stuart Owen, Olga Krebs, Wolfgang Mueller, Quyen Nguyen,
 _The Semantic Web – ISWC 2013, October 21-25, 2013, Proceedings, Part II_ pp 212-227.
 [doi:10.1007/978-3-642-41338-4_14](https://doi.org/10.1007/978-3-642-41338-4_14)
 
-Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Philip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):
-**Why linked data is not enough for scientists**.
-_Future Generation Computer Systems_ **29**(2), 599 - 611.
-[doi:10.1016/j.future.2011.08.004](https://doi.org/10.1016/j.future.2011.08.004)
-[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
-[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:131684)
+Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013): 
+**Why Linked Data is Not Enough for Scientists**.
+_Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611
+[doi:10.1016/j.future.2011.08.004](https://doi.org/10.1016/j.future.2011.08.004) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(479e591e-b295-4478-b0c7-a145c19dcd45).html) [[pdf]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013): **PAV ontology: provenance, authoring and versioning**.
 _Journal of Biomedical Semantics_ **4**:1, 37. [doi:10.1186/2041-1480-4-37](https://doi.org/10.1186/2041-1480-4-37)
