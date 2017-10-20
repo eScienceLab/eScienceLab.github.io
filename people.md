@@ -22,6 +22,10 @@ staff:
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
   role: Training Manager, Senior Research Software Engineer
+- name: Catarina Martins
+  orcid: 0000-0001-9021-8860
+  img: catarina-martins-sm.jpg
+  role: Junior Research Data Engineer
 - name: Stuart Owen
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
@@ -48,9 +52,6 @@ staff:
   role: Senior Research Software Engineer
 
 phd:
-- name: Catarina Martins
-  orcid: 0000-0001-9021-8860
-  img: catarina-martins-sm.jpg
 
 associate:
 - name: Andy M. Brass
