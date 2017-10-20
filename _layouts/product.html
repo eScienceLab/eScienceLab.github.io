@@ -38,7 +38,10 @@ layout: default
     </div>
 
     <div>
-        Find out more about <a href="{{ page.website }}" target="_blank">{{ page.title }}</a>.
+        Find out more about <a href="{{ page.website }}" target="_blank">{{ page.title }}</a>{% if page.wiki %}
+          or see the <a href="{{ page.wiki }}" target="_blank">wiki page</a>.
+    {% else %}.
+    {% endif %}
     </div>
 
 </article>
