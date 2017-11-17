@@ -23,6 +23,7 @@ preprints where _gold open access_ is not possible. Please [let us know](https:/
 
 Please try to use this citation style:
 
+
 First Name, Second Author, All Authors, Last Author (2016)
 **The title of the paper**
 _Journal of Papers_ **15**(2)
@@ -37,6 +38,17 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2017
 
+Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stia  Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017): 
+**Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**
+_Data Science and Engineering._
+[doi:10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
+
+
+Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Charles Hadley S King IV, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hsinyi S Tsang, Jeremy Goecks, Jonas S Almeida, Lydia Guo, Mark Walderhaug, Paul Walsh, Robel Kahsay, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2017): 
+**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**. 
+_bioXriv_ 191783. 
+[doi:10.1101/191783](https://doi.org/10.1101/191783)
+
 Pinar Alper, Khalid Belhajjame, Carole A.Goble (2017):
 **Static analysis of Taverna workflows to predict provenance patterns**.
 _Future Generation Computer Systems_ **75** pp 310-329.
@@ -47,13 +59,6 @@ Aleksandra Pawlik, Celia W.G. van Gelder, Aleksandra Nenadic, Patricia M. Palagi
 **Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**.
 _F1000Research_ 2017 **6**:1020 ELIXIR-1040.
 [doi:10.12688/f1000research.11718.1](https://doi.org/10.12688/f1000research.11718.1)
-
-
-
-Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Charles Hadley S King IV, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hsinyi S Tsang, Jeremy Goecks, Jonas S Almeida, Lydia Guo, Mark Walderhaug, Paul Walsh, Robel Kahsay, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2017): 
-**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**. 
-_bioXriv_ 191783. 
-[doi:10.1101/191783](https://doi.org/10.1101/191783)
 
 Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Mélanie Courtot, John Deck, Michel Dumontier, Donal K Fellows, Alejandra Gonzalez-Beltran, Philipp Gormanns, Jeffrey Grethe, Janna Hastings, Jean-Karim Hériché, Henning Hermjakob, Jon C Ison, Rafael C Jimenez, Simon Jupp, John Kunze, Camille Laibe, Nicolas Le Novère, James Malone, Maria Jesus Martin, Johanna R McEntyre, Chris Morris, Juha Muilu, Wolfgang Müller, Philippe Rocca-Serra, Susanna-Assunta Sansone, Murat Sariyar, Jacky L Snoep, Stian Soiland-Reyes, Natalie J Stanford, Neil Swainston, Nicole Washington, Alan R Williams, Sarala M Wimalaratne, Lilly M Winfree, Katherine Wolstencroft, Carole Goble, Cristopher J Mungall, Melissa A Haendel, Helen Parkinson (2017):
 **Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize utility and impact of life science data**.
@@ -101,7 +106,6 @@ _[IEEE International Conference on Big Data 2016](http://cci.drexel.edu/bigdata/
 [[pdf]](https://static.aminer.org/pdf/fa/bigdata2016/BigD418.pdf)
 [[zenodo]](https://zenodo.org/record/820878)
 [[researchgate]](https://www.researchgate.net/publication/309779617_I'll_Take_That_to_Go_Big_Data_Bags_and_Minimal_Identifiers_for_Exchange_of_Large_Complex_Datasets)
-
 
 Antonis Troumpoukis, Angelos Charalambidis, Giannis Mouchakis, Stasinos Konstantopoulos, Ronald Siebes, Victor de Boer, Stian Soiland-Reyes, Daniela Digles (2016):
 **Developing a Benchmark Suite for Semantic Web Data from Existing Workflows**
