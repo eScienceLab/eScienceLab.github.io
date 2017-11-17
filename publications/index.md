@@ -38,7 +38,7 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2017
 
-Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stia  Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017): 
+Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stian Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017): 
 **Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**
 _Data Science and Engineering._
 [doi:10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
