@@ -202,6 +202,7 @@
 
 .post-link {
     display: block;
+    font-family: $base-font-family;
     font-size: 18px;
 }
 
@@ -276,7 +277,7 @@ img.product-logo {
     margin-bottom: 20px;
 
     h1 {
-        font-family: 'Titillium Web', sans-serif;
+        font-family: $title-font-family;
         font-size: 80px;
         line-height: 350px;
         color: white;
