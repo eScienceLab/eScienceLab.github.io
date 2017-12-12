@@ -15,6 +15,7 @@ One surprise was that our Common Workflow Language Viewer poster ([doi:10.7490/f
 
 The <a href="https://doi.org/10.7490/f1000research.1114375.1">poster</a> presents the <a href="https://view.commonwl.org/">CWL Viewer</a>, a web rendering of portable workflow executions defined in the <a href="http://bioexcel.eu/software/workflows/#cwl">Common Workflow Language</a>.
 
-<a href="http://bioexcel.eu/wp-content/uploads/2017/08/f1000research-167455.pdf"><img class="size-full wp-image-2343" alt="" src="http://bioexcel.eu/wp-content/uploads/2017/08/cwlposter-photo.jpg" width="900" height="1200" /></a> CWL Poster at ISMB/ECCB 2017 - <a href="https://twitter.com/BioExcelCoE/status/889157731495661570/photo/1">photo by Michael R Crusoe</a>. (<a href="https://doi.org/10.7490/f1000research.1114375.1">doi:10.7490/f1000research.1114375.1</a>)
+<a href="http://bioexcel.eu/wp-content/uploads/2017/08/f1000research-167455.pdf"><img class="size-full wp-image-2343" alt="" src="http://bioexcel.eu/wp-content/uploads/2017/08/cwlposter-photo.jpg" width="900" height="1200" /></a>
+<em>CWL Poster at ISMB/ECCB 2017 - <a href="https://twitter.com/BioExcelCoE/status/889157731495661570/photo/1">photo by Michael R Crusoe</a>. (<a href="https://doi.org/10.7490/f1000research.1114375.1">doi:10.7490/f1000research.1114375.1</a>)</em>
 
 <small>This page is a shortened version of the full [BioExcel blog post](https://bioexcel.eu/poster-award-for-cwlviewer/).</small>
