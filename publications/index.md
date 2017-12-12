@@ -39,13 +39,13 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 ## 2017
 
 Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabriella Rustici (2017):
-**ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**
-_F1000Research_ **6**:952 
+**ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**.
+_F1000Research_ **6**:952.
 [doi:10.12688/f1000research.11837.1](https://doi.org/10.12688/f1000research.11837.1)
 
 Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stian Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017): 
 **Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**
-_Data Science and Engineering._
+_Data Science and Engineering_ **2**:232 pp 232–244.
 [doi:10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
 
 
