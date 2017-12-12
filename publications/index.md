@@ -38,7 +38,7 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2017
 
-Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabry Rustici (2017):
+Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabriella Rustici (2017):
 **ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**
 _F1000Research_ **6**:952 
 [doi:10.12688/f1000research.11837.1](https://doi.org/10.12688/f1000research.11837.1)
