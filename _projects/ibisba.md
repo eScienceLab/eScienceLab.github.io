@@ -43,7 +43,7 @@ in [Common Workflow Language](http://www.commonwl.org/), marked up with rich met
 
 Workflows will be stored along with associated datafiles and models in an IBISBA installation of a customised [SEEK](/products/seek/) we call the **IBISBAHub**. 
 
-We will evaluate an open source Business Process Model system (e.g. [Activity](https://www.activiti.org/) or [Apache ODE](http://ode.apache.org/)) to model the full path from research through to production process to create a demonstrator that includes the execution of different computational workflows, interaction with researchers and lab equipment.
+We will evaluate an open source Business Process Model system (e.g. [Activiti](https://www.activiti.org/) or [Apache ODE](http://ode.apache.org/)) to model the full path from research through to production process to create a demonstrator that includes the execution of different computational workflows, interaction with researchers and lab equipment.
 
 All workflows and their companion [Research Objects](/products/researchobject/) will be accessible from the IBISBAHub, which will provide separate spaces for secure project collaboration.
 
