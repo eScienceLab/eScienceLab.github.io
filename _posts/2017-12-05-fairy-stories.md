@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Carole Goble at SWAT4LS: Fairy Stories"
-date:   2015-11-12 14:18:47 +0000
+date:   2017-12-05 09:10:00 +0100
 categories: announcements carole_goble presentations
 ---
 
