@@ -5,7 +5,7 @@ date:   2017-12-05 09:10:00 +0100
 categories: carole_goble presentations
 ---
 
-On 2017-12-05, Carole Goble presented the keynote [FAIRy Stories for Christmas](https://www.slideshare.net/carolegoble/fairy-stories) at the 10th International Semantic Web Applications and Tools for Healthcare and Life Sciences Conference ([SWAT4LS](http://www.swat4ls.org/)):
+Carole Goble presented the keynote [FAIRy Stories for Christmas](https://www.slideshare.net/carolegoble/fairy-stories) at the 10th International Semantic Web Applications and Tools for Healthcare and Life Sciences Conference ([SWAT4LS](http://www.swat4ls.org/)):
 
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/57ZmpttHl5FMFy" height="485" width="595" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <div style="margin-bottom: 5px;"><strong> <a title="FAIRy Stories" href="//www.slideshare.net/carolegoble/fairy-stories" target="_blank">FAIRy Stories for Christmas</a> </strong> from <strong><a href="https://www.slideshare.net/carolegoble" target="_blank">Carole Goble</a></strong></div>
