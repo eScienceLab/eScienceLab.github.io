@@ -49,7 +49,7 @@ All workflows and their companion [Research Objects](/products/researchobject/) 
 
 <figure>
 <img src="/images/screenshots/lg_ibisba-overview.png" width="1583" height="622" style="width: 100%; height: auto" />
-<figcaption>Proposed IBISBA workflow architecture</figcaption>
+<figcaption>Figure 1: Proposed IBISBA workflow architecture. (Adapted from H2020 proposal)</figcaption>
 </figure>
 
 ### Related tasks
