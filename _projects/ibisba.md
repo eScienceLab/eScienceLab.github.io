@@ -48,7 +48,7 @@ We will evaluate an open source Business Process Model system (e.g. [Activity](h
 All workflows and their companion [Research Objects](/products/researchobject/) will be accessible from the IBISBAHub, which will provide separate spaces for secure project collaboration.
 
 <figure>
-<img src="/images/screenshots/lg_ibisba-overview.png" width="1583" height="622" style="width: 100%" />
+<img src="/images/screenshots/lg_ibisba-overview.png" width="1583" height="622" style="width: 100%; height: auto" />
 <figcaption>Proposed IBISBA workflow architecture</figcaption>
 </figure>
 
