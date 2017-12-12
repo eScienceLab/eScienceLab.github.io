@@ -20,7 +20,7 @@ staff:
   role: Scientific Web Technologist
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
-  img: nick-juty-sm.jpg
+  img: no-photo.png
   role: Senior Research Technical Manager
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
