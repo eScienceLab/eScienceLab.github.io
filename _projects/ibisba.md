@@ -5,7 +5,7 @@ title: IBISBA 1.0
 path: ibisba.html
 collection: projects
 description: Industrial Biotechnology Innovation and Synthetic Biology Accelerator
-logo: ibisba.png
+logo: Ibisba.png
 website: http://www.ibisba.com/
 #project_reference: TODO
 start_date: 2017-12-01
