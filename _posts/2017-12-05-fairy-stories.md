@@ -2,7 +2,7 @@
 layout: post
 title:  "Carole Goble at SWAT4LS: Fairy Stories"
 date:   2017-12-05 09:10:00 +0100
-categories: presentations carole_goble 
+categories: carole_goble presentations
 ---
 
 On 2017-12-05, Carole Goble presented the keynote [FAIRy Stories for Christmas](https://www.slideshare.net/carolegoble/fairy-stories) at the 10th International Semantic Web Applications and Tools for Healthcare and Life Sciences Conference ([SWAT4LS](http://www.swat4ls.org/)):
