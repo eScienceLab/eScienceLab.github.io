@@ -9,8 +9,8 @@ logo: Ibisba.png
 website: http://www.ibisba.com/
 #project_reference: TODO
 start_date: 2017-12-01
-end_date: 2020-11-30
-duration: 3 years
+end_date: 2021-11-30
+duration: 4 years
 ---
 
 The _Industrial Biotechnology Innovation and Synthetic Biology Accelerator_ ([IBISBA 1.0](http://www.ibisba.com/)) is funded as part of [H2020 INFRAIA-02](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraia-02-2017.html).
