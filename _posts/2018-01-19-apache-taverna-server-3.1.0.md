@@ -1,3 +1,9 @@
+layout: post
+title:  "Apache Taverna Server 3.1.0 released"
+date:   2018-01-19 08:00:00 +0000
+categories: announcements release
+---
+
 The Apache Taverna (incubating) team has announced the release of
 [Apache Taverna Server 3.1.0-incubating](https://s.apache.org/taverna-server-3.1.0).
 
