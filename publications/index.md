@@ -468,6 +468,12 @@ _Standards in Genomics Sciences_ **8**(2): 352–359.
 
 Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013): **A Checklist-Based Approach for Quality Assessment of Scientific Information.** _3rd International Workshop on Linked Science 2013 ([LISC2013](http://linkedscience.org/events/lisc2013/))_.  [[preprint]](http://linkedscience.org/wp-content/uploads/2013/04/paper5.pdf) [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
 
+Sonja Holl, Daniel Garijo, Khalid Belhajjame, Olav Zimmermann, Renato De Giovanni, Matthias Obst, Carole Goble (2013):
+**On Specifying and Sharing Scientific Workflow Optimization Results Using Research Objects**.
+_Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science (WORKS '13)_.
+[doi:10.1145/2534248.2534251](https://doi.org/10.1145/2534248.2534251)
+[[pdf]](http://dgarijo.com/papers/works13.pdf)
+
 ## 2002-2012
 
 See also the 
