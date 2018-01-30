@@ -7,9 +7,9 @@ categories: announcements presentations carole_goble
 
 Our very own Carole Goble was awarded an honorary doctorate from Maastricht University this weekend. This was part of their 42nd birthday celebration.
 
-![Prof. Carole Goble and Prof. Lucy Suchman of Lancaster University](http://www.esciencelab.org.uk/images/cag-doctorate.jpg "Congratulations Carole!")
+![Prof. Carole Goble and Prof. Lucy Suchman of Lancaster University](http://www.esciencelab.org.uk/images/cag-doctorate.jpg "Congratulations Carole!"){: .center-image }
 
-You can find out more about the ceremony here: https://www.maastrichtuniversity.nl/events/dies-natalis-celebration
+You can find out more about the ceremony [here](https://www.maastrichtuniversity.nl/events/dies-natalis-celebration).
 
 Carole also delivered a keynote lecture at "The Future of a Data-Driven Society" symposium the day before.
 
