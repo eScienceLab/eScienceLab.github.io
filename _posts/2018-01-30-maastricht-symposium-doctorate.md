@@ -6,4 +6,4 @@ categories: announcements presentations carole_goble
 hidden: true
 ---
 
-[Watch the symposium on YouTube]: https://www.youtube.com/watch?v=JN9eMMtCHf8&t=19s&index=6&list=PLzi-FBaZlOOagma5dCW7WSA5lv22tmNMD
+[Watch the symposium on YouTube](https://www.youtube.com/watch?v=JN9eMMtCHf8&t=19s&index=6&list=PLzi-FBaZlOOagma5dCW7WSA5lv22tmNMD)
