@@ -25,9 +25,12 @@ and accessibility of software for biomolecular modelling (in particular
 [CPMD](http://www.cpmd.org/)), allowing such tools to be scaled up to run on
 larger supercomputer systems, while also making them easier for biomolecular
 researchers to use on computational infrastructures by providing training and
-guidance on best practices and integration with commonly used workflow systems
-such as [KNIME](https://www.knime.org/), [Galaxy](https://galaxyproject.org/), 
-[Apache Taverna](http://taverna.incubator.apache.org/) or 
+guidance on best practices and integration with commonly used [workflow systems](http://bioexcel.eu/software/workflows/)
+such as 
+[CWL](/activities/cwl/), 
+[KNIME](https://www.knime.org/), 
+[Galaxy](https://galaxyproject.org/), 
+[Apache Taverna](/products/taverna/) or 
 [COMPSs](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar).
 
 As a Centre of Excellence, BioExcel gathers biomolecular consultants with
@@ -37,13 +40,19 @@ biomolecular research.
 
 ## eScience Lab contributions
 
-The eScience Lab contributes to BioExcel in two work packages:
+The eScience Lab contributes to BioExcel's 
+[workflow](http://bioexcel.eu/software/workflows/) support, in particular for 
+the work packages:
 
  * _WP2: Portable Environments for Computing and Data Resources_ - integrating
    biomolecular tools with scientific workflow systems, improving deployment
-   (e.g. with [Docker](https://www.docker.com/))
+   with [Docker](https://www.docker.com/)) and [CWL](/activities/cwl/)
  * _WP3: Consultancy & User Groups_ - engaging user community, training and
-   documentation
+   documentation, hosting the 
+   [Workflows interest group](http://bioexcel.eu/community/interest-groups/workflows-ig/) and
+   [webinars]()
+
+In addition we provide BioExcel with valuable [collaborations](http://bioexcel.eu/community/collaborations/) with our links to [Open PHACTS](/projects/openphacts/) and [ELIXIR](/projects/elixir/)
 
 ## Related projects
 

@@ -8,6 +8,7 @@ description: Curated catalogue of life sciences Web services
 website: http://www.biocatalogue.org/
 logo: /images/logo/biocatalogue.png
 screenshot: /images/screenshots/sm_biocatalogue.png
+wiki: https://wikipedia.org/wiki/BioCatalogue
 ---
 
 

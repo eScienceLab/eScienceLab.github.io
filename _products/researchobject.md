@@ -8,6 +8,7 @@ description: Research publications, data, code and more bundled into a shareable
 website: http://www.researchobject.org/
 logo: /images/logo/researchobject.png
 screenshot: /images/screenshots/sm_researchobject.png
+wiki: https://wikipedia.org/wiki/Research_Objects
 ---
 
 _Research Object_ is an emerging approach to the publication, and exchange of scholarly information on the Web.
