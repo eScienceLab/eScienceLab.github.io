@@ -6,7 +6,7 @@ categories: cwl update
 ---
 
 
-The [Common Workflow Language](http://www.commonwl.org/") has joined the [Software Freedom Conservancy](https://sfconservancy.org/).
+The [Common Workflow Language](http://www.commonwl.org/") project has joined the [Software Freedom Conservancy](https://sfconservancy.org/).
 
 The eScience Lab have [participated in the Common Workflow Language project](/activities/cwl/) since its early days, when CWL started out from the [Open Bioinformatics Founcation](https://www.open-bio.org/)'s [BOSC conference](https://www.open-bio.org/wiki/BOSC) as an informal collaboration between workflow system developers, and we have upported its growth into an independent project in its own right.
 
