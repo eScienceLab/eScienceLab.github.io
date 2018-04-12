@@ -5,12 +5,11 @@ date:   2018-04-11 12:00:00 +0000
 categories: cwl update
 ---
 
-
 The [Common Workflow Language](http://www.commonwl.org/") project has joined the [Software Freedom Conservancy](https://sfconservancy.org/).
 
-The eScience Lab have [participated in the Common Workflow Language project](/activities/cwl/) since its early days. CWL started out from the [Open Bioinformatics Foundation](https://www.open-bio.org/)'s [BOSC conference](https://www.open-bio.org/wiki/BOSC) as an informal collaboration between workflow system developers, and the eScience Lab have supported CWL's growth into an independent project in its own right with an increasing uptake by the bioinformatics community.
+CWL evolved from the [Open Bioinformatics Foundation](https://www.open-bio.org/)'s [BOSC conference](https://www.open-bio.org/wiki/BOSC) as an informal collaboration between workflow system developers. The eScience Lab have [participated in the Common Workflow Language project](/activities/cwl/) since its early days, supporting it's growth into an independent project in its own right, with increasing adoption across the bioinformatics community.
 
-We believe this transition, to become a self-governed project formally part of a legal entity with charity status, will mean that the Common Workflow Language project can progress further in its goal for independent community development and vendor-independent workflow interoperability.
+We believe this transition to being a self-governed project, formally part of a legal entity with charity status, will mean that the Common Workflow Language project can progress further in its goal towards independent community development and vendor-independent workflow interoperability.
 
 The press release below was [originally posted](https://sfconservancy.org/news/2018/apr/11/cwl-new-member-project/) by Software Freedom Conservancy:
 
