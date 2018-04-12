@@ -7,7 +7,7 @@ categories: cwl update
 
 The [Common Workflow Language](http://www.commonwl.org/") project has joined the [Software Freedom Conservancy](https://sfconservancy.org/).
 
-CWL evolved from the [Open Bioinformatics Foundation](https://www.open-bio.org/)'s [BOSC conference](https://www.open-bio.org/wiki/BOSC) as an informal collaboration between workflow system developers. The eScience Lab have [participated in the Common Workflow Language project](/activities/cwl/) since its early days, supporting it's growth into an independent project in its own right, with increasing adoption across the bioinformatics community.
+CWL evolved from the [Open Bioinformatics Foundation](https://www.open-bio.org/)’s [BOSC conference](https://www.open-bio.org/wiki/BOSC) as an informal collaboration between workflow system developers. The eScience Lab have [participated in the Common Workflow Language project](/activities/cwl/) since its early days, supporting its growth into an independent project in its own right, with increasing adoption across the bioinformatics community.
 
 We believe this transition to being a self-governed project, formally part of a legal entity with charity status, will mean that the Common Workflow Language project can progress further in its goal towards independent community development and vendor-independent workflow interoperability.
 
@@ -27,7 +27,7 @@ The press release below was [originally posted](https://sfconservancy.org/news/2
   src="/images/logo/software_freedom_conservancy_square.svg"></a>
 
 
-<p>Software Freedom Conservancy welcomes the <a href="http://www.commonwl.org/">Common Workflow Language  (CWL) project</a> as Conservancy's newest member project.  The project develops and maintains a specification for describing data analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, as well as a supporting reference implementation.</p> 
+<p>Software Freedom Conservancy welcomes the <a href="http://www.commonwl.org/">Common Workflow Language  (CWL) project</a> as Conservancy’s newest member project.  The project develops and maintains a specification for describing data analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments, as well as a supporting reference implementation.</p> 
 
 <p>The Common Workflow Language project follows the <a href="https://open-stand.org/about-us/principles/">OpenStand principles for collaborative open standards development</a> to openly evolve the 
  <a href="https://w3id.org/cwl/">CWL specifications</a>, which have already been <a href="https://www.commonwl.org/#Implementations">implemented</a> by a large number of independent vendors and open source projects. 
@@ -48,8 +48,8 @@ The press release below was [originally posted](https://sfconservancy.org/news/2
                     
 <blockquote>
 "CWL is solving important problems that will make collaborating on big data analysis easier," 
-said <cite>Karen M. Sandler, Conservancy's Executive Director</cite>.  
-"We're excited to have the Common Workflow Language project join Conservancy."
+said <cite>Karen M. Sandler, Conservancy’s Executive Director</cite>.  
+"We’re excited to have the Common Workflow Language project join Conservancy."
 </blockquote>
 
 ---
