@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Carole Goble at Digital Life 2018: FAIRy Stories"
+title:  "Carole Goble at Digital Life 2018: Trust and Accountability"
 date:   2018-03-21
 categories: carole_goble presentations
 ---
