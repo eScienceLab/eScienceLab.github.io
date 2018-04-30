@@ -48,6 +48,10 @@ Farah Zaib Khan, Stian Soiland-Reyes, Michael R. Crusoe, Andrew Lonie, Richard O
 _Submitted to <a href="http://provenanceweek2018.org/">7th International Provenance and Annotation Workshop</a>._
 <em>Zenodo</em> preprint: [doi:10.5281/zenodo.1215611](https://doi.org/10.5281/zenodo.1215611)
 
+Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):
+**LabelFlow Framework for Annotating Workflow Provenance**
+_Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
+
 
 ## 2017
 
