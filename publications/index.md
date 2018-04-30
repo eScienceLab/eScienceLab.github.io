@@ -55,6 +55,11 @@ _Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.33
 
 ## 2017
 
+Stephen J Eglen, Ben Marwick, Yaroslav O Halchenko, Michael Hanke, Shoaib Sufi, Padraig Gleeson, R Angus Silver, Andrew P Davison, Linda Lanyon, Mathew Abrams, Thomas Wachtler, David J Willshaw, Christophe Pouzat, Jean-Baptiste Poline (2017):
+**Toward standard practices for sharing computer code and programs in neuroscience**.
+_Nature Neuroscience_ **20**, 770–773.
+[doi:10.1038/nn.4550](https://doi.org/10.1038/nn.4550) [[bioRxiv preprint]](https://doi.org/10.1101/045104)
+
 Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabriella Rustici (2017):
 **ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**.
 _F1000Research_ **6**:952.
