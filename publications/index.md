@@ -38,6 +38,10 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2018
 
+Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):
+**LabelFlow Framework for Annotating Workflow Provenance**
+_Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
+
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018): 
 **Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**.
 _Submitted to PLOS Biology._
@@ -48,9 +52,9 @@ Farah Zaib Khan, Stian Soiland-Reyes, Michael R. Crusoe, Andrew Lonie, Richard O
 _Submitted to <a href="http://provenanceweek2018.org/">7th International Provenance and Annotation Workshop</a>._
 <em>Zenodo</em> preprint: [doi:10.5281/zenodo.1215611](https://doi.org/10.5281/zenodo.1215611)
 
-Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):
-**LabelFlow Framework for Annotating Workflow Provenance**
-_Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
+Shoaib A Sufi, Caroline Jay (2018):
+**Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme** 
+_PeerJ Preprints_ **6**:e26849v1 [doi:10.7287/peerj.preprints.26849](https://doi.org/10.7287/peerj.preprints.26849)
 
 
 ## 2017
