@@ -24,7 +24,7 @@ preprints where _gold open access_ is not possible. Please [let us know](https:/
 Please try to use this citation style:
 
 
-First Name, Second Author, All Authors, Last Author (2016)
+First Name, Second Author, All Authors, Last Author (2016):
 **The title of the paper**
 _Journal of Papers_ **15**(2)
 [doi:10.1234/journal.152](https://doi.org/10.1234/journal.152)
@@ -35,6 +35,19 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 (tip: try accessing it from home)
 
 -->
+
+## 2018
+
+Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018): 
+**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**.
+_Submitted to PLOS Biology._
+<em>bioXriv</em> 191783 preprint: [doi:10.1101/191783](https://doi.org/10.1101/191783)
+
+Farah Zaib Khan, Stian Soiland-Reyes, Michael R. Crusoe, Andrew Lonie, Richard O. Sinnott (2018): 
+**CWLProv - Interoperable Retrospective Provenance capture and its challenges**.
+_Submitted to <a href="http://provenanceweek2018.org/">7th International Provenance and Annotation Workshop</a>._
+<em>Zenodo</em> preprint: [doi:10.5281/zenodo.1215611](https://doi.org/10.5281/zenodo.1215611)
+
 
 ## 2017
 
@@ -48,11 +61,6 @@ Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad C
 _Data Science and Engineering_ **2**:232 pp 232–244.
 [doi:10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
 
-
-Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Charles Hadley S King IV, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hsinyi S Tsang, Jeremy Goecks, Jonas S Almeida, Lydia Guo, Mark Walderhaug, Paul Walsh, Robel Kahsay, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2017): 
-**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**. 
-_bioXriv_ 191783. 
-[doi:10.1101/191783](https://doi.org/10.1101/191783)
 
 Pinar Alper, Khalid Belhajjame, Carole A.Goble (2017):
 **Static analysis of Taverna workflows to predict provenance patterns**.
