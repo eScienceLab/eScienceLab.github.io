@@ -38,8 +38,14 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2018
 
+
+Sarala M. Wimalaratne, Nick Juty, John Kunze, Greg Janée, Julie A. McMurry, Niall Beard, Rafael Jimenez, Jeffrey S. Grethe, Henning Hermjakob, Maryann E. Martone, Tim Clark (2018):
+**Uniform resolution of compact identifiers for biomedical data**.
+_Scientific Data_ **5** 180029 
+[doi:10.1038/sdata.2018.29](https://doi.org/10.1038/sdata.2018.29)
+
 Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):
-**LabelFlow Framework for Annotating Workflow Provenance**
+**LabelFlow Framework for Annotating Workflow Provenance**.
 _Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018): 
