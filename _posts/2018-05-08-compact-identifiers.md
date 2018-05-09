@@ -8,7 +8,7 @@ categories: announcements paper identifiers
 The paper [Uniform resolution of compact identifiers for biomedical data](https://doi.org/10.1038/sdata.2018.29) have been published, with eScienceLab's [Niall Beard](http://orcid.org/0000-0002-2627-0231) and [Nick Juty](https://orcid.org/0000-0002-2036-8350) on the author list.
 
 <a href="https://doi.org/10.1038/sdata.2018.29">
-  <img src="/images/compact-identifiers-paper.png" alt="Scientific Data: Uniform resolution of compact identifiers for biomedical data" style="max-height: 8em">
+  <img src="/images/compact-identifiers-paper.png" alt="Scientific Data: Uniform resolution of compact identifiers for biomedical data" style="max-height: 30em">
   </a>
 
 The _Scientific Data_ article describes the [joint effort](https://www.elixir-europe.org/news/identifiersorg-n2tnet) by [EMBL-EBI](https://www.ebi.ac.uk/) and [California Digital Library](https://www.cdlib.org/) to harmonize the compact identifier resolver services [identifiers.org](https://identifiers.org) and [N2T.net](https://n2t.net/). The collaborative work was done under the umbrella of [Force11](https://www.force11.org/) and the [ELIXIR Implementation Study on Data Identification and Interoperability](https://www.elixir-europe.org/about-us/implementation-studies/data-identification) to provide machine-resolvable persistent identifiers for datasets across a wide range of biomedical data repositories.
