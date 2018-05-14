@@ -53,11 +53,6 @@ Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-
 _Submitted to PLOS Biology._
 <em>bioXriv</em> 191783 preprint: [doi:10.1101/191783](https://doi.org/10.1101/191783)
 
-Farah Zaib Khan, Stian Soiland-Reyes, Michael R. Crusoe, Andrew Lonie, Richard O. Sinnott (2018): 
-**CWLProv - Interoperable Retrospective Provenance capture and its challenges**.
-_Submitted to <a href="http://provenanceweek2018.org/">7th International Provenance and Annotation Workshop</a>._
-<em>Zenodo</em> preprint: [doi:10.5281/zenodo.1215611](https://doi.org/10.5281/zenodo.1215611)
-
 Shoaib A Sufi, Caroline Jay (2018):
 **Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme** 
 _PeerJ Preprints_ **6**:e26849v1 [doi:10.7287/peerj.preprints.26849](https://doi.org/10.7287/peerj.preprints.26849)
