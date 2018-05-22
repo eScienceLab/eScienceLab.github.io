@@ -6,7 +6,7 @@ path: ibisba.html
 collection: projects
 description: Industrial Biotechnology Innovation and Synthetic Biology Accelerator
 logo: Ibisba.png
-website: http://www.ibisba.com/
+website: http://www.ibisba.eu/
 #project_reference: TODO
 start_date: 2017-12-01
 end_date: 2021-11-30
