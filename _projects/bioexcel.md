@@ -52,6 +52,8 @@ the work packages:
    [Workflows interest group](http://bioexcel.eu/community/interest-groups/workflows-ig/) and
    [webinars]()
 
+We developed the [CWL Viewer](/products/cwlviewer/) with support from BioExcel.
+
 In addition we provide BioExcel with valuable [collaborations](https://bioexcel.eu/community/collaborations/) with our links to [Open PHACTS](/projects/openphacts/), [ELIXIR](/projects/elixir/) and [Common Workflow Language](/activities/cwl/)
 
 ## Related projects
