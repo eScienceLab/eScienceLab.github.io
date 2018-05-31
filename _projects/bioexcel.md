@@ -6,13 +6,13 @@ path: bioexcel.html
 collection: projects
 description: Centre of Excellence for Biomolecular Research
 logo: bioexcel.svg
-website: http://bioexcel.eu
+website: https://bioexcel.eu
 start_date: 2015-11-01
 duration: 36 months
-project_reference: http://cordis.europa.eu/project/rcn/198303
+project_reference: http://cordis.europa.eu/projects/675728
 ---
 
-[BioExcel](http://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
+[BioExcel](https://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
 Research**, funded as a project for three years by the [EC Horizon
 2020](https://ec.europa.eu/programmes/horizon2020/en/news/eight-new-centres-excellence-computing-applications)
 program for e-Infrastructure. The centre will facilitate the use of
@@ -25,7 +25,7 @@ and accessibility of software for biomolecular modelling (in particular
 [CPMD](http://www.cpmd.org/)), allowing such tools to be scaled up to run on
 larger supercomputer systems, while also making them easier for biomolecular
 researchers to use on computational infrastructures by providing training and
-guidance on best practices and integration with commonly used [workflow systems](http://bioexcel.eu/software/workflows/)
+guidance on best practices and integration with commonly used [workflow systems](https://bioexcel.eu/software/workflows/)
 such as 
 [CWL](/activities/cwl/), 
 [KNIME](https://www.knime.org/), 
@@ -52,10 +52,11 @@ the work packages:
    [Workflows interest group](http://bioexcel.eu/community/interest-groups/workflows-ig/) and
    [webinars]()
 
-In addition we provide BioExcel with valuable [collaborations](http://bioexcel.eu/community/collaborations/) with our links to [Open PHACTS](/projects/openphacts/) and [ELIXIR](/projects/elixir/)
+In addition we provide BioExcel with valuable [collaborations](https://bioexcel.eu/community/collaborations/) with our links to [Open PHACTS](/projects/openphacts/), [ELIXIR](/projects/elixir/) and [Common Workflow Language](/activities/cwl/)
 
 ## Related projects
 
- * [Common Workflow Language](https://github.com/common-workflow-language/common-workflow-language)
+ * [Common Workflow Language](/activities/cwl/)
  * [Open PHACTS](/projects/openphacts)
- * [Elixir-UK](http://elixir-uk.org/), [Excellerate](excellerate)
+ * [ELIXIR](/projects/elixir/)
+ * [Excellerate](/projects/excellerate)
