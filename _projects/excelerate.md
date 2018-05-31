@@ -6,10 +6,10 @@ path: excelerate
 collection: projects
 description: Fast-track ELIXIR implementation and drive early user exploitation across the life-sciences
 logo: excelerate.png
-website: https://www.elixir-europe.org/excelerate
+website: https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate
 start_date: 2015-9-1
 duration: 48 months
-project_reference: http://cordis.europa.eu/project/rcn/198519
+project_reference: https://cordis.europa.eu/projects/676559
 ---
 
 The life sciences are undergoing a transformation. Modern experimental
