@@ -5,9 +5,9 @@ title: IBISBA 1.0
 path: ibisba.html
 collection: projects
 description: Industrial Biotechnology Innovation and Synthetic Biology Accelerator
-logo: Ibisba.png
-website: http://www.ibisba.eu/
-#project_reference: TODO
+logo: ibisba-logo.png
+website: https://www.ibisba.eu/
+project_reference: https://cordis.europa.eu/projects/730976
 start_date: 2017-12-01
 end_date: 2021-11-30
 duration: 4 years
@@ -28,6 +28,8 @@ Through IBISBA 1.0, the participant facilities will be opened for transnational 
 Transnational access will be facilitated by an ambition _outreach plan_ that will provide users, including SMEs and other industry players, with complete information about service offers, but also insight into the potentiality of IPR held by IBISBA 1.0 partners and the opportunities for innovation. 
 
 **Interoperability** will be a focus of considerable attention, with actions directed towards harmonization and the implementation of repeatable working practices that integrate experimentation with data analysis, and data management, thus providing the basis for the sharing and reuse of data assets in a framework of Open Science.
+
+
 
 
 ## eScience Lab contributions
@@ -59,14 +61,40 @@ All workflows and their companion [Research Objects](/products/researchobject/) 
 * T7.3 Development and management of the IBISBAHub for workflows (task leader)
 * T7.4 Investigation of BPM workflows (task leader)
 
+## Work packages
+
+1. NA1: Training of infrastructure operators and users
+2. NA2: Communication, Outreach and Dissemination
+3. NA3: Building the community and the wider network
+4. NA4: Innovating for and with industry
+5. NA5: Opening access to infrastructure
+6. JRA1: Overcoming R&D bottle-necks in industrial biotechnology platforms
+7. JRA2: Meeting the e-needs of a distributed infrastructure for industrial biotechnology
+8. Consortium coordination and project management
+9. TA1: Transnational Access to TWB
+10. TA2: Access to INSAT installations
+11. TA3: Access to Bioprocess Intensification Installations
+12. TA4: Access to Algosolis
+13. TA5: Access to Fraunhofer IGB and CBP
+14. TA6: Access to VTT installations
+15. TA7: Access to UAB
+16. TA8: Access to CNR installations
+17. TA9: Access to NTUA Biotechnology Modelling Platform
+18. TA10/VA1: Access to Genoscope infrastructure
+19. TA11: Access to Heliobiotec
+20. TA12: Access to CSIC installations
+21. VA2: Access to FAIRDOM Data and Model Management Platform
+22. TA13: Access to SYNBIOCHEM FACILITY
+23. TA14: Access to UNLOCK
+24. VA3: Access to ISBE-NL
+25. VA4: Access to BIODASH
+
 ## Related projects and initiatives
 
 * [SynBioChem](/projects/synbiochem)
 * [SEEK platform](/products/seek/)
 * [Common Workflow Language](/activities/cwl/) 
 * [Research Object](/products/researchobject/)
-
-
 
 <!--
 ## Related publications
