@@ -18,7 +18,7 @@ encoding: UTF-8
 permalink: pretty
 
 #Gems
-gems:
+plugins:
   - jekyll-sitemap
 
 # Build settings

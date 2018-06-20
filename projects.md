@@ -22,7 +22,7 @@ permalink: /projects/
 
 ## Previous funded projects
 
-{% assign sorted_projects = (site.projects | sort: 'title') %}
+{% assign sorted_projects = site.projects | sort: 'title' %}
 {% for project in sorted_projects %}
 {% if project.expired %}
 * [{{ project.title }}]({{ project.url }}) - {{ project.description }}
@@ -31,7 +31,7 @@ permalink: /projects/
 
 ## Previous activities
 
-{% assign sorted_activities = (site.activities | sort: 'start-date') %}
+{% assign sorted_activities = site.activities | sort: 'start-date' %}
 {% for activity in sorted_activities reversed %}
 {% if activity.expired %}
 * [{{ activity.title }}]({{ activity.url }}) - {{ activity.description }}
