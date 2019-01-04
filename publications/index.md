@@ -24,12 +24,12 @@ preprints where _gold open access_ is not possible. Please [let us know](https:/
 Please try to use this citation style:
 
 
-First Name, Second Author, All Authors, Last Author (2016):
+First Name, Second Author, All Authors, Last Author (2018):
 **The title of the paper**
 _Journal of Papers_ **15**(2)
 [doi:10.1234/journal.152](https://doi.org/10.1234/journal.152)
 [preprint](http://if/above/is/not/open-access.pdf)
-[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:12345)
+[[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/#...)
 
 Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 (tip: try accessing it from home)
@@ -37,6 +37,23 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 -->
 
 ## 2018
+
+
+Stian Soiland-Reyes; Marcos Cáceres (2018):
+**The Archive and Package (arcp) URI scheme**
+_2018 IEEE 14th International Conference on e-Science (e-Science)_.
+[doi:10.1109/eScience.2018.00018 ](https://doi.org/10.1109/eScience.2018.00018 )
+[[html]](http://s11.no/2018/arcp.html)
+[[pdf]](https://www.research.manchester.ac.uk/portal/files/83366888/arcp_camera_ready.pdf)
+[[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/the-archive-and-package-arcp-uri-scheme(eb6dee14-e754-46c0-b82c-3ab54715d24c).html)
+[[arXiv:1809.06935]](https://arxiv.org/abs/1809.06935)
+
+
+Natalie J Stanford, Finn Bacall, Fatemeh Zamanzad Ghavidel, Martin Golebiewski, Inge Jonassen, Rune Kleppe, Olga Krebs, Hadas Leonov, Stuart Owen, Kjell Petersen, Maja Rey, Stian Soiland-Reyes, Kidane Tekle, Andreas Weidemann, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Anders Goksøyr, Jacky L. Snoep, Jon Olav Vik, Wolfgang Müller, Carole Goble (2018):
+**FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**
+_NETTAB 2018 Network Tools and Applications in Biology_
+[[preprint]](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf)
+[[preprint server](https://www.research.manchester.ac.uk/portal/en/publications/fair-bioinformatics-computation-and-data-management-fairdom-and-the-norwegian-digital-life-initiative(c4b199b1-95c9-4ab2-85ff-87681e1cc971).html)
 
 
 Sarala M. Wimalaratne, Nick Juty, John Kunze, Greg Janée, Julie A. McMurry, Niall Beard, Rafael Jimenez, Jeffrey S. Grethe, Henning Hermjakob, Maryann E. Martone, Tim Clark (2018):
@@ -50,12 +67,21 @@ _Informatics_ **5**(1) 11 [doi:10.3390/informatics5010011](https://doi.org/10.33
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018): 
 **Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**.
-_Submitted to PLOS Biology._
+_PLOS Biology._ (Accepted)
 <em>bioXriv</em> 191783 preprint: [doi:10.1101/191783](https://doi.org/10.1101/191783)
 
 Shoaib A Sufi, Caroline Jay (2018):
 **Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme** 
 _PeerJ Preprints_ **6**:e26849v1 [doi:10.7287/peerj.preprints.26849](https://doi.org/10.7287/peerj.preprints.26849)
+
+
+
+Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Dunstan, Neil Swainston, Maria Vinaixa, Katherine A. Hollywood, Andrew Currin, Nicholas J. W. Rattray, Sandra Taylor, Reynard Spiess, Rehana Sung, Alan R. Williams, Donal Fellows, Natalie J. Stanford, Paul Mulherin, Rosalind Le Feuvre, Perdita Barran, Royston Goodacre, Nicholas J. Turner, Carole Goble, George Guoqiang Chen, Douglas B. Kell, Jason Micklefield, Rainer Breitling, Eriko Takano, Jean-Loup Faulon, Nigel S. Scrutton (2018): 
+**An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals.**
+_Communications Biology_ **1**:66
+[doi:10.1038/s42003-018-0076-9](https://doi.org/10.1038/s42003-018-0076-9)
+[[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/an-automated-designbuildtestlearn-pipeline-for-enhanced-microbial-production-of-fine-chemicals(160fb3f4-ee2f-4b2d-9b92-f2d85ed0162e).html)
+
 
 
 ## 2017
