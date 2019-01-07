@@ -71,7 +71,7 @@ _Informatics_ **5**(1) 11 [https://doi.org/10.3390/informatics5010011](https://d
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018): 
 **Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**.
-_PLOS Biology._ 
+_PLOS Biology._  **16**(12):e3000099
 [https://doi.org/10.1371/journal.pbio.3000099](https://doi.org/10.1371/journal.pbio.3000099)
 ([bioXriv:191783](https://doi.org/10.1101/191783))
 
