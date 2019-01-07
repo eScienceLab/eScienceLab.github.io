@@ -38,8 +38,12 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 ## 2018
 
+Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2018):
+**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**.
+_Submitted to Gigascience_
+Zenodo preprint: https://doi.org/10.5281/zenodo.1966881
 
-Stian Soiland-Reyes; Marcos Cáceres (2018):
+Stian Soiland-Reyes, Marcos Cáceres (2018):
 **The Archive and Package (arcp) URI scheme**.
 _2018 IEEE 14th International Conference on e-Science (e-Science)_.
 [doi:10.1109/eScience.2018.00018 ](https://doi.org/10.1109/eScience.2018.00018 )
@@ -73,8 +77,7 @@ _PLOS Biology._
 
 Shoaib A Sufi, Caroline Jay (2018):
 **Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**.
-_PeerJ Preprints_ **6**:e26849v1 [doi:10.7287/peerj.preprints.26849](https://doi.org/10.7287/peerj.preprints.26849)
-
+[version 1; referees: 1 approved with reservations]. _F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
 
 Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Dunstan, Neil Swainston, Maria Vinaixa, Katherine A. Hollywood, Andrew Currin, Nicholas J. W. Rattray, Sandra Taylor, Reynard Spiess, Rehana Sung, Alan R. Williams, Donal Fellows, Natalie J. Stanford, Paul Mulherin, Rosalind Le Feuvre, Perdita Barran, Royston Goodacre, Nicholas J. Turner, Carole Goble, George Guoqiang Chen, Douglas B. Kell, Jason Micklefield, Rainer Breitling, Eriko Takano, Jean-Loup Faulon, Nigel S. Scrutton (2018): 
 **An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**.
