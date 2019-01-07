@@ -79,6 +79,12 @@ Shoaib A Sufi, Caroline Jay (2018):
 **Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**.
 [version 1; referees: 1 approved with reservations]. _F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
 
+Shoaib Sufi, Aleksandra Nenadic, Raniere Silva, Beth Duckles, Iveta Simera, Jennifer A. de Beyer, Caroline Struthers,
+Terhi Nurmikko-Fuller, Louisa Bellis, Wadud Miah, Adriana Wilde, Iain Emsley, Olivier Philippe, Melissa Balzano, Sara Coelho, Heather Ford, Catherine Jones, Vanessa Higgins (2018):
+**Ten simple rules for measuring the impact of workshops**.
+_PLOS Computational Biology_ **14**(8):e1006191.
+[https://doi.org/10.1371/journal.pcbi.1006191](https://doi.org/10.1371/journal.pcbi.1006191)
+
 Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Dunstan, Neil Swainston, Maria Vinaixa, Katherine A. Hollywood, Andrew Currin, Nicholas J. W. Rattray, Sandra Taylor, Reynard Spiess, Rehana Sung, Alan R. Williams, Donal Fellows, Natalie J. Stanford, Paul Mulherin, Rosalind Le Feuvre, Perdita Barran, Royston Goodacre, Nicholas J. Turner, Carole Goble, George Guoqiang Chen, Douglas B. Kell, Jason Micklefield, Rainer Breitling, Eriko Takano, Jean-Loup Faulon, Nigel S. Scrutton (2018): 
 **An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**.
 _Communications Biology_ **1**:66
