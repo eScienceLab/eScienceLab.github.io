@@ -57,7 +57,7 @@ Natalie J Stanford, Finn Bacall, Fatemeh Zamanzad Ghavidel, Martin Golebiewski, 
 **FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**.
 _NETTAB 2018 Network Tools and Applications in Biology_
 [[preprint]](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf)
-[[preprint server](https://www.research.manchester.ac.uk/portal/en/publications/fair-bioinformatics-computation-and-data-management-fairdom-and-the-norwegian-digital-life-initiative(c4b199b1-95c9-4ab2-85ff-87681e1cc971).html)
+[[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/fair-bioinformatics-computation-and-data-management-fairdom-and-the-norwegian-digital-life-initiative(c4b199b1-95c9-4ab2-85ff-87681e1cc971).html)
 
 
 Sarala M. Wimalaratne, Nick Juty, John Kunze, Greg Janée, Julie A. McMurry, Niall Beard, Rafael Jimenez, Jeffrey S. Grethe, Henning Hermjakob, Maryann E. Martone, Tim Clark (2018):
