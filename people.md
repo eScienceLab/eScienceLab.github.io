@@ -38,10 +38,6 @@ staff:
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpg
   role: Technical Architect
-- name: Natalie J. Stanford
-  orcid: 0000-0003-4958-0184
-  img: natalie-stanford-sm.jpg
-  role: Research Community Manager, Data Scientist
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
@@ -145,6 +141,10 @@ former:
 - name: Rishi Ramgolam  
 - name: Mark Robinson
   orcid: 0000-0002-8184-7507
+- name: Natalie J. Stanford
+  orcid: 0000-0003-4958-0184
+  img: natalie-stanford-sm.jpg
+  role: Research Community Manager, Data Scientist
 - name: Mannie Tagarira
 - name: Franck Tanohli
 - name: Lefteris Tatakis
