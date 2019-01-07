@@ -41,7 +41,7 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2018):
 **Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**.
 _Submitted to Gigascience_.
-Zenodo preprint: [doi:10.5281/zenodo.1966881](https://doi.org/10.5281/zenodo.1966881)
+Preprint: [doi:10.5281/zenodo.1966881](https://doi.org/10.5281/zenodo.1966881)
 
 Stian Soiland-Reyes, Marcos Cáceres (2018):
 **The Archive and Package (arcp) URI scheme**.
