@@ -83,7 +83,6 @@ Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Duns
 **An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**.
 _Communications Biology_ **1**:66
 [https://doi.org/10.1038/s42003-018-0076-9](https://doi.org/10.1038/s42003-018-0076-9)
-[[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/an-automated-designbuildtestlearn-pipeline-for-enhanced-microbial-production-of-fine-chemicals(160fb3f4-ee2f-4b2d-9b92-f2d85ed0162e).html)
 
 
 ## 2017
@@ -130,7 +129,7 @@ _Marine Biodiversity_  pp 1–12.
 John M Hancock, Alf Game, Chris P Ponting, Carole Anne Goble (2017): 
 **An open and transparent process to select ELIXIR Node Services as implemented by ELIXIR-UK**
 _F1000Research_ 2017, **5**(ELIXIR):2894 
-[10.12688/f1000research.10473.2](https://doi.org/10.12688/f1000research.10473.2)
+[https://doi.org/10.12688/f1000research.10473.2](https://doi.org/10.12688/f1000research.10473.2)
 
 Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez X, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí,, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková,, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi,, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017):
 **Four simple recommendations to encourage best practices in research software**
