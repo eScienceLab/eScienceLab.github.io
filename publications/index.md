@@ -424,10 +424,11 @@ Katherine Wolstencroft, Robert Haines, Donal Fellows, Alan Williams, David Withe
 
 Hyde Zhang, Stian Soiland-Reyes, Carole Goble (2013): **Taverna Mobile: Taverna workflows on Android**, _EMBnet.journal_ **19**(B). [https://doi.org/10.14806/ej.19.B.727](https://doi.org/10.14806/ej.19.B.727) [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
 
-Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): **Web Annotation as a First Class Object**. _IEEE Internet Computing_. 2013 December; 17(6): 71-75.
+Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): 
+**Web Annotation as a First Class Object**. _IEEE Internet Computing_ **17**(6) pp 71-75.
 [https://doi.org/10.1109/MIC.2013.123](https://doi.org/10.1109/MIC.2013.123)
-[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:211608&datastreamId=PRE-PEER-REVIEW.PDF)
-[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:211608)
+[[html]](http://s11.no/2013/web-annotation/)
+[[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/web-annotation-as-a-firstclass-object(16ac93c0-c2af-4e73-b5f8-7d0582556dd7).html)
 [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
 
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Wolfgang Mueller, Quyen Nguyen, Jacky L. Snoep, Carole Goble (2013)
