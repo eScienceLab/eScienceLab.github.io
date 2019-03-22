@@ -1,6 +1,29 @@
 ---
 layout: default
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": ["Organization", "Project", "ResearchProject"],
+    {% if page.description %}
+      "description": "{{ page.description }}",
+    {% endif %}
+    "name": "{{ page.title }}",
+    {% if page.website %}
+      "url": "{{ page.website }}",
+    {% endif %}
+    {% if page.logo %}
+      "logo": "{{site.url}}/images/logo/{{ page.logo }}",
+    {% endif %}
+    {% if page.start_date %}
+      "foundingDate": "{{ page.start_date }}",
+    {% endif %}
+    {% if page.project_reference %}
+      "ownershipFundingInfo": ["{{ page.project_reference | split: ' ' | join: '","' }}"]
+    {% endif %}
+  }
+  </script>
 <article class="post">
 
   <header class="post-header">
@@ -15,7 +38,6 @@ layout: default
     {% if page.logo %}
     <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}" class="project-logo"/>
     {% endif %}
-    
     <ul>
       {% if page.website %}
         <li>Website: <a href="{{page.website}}">{{page.website}}</a></li>
@@ -23,8 +45,16 @@ layout: default
       {% if page.start_date %}
         <li>Started: {{page.start_date | date: '%B %-d, %Y' }}</li>
       {% endif %}
+      {% if page.duration %}
+        <li>Duration: {{page.duration}}</li>
+      {% endif %}
       {% if page.project_reference %}
-        <li>Project reference: <a href="{{page.project_reference}}">{{page.project_reference}}</a></li>
+        <li>Project reference: 
+          {% assign references = page.project_reference | split: ' ' %}
+          {% for dur in references %}
+            <a href="{{ dur }}">{{ dur }}</a>
+          {% endfor %}
+        </li>
       {% endif %}
     </ul>
     {{ content }}
