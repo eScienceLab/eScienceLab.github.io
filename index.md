@@ -1,6 +1,44 @@
 ---
 layout: index
 ---
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "eScience Lab",
+    "@id": "https://esciencelab.org.uk/#",
+    "url": "https://esciencelab.org.uk/",
+    "subjectOf": "https://esciencelab.org.uk/about/",
+    "email": "info@esciencelab.org.uk",
+    "logo": "https://esciencelab.org.uk/images/logo/escienceLab-logo.png",
+    "parentOrganization": {
+        "@type": "Organization",
+        "name": "Information Management Group",
+        "alternateName": "IMG",
+        "url": "http://www.cs.manchester.ac.uk/img/",
+        "parentOrganization": {
+            "@type": "Organization",
+            "name": "School of Computer Science",
+            "alternateName": "CS",
+            "url": "http://www.cs.manchester.ac.uk/",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Oxford Road",
+                "addressLocality": "Manchester",
+                "postalCode": "M13 9PL",
+                "addressCountry": "UK"
+            },
+            "parentOrganization": {
+                "@type": "EducationalOrganization",
+                "name": "The University of Manchester",
+                "alternateName": "UNIMAN",
+                "url": "http://www.manchester.ac.uk/",
+                "logo": "https://assets.manchester.ac.uk/corporate/images/design/logo-university-of-manchester.png"
+            }
+        }
+    }
+  }
+  </script>
 
 The [eScience Lab](/about/) research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [School of Computer Science](http://www.cs.manchester.ac.uk/),  [University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
 
