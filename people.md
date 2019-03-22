@@ -217,7 +217,7 @@ former:
    <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}" class="profile_picture"></a>
     <div property="name" class="name">{{member.name}}</div>
-    <span rel="affiliation" resource="https://esciencelab.org.uk/#"></span>
+    <link rel="affiliation" rev="sponsor" href="https://esciencelab.org.uk/#" />    
   </div>
   {% endfor %}
 
@@ -238,8 +238,8 @@ former:
   {% else %}
     <span property="name">{{member.name}}</span>
   {% endif %}
-  <span property="alumniOf" resource="https://esciencelab.org.uk/#"></span>
-  <span rev="alumni" resource="https://esciencelab.org.uk/#"></span>
+  <link rel="alumniOf" rev="alumni" href="https://esciencelab.org.uk/#" />
+
   </li>
 {% endfor %}
 </ul>
