@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SSI receives £6.5 million UKRI funding"
-date:   2019-04-26
+date:   2019-02-26
 categories: announcements funding
 ---
 
