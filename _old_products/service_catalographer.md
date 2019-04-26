@@ -3,7 +3,6 @@ layout: product
 name: service_catalographer
 title: Service Catalographer
 path: service_catalographer
-collection: products
 description: Domain-independent cataloguing of Web services
 website: http://www.servicecatalogue.org.uk/
 logo: /images/logo/service_catalographer_logo.png

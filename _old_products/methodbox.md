@@ -3,7 +3,6 @@ layout: product
 name: methodbox
 title: MethodBox
 path: methodbox
-collection: products
 description: Browse datasets and share knowledge
 website: https://methodbox.cs.man.ac.uk/
 logo: /images/logo/methodbox.png
