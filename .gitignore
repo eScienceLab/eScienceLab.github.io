@@ -8,3 +8,4 @@ Gemfile.docker
 *.orig
 \#*\#
 .bundle
+vendor
