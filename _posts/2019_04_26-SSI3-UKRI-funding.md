@@ -11,4 +11,4 @@ to continue its world-leading work helping thousands of UK researchers from all 
 
 Carole Goble, the eScienceLab group lead, is the Manchester's co-I of the Institue.
 
-Read more at https://software.ac.uk/blog/2019-02-26-software-sustainability-institute-improve-research-software-practices-ps65-million .
+Read more at https://software.ac.uk/blog/2019-02-26-software-sustainability-institute-improve-research-software-practices-ps65-million.
