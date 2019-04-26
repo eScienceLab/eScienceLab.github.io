@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 
 head:
-- name: Professor Carole Goble
+- name: Prof. Carole Goble
   orcid: 0000-0003-1219-2137
   img: carole-goble-sm.jpg
   role: Head
