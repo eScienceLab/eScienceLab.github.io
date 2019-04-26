@@ -2,7 +2,7 @@
 layout: post
 title:  "SSI receives £6.5 million UKRI funding"
 date:   2019-04-26
-categories: announcements release
+categories: announcements funding
 ---
 
 The Software Sustainability Institute, a team of software experts, from the universities of Edinburgh, Manchester, Oxford and Southampton, 
