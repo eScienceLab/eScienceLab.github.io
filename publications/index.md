@@ -15,7 +15,7 @@ distributed under a [Creative Commons Attribution 4.0 License](http://creativeco
 Source: [openaccessweek.org](http://www.openaccessweek.org/page/englishhigh-resolution-1)_
 </small>
 
-The University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide [green open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/understanding-open-access/#d.en.403436)
+The University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide [green open access](https://www.library.manchester.ac.uk/using-the-library/staff/research/open-research/access/understanding/)
 preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
