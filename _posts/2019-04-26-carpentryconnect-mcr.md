@@ -2,7 +2,7 @@
 layout: post
 title:  "Save the date: CarpentryConnect Manchester conference, 25-27 June 2019"
 date:   2019-04-26
-categories: announcements
+categories: announcements event
 ---
 
 In affiliation with The Carpentries, the Software Sustainability Institute is organising the first European CarpentryConnect event 
