@@ -1,7 +1,7 @@
 ---
 layout: project
 name: datastage
-title: DataSTAGE: FAIR4CURES
+title: DataSTAGE FAIR4CURES
 path: datastage.html
 collection: projects
 description: Storage, Toolspace, Access and analytics for Big Data Empowerment
