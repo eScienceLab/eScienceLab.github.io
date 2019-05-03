@@ -12,7 +12,7 @@ duration: 12 months
 project_reference: https://www.nhlbi.nih.gov/science/data-storage-toolspace-access-and-analytics-big-data-empowerment-datastage
 ---
 
-The NHLBI's [DataSTAGE](https://www.nhlbidatastage.org/) project will develop innovative computing solutions that meet the needs of the NHLBI and our research community, building on the cloud-based infrastructure of the [NIH Data Commons](https://commonfund.nih.gov/commons), which [kicked off in 2018](http://www.researchobject.org/2017-12-commonspilot/). NHLBI's DataSTAGE is a cloud-based platform, or technical framework, for tools, applications, and workflows. DataSTAGE provides secure workspaces to share, store, cross-link, and compute large sets of data generated from biomedical and behavioral research.
+The NHLBI's [DataSTAGE](https://www.nhlbidatastage.org/) project will develop innovative computing solutions that meet the needs of the NHLBI and our research community, building on the cloud-based infrastructure of the [NIH Data Commons](https://commonfund.nih.gov/commons), which [kicked off in 2017](http://www.researchobject.org/2017-12-commonspilot/). NHLBI's DataSTAGE is a cloud-based platform, or technical framework, for tools, applications, and workflows. DataSTAGE provides secure workspaces to share, store, cross-link, and compute large sets of data generated from biomedical and behavioral research.
 
 ## FAIR4CURES
 
