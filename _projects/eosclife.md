@@ -5,7 +5,7 @@ title: Eosc-Life
 path: eosclife
 collection: projects
 description: The EOSC-Life project develops an open collaborative space for digital biology in Europe
-logo: xxx.png
+logo: eosc-life20k.png
 website: https://elixir-europe.org/news/eosc-life-start
 start_date: 2019-03-01
 duration: 48 months
