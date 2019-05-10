@@ -11,10 +11,10 @@ This 2019 Seasonal School is funded and organized jointly with [PRACE](http://ww
 
 * **Date**: Monday 10 – Thursday 13 June 2019
 * **Venue**: KTH Main Campus, Stockholm, Sweden – How to get here
-* **Application opens*: *1st March 2019
+* **Application opens**: 1st March 2019
 * **Application deadline**: Friday 1st June 2019
 * **Participation**: First-come, first-served
-* **Contact*: *info@bioexcel.eu
+* **Contact**: [info@bioexcel.eu](mailto:info@bioexcel.eu)
 * **Registration fee**: Free. However, participants will need to cover their own accommodation and transport costs.
 
 [**Register here**](https://events.prace-ri.eu/event/868/registrations/605/)
