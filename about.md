@@ -10,7 +10,7 @@ The [eScience Lab team](/people/) are focused on research and development around
 
 Our [research](/publications/) and [projects](/projects/) span a wide array of topics, including eScience, bioinformatics, biodiversity, scholarly communication, reproducible science, linked data, provenance, community building and knowledge representation.
 
-The eScience Lab currently has guaranteed funding until 2020.
+The eScience Lab currently has guaranteed funding until 2023.
 
 ## History
 
