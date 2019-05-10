@@ -6,7 +6,7 @@ path: datastage.html
 collection: projects
 description: Storage, Toolspace, Access and analytics for Big Data Empowerment
 logo: datastage.jpg
-website: https://www.nhlbidatastage.org/
+website: https://datastage.io/
 start_date: 2018-08-01
 duration: 12 months
 project_reference: https://www.nhlbi.nih.gov/science/data-storage-toolspace-access-and-analytics-big-data-empowerment-datastage
@@ -16,9 +16,9 @@ The NHLBI's [DataSTAGE](https://www.nhlbidatastage.org/) project will develop in
 
 ## FAIR4CURES
 
-[Seven Bridges Genomics](https://www.sevenbridges.com/) and the [Elsevier Mendeley Data](https://www.elsevier.com/solutions/mendeley-data-platform) team collaborate in the DataSTAGE project in _Team Xenon_ to continue development of [FAIR4Cures](https://www.slideshare.net/mobile/anitawaard/cni-2018-a-research-object-authoring-tool-for-the-data-commons), which was [initiated](https://www.elsevier.com/about/press-releases/science-and-technology/elsevier-and-seven-bridges-receive-nih-data-commons-grant-for-biomedical-data-analysis) as a [NIH Data Commons pilot](https://commonfund.nih.gov/commons) in the [Data Commons Pilot Phase Consortium (DCPPC)](https://public.nihdatacommons.us/) and now carried forward as part of DataSTAGE.
+[Seven Bridges Genomics](https://www.sevenbridges.com/) and the [Elsevier Mendeley Data](https://www.elsevier.com/solutions/mendeley-data-platform) team collaborate in the DataSTAGE project in _Team Xenon_ to continue development of [FAIR4Cures](https://www.slideshare.net/mobile/anitawaard/cni-2018-a-research-object-authoring-tool-for-the-data-commons), which was [initiated](https://www.elsevier.com/about/press-releases/science-and-technology/elsevier-and-seven-bridges-receive-nih-data-commons-grant-for-biomedical-data-analysis) as a [NIH Data Commons pilot](https://commonfund.nih.gov/commons) in the [Data Commons Pilot Phase Consortium (DCPPC)](https://public.nihdatacommons.us/) and now carried forward as part of [DataSTAGE](https://datastage.io/).
 
-FAIR4Cures aims to build a FAIR genomics workflow execution and data management solution. The core components are:
+[FAIR4Cures](https://f4c.readme.io/) aims to build a FAIR genomics workflow execution and data management solution. The core components are:
 
 * [Common Workflow Language](/activities/cwl/) for interoperable definitions of the computational workflows
 * [Seven Bridges Platform](https://www.sevenbridges.com/platform/) for executing scalable workflows
