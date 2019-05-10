@@ -10,7 +10,7 @@ categories: training hpc
 This 2019 Seasonal School is funded and organized jointly with [PRACE](http://www.prace-ri.eu/), the main HPC resource provider in Europe. The school is also supported by the [Swedish National Infrastructure for Computing (SNIC)](http://www.snic.se/).
 
 * **Date**: Monday 10 – Thursday 13 June 2019
-* **Venue**: KTH Main Campus, Stockholm, Sweden – How to get here
+* **Venue**: KTH Main Campus, Stockholm, Sweden – [How to get here](https://events.prace-ri.eu/event/868/page/66-finding-your-way)
 * **Application opens**: 1st March 2019
 * **Application deadline**: Friday 1st June 2019
 * **Participation**: First-come, first-served
