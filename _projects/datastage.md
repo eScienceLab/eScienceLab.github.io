@@ -9,14 +9,14 @@ logo: nhlbi-data-stage.png
 website: https://datastage.io/
 start_date: 2018-08-01
 duration: 12 months
-project_reference: https://www.nhlbi.nih.gov/science/data-storage-toolspace-access-and-analytics-big-data-empowerment-datastage
+project_reference: https://projectreporter.nih.gov/project_info_details.cfm?aid=9732880&icde=44591431
 ---
 
-The NHLBI's [DataSTAGE](https://www.nhlbidatastage.org/) project will develop innovative computing solutions that meet the needs of the NHLBI and our research community, building on the cloud-based infrastructure of the [NIH Data Commons](https://commonfund.nih.gov/commons), which [kicked off in 2017](http://www.researchobject.org/2017-12-commonspilot/). NHLBI's DataSTAGE is a cloud-based platform, or technical framework, for tools, applications, and workflows. DataSTAGE provides secure workspaces to share, store, cross-link, and compute large sets of data generated from biomedical and behavioral research.
+The [NHLBI's DataSTAGE](https://www.nhlbidatastage.org/) project will develop innovative computing solutions that meet the needs of the NHLBI and our research community, building on the cloud-based infrastructure of the [NIH Data Commons](https://commonfund.nih.gov/commons), which [kicked off in 2017](http://www.researchobject.org/2017-12-commonspilot/). NHLBI's DataSTAGE is a cloud-based platform, or technical framework, for tools, applications, and workflows. DataSTAGE provides secure workspaces to share, store, cross-link, and compute large sets of data generated from biomedical and behavioral research.
 
 ## FAIR4CURES
 
-[Seven Bridges Genomics](https://www.sevenbridges.com/) and the [Elsevier Mendeley Data](https://www.elsevier.com/solutions/mendeley-data-platform) team collaborate in the DataSTAGE project in _Team Xenon_ to continue development of [FAIR4Cures](https://www.slideshare.net/mobile/anitawaard/cni-2018-a-research-object-authoring-tool-for-the-data-commons), which was [initiated](https://www.elsevier.com/about/press-releases/science-and-technology/elsevier-and-seven-bridges-receive-nih-data-commons-grant-for-biomedical-data-analysis) as a [NIH Data Commons pilot](https://commonfund.nih.gov/commons) in the [Data Commons Pilot Phase Consortium (DCPPC)](https://public.nihdatacommons.us/) and now carried forward as part of [DataSTAGE](https://datastage.io/).
+[Seven Bridges Genomics](https://www.sevenbridges.com/) and the [Elsevier Mendeley Data](https://www.elsevier.com/solutions/mendeley-data-platform) team collaborate in the DataSTAGE project in _Team Xenon_ to continue development of [FAIR4Cures](https://www.slideshare.net/mobile/anitawaard/cni-2018-a-research-object-authoring-tool-for-the-data-commons), which was [initiated](https://www.elsevier.com/about/press-releases/science-and-technology/elsevier-and-seven-bridges-receive-nih-data-commons-grant-for-biomedical-data-analysis) as a [NIH Data Commons pilot](https://commonfund.nih.gov/commons) in the [Data Commons Pilot Phase Consortium (DCPPC)](https://public.nihdatacommons.us/) and now carried forward as part of [DataSTAGE](https://datastage.io/) (see also [NHLBI DataSTAGE project site](https://www.nhlbidatastage.org/)).
 
 [FAIR4Cures](https://f4c.readme.io/) aims to build a FAIR genomics workflow execution and data management solution. The core components are:
 
