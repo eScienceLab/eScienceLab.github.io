@@ -30,10 +30,6 @@ staff:
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
   role: Senior Technical Architect
-- name: Raniere Silva
-  orcid: 0000-0002-8381-3749
-  img: raniere-silva-sm.jpg
-  role: Community Officer
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpg
@@ -141,6 +137,10 @@ former:
 - name: Rishi Ramgolam  
 - name: Mark Robinson
   orcid: 0000-0002-8184-7507
+- name: Raniere Silva
+  orcid: 0000-0002-8381-3749
+  img: raniere-silva-sm.jpg
+  role: Community Officer
 - name: Natalie J. Stanford
   orcid: 0000-0003-4958-0184
   img: natalie-stanford-sm.jpg
