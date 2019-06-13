@@ -5,7 +5,7 @@ title: SynthSys+
 path: synthsys.html
 collection: projects
 description: Synthesis of Systematic Resources
-logo: 
+logo: original-image-sizes/synthesys-plus-logo.png
 website: https://www.synthesys.info/
 project_reference: 
 start_date: 2019-02-01
