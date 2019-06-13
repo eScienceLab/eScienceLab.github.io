@@ -1,8 +1,8 @@
 ---
 layout: project
-name: SynthSys+
-title: SynthSys+
-path: synthsys.html
+name: SyntheSys+
+title: SyntheSys+
+path: synthesys.html
 collection: projects
 description: Synthesis of Systematic Resources
 logo: original-image-sizes/synthesys-plus-logo.png
