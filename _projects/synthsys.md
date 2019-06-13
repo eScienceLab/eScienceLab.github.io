@@ -25,7 +25,7 @@ international partners, via discrete work packages coordinated under
 deliverables of Access, Networking, and Joint Research Activities. 
 
 SYNTHESYS+ will lay the foundations for the [Distributed System of Scientific
-Collections|https://dissco.eu/] (DiSSCO), a massive scientific infrastructure project, which will
+Collections](https://dissco.eu/) (DiSSCO), a massive scientific infrastructure project, which will
 see 115 European Museums from 21 Countries position their collections  at the
 centre of data-driven scientific excellence and innovation in environmental
 research, climate change, food security, one health and the bioeconomy.
