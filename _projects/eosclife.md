@@ -45,3 +45,9 @@ Tools and workflows must be findable and accessible. They should also be citable
 * Workflow snapshot preservation, publishing, citation and monitoring, credit claiming and workflows part of the scholarly communication landscape partnering with platforms like DataCite and EOSC’s OpenAIRE and their Research Community Dashboards linking publications with workflows, associated datasets, software, etc.
 
 The workflow registry is planned to be based on the [SEEK platform](/products/seek/) using [Common Workflow Language](/activities/cwl/) and [Research Objects](/products/researchobject/) to glue in federated workflow and tool descriptions across the research infrastructures.
+
+## Related pages
+
+* [EOSC-Life homepage](http://www.eosc-life.eu/)
+* [ELIXIR: The EOSC-Life project develops an open collaborative space for digital biology in Europe](https://elixir-europe.org/news/eosc-life-start)
+* [BSC: EOSC-Life: Providing an open collaborative space for digital biology in Europe](https://www.bsc.es/es/research-and-development/projects/eosc-life-providing-open-collaborative-space-digital-biology)
