@@ -17,7 +17,7 @@ staff:
 - name: Niall Beard
   orcid: 0000-0002-2627-0231
   img: niall-beard-sm.jpg
-  role: Scientific Web Technologist
+  role: Senior Research Software & Training Manager
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
@@ -42,6 +42,9 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
+- name: Tong Li
+  img: tong-li-sm.jpg
+  role: TeSS Developer (Summer Vacation)
 
 phd:
 
