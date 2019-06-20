@@ -5,7 +5,7 @@ title: DataSTAGE FAIR4CURES
 path: datastage.html
 collection: projects
 description: Storage, Toolspace, Access and analytics for Big Data Empowerment
-logo: nhlbi-data-stage.png
+logo: datastage.png
 website: https://datastage.io/
 start_date: 2018-08-01
 duration: 12 months
