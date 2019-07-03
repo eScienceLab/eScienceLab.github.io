@@ -26,6 +26,9 @@ staff:
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
+- name: Tong Li
+  img: tong-li-sm.jpg
+  role: TeSS Developer (Summer Vacation)
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
@@ -46,9 +49,6 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
-- name: Tong Li
-  img: tong-li-sm.jpg
-  role: TeSS Developer (Summer Vacation)
 
 phd:
 
