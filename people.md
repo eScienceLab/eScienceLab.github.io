@@ -49,6 +49,10 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
+- name: Yo Yehudi
+  orcid: 0000-0003-2705-1724
+  img: yo-yehudi-sm.jpg
+  role: PhD Student
 
 phd:
 
