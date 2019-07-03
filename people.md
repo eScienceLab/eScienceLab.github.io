@@ -10,6 +10,10 @@ head:
   role: Head
 
 staff:
+- name: Ebtisam Alharbi
+  orcid: 0000-0002-3887-3857
+  img: ebtisam-alharbi-sm.jpg
+  role: PhD Student
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
