@@ -208,17 +208,10 @@ _BMC Bioinformatics_ **11**:542.
 [doi:10.1186/1471-2105-11-542](http://dx.doi.org/10.1186/1471-2105-11-542)
 
 
-
-Wei Tan, Paolo Missier, Ian Foster,  Ravi Madduri, David De Roure, Carole Goble (2009): 
-**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
-_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117
-[doi:10.1002/cpe.1547](http://dx.doi.org/10.1002/cpe.1547)
-
-
-
-
 ## 2009
 
+
+Iain Buchan, Shoaib Sufi, Sarah Thew, Ian Dunlop, Urara Hiroeh, Dexter Canoy, Georgina Moulton, John Ainsworth, Angela Dale, Sean Bechhofer, Carole Goble (2009): **Obesity e-Lab: Connecting Social Science via Research Objects**, _5th International Conference on e-Social Science_ [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/obesity-elab(4030a506-ba67-495c-981d-5f8f877404b8).html)]
 
 Belhajjame, KhaIid, Missier, P. & Goble, C.Cannataro, M., ed.,  (2009), Data Provenance in Scientific Workflows, Medical Information Science Reference.
 
@@ -287,6 +280,12 @@ Wei Tan, Kyle Chard, Dinanath Sulakhe, Ravi Madduri, Ian Foster, Stian Soilandâ€
 _IEEE International Conference on Web Services (ICWS 2009)_
 [doi:10.1109/ICWS.2009.19](http://dx.doi.org/10.1109/ICWS.2009.19)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:192018)
+
+
+Wei Tan, Paolo Missier, Ian Foster,  Ravi Madduri, David De Roure, Carole Goble (2009): 
+**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
+_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117
+[doi:10.1002/cpe.1547](http://dx.doi.org/10.1002/cpe.1547)
 
 
 Tan, W.; Missier, P.; Madduri, R. & Foster, I. (2009), Building Scientific Workflow with Taverna and BPEL: A Comparative Study in caGrid, in **Service-Oriented Computing - ICSOC 2008 Workshops**, Springer Berlin / Heidelberg, , pp. 118-129.
