@@ -29,6 +29,10 @@ staff:
 - name: Tong Li
   img: tong-li-sm.jpg
   role: TeSS Developer (Summer Vacation)
+- name: Robin Long
+  orcid: 0000-0003-2249-645X
+  img: robin-long-sm.jpg
+  role: Technical Architect
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
