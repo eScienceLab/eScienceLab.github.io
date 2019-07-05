@@ -36,12 +36,20 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 -->
 
-## 2018
+## 2019
 
-Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2018):
+Carole Goble; Sarah Cohen-Boulakia; Stian Soiland-Reyes; Daniel Garijo; Yolanda Gil; Michael R. Crusoe; Kristian Peters; Daniel Schober (2019):
+**FAIR Computational Workflows**
+_Data Intelligence_  (accepted)
+Preprint: [https://doi.org/10.5281/zenodo.3268653](https://doi.org/10.5281/zenodo.3268653)
+
+Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):
 **Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**.
-_Submitted to Gigascience_.
-Preprint: [https://doi.org/10.5281/zenodo.1966881](https://doi.org/10.5281/zenodo.1966881)
+_Gigascience_ (accepted)
+Preprint: [https://doi.org/10.5281/zenodo.3196309](https://doi.org/10.5281/zenodo.3196309)
+
+
+## 2018
 
 Stian Soiland-Reyes, Marcos Cáceres (2018):
 **The Archive and Package (arcp) URI scheme**.
