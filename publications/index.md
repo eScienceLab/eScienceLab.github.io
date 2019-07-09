@@ -36,9 +36,15 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 
 -->
 
+
 ## 2019
 
-Carole Goble; Sarah Cohen-Boulakia; Stian Soiland-Reyes; Daniel Garijo; Yolanda Gil; Michael R. Crusoe; Kristian Peters; Daniel Schober (2019):
+Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole Anne Goble, Tim Clark (2019):
+**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**
+_Data Intelligence_  (accepted)
+Preprint: [https://doi.org/10.5281/zenodo.3267434](https://doi.org/10.5281/zenodo.3267434)
+
+Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2019):
 **FAIR Computational Workflows**
 _Data Intelligence_  (accepted)
 Preprint: [https://doi.org/10.5281/zenodo.3268653](https://doi.org/10.5281/zenodo.3268653)
