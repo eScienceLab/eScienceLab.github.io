@@ -53,6 +53,7 @@ Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole G
 **Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**.
 _Gigascience_ (accepted)
 Preprint: [https://doi.org/10.5281/zenodo.3196309](https://doi.org/10.5281/zenodo.3196309)
+Cite as: [https://doi.org/10.1093/gigascience/giz095](https://doi.org/10.1093/gigascience/giz095)
 
 
 ## 2018
