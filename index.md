@@ -18,7 +18,7 @@ layout: index
         "url": "http://www.cs.manchester.ac.uk/img/",
         "parentOrganization": {
             "@type": "Organization",
-            "name": "School of Computer Science",
+            "name": "Department of Computer Science",
             "alternateName": "CS",
             "url": "http://www.cs.manchester.ac.uk/",
             "address": {
@@ -40,7 +40,7 @@ layout: index
   }
   </script>
 
-The [eScience Lab](/about/) research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [School of Computer Science](http://www.cs.manchester.ac.uk/),  [University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
+The [eScience Lab](/about/) research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [Department of Computer Science](http://www.cs.manchester.ac.uk/),  [University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
 
 The [eScience Lab team](/people/) are focused on research and development around a set of tools designed for data driven and computational research. The tools support the coming together of people, data and methods in a particular research area; this is also know as an _e-laboratory_. These e-Laboratories or _e-Labs_ support domains as diverse as systems biology, social science, music, astronomy, multimedia and chemistry. The [tools](/products/) have been adopted by a large number of projects and institutions.
 
