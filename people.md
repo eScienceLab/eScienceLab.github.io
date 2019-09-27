@@ -10,6 +10,10 @@ head:
   role: Head
 
 staff:
+- name: Rachael Ainsworth
+  orcid: 0000-0003-2591-9462
+  img: rachael-ainsworth.jpg
+  role: Community Manager
 - name: Ebtisam Alharbi
   orcid: 0000-0002-3887-3857
   img: ebtisam-alharbi-sm.jpg
