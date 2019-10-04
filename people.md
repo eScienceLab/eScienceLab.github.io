@@ -36,7 +36,7 @@ staff:
 - name: Robin Long
   orcid: 0000-0003-2249-645X
   img: robin-long-sm.jpg
-  role: Technical Architect
+  role: Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
