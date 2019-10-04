@@ -47,7 +47,7 @@ staff:
   role: Senior Technical Architect
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
-  img: stian-soiland-reyes.jpeg
+  img: stian-soiland-reyes-sm.jpeg
   role: Technical Architect
 - name: Andrew Stewart
   orcid: 0000-0002-9795-4104
