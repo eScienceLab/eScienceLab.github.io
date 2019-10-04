@@ -49,6 +49,10 @@ staff:
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpg
   role: Technical Architect
+- name: Andrew Stewart
+  orcid: 0000-0002-9795-4104
+  img: AndrewStewart.jpg
+  role: Senior Lecturer
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
