@@ -36,7 +36,7 @@ staff:
 - name: Robin Long
   orcid: 0000-0003-2249-645X
   img: robin-long-sm.jpg
-  role: Technical Architect
+  role: Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
@@ -47,8 +47,12 @@ staff:
   role: Senior Technical Architect
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
-  img: stian-soiland-reyes-sm.jpg
+  img: stian-soiland-reyes-sm.jpeg
   role: Technical Architect
+- name: Andrew Stewart
+  orcid: 0000-0002-9795-4104
+  img: AndrewStewart.jpg
+  role: Senior Lecturer
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
