@@ -30,9 +30,6 @@ staff:
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
-- name: Tong Li
-  img: tong-li-sm.jpg
-  role: TeSS Developer (Summer Vacation)
 - name: Robin Long
   orcid: 0000-0003-2249-645X
   img: robin-long-sm.jpg
@@ -180,6 +177,7 @@ former:
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
+- name: Tong Li
 ---
 
 <div about="https://esciencelab.org.uk/#"  vocab="http://schema.org/" typeof="Organization">
