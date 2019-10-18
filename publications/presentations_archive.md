@@ -158,7 +158,7 @@ exclude_from_nav: true
 | An Identity Crisis in the Life Sciences | 2006 | Zhao, J., Goble, C. and Stevens, R. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/goble-ipaw_2006_final.ppt" class="external-link">Download</a> |
 | Middleware for Bioinformaticians: Lessons from the myGrid Project | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/SIAM-myGridpublished.ppt" class="external-link">Download</a> |
 | (Semantic Grid) Services + Semantic (Grid Services) | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/EGC2005published.ppt" class="external-link">Download</a> |
-| myGrid High level Vision | 2005 | Goble, C. | <a rel="nofollow" href="http://wwwmygrid.org.uk/files/presentations/NIBHImyGridtalkpublished.ppt" class="external-link">Download</a> |
+| myGrid High level Vision | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/NIBHImyGridtalkpublished.ppt" class="external-link">Download</a> |
 | e-Science and the Semantic Web - Inspiration, Incubation, Irritation | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/ISWC2005keynote-final.ppt" class="external-link">Download</a> |
 | Putting Semantics into e-Science and the Grid A talk in several acts | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/e-Sciencekeynotepublished.ppt" class="external-link">Download</a> |
 | The Montagues and the Capulets - The Sequel | 2005 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/KCap2005.ppt" class="external-link">Download</a> |
