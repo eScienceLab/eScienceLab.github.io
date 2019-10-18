@@ -46,10 +46,6 @@ staff:
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
   role: Technical Architect
-- name: Andrew Stewart
-  orcid: 0000-0002-9795-4104
-  img: AndrewStewart.jpg
-  role: Senior Lecturer
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
@@ -90,6 +86,9 @@ associate:
   url: http://www.manchester.ac.uk/research/robert.stevens/
   img: robert-stevens.jpg
   orcid: 0000-0002-6038-9025
+- name: Andrew Stewart
+  orcid: 0000-0002-9795-4104
+  img: AndrewStewart.jpg
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
   img: katy-wolstencroft-sm.jpg
