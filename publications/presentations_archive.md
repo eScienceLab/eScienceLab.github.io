@@ -124,16 +124,16 @@ exclude_from_nav: true
 | Build BLAST video | 2007 | Wolstencroft, K. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/buildBlast2.avi" class="external-link">Download</a> |
 | Supporting in silico Workflow Experiments with myGrid and Taverna | 2007 | Wolstencroft, K. |  |
 | The myGrid Ontology: Bioinformatics Service Discovery | 2007 | Wolstencroft, K. |  |
-| Semantic Grid101 | 2006 | Bechhofer, S. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%201%20-%20Semantic%20Web%20101.ppt" class="external-link">Download</a> |
-| e-Research the JISC way | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DDeRJISCtalkCompressed.ppt" class="external-link">Download</a> |
+| Semantic Grid101 | 2006 | Bechhofer, S. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%201%20-%20Semantic%20Web%20101.ppt" class="external-link">(404 Not Found)</a> |
+| e-Research the JISC way | 2006 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070801120212/http://www.semanticgrid.org/presentations/DDeRJISCtalkCompressed.ppt" class="external-link">Download</a> |
 | From Grids towards Service Oriented Knowledge Utilities | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DDER-NGG3EGTD.ppt" class="external-link">Download</a> |
-| WS-Agreement: A Semantic Grid Perspective | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/wsagreesemgrid.ppt" class="external-link">Download</a> |
+| WS-Agreement: A Semantic Grid Perspective | 2006 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/*/http://www.semanticgrid.org/presentations/DDER-NGG3EGTD.ppt" class="external-link">Download</a> |
 | A Brief History ofThe Semantic Grid | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%202%20-%20A%20Brief%20History%20of%20the%20Semantic%20Grid.ppt" class="external-link">Download</a> |
-| A Semantic Datagrid The Chemistry Experiment | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%203%20-%20A%20Semantic%20Datagrid.ppt" class="external-link">Download</a> |
-| Semantics in the Grid | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%204%20-%20Semantics%20in%20the%20Grid.ppt" class="external-link">Download</a> |
-| Provenance, a matter of interpretation | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/ProvSemGrid.ppt" class="external-link">Download</a> |
-| The Chemistry Experiment: Building a Semantic Datagrid over Multiple Stores | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/RDFcombechem.ppt" class="external-link">Download</a> |
-| Semantic Grid Automation Through Annotations | 2006 | De Roure, D., Goble, C. and Bechhofer, S. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%200%20-%20Introduction.ppt" class="external-link">Download</a> |
+| A Semantic Datagrid The Chemistry Experiment | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%203%20-%20A%20Semantic%20Datagrid.ppt" class="external-link">(404 Not Found)</a> |
+| Semantics in the Grid | 2006 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%204%20-%20Semantics%20in%20the%20Grid.ppt" class="external-link">(404 Not Found)</a> |
+| Provenance, a matter of interpretation | 2006 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/*/http://www.semanticgrid.org/presentations/ProvSemGrid.ppt" class="external-link">Download</a> |
+| The Chemistry Experiment: Building a Semantic Datagrid over Multiple Stores | 2006 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/*/http://www.semanticgrid.org/presentations/RDFcombechem.ppt" class="external-link">Download</a> |
+| Semantic Grid Automation Through Annotations | 2006 | De Roure, D., Goble, C. and Bechhofer, S. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DMTF/Part%200%20-%20Introduction.ppt" class="external-link">(404 Not Found)</a> |
 | Taverna | 2006 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/GGFTavernaOMII.ppt" class="external-link">Download</a> |
 | The Semantic Web, Service Oriented Architectures, the myGrid Experience | 2006 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/siemensmygridtalk.ppt" class="external-link">Download</a> |
 | Science, Workflows and Collections | 2006 | Goble, C. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/UKSG2006published.ppt" class="external-link">Download</a> |
