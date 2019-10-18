@@ -85,36 +85,36 @@ exclude_from_nav: true
 | The Taverna Workflow System | 2008 | Wolstencroft, K. | <a rel="nofollow" href="http://www.mygrid.org.uk//files/presentations/ICSBGothenburg.ppt" class="external-link">Download</a> |
 | Metadata in myGrid: Finding services for in silico Science | 2008 | Wolstencroft, K. |  |
 | Designing, Executing, Reusing and Sharing Workflows: Taverna and myExperiment Supporting the in silico Experiment Life Cycle | 2008 | Wolstencroft, K. and Fisher, P. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/ISMBDemoText.ppt" class="external-link">Download</a> |
-| Re-Evaluating the Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://semanticgrid.org/presentations/GridReevaluated97.ppt" class="external-link">Download</a> |
-| Ending the Tyranny of the Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/Tyranny.ppt" class="external-link">Download</a> |
-| e-Science is about Scientists too | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/Australasia97.ppt" class="external-link">Download</a> |
-| e-Science and the Evolution of the Web | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/EarlyAdoptersDDeR97.ppt" class="external-link">Download</a> |
-| The Story of the Semantic Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/" class="external-link">Download</a> |
-| Grid of People | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/hastac.ppt" class="external-link">Download</a> |
-| The Promise and Challenges of the Semantic Web in e-Science | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/ASWSemGrid.ppt" class="external-link">Download</a> |
-| The Grid is DeadLong Live SOKU! | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/PRISM-SOKU.ppt" class="external-link">Download</a> |
-| Agents and the Semantic Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/AgentSemGrid.ppt" class="external-link">Download</a> |
-| Semantic Grid and Web 2.0 | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DeRoureSemanticGridWeb2Stockholm.ppt" class="external-link">Download</a> |
+| Re-Evaluating the Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://semanticgrid.org/presentations/GridReevaluated97.ppt" class="external-link">(404 Not Found)</a> |
+| Ending the Tyranny of the Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/Tyranny.ppt" class="external-link">(404 Not Found)</a> |
+| e-Science is about Scientists too | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070701215222/http://www.semanticgrid.org/presentations/Australasia97.ppt.ppt" class="external-link">Download</a> |
+| e-Science and the Evolution of the Web | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070717060557/http://www.semanticgrid.org/presentations/EarlyAdoptersDDeR97.ppt" class="external-link">Download</a> |
+| The Story of the Semantic Grid | 2007 | De Roure, D. |  (404 Not Found) |
+| Grid of People | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070717055836/http://www.semanticgrid.org/presentations/hastac.ppt" class="external-link">Download</a> |
+| The Promise and Challenges of the Semantic Web in e-Science | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070914030820/http://www.semanticgrid.org/presentations/ASWSemGrid.ppt" class="external-link">Download</a> |
+| The Grid is DeadLong Live SOKU! | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070801114721/http://www.semanticgrid.org/presentations/PRISM-SOKU.pptppt" class="external-link">Download</a> |
+| Agents and the Semantic Grid | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/AgentSemGrid.ppt" class="external-link">(404 Not Found)</a> |
+| Semantic Grid and Web 2.0 | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070717060223/http://www.semanticgrid.org/presentations/DeRoureSemanticGridWeb2Stockholm.ppt" class="external-link">Download</a> |
 | Three Perspectives on Collaborative Knowledge Acquisition | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/ThreePerspectives.ppt" class="external-link">Download</a> |
-| Dave's Adventures in Gridland | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/gridland.ppt" class="external-link">Download</a> |
-| The New e-Science | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/NeweScienceBangalore.ppt" class="external-link">Download</a> |
-| The Workflow Ecosystem: Why Plumbing is not enough | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/GridAsia2007CaroleGoble.ppt" class="external-link">Download</a> |
-| The State of the Nation in Data Integration | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/HCLS-WWW2007-workshop-published.ppt" class="external-link">Download</a> |
-| Sense and Sensibility: Semantic Infrastructure for Bioinformatics | 2007 | Goble, C. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/harvardGOBLE.ppt" class="external-link">Download</a> |
-| myExperiment a mySpace for the Self-serving Bioinformatician | 2007 | Goble, C. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/IntegrativeBiologykeynoteGOBLE.pdf" class="external-link">Download</a> |
-| Curating Services and Workflows: the Good, the Bad and the Ugly - A Personal Story in the Small | 2007 | Goble, C. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DCCkeynoteGOBLE2007.ppt" class="external-link">Download</a> |
-| Is e-Science the Semantic Web's Friend? Or just a FOAF? Or just tagging along? | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/IJCAI2007/IJCAI%203%20January.ppt" class="external-link">Download</a> |
+| Dave's Adventures in Gridland | 2007 | De Roure, D. | <a rel="nofollow" href="http://web.archive.org/web/20070801115234/http://www.semanticgrid.org/presentations/gridland.ppt" class="external-link">Download</a> |
+| The New e-Science | 2007 | De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/NeweScienceBangalore.ppt" class="external-link">(404 Not Found)</a> |
+| The Workflow Ecosystem: Why Plumbing is not enough | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/GridAsia2007CaroleGoble.ppt" class="external-link">(404 Not Found)</a> |
+| The State of the Nation in Data Integration | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/HCLS-WWW2007-workshop-published.ppt" class="external-link">(404 Not Found)</a> |
+| Sense and Sensibility: Semantic Infrastructure for Bioinformatics | 2007 | Goble, C. | <a rel="nofollow" href="http://web.archive.org/web/20120312020707/http://www.semanticgrid.org/presentations/harvardGOBLE.ppt" class="external-link">Download</a> |
+| myExperiment a mySpace for the Self-serving Bioinformatician | 2007 | Goble, C. | <a rel="nofollow" href="http://web.archive.org/web/20080921001310/http://www.semanticgrid.org:80/presentations/IntegrativeBiologykeynoteGOBLE.pdf" class="external-link">Download</a> |
+| Curating Services and Workflows: the Good, the Bad and the Ugly - A Personal Story in the Small | 2007 | Goble, C. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/DCCkeynoteGOBLE2007.ppt" class="external-link">(404 Not Found)</a> |
+| Is e-Science the Semantic Web's Friend? Or just a FOAF? Or just tagging along? | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/IJCAI2007/IJCAI%203%20January.ppt" class="external-link">(404 Not Found)</a> |
 | Taverna 2 in Pictures | 2007 | Goble, C. | <a rel="nofollow" href="http://open-bio.org/wiki/BOSC_2007" class="external-link">Download</a> |
-| Selfish Scientists,Egocentric Engineers,Truculent Techies | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/e-Social2007KeynoteGOBLE.ppt" class="external-link">Download</a> |
-| The Return of the Prodigal Web | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/Hypertext2007/Hypertext-goble-v4.ppt" class="external-link">Download</a> |
-| The Seven Deadly Sins of Bioinformatics | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/BOSCsevensinsGOBLE.ppt" class="external-link">Download</a> |
-| Grid 3.0: Services, Semantics and Society | 2007 | Goble, C. and De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/Grid2007-GOBLE2.ppt" class="external-link">Download</a> |
+| Selfish Scientists,Egocentric Engineers,Truculent Techies | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/e-Social2007KeynoteGOBLE.ppt" class="external-link">(404 Not Found)</a> |
+| The Return of the Prodigal Web | 2007 | Goble, C. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/Hypertext2007/Hypertext-goble-v4.ppt" class="external-link">(404 Not Found)</a> |
+| The Seven Deadly Sins of Bioinformatics | 2007 | Goble, C. | <a rel="nofollow" href="http://web.archive.org/web/20111110203802/http://www.cs.man.ac.uk/~carole/Talks/BOSCsevensinsGOBLE.ppt" class="external-link">Download</a> |
+| Grid 3.0: Services, Semantics and Society | 2007 | Goble, C. and De Roure, D. | <a rel="nofollow" href="http://www.semanticgrid.org/presentations/Grid2007-GOBLE2.ppt" class="external-link">(404 Not Found)</a> |
 | Loosely Coupled Bioinformatics Workflows for Systems Biology | 2007 | Kell, D. |  |
 | Taverna 2 in Pictures | 2007 | Oinn, T. | <a rel="nofollow" href="http://www.ebi.ac.uk/%7Etmo/talks/bosc2007.pdf" class="external-link">(404 Not Found)</a> |
 | Realising the Life Science Grid | 2007 | Oinn, T. | <a rel="nofollow" href="http://event.twgrid.org/isgc2007/Abstract/LifeScience/I_LifeScience_TomOinn.pdf" class="external-link">Download</a> |
 | When reality attacks! Four years of building workflow middleware for real scientists | 2007 | Oinn, T. |  |
 | Advanced Taverna and introducing t2 | 2007 | Soiland, S. | <a rel="nofollow" href="http://www.mygrid.org.uk/files/presentations/2007-12-12_Wageningen__Advanced_Taverna_and_introducing_t2.pdf" class="external-link">Download</a> |
-| myExperiment : Social Networking for Workflow-using e-Scientists | 2007 | Stevens, R., Goble, C. and De Roure, D. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/WORK07keynote.ppt" class="external-link">Download</a> |
+| myExperiment : Social Networking for Workflow-using e-Scientists | 2007 | Stevens, R., Goble, C. and De Roure, D. | <a rel="nofollow" href="http://www.cs.man.ac.uk/%7Ecarole/Talks/WORK07keynote.ppt" class="external-link">(404 Not Found)</a> |
 | Best Practice Service Annotation | 2007 | Tanoh, F. |  |
 | Taverna - From Biology to Astronomy | 2007 | Wolstencroft, K. | <a rel="nofollow" href="http://www.ogf.org/OGF20/materials/775/wolstencroft-ogf20-astro.ppt" class="external-link">Download</a> |
 | Distributed Computing for System Biology using Taverna Workflows | 2007 | Wolstencroft, K. | <a rel="nofollow" href="http://www.mygrid.org.uk//files/presentations/biosysbio.ppt" class="external-link">Download</a> |
