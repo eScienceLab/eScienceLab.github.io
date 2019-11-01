@@ -7,6 +7,10 @@ See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and 
 
 We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
 
+## 2019
+
+* [Understanding the Implications of Implementing FAIR data Principle in the Life Sciences](https://zenodo.org/record/3502577#.XbwWL9HLdhF) - by Ebtisam Alharbi, [Force11 2019, Edinburgh](https://www.force11.org/meetings/force2019) ([slides](https://zenodo.org/record/3502577/files/FAIR%20Implications.pptx?download=1))
+
 ## 2017
 
 * [Bioschemas for life science data]() - by Carole Goble, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=ag_wLjYQsfw)) ([slides](https://doi.org/10.7490/f1000research.1114494.1)) ([poster](https://doi.org/10.7490/f1000research.1114493.1))
