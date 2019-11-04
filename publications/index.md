@@ -24,15 +24,18 @@ preprints where _gold open access_ is not possible. Please [let us know](https:/
 Please try to use this citation style:
 
 
-First Name, Second Author, All Authors, Last Author (2018):
-**The title of the paper**.
+First Name, Second Author, All Authors, Last Author (2018):  
+[**The title of the paper**](https://doi.org/10.1234/journal.152 OR http://preprint/if/doi/is/not/open-access.pdf).  
 _Journal of Papers_ **15**(2)
-[https://doi.org/10.1234/journal.152](https://doi.org/10.1234/journal.152)
+<https://doi.org/10.1234/journal.152>
 [preprint](http://if/above/is/not/open-access.pdf)
 [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/#...)
 
 Preprints MUST be provided if the doi is not pointing to an Open Access paper.
-(tip: try accessing it from home)
+(tip: try accessing it from home or try http://oadoi.org/ )
+
+For consistency use double space after authors and title, this adds a <br> linebreak
+which is particularly useful for long author lists or long titles.
 
 -->
 
@@ -52,7 +55,6 @@ Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Gob
 [**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
 _Data Intelligence_ **2**(1):30–39
 <https://doi.org/10.1162/dint_a_00025>
-
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2019):  
 [**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
@@ -86,19 +88,17 @@ _F1000Research_ **8**:251
 Stian Soiland-Reyes, Marcos Cáceres (2018):  
 [**The Archive and Package (arcp) URI scheme**](https://www.research.manchester.ac.uk/portal/files/76956641/arcp.html).  
 _2018 IEEE 14th International Conference on e-Science (e-Science)_.
-[https://doi.org/10.1109/eScience.2018.00018 ](https://doi.org/10.1109/eScience.2018.00018 )
+<https://doi.org/10.1109/eScience.2018.00018>
 [[html]](http://s11.no/2018/arcp.html)
 [[pdf]](https://www.research.manchester.ac.uk/portal/files/83366888/arcp_camera_ready.pdf)
 [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/the-archive-and-package-arcp-uri-scheme(eb6dee14-e754-46c0-b82c-3ab54715d24c).html)
 [[arXiv:1809.06935]](https://arxiv.org/abs/1809.06935)
-
 
 Natalie J Stanford, Finn Bacall, Fatemeh Zamanzad Ghavidel, Martin Golebiewski, Inge Jonassen, Rune Kleppe, Olga Krebs, Hadas Leonov, Stuart Owen, Kjell Petersen, Maja Rey, Stian Soiland-Reyes, Kidane Tekle, Andreas Weidemann, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Anders Goksøyr, Jacky L. Snoep, Jon Olav Vik, Wolfgang Müller, Carole Goble (2018):  
 [**FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf).  
 _NETTAB 2018 Network Tools and Applications in Biology_
 [[preprint]](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf)
 [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/fair-bioinformatics-computation-and-data-management-fairdom-and-the-norwegian-digital-life-initiative(c4b199b1-95c9-4ab2-85ff-87681e1cc971).html)
-
 
 Sarala M. Wimalaratne, Nick Juty, John Kunze, Greg Janée, Julie A. McMurry, Niall Beard, Rafael Jimenez, Jeffrey S. Grethe, Henning Hermjakob, Maryann E. Martone, Tim Clark (2018):  
 [**Uniform resolution of compact identifiers for biomedical data**](https://doi.org/10.1038/sdata.2018.29).  
@@ -107,29 +107,31 @@ _Scientific Data_ **5** 180029
 
 Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):  
 [**LabelFlow Framework for Annotating Workflow Provenance**](https://doi.org/10.3390/informatics5010011).  
-_Informatics_ **5**(1) 11 [https://doi.org/10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
+_Informatics_ **5**(1) 11 
+<https://doi.org/10.3390/informatics5010011>
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018):  
 [**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**](https://doi.org/10.1371/journal.pbio.3000099).  
 _PLOS Biology._  **16**(12):e3000099
-[https://doi.org/10.1371/journal.pbio.3000099](https://doi.org/10.1371/journal.pbio.3000099)
+<https://doi.org/10.1371/journal.pbio.3000099>
 ([bioXriv:191783](https://doi.org/10.1101/191783))
 
 Shoaib A Sufi, Caroline Jay (2018):  
 [**Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**](https://doi.org/10.12688/f1000research.16231.1).  
 [version 1; referees: 1 approved with reservations].  
-_F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
+_F1000Research_ 2018, **7**:1599 
+<https://doi.org/10.12688/f1000research.16231.1>
 
 Shoaib Sufi, Aleksandra Nenadic, Raniere Silva, Beth Duckles, Iveta Simera, Jennifer A. de Beyer, Caroline Struthers,
 Terhi Nurmikko-Fuller, Louisa Bellis, Wadud Miah, Adriana Wilde, Iain Emsley, Olivier Philippe, Melissa Balzano, Sara Coelho, Heather Ford, Catherine Jones, Vanessa Higgins (2018):  
 [**Ten simple rules for measuring the impact of workshops**](https://doi.org/10.1371/journal.pcbi.1006191).  
 _PLOS Computational Biology_ **14**(8):e1006191.
-[https://doi.org/10.1371/journal.pcbi.1006191](https://doi.org/10.1371/journal.pcbi.1006191)
+<https://doi.org/10.1371/journal.pcbi.1006191>
 
 Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Dunstan, Neil Swainston, Maria Vinaixa, Katherine A. Hollywood, Andrew Currin, Nicholas J. W. Rattray, Sandra Taylor, Reynard Spiess, Rehana Sung, Alan R. Williams, Donal Fellows, Natalie J. Stanford, Paul Mulherin, Rosalind Le Feuvre, Perdita Barran, Royston Goodacre, Nicholas J. Turner, Carole Goble, George Guoqiang Chen, Douglas B. Kell, Jason Micklefield, Rainer Breitling, Eriko Takano, Jean-Loup Faulon, Nigel S. Scrutton (2018):  
 [**An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**](https://doi.org/10.1038/s42003-018-0076-9).  
 _Communications Biology_ **1**:66
-[https://doi.org/10.1038/s42003-018-0076-9](https://doi.org/10.1038/s42003-018-0076-9)
+<https://doi.org/10.1038/s42003-018-0076-9>
 
 Raniere Gaia Costa da Silva, Shoaib Ahmed Sufi, Selina Aragon Camarasa (2018):  
 [**Collaborations Workshop 2018 (CW18) Report – Culture Change, Productivity and Sustainability**](https://doi.org/10.3897/rio.5.e30250).  
@@ -139,54 +141,55 @@ _Research Ideas and Outcomes_ **5**:e30250
 ## 2017
 
 Stephen J Eglen, Ben Marwick, Yaroslav O Halchenko, Michael Hanke, Shoaib Sufi, Padraig Gleeson, R Angus Silver, Andrew P Davison, Linda Lanyon, Mathew Abrams, Thomas Wachtler, David J Willshaw, Christophe Pouzat, Jean-Baptiste Poline (2017):  
-**Toward standard practices for sharing computer code and programs in neuroscience**.  
+[**Toward standard practices for sharing computer code and programs in neuroscience**](https://doi.org/10.1038/nn.4550).  
 _Nature Neuroscience_ **20**, 770–773.
 [https://doi.org/10.1038/nn.4550](https://doi.org/10.1038/nn.4550) [[bioRxiv preprint]](https://doi.org/10.1101/045104)
 
 Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabriella Rustici (2017):  
-**ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**.  
+[**ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**](https://doi.org/10.12688/f1000research.11837.1).  
 [version 1; peer review: 4 approved, 1 approved with reservations]  
 _F1000Research_ **6**:952.
 [https://doi.org/10.12688/f1000research.11837.1](https://doi.org/10.12688/f1000research.11837.1)
 
 Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stian Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017): 
-**Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**  
+[**Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**](https://doi.org/10.1007/s41019-017-0050-4)  
 _Data Science and Engineering_ **2**:232 pp 232–244.  
 [https://doi.org/10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
 
 
 Pinar Alper, Khalid Belhajjame, Carole A.Goble (2017):  
-**Static analysis of Taverna workflows to predict provenance patterns**.  
+[**Static analysis of Taverna workflows to predict provenance patterns**](https://www.research.manchester.ac.uk/portal/files/51115976/FGCS2017.pdf).  
 _Future Generation Computer Systems_ **75** pp 310-329.
 [https://doi.org/10.1016/j.future.2017.01.004](https://doi.org/10.1016/j.future.2017.01.004)
-
+[[preprint](https://www.research.manchester.ac.uk/portal/files/51115976/FGCS2017.pdf)]
+[[preprint server](https://www.research.manchester.ac.uk/portal/en/publications/static-analysis-of-taverna-workflows-to-predict-provenance-patterns(fd2833ab-287a-43ba-9c06-a89416d4e0ee).html)]
 
 Aleksandra Pawlik, Celia W.G. van Gelder, Aleksandra Nenadic, Patricia M. Palagi, Eija Korpelainen, Philip Lijnzaad, Diana Marek,  Susanna-Assunta Sansone, John Hancock, Carole Goble (2017):  
-**Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**.  
+[**Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**](https://doi.org/10.12688/f1000research.11718.1).  
 [version 1; peer review: 3 approved]  
 _F1000Research_ 2017 **6**:1020 ELIXIR-1040.
 [https://doi.org/10.12688/f1000research.11718.1](https://doi.org/10.12688/f1000research.11718.1)
 
 Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie Conte, Mélanie Courtot, John Deck, Michel Dumontier, Donal K Fellows, Alejandra Gonzalez-Beltran, Philipp Gormanns, Jeffrey Grethe, Janna Hastings, Jean-Karim Hériché, Henning Hermjakob, Jon C Ison, Rafael C Jimenez, Simon Jupp, John Kunze, Camille Laibe, Nicolas Le Novère, James Malone, Maria Jesus Martin, Johanna R McEntyre, Chris Morris, Juha Muilu, Wolfgang Müller, Philippe Rocca-Serra, Susanna-Assunta Sansone, Murat Sariyar, Jacky L Snoep, Stian Soiland-Reyes, Natalie J Stanford, Neil Swainston, Nicole Washington, Alan R Williams, Sarala M Wimalaratne, Lilly M Winfree, Katherine Wolstencroft, Carole Goble, Cristopher J Mungall, Melissa A Haendel, Helen Parkinson (2017):  
-**Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize utility and impact of life science data**.  
+[**Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize utility and impact of life science data**](https://doi.org/10.1371/journal.pbio.2001414).  
 _PLOS Biology_ **15**(6):e2001414
 [https://doi.org/10.1371/journal.pbio.2001414](https://doi.org/10.1371/journal.pbio.2001414)
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/identifiers-(2b43a199-444c-4129-9de7-a281348ea7fd).html)
 [[pdf]](http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2001414&type=printable)
 
 Matthias Obst, Saverio Vicario, Kennet Lundin, Matz Berggren, Anna Karlsson, Robert Haines, Alan Williams, Carole Goble, Cherian Mathew, Anton Güntsch (2017):  
-**Marine long-term biodiversity assessment suggests loss of rare species in the Skagerrak and Kattegat region**.  
+[**Marine long-term biodiversity assessment suggests loss of rare species in the Skagerrak and Kattegat region**](https://doi.org/10.1007/s12526-017-0749-5).  
 _Marine Biodiversity_  pp 1–12.
 [https://doi.org/10.1007/s12526-017-0749-5](https://doi.org/10.1007/s12526-017-0749-5)
 
 John M Hancock, Alf Game, Chris P Ponting, Carole Anne Goble (2017):  
-**An open and transparent process to select ELIXIR Node Services as implemented by ELIXIR-UK**  
+[**An open and transparent process to select ELIXIR Node Services as implemented by ELIXIR-UK**](https://doi.org/10.12688/f1000research.10473.2)  
 [version 2; peer review: 2 approved, 1 approved with reservations]  
 _F1000Research_ 2017, **5**(ELIXIR):2894
 [https://doi.org/10.12688/f1000research.10473.2](https://doi.org/10.12688/f1000research.10473.2)
 
 Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez X, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí,, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková,, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi,, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017):  
-**Four simple recommendations to encourage best practices in research software**  
+[**Four simple recommendations to encourage best practices in research software**](https://doi.org/10.12688/f1000research.11407.1)  
 [version 1; peer review: 3 approved]  
 _F1000Research_ 2017, **6**:876
 [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1)
