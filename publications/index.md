@@ -63,12 +63,22 @@ Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon
 [**FAIR Principles: Interpretations and Implementation Considerations**](http://www.data-intelligence-journal.org/p/33/).  
 _Data Intelligence_ **2**(1):10–29
 <https://doi.org/10.1162/dint_r_00024>
-
  
 Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2019):  
 [**FAIR Data Reuse - the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
 _Data Intelligence_ **2**(1):78–86
 <https://doi.org/10.1162/dint_a_00030>
+
+Jon Ison, Hans Ienasescu, Piotr Chmura, Emil Rydza, Hervé Ménager, Matúš Kalaš, Veit Schwämmle, Björn Grüning, Niall Beard, Rodrigo Lopez, Severine Duvaud, Heinz Stockinger, Bengt Persson, Radka Svobodová Vařeková, Tomáš Raček, Jiří Vondrášek, Hedi Peterson, Ahto Salumets, Inge Jonassen, Rob Hooft, Tommi Nyrönen, Alfonso Valencia, Salvador Capella, Josep Gelpí, Federico Zambelli, Babis Savakis, Brane Leskošek, Kristoffer Rapacki, Christophe Blanchet, Rafael Jimenez, Arlindo Oliveira, Gert Vriend, Olivier Collin, Jacques van Helden, Peter Løngreen, Søren Brunak (2019):  
+[**The _bio.tools_ registry of software tools and data resources for the life sciences**](https://doi.org/10.1186/s13059-019-1772-6).  
+_Genome Biology_ **20**:164
+<https://doi.org/10.1186/s13059-019-1772-6>
+
+John Van Horn, Sumiko Abe, José Luis Ambite, Teresa K. Attwood, Niall Beard, Louisa Bellis, Avnish Bhattrai, Alex Bui, Gully Burns, Lily Fierro, Jonathan Gordon,
+Jeffrey Grethe, Jeana Kamdar, Xiaoyu Lei, Kristina Lerman, Annette McGrath, Nicola Mulder, Caroline O'Driscoll, Crystal Stewart, Sonika Tyagi (2019):  
+**Advancing the international data science workforce through shared training and education**
+_F1000Research_ **8**:251
+<https://doi.org/10.12688/f1000research.18357.1>
 
 ## 2018
 
