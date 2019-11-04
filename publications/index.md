@@ -67,7 +67,7 @@ _Data Intelligence_ **2**(1):10–29
 <https://doi.org/10.1162/dint_r_00024>
  
 Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2019):  
-[**FAIR Data Reuse - the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
+[**FAIR Data Reuse – the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
 _Data Intelligence_ **2**(1):78–86
 <https://doi.org/10.1162/dint_a_00030>
 
@@ -221,7 +221,7 @@ _[IEEE International Conference on Big Data 2016](http://cci.drexel.edu/bigdata/
 
 Antonis Troumpoukis, Angelos Charalambidis, Giannis Mouchakis, Stasinos Konstantopoulos, Ronald Siebes, Victor de Boer, Stian Soiland-Reyes, Daniela Digles (2016):  
 **Developing a Benchmark Suite for Semantic Web Data from Existing Workflows**  
-_[Proceedings]((http://ceur-ws.org/Vol-1700/)) of the Workshop on Benchmarking Linked Data ([BLINK 2016]((https://project-hobbit.eu/events/blink-2016/))), co-located with the 15th International Semantic Web Conference (ISWC)]_
+_[Proceedings]((http://ceur-ws.org/Vol-1700/)) of the Workshop on Benchmarking Linked Data ([BLINK 2016]((https://project-hobbit.eu/events/blink-2016/))), co-located with the 15th International Semantic Web Conference (ISWC)_
 _CEUR Workshop Proceedings_ **1700**(04)
 [[pdf]](http://ceur-ws.org/Vol-1700/paper-04.pdf)
 [[zenodo]](https://zenodo.org/record/159568)
@@ -283,7 +283,7 @@ Alice Allen, Cecilia Aragon, Christoph Becker, Jeffrey Carver, Andrei Chis, Beno
 **Lightning Talk: "I solemnly pledge" A Manifesto for Personal Responsibility in the Engineering of Academic Software**  
 _Proceedings of the Fourth Workshop on Sustainable Software for Science: Practice and Experiences (WSSSPE4)_,
 _CEUR_ **1686**(15)
-http://ceur-ws.org/Vol-1686/WSSSPE4_paper_15.pdf
+<http://ceur-ws.org/Vol-1686/WSSSPE4_paper_15.pdf>
 
 
 Peter Amstutz, Michael R. Crusoe, Nebojša Tijanić (editors), Brad Chapman, John Chilton, Michael Heuer, Andrey Kartashov, Dan Leehr, Hervé Ménager, Maya Nedeljkovich, Matt Scales, Stian Soiland-Reyes, Luka Stojanovic (2016):  
