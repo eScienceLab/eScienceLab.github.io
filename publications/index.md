@@ -77,7 +77,7 @@ _Genome Biology_ **20**:164
 John Van Horn, Sumiko Abe, José Luis Ambite, Teresa K. Attwood, Niall Beard, Louisa Bellis, Avnish Bhattrai, Alex Bui, Gully Burns, Lily Fierro, Jonathan Gordon,
 Jeffrey Grethe, Jeana Kamdar, Xiaoyu Lei, Kristina Lerman, Annette McGrath, Nicola Mulder, Caroline O'Driscoll, Crystal Stewart, Sonika Tyagi (2019):  
 **Advancing the international data science workforce through shared training and education**  
-[version 1; peer review: 1 approved, 1 approved with reservations].
+[version 1; peer review: 1 approved, 1 approved with reservations].  
 _F1000Research_ **8**:251
 <https://doi.org/10.12688/f1000research.18357.1>
 
@@ -117,7 +117,8 @@ _PLOS Biology._  **16**(12):e3000099
 
 Shoaib A Sufi, Caroline Jay (2018):  
 **Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**.  
-[version 1; referees: 1 approved with reservations]. _F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
+[version 1; referees: 1 approved with reservations].  
+_F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
 
 Shoaib Sufi, Aleksandra Nenadic, Raniere Silva, Beth Duckles, Iveta Simera, Jennifer A. de Beyer, Caroline Struthers,
 Terhi Nurmikko-Fuller, Louisa Bellis, Wadud Miah, Adriana Wilde, Iain Emsley, Olivier Philippe, Melissa Balzano, Sara Coelho, Heather Ford, Catherine Jones, Vanessa Higgins (2018):  
@@ -144,7 +145,7 @@ _Nature Neuroscience_ **20**, 770–773.
 
 Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard, Louisa J. Bellis, Warwick B. Dunn, John M. Hancock, Aleksandra Nenadic, Christine Orengo, Bert Overduin, Susanna-Assunta Sansone, Milo Thurston, Mark R. Viant, Catherine L. Winder, Carole A. Goble, Chris P. Ponting, Gabriella Rustici (2017):  
 **ELIXIR-UK role in bioinformatics training at the national level and across ELIXIR**.  
-[version 1; peer review: 4 approved, 1 approved with reservations]
+[version 1; peer review: 4 approved, 1 approved with reservations]  
 _F1000Research_ **6**:952.
 [https://doi.org/10.12688/f1000research.11837.1](https://doi.org/10.12688/f1000research.11837.1)
 
@@ -162,6 +163,7 @@ _Future Generation Computer Systems_ **75** pp 310-329.
 
 Aleksandra Pawlik, Celia W.G. van Gelder, Aleksandra Nenadic, Patricia M. Palagi, Eija Korpelainen, Philip Lijnzaad, Diana Marek,  Susanna-Assunta Sansone, John Hancock, Carole Goble (2017):  
 **Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**.  
+[version 1; peer review: 3 approved]  
 _F1000Research_ 2017 **6**:1020 ELIXIR-1040.
 [https://doi.org/10.12688/f1000research.11718.1](https://doi.org/10.12688/f1000research.11718.1)
 
@@ -179,13 +181,13 @@ _Marine Biodiversity_  pp 1–12.
 
 John M Hancock, Alf Game, Chris P Ponting, Carole Anne Goble (2017):  
 **An open and transparent process to select ELIXIR Node Services as implemented by ELIXIR-UK**  
-[version 2; peer review: 2 approved, 1 approved with reservations]
-_F1000Research_ 2017, **5**(ELIXIR):2894 
+[version 2; peer review: 2 approved, 1 approved with reservations]  
+_F1000Research_ 2017, **5**(ELIXIR):2894
 [https://doi.org/10.12688/f1000research.10473.2](https://doi.org/10.12688/f1000research.10473.2)
 
 Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez X, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí,, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková,, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi,, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017):  
 **Four simple recommendations to encourage best practices in research software**  
-[version 1; peer review: 3 approved]
+[version 1; peer review: 3 approved]  
 _F1000Research_ 2017, **6**:876
 [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1)
 
