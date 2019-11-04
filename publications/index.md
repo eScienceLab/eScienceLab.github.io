@@ -40,12 +40,12 @@ Preprints MUST be provided if the doi is not pointing to an Open Access paper.
 ## 2019
 
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
-**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**.  
+[**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
 _GigaScience_ **8**(11):giz095
 <https://doi.org/10.1093/gigascience/giz095>
 
 Pau Andrio, Adam Hospital, Javier Conejero, Luis Jordá, Marc Del Pino, Laia Codo, Stian Soiland-Reyes, Carole Goble, Daniele Lezzi, Rosa M. Badia, Modesto Orozco, Josep Ll. Gelpi (2019):  
-**BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows**.  
+[**BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows**](https://doi.org/10.1038/s41597-019-0177-4).  
 _Scientific Data_ **6**:169 <https://doi.org/10.1038/s41597-019-0177-4>
  
 Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2019):  
