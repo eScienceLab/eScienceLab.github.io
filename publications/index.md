@@ -76,7 +76,7 @@ _Genome Biology_ **20**:164
 
 John Van Horn, Sumiko Abe, José Luis Ambite, Teresa K. Attwood, Niall Beard, Louisa Bellis, Avnish Bhattrai, Alex Bui, Gully Burns, Lily Fierro, Jonathan Gordon,
 Jeffrey Grethe, Jeana Kamdar, Xiaoyu Lei, Kristina Lerman, Annette McGrath, Nicola Mulder, Caroline O'Driscoll, Crystal Stewart, Sonika Tyagi (2019):  
-**Advancing the international data science workforce through shared training and education**  
+[**Advancing the international data science workforce through shared training and education**](https://doi.org/10.12688/f1000research.18357.1).  
 [version 1; peer review: 1 approved, 1 approved with reservations].  
 _F1000Research_ **8**:251
 <https://doi.org/10.12688/f1000research.18357.1>
@@ -84,7 +84,7 @@ _F1000Research_ **8**:251
 ## 2018
 
 Stian Soiland-Reyes, Marcos Cáceres (2018):  
-**The Archive and Package (arcp) URI scheme**.  
+[**The Archive and Package (arcp) URI scheme**](https://www.research.manchester.ac.uk/portal/files/76956641/arcp.html).  
 _2018 IEEE 14th International Conference on e-Science (e-Science)_.
 [https://doi.org/10.1109/eScience.2018.00018 ](https://doi.org/10.1109/eScience.2018.00018 )
 [[html]](http://s11.no/2018/arcp.html)
@@ -94,45 +94,45 @@ _2018 IEEE 14th International Conference on e-Science (e-Science)_.
 
 
 Natalie J Stanford, Finn Bacall, Fatemeh Zamanzad Ghavidel, Martin Golebiewski, Inge Jonassen, Rune Kleppe, Olga Krebs, Hadas Leonov, Stuart Owen, Kjell Petersen, Maja Rey, Stian Soiland-Reyes, Kidane Tekle, Andreas Weidemann, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Anders Goksøyr, Jacky L. Snoep, Jon Olav Vik, Wolfgang Müller, Carole Goble (2018):  
-**FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**.  
+[**FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf).  
 _NETTAB 2018 Network Tools and Applications in Biology_
 [[preprint]](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf)
 [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/fair-bioinformatics-computation-and-data-management-fairdom-and-the-norwegian-digital-life-initiative(c4b199b1-95c9-4ab2-85ff-87681e1cc971).html)
 
 
 Sarala M. Wimalaratne, Nick Juty, John Kunze, Greg Janée, Julie A. McMurry, Niall Beard, Rafael Jimenez, Jeffrey S. Grethe, Henning Hermjakob, Maryann E. Martone, Tim Clark (2018):  
-**Uniform resolution of compact identifiers for biomedical data**.  
+[**Uniform resolution of compact identifiers for biomedical data**](https://doi.org/10.1038/sdata.2018.29).  
 _Scientific Data_ **5** 180029 
 [https://doi.org/10.1038/sdata.2018.29](https://doi.org/10.1038/sdata.2018.29)
 
 Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):  
-**LabelFlow Framework for Annotating Workflow Provenance**.  
+[**LabelFlow Framework for Annotating Workflow Provenance**](https://doi.org/10.3390/informatics5010011).  
 _Informatics_ **5**(1) 11 [https://doi.org/10.3390/informatics5010011](https://doi.org/10.3390/informatics5010011)
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018):  
-**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**.  
+[**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**](https://doi.org/10.1371/journal.pbio.3000099).  
 _PLOS Biology._  **16**(12):e3000099
 [https://doi.org/10.1371/journal.pbio.3000099](https://doi.org/10.1371/journal.pbio.3000099)
 ([bioXriv:191783](https://doi.org/10.1101/191783))
 
 Shoaib A Sufi, Caroline Jay (2018):  
-**Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**.  
+[**Raising the status of software in research: A survey-based evaluation of the Software Sustainability Institute Fellowship Programme**](https://doi.org/10.12688/f1000research.16231.1).  
 [version 1; referees: 1 approved with reservations].  
 _F1000Research_ 2018, **7**:1599 [https://doi.org/10.12688/f1000research.16231.1](https://doi.org/10.12688/f1000research.16231.1)
 
 Shoaib Sufi, Aleksandra Nenadic, Raniere Silva, Beth Duckles, Iveta Simera, Jennifer A. de Beyer, Caroline Struthers,
 Terhi Nurmikko-Fuller, Louisa Bellis, Wadud Miah, Adriana Wilde, Iain Emsley, Olivier Philippe, Melissa Balzano, Sara Coelho, Heather Ford, Catherine Jones, Vanessa Higgins (2018):  
-**Ten simple rules for measuring the impact of workshops**.  
+[**Ten simple rules for measuring the impact of workshops**](https://doi.org/10.1371/journal.pcbi.1006191).  
 _PLOS Computational Biology_ **14**(8):e1006191.
 [https://doi.org/10.1371/journal.pcbi.1006191](https://doi.org/10.1371/journal.pcbi.1006191)
 
 Pablo Carbonell, Adrian J. Jervis, Christopher J. Robinson, Cunyu Yan, Mark Dunstan, Neil Swainston, Maria Vinaixa, Katherine A. Hollywood, Andrew Currin, Nicholas J. W. Rattray, Sandra Taylor, Reynard Spiess, Rehana Sung, Alan R. Williams, Donal Fellows, Natalie J. Stanford, Paul Mulherin, Rosalind Le Feuvre, Perdita Barran, Royston Goodacre, Nicholas J. Turner, Carole Goble, George Guoqiang Chen, Douglas B. Kell, Jason Micklefield, Rainer Breitling, Eriko Takano, Jean-Loup Faulon, Nigel S. Scrutton (2018):  
-**An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**.  
+[**An automated Design-Build-Test-Learn pipeline for enhanced microbial production of fine chemicals**](https://doi.org/10.1038/s42003-018-0076-9).  
 _Communications Biology_ **1**:66
 [https://doi.org/10.1038/s42003-018-0076-9](https://doi.org/10.1038/s42003-018-0076-9)
 
 Raniere Gaia Costa da Silva, Shoaib Ahmed Sufi, Selina Aragon Camarasa (2018):  
-**Collaborations Workshop 2018 (CW18) Report – Culture Change, Productivity and Sustainability**.  
+[**Collaborations Workshop 2018 (CW18) Report – Culture Change, Productivity and Sustainability**](https://doi.org/10.3897/rio.5.e30250).  
 _Research Ideas and Outcomes_ **5**:e30250
 <https://doi.org/10.3897/rio.5.e30250>
 
