@@ -39,6 +39,27 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+## 2020
+
+Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
+[**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
+_Data Intelligence_ **2**(1):30–39
+<https://doi.org/10.1162/dint_a_00025>
+
+Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
+[**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
+_Data Intelligence_  **2**(1):108–121
+<https://doi.org/10.1162/dint_a_00033>
+
+Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2020):  
+[**FAIR Principles: Interpretations and Implementation Considerations**](http://www.data-intelligence-journal.org/p/33/).  
+_Data Intelligence_ **2**(1):10–29
+<https://doi.org/10.1162/dint_r_00024>
+ 
+Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2020):  
+[**FAIR Data Reuse – the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
+_Data Intelligence_ **2**(1):78–86
+<https://doi.org/10.1162/dint_a_00030>
 
 ## 2019
 
@@ -50,26 +71,6 @@ _GigaScience_ **8**(11):giz095
 Pau Andrio, Adam Hospital, Javier Conejero, Luis Jordá, Marc Del Pino, Laia Codo, Stian Soiland-Reyes, Carole Goble, Daniele Lezzi, Rosa M. Badia, Modesto Orozco, Josep Ll. Gelpi (2019):  
 [**BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows**](https://doi.org/10.1038/s41597-019-0177-4).  
 _Scientific Data_ **6**:169 <https://doi.org/10.1038/s41597-019-0177-4>
- 
-Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2019):  
-[**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
-_Data Intelligence_ **2**(1):30–39
-<https://doi.org/10.1162/dint_a_00025>
-
-Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2019):  
-[**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
-_Data Intelligence_  **2**(1):108–121
-<https://doi.org/10.1162/dint_a_00033>
-
-Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2019):  
-[**FAIR Principles: Interpretations and Implementation Considerations**](http://www.data-intelligence-journal.org/p/33/).  
-_Data Intelligence_ **2**(1):10–29
-<https://doi.org/10.1162/dint_r_00024>
- 
-Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2019):  
-[**FAIR Data Reuse – the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
-_Data Intelligence_ **2**(1):78–86
-<https://doi.org/10.1162/dint_a_00030>
 
 Jon Ison, Hans Ienasescu, Piotr Chmura, Emil Rydza, Hervé Ménager, Matúš Kalaš, Veit Schwämmle, Björn Grüning, Niall Beard, Rodrigo Lopez, Severine Duvaud, Heinz Stockinger, Bengt Persson, Radka Svobodová Vařeková, Tomáš Raček, Jiří Vondrášek, Hedi Peterson, Ahto Salumets, Inge Jonassen, Rob Hooft, Tommi Nyrönen, Alfonso Valencia, Salvador Capella, Josep Gelpí, Federico Zambelli, Babis Savakis, Brane Leskošek, Kristoffer Rapacki, Christophe Blanchet, Rafael Jimenez, Arlindo Oliveira, Gert Vriend, Olivier Collin, Jacques van Helden, Peter Løngreen, Søren Brunak (2019):  
 [**The _bio.tools_ registry of software tools and data resources for the life sciences**](https://doi.org/10.1186/s13059-019-1772-6).  
