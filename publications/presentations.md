@@ -26,7 +26,7 @@ We also have videos on our [YouTube channel](http://www.youtube.com/user/mygrido
 ## 2014
 
 *   [Research Objects for FAIRer Science](http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014) - by Carole Goble, VIVO/SciTS 2014-08-06
-*   [SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science](http://www.slideshare.net/carolegoble/bosc-seek2014goble) ([video](http://video.open-bio.org/video/29/seek-for-science-a-data-management-platform-whic)) - by Carole Goble, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
+*   [SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science](http://www.slideshare.net/carolegoble/bosc-seek2014goble) ([video](https://www.youtube.com/watch?v=g8b98kJwT60)) - by Carole Goble, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
 *   [Integrating Taverna Player into Scratchpads](http://www.slideshare.net/roberthaines/tp-scratchtalk-36957762) ([video](http://www.youtube.com/watch?v=iL-rMaFtYdM), [poster](https://zenodo.org/record/10871)) - by Robert Haines, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
 *   [The beauty of workflows and models](http://www.slideshare.net/mygrid/the-beauty-of-workflows-and-models) by Carole Goble at the Research Data Management Forum 2014
 *   [Results may vary](http://www.slideshare.net/carolegoble/results-may-vary-collaborations-workshop-oxford-2014) by Carole Goble at [Software Sustainability Institute's Collaborations Workshop](http://software.ac.uk/collaborations-workshop-2014-cw14-software-your-reproducible-research), Oxford 2014
