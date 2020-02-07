@@ -18,14 +18,16 @@ staff:
   orcid: 0000-0002-3887-3857
   img: ebtisam-alharbi-sm.jpg
   role: PhD Student
+- name: Aitor Alpaolaza
+  img: aitor-alpaolaza-sm.jpg
+  role: Software Developer
+- name: Munazah Andrabi
+  img: munazah-andrabi-sm.jpg
+  role: Research Community Manager
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Software Developer
-- name: Niall Beard
-  orcid: 0000-0002-2627-0231
-  img: niall-beard-sm.jpg
-  role: Senior Research Software & Training Manager
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
@@ -98,6 +100,10 @@ former:
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
 - name: Constantinos Astreos
+- name: Niall Beard
+  orcid: 0000-0002-2627-0231
+  img: niall-beard-sm.jpg
+  role: Senior Research Software & Training Manager
 - name: Khalid Belhajjame
   orcid: 0000-0001-6938-0820
 - name: Jiten (Jits) Bhagat
