@@ -12,7 +12,7 @@ This page might not be complete, please help us to
 <small>
 _Open Access logo &copy; 2012 Nick Shockey,
 distributed under a [Creative Commons Attribution 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-Source: [openaccessweek.org](http://www.openaccessweek.org/page/englishhigh-resolution-1)_
+Source: [openaccessweek.org](http://www.openaccessweek.org/page/graphics)_
 </small>
 
 The University of Manchester strive to publish as [open access](http://www.library.manchester.ac.uk/services-and-support/staff/research/services/open-access-at-manchester/), or to provide [green open access](https://www.library.manchester.ac.uk/using-the-library/staff/research/open-research/access/understanding/)
@@ -201,7 +201,7 @@ Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Ba
 **FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**  
 _Nucleic Acids Research_ **45**(D1) pp D404–D407.
 [https://doi.org/10.1093/nar/gkw1032](https://doi.org/10.1093/nar/gkw1032)
-[[pdf]](https://www.research.manchester.ac.uk/portal/files/48515288/Nucl._Acids_Res._2016_Wolstencroft_nar_gkw1032.pdf)
+[[pdf]](http://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full.pdf)
 [[html]](https://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full)
 
 
@@ -222,7 +222,7 @@ _[IEEE International Conference on Big Data 2016](http://cci.drexel.edu/bigdata/
 
 Antonis Troumpoukis, Angelos Charalambidis, Giannis Mouchakis, Stasinos Konstantopoulos, Ronald Siebes, Victor de Boer, Stian Soiland-Reyes, Daniela Digles (2016):  
 **Developing a Benchmark Suite for Semantic Web Data from Existing Workflows**  
-_[Proceedings]((http://ceur-ws.org/Vol-1700/)) of the Workshop on Benchmarking Linked Data ([BLINK 2016]((https://project-hobbit.eu/events/blink-2016/))), co-located with the 15th International Semantic Web Conference (ISWC)_
+_[Proceedings](http://ceur-ws.org/Vol-1700/) of the Workshop on Benchmarking Linked Data (BLINK 2016), co-located with the 15th International Semantic Web Conference (ISWC)_
 _CEUR Workshop Proceedings_ **1700**(04)
 [[pdf]](http://ceur-ws.org/Vol-1700/paper-04.pdf)
 [[zenodo]](https://zenodo.org/record/159568)
@@ -518,7 +518,7 @@ _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp.
 Christian Brenninkmeijer, Chris Evelo, Carole Goble, Alasdair J G Gray, Paul Groth, Steve Pettifer, Robert Stevens, Antony J Williams, Egon L Willighagen (2013):
 **Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**.
 _Intelligent Systems for Molecular Biology and European Conference on Computational Biology_ (ISMB/ECCB 2013), Berlin, Germany, July 2013.
-[[pdf]](http://linkedscience.org/wp-content/uploads/2012/05/lisc2012_submission_8.pdf)
+[[html]](https://www.researchgate.net/publication/266157706_Scientific_lenses_an_approach_to_dynamically_vary_the_relationship_between_datasets )
 
 Tim Clark, Paolo Ciccarese, Carole A Goble (2013):
 **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**.
@@ -573,7 +573,7 @@ _Standards in Genomics Sciences_ **8**(2): 352–359.
 [https://doi.org/10.4056/sigs.3907833](https://doi.org/10.4056/sigs.3907833)
 [pubmed:PMC3746421](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746421/)
 
-Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013): **A Checklist-Based Approach for Quality Assessment of Scientific Information.** _3rd International Workshop on Linked Science 2013 ([LISC2013](http://linkedscience.org/events/lisc2013/))_.  [[preprint]](http://linkedscience.org/wp-content/uploads/2013/04/paper5.pdf) [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
+Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013): **A Checklist-Based Approach for Quality Assessment of Scientific Information.** _3rd International Workshop on Linked Science 2013 ([[researchgate]](https://www.researchgate.net/publication/289477075_A_checklist-based_approach_for_quality_assessment_of_scientific_information)).  [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
 
 Sonja Holl, Daniel Garijo, Khalid Belhajjame, Olav Zimmermann, Renato De Giovanni, Matthias Obst, Carole Goble (2013):
 **On Specifying and Sharing Scientific Workflow Optimization Results Using Research Objects**.
