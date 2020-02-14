@@ -41,6 +41,12 @@ which is particularly useful for long author lists or long titles.
 
 ## 2020
 
+
+Niall Beard, Finn Bacall, Aleksandra Nenadic, Milo Thurston, Carole A Goble, Susanna-Assunta Sansone, Teresa K Attwood (2020):  
+**TeSS: a platform for discovering life science training opportunities**  
+_Bioinformatics_ btaa047
+<https://doi.org/10.1093/bioinformatics/btaa047>
+
 Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
 [**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
 _Data Intelligence_ **2**(1):30–39
