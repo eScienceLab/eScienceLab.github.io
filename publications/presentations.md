@@ -7,9 +7,18 @@ See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and 
 
 We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
 
+## 2020
+* [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) - by Rachael Ainsworth, [Open Research London: The importance and challenges of sharing research software](https://www.eventbrite.co.uk/e/the-importance-and-challenges-of-sharing-research-software-tickets-85224955135#), Institute of Physics, London, UK, 5 February 2020
+
+
 ## 2019
 
+* [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10255727.v1) - by Rachael Ainsworth, [Glasgow Women in Computing Science](https://www.facebook.com/events/2581122868620864/), University of Glasgow, Glasgow, UK, 15 November 2019
+* [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10303709.v1) - by Rachael Ainsworth, [JBCA Autumn Computing Sessions](https://sites.google.com/view/jbca-jacs/jacs-2019?authuser=0), University of Manchester, Manchester, UK, 14 November 2019
+* [Reproducibility and Open Science Keynote](https://doi.org/10.6084/m9.figshare.9255638.v1) - by Rachael Ainsworth, [Symposium on Open Science](https://www.rug.nl/cmb/news/symposium-open-science-research-practices), University of Groningen, Groningen, Netherlands, 22 October 2019
 * [Understanding the Implications of Implementing FAIR data Principle in the Life Sciences](https://zenodo.org/record/3502577#.XbwWL9HLdhF) - by Ebtisam Alharbi, [Force11 2019, Edinburgh](https://www.force11.org/meetings/force2019) ([slides](https://zenodo.org/record/3502577/files/FAIR%20Implications.pptx?download=1))
+* The Turing Way: A Handbook for Reproducible Data Science ([poster](http://doi.org/10.5281/zenodo.3381446), [demo](http://doi.org/10.5281/zenodo.3403161), and [podcast recording of demo](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)) - by Rachael Ainsworth, [Open Science Fair](https://www.opensciencefair.eu/), Porto, Portugal, 16-18 September 2019
+* [Reproducible Research through Containerisation: Docker and Singularity](https://github.com/rainsworth/osip2019-containerisation-workshop/) - by Rachael Ainsworth, [Open Science In Practice](https://osip2019.epfl.ch/), EPFL, Lausanne, Switzerland, 5 September 2019
 
 ## 2017
 
