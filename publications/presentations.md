@@ -8,6 +8,7 @@ See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and 
 We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
 
 ## 2020
+* [Better Software, Better Research: How the Software Sustainability Institute is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) - by Rachael Ainsworth, [Beware: Results May Vary (RMV20). Openness as a Way of Enhancing Research Quality](https://hackmd.io/@ajstewartlang/r1ec-g5l8), University of Manchester, Manchester, UK, 28 February 2020.
 * [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) - by Rachael Ainsworth, [Open Research London: The importance and challenges of sharing research software](https://www.eventbrite.co.uk/e/the-importance-and-challenges-of-sharing-research-software-tickets-85224955135#), Institute of Physics, London, UK, 5 February 2020
 
 
