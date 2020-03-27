@@ -78,9 +78,6 @@ associate:
   orcid: 0000-0002-0978-2446
   url: https://www.researchgate.net/profile/Paolo_Missier
   img: paolo-missier-sm.jpg
-- name: Norman Morrison
-  orcid: 0000-0003-1604-1512
-  img: norman-morrison-sm.jpg
 - name: Marco Roos
   orcid: 0000-0002-8691-772X
   img: marco-roos-sm.jpg
@@ -149,6 +146,8 @@ former:
 - name: Philip McDermott
 - name: Danius Michaelides
 - name: Luc Moreau
+- name: Norman Morrison
+  orcid: 0000-0003-1604-1512
 - name: Georgina Moulton
 - name: David Newman
 - name: Rory Newton
