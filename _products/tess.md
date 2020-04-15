@@ -16,5 +16,5 @@ TeSS (Training eSupport System) is a portal for aggregating, discovering, organi
  * Trainers (to expose training materials created by trainers)
  * ELIXIR nodes (to provide a 1-stop-shop giving an at-a-glance view of nodes’ training landscape, allowing nodes to contribute to the catalogue of training resources and promote their latest news, events, activity highlights, etc.)
 
- TeSS is currently funded though the [ELIXIR EXCELERATE project](/projects/excelerate). It is written in Ruby on Rails.
+ TeSS was originally funded though the [ELIXIR EXCELERATE project](/projects/excelerate). It is written in Ruby on Rails.
 
