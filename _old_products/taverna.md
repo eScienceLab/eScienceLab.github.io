@@ -11,7 +11,7 @@ screenshot: /images/screenshots/sm_taverna.png
 wiki: https://wikipedia.org/wiki/Apache_Taverna
 ---
 
-> **Note** Taverna is **no longer maintained**, this page is provided for archival purposes.
+> **Note**: Taverna is **no longer maintained**, this page is provided for archival purposes.
 
 {:toc}
 
