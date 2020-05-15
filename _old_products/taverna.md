@@ -13,8 +13,11 @@ wiki: https://wikipedia.org/wiki/Apache_Taverna
 
 > **Note** Taverna is **no longer maintained**, this page is provided for archival purposes.
 
-[Apache Taverna (incubating)](https://web.archive.org/web/20200515091110/https://taverna.incubator.apache.org/) (archived)
-was a powerful, scalable, open source & domain independent Workflow Management
+{:toc}
+
+## About Taverna
+
+Taverna was a powerful, scalable, open source & domain independent Workflow Management
 System written in Java – a suite of tools used to
 design and execute scientific workflows and aid *in silico* experimentation comprising:
 
