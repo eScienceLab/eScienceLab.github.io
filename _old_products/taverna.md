@@ -54,6 +54,8 @@ and its formalisations in the [Research Object model](https://doi.org/10.1016/j.
 
 ## History
 
+The below timeline has been extracted form the slides [2014-10-30 Taverna as an Apache Incubator project](https://www.slideshare.net/soilandreyes/20141030tavernaincubator):
+
 ### 2020: Taverna Project Retired
 
 > **Note** Taverna is **no longer maintained**, code base is provided for archival purposes.
@@ -81,7 +83,7 @@ While the code base is no longer actively maintained, pull requests
 may infrequently be considered by remaining volunteer caretakers.
 
 
-## 2014: Taverna moves to the Apache Incubator
+### 2014-2020: Taverna moves to the Apache Incubator
 
 After almost a decade with development mainly led by the eScience Lab team
 at the University of Manchester team, [funded](#funders) by multiple research projects, 
@@ -98,8 +100,67 @@ to join the [Apache Software Foundation](https://apache.org/)
 > stability of the code, it does indicate that the project has yet to be fully
 > endorsed by the ASF.
 
-Slides:
-* [2014-10-30 Taverna as an Apache Incubator project](https://www.slideshare.net/soilandreyes/20141030tavernaincubator) 
+
+### 2012-2020: Taverna 3.x
+
+Version 3.0 alpha (2013): OSGi-based plugin system, Engine separated from workbench/commandline/server.  Independent APIs for workflow and data format.  Taverna Platform - execution API.
+
+
+
+### 2007-2014: Taverna 2.x
+Version 2.0 (2008)
+
+SourceForge CVS → GoogleCode SVN
+
+t2core workflow engine
+
+Reimplemented workbench
+Version 2.1.2 (2009)
+
+Improved support for 3rd-party plugins
+Version 2.2 (2010)
+
+Taverna Server + ruby gem
+Version 2.5 (2014)
+
+Domain-specific editions 
+(astronomy, bioinformatics, biodiversity, digital preservation)
+
+GoogleCode SVN → GitHub
+
+
+### 2006-2009: Productizing
+
+Version 1.4 (2006):
+
+Apache Maven-based build
+
+executeworkflow command line
+Version 1.5:
+
+Raven plugin system
+Version 1.7:
+
+Taverna Remote Execution Service
+
+Preview of t2core workflow engine
+
+### 2001-2006: Prototyping
+
+myGrid: 6 academic institutions and 8 industry partners
+
+Challenge: Create a graphical workbench for bioinformaticians to combine data and web services
+ 
+Taverna Workbench releases:
+
+    2003: 0.1 beta of Taverna Scufl workbench
+    2005: 1.0 release, using Freefluo engine
+
+Open source:
+
+Source+binary releases on SourceForge.net
+
+Local CVS servers → SourceForge.net CVS
 
 ## Funders
 
