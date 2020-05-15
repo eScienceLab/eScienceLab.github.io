@@ -127,7 +127,11 @@ process.
 Donating Taverna to ASF aimed to move to fully open development, encourage
 further "third-party" developer involvement, and reduce dependency of
 University of Manchester as lead developers; that is a collective code
-ownership across all developers.
+ownership across all developers. 
+
+
+_See also the [BOSC 2015](https://doi.org/10.1371/journal.pcbi.1004691) talk 
+[Apache Taverna: Sustaining research software at the Apache Software Foundation](https://www.youtube.com/watch?v=y-ct1k3AXCM)_
 
 In 2014, the Taverna project was [proposed](https://cwiki.apache.org/confluence/display/incubator/TavernaProposal)
 and accepted to join the [Apache Software Foundation](https://apache.org/) 
