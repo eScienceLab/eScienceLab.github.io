@@ -11,7 +11,7 @@ screenshot: /images/screenshots/sm_taverna.png
 wiki: https://wikipedia.org/wiki/Apache_Taverna
 ---
 
-> **Note** Taverna is **no longer maintained**, this page is provided for archival purposes.
+> **Note**: Taverna is **no longer maintained**, this page is provided for archival purposes.
 
 {:toc}
 
@@ -76,9 +76,13 @@ Incubator. Several releases of Apache Taverna modules were made, involving
 many new volunteers and [Google Summer of Code](https://summerofcode.withgoogle.com/) 
 students. 
 
-However having no funded developers seem to have hampered the project, Apache
-Taverna Workbench 3.1 did not get released, and activity dwindled to a halt
-during 2019-2020.
+Through these years, while observing a rise in the
+[number of workflow platforms](https://s.apache.org/existing-workflow-systems),
+there were difficulties in establishing a new sustainable development model,
+with no funding acquired for core development, which combined with the shift of
+emphasis by the original Taverna team to workflow interoperability took its
+toll.  Apache Taverna Workbench 3.1 did not get released, and in 2019
+Taverna PMC started considering to halt further development.
 
 In 2020 the Taverna community
 [voted](https://lists.apache.org/thread.html/r559e0dd047103414fbf48a6ce1bac2e17e67504c546300f2751c067c%40%3Cdev.taverna.apache.org%3E)
@@ -279,18 +283,39 @@ source code was moved from a big single [SVN
 tree](https://github.com/taverna/taverna-svn) to multiple git [repositories on
 GitHub](https://github.com/taverna).
 
+
+While Taverna 1.x mainly used specialized RPC web services with corresponding
+plugins, it was found many users preferred the generic support for rich web
+services loading
+[WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language)
+descriptions, which Taverna dynamically generated bindings and user interface
+for, at a time when most frameworks implemented WSDL bindings by autogenerating
+hardcoded source code.
+
+Taverna then added methods for calling arbitrary REST services, although this
+predated later REST community development of API specifications (e.g.  OpenAPI
+and JSON Schema), so Taverna relied on URI Templates entered by the user. 
+
 Focus on third-party developers was increased, providing documentation and examples,
 a (perhaps too) flexible plugin system, and extensible user-interface. This
 welcomed multiple extensions, e.g. additional file format, integrations with
 [myExperiment](https://www.myexperiment.org/home) for workflow discovery
-and [BioCatalogue](/products/biocatalogue/) for service discovery. Plugins
-could be installed and loaded on the fly from multiple web-sites, based on
-[Maven repositories](http://www.mygrid.org.uk/maven/repository/).
+and [BioCatalogue](/products/biocatalogue/) for service discovery (WSDL+REST).
+Plugins could be installed and loaded on the fly from multiple web-sites, based
+on [Maven repositories](http://www.mygrid.org.uk/maven/repository/).
 
 New additional domain-specific activity types were added and extended, and the
 focus changed from Taverna as a bioinformatics-specific workbench to a generic
 tool composition platform, for instance for astronomy in _Wf4Ever_,
 biodiversity in _BioVeL_ and digital preservation in _SCAPE_.
+
+Extensive security support was added, such as SSL certificate management UI for
+using secured Grid Services, developed for Globus in the
+[caBIG](https://en.wikipedia.org/wiki/CaBIG) project and for 
+[ARC](https://en.wikipedia.org/wiki/Advanced_Resource_Connector) in the
+_KnowARC_ project. This development also added support for stateful webservices
+([WSRF](https://en.wikipedia.org/wiki/Web_Services_Resource_Framework)).
+
 
 [Provenance support](https://doi.org/10.1007/978-3-642-17819-1_16) was
 reintroduced for Taverna 2; a tighter integration into the t2core engine
@@ -345,6 +370,7 @@ Taverna's future directions. To support better concurrency, efficiency and tight
 engine integration and logging, work began on the `t2core` workflow engine,
 which was designed by Tom Oinn at EMBL-EBI and Matt Hancock, and
 prototyped by the Manchester team.
+
 
 The [website taverna.org.uk](http://web.archive.org/web/20200515163406/http://www.taverna.org.uk/documentation/taverna-2-x/)
 was established, with extensive documentation and training materials created.
