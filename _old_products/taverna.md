@@ -11,6 +11,8 @@ screenshot: /images/screenshots/sm_taverna.png
 wiki: https://wikipedia.org/wiki/Apache_Taverna
 ---
 
+> **Note** Taverna is **no longer maintained**, this page is provided for archival purposes.
+
 [Apache Taverna (incubating)](https://web.archive.org/web/20200515091110/https://taverna.incubator.apache.org/) (archived)  
 was a powerful, scalable, open source & domain independent Workflow Management
 System written in Java – a suite of tools used to
@@ -58,7 +60,6 @@ The below timeline has been extracted form the slides [2014-10-30 Taverna as an 
 
 ### 2020: Taverna Project Retired
 
-> **Note** Taverna is **no longer maintained**, code base is provided for archival purposes.
 
 From 2014 till 2020 the Taverna code base was maintained by the 
 [Apache Incubator](https://incubator.apache.org/) project _Apache Taverna (incubating)_
