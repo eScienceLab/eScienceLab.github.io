@@ -17,4 +17,6 @@ Underpinning SEEK is the ISA infrastructure, a standard format for describing ho
 
 SEEK incorporates semantic technology allowing sophisticated queries over the data, yet without getting in the way of your users.
 
-SEEK is developed as part of the [EOSC-Life](/projects/eosclife/) and [FAIRDOM](/projects/fairdom/) projects 
+SEEK is developed as part of the [EOSC-Life](/projects/eosclife/), [IBISBA](/projects/ibisba) and [FAIRDOM](/projects/fairdom/) projects 
+
+As part of EOSC-Life and IBISBA, SEEK is being extended with support for Workflows and describing the results from analysis pipelines. 
