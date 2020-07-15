@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collaboraitons Workshop 2020"
+title:  "Collaborations Workshop 2020"
 date:   2020-02-07 12:00:00 +0000
 categories: 
 ---
