@@ -128,8 +128,10 @@ Zhao, J.; Sahoo, S.; Missier, P.; Sheth, A. & Goble, C. (2011), **Extending Sema
 
 David De Roure, Khalid Belhajjam, Paolo Missier, José Manuel Gómez-Pérez, Raúl Palma, José Enrique Ruiz, Kristina Hettne, Marco Roos, Graham Klyne, Carole Goble (2011):
 **Towards the Preservation of Scientific Workflows**.
-Accepted for _8th International Conference on Preservation of Digital Objects (iPRES 2011)_. 
+_8th International Conference on Preservation of Digital Objects (iPRES 2011)_. 
 [[pdf]](http://users.ox.ac.uk/~oerc0033/preprints/wfpreservev10.pdf)
+[[preprint o:294253](https://doi.org/11353/10.294253)]
+[[proceedings p228](http://web.archive.org/web/20130525105112/http://s3.amazonaws.com/files.posterous.com/temp-2012-01-02/dHqmzjcCGoexvmiBzJDCyhrlhIgswoffzvsfnpEAxjHFEesarvwahEHrmyvj/iPRES2011.proceedings.pdf?AWSAccessKeyId=AKIAJFZAE65UYRT34AOQ&Expires=1369479372&Signature=e1gwEcnUeoq9433EKB8niGdnSWI%3D#page=240)]
 
 
 ## 2010
