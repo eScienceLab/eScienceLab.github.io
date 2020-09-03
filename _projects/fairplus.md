@@ -9,7 +9,7 @@ logo: fairplus-logo.png
 website: https://fairplus-project.eu/
 start_date: 2019-01-01
 duration: 42 months
-project_reference: https://cordis.europa.eu/project/rcn/220094/factsheet/en
+project_reference: https://cordis.europa.eu/project/id/802750
 ---
 
 The FAIRplus project aims to develop tools and guidelines for making life science data FAIR (Findable, Accessible, Interoperable, Reusable). The project has 22 partners from academia and industry, and runs from January 2019 to June 2022. 

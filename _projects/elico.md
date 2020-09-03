@@ -8,7 +8,7 @@ logo: elico_logo.png
 website: http://www.e-lico.eu
 start_date: 2009-02-01
 duration: 36 months
-project_reference: http://cordis.europa.eu/project/rcn/89246_en.html
+project_reference: https://cordis.europa.eu/project/id/231519
 expired: true
 ---
 

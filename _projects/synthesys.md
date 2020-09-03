@@ -7,7 +7,7 @@ collection: projects
 description: Synthesis of Systematic Resources
 logo: original-image-sizes/synthesys-plus-logo.png
 website: https://www.synthesys.info/
-project_reference: 
+project_reference: https://cordis.europa.eu/project/id/823827
 start_date: 2019-02-01
 end_date: 2023-01-31
 duration: 4 years

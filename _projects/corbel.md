@@ -6,10 +6,10 @@ path: corbel
 collection: projects
 description: Coordinated Research Infrastructures Building Enduring Life-science Services
 logo: corbel.png
-website: http://www.corbel-project.eu
-start_date: 2015-9-1
+website: https://www.corbel-project.eu
+start_date: 2015-09-01
 duration: 48 months
-project_reference: http://cordis.europa.eu/project/rcn/197885
+project_reference: https://cordis.europa.eu/project/id/654248
 ---
 
 [CORBEL](http://www.corbel-project.eu) is an initiative of eleven new biological and medical research
