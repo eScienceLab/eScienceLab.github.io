@@ -34,7 +34,6 @@ See the [Jekyll documentation](http://jekyllrb.com/docs/home/)
       * `docker run -it --rm --name jekyll --volume="$(pwd):/srv/jekyll" -p 4000:4000 jekyll/jekyll:pages jekyll serve`  
     * Inspect at http://0.0.0.0:4000/ - edited files are updated live
     * Stop it with Ctrl-C (or `docker stop jekyll` if using Docker).
-    * You may also run Jekyll outside Docker using [rvm](https://rvm.io/) - left as an exercise to the reader
 
 ## Types of pages
 
