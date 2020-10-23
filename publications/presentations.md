@@ -8,6 +8,7 @@ See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and 
 We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
 
 ## 2020
+* [Open Scientific Code in Research](https://docs.google.com/presentation/d/1uZuqgoJp67uRB6t0LCZJ06V8YYyff9-iqrv6zfqtOhk), Week 6 OLS-2 cohort call, Online, 8 October 2020 
 * [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) - by Rachael Ainsworth, [Intelligent Systems for Molecular Biology (ISMB) 2020](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/web), Online, 13 July 2020
 * [Introduction to Using GitHub](https://doi.org/10.5281/zenodo.3932346) ([video](https://vimeo.com/435771660), [resources](https://github.com/rainsworth/intro-to-github/tree/v1.0)) - by Rachael Ainsworth, [Open Data Manchester: Pick N Mix](https://www.eventbrite.co.uk/e/pick-n-mix-9-an-introduction-to-github-tickets-108128196346), Manchester, UK, 30 June 2020
 * [Better Software, Better Research: How the Software Sustainability Institute is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) - by Rachael Ainsworth, [Beware: Results May Vary (RMV20). Openness as a Way of Enhancing Research Quality](https://hackmd.io/@ajstewartlang/r1ec-g5l8), University of Manchester, Manchester, UK, 28 February 2020.
