@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "SSI's Call For Training Materila Creation"
+title:  "SSI's Call For Training Material Creation"
 date:   2020-10-15
 categories: announcements release
 ---
 
+![SSI Logo](https://www.software.ac.uk/sites/default/files/SSIHex.png)
 The [Software Sustainability Institute](https://software.ac.uk/) is inviting quotes for the provision of a Carpentries-style course curriculum on either of the following two topics:
 
 1. A standalone statistics course focussing on a collection of basic and intermediate statistical skills. This module could be targeted to those working in, 
