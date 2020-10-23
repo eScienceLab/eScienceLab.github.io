@@ -67,9 +67,9 @@ In the BioExcel-2 project we are involved in:
   * T4.4: Capacity building and knowledge transfer
   * T4.5: Collaboration
 
-We will be building on our extensive experience and engagement with [Common Workflow Language](/activities/cwl/) and [Research Objects](/products/researchobject/) as well as fostering links between BioExcel communities and related [projects](/projects/) like [ELIXIR](/projects/elixir/), [EOSC](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) and [BioConda](https://bioconda.github.io/).
+We will be building on our extensive experience and engagement with [Common Workflow Language (CWL)](/activities/cwl/) and [Research Objects](/products/researchobject/) as well as fostering links between BioExcel communities and related [projects](/projects/) like [ELIXIR](/projects/elixir/), [EOSC](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) and [BioConda](https://bioconda.github.io/).
 
-We developed and maintain the [CWL Viewer](/products/cwlviewer/) with support from BioExcel.
+We developed and maintain the [CWL Viewer](/products/cwlviewer/) with support from BioExcel. We are contributing to the [BioExcel Building Blocks (BioBB) library](http://mmb.irbbarcelona.org/biobb/), translating workflows into CWL and assisting with the development of their tutorial material. We are also assisting with registering BioBB workflows on [WorkflowHub](https://workflowhub.eu/workflows?filter%5Bproject%5D=11).
 
 ## Related projects
 
