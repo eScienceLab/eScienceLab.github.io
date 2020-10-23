@@ -83,6 +83,9 @@ associate:
 - name: Caroline Jay
   orcid: 0000-0002-6080-1382
   img: caroline-jay-sm.jpg
+- name: Jasper Koehorst
+  orcid: 0000-0001-8172-8981
+  img: jasper-koehorst.jpg
 - name: Paolo Missier
   orcid: 0000-0002-0978-2446
   url: https://www.researchgate.net/profile/Paolo_Missier
