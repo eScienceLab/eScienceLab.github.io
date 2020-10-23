@@ -28,6 +28,10 @@ staff:
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Software Developer
+- name: Chris Child
+  orcid: 0000-0003-0758-6908
+  img: chris-child-sm.jpg
+  role: Senior Research Software Engineer
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
