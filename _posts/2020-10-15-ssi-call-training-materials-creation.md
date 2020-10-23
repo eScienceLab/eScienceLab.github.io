@@ -5,7 +5,7 @@ date:   2020-10-15
 categories: announcements release
 ---
 
-<img src="https://www.software.ac.uk/sites/default/files/SSIHex.png" width="322500" alt="SSI Logo">
+<img src="https://www.software.ac.uk/sites/default/files/SSIHex.png" width="125" alt="SSI Logo">
 
 The [Software Sustainability Institute](https://software.ac.uk/) is inviting quotes for the provision of a Carpentries-style course curriculum on either of the following two topics:
 
