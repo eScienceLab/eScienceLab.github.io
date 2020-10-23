@@ -3,10 +3,6 @@ layout: page
 title: Presentations
 ---
 
-See the [eScienceLab SlideShare](http://www.slideshare.net/mygrid/) account and its [likes](http://www.slideshare.net/mygrid/favorites)/[followers](http://www.slideshare.net/mygrid/following) for the latest eScienceLab-related slides.
-
-We also have videos on our [YouTube channel](http://www.youtube.com/user/mygridorguk).
-
 ## 2020
 * [Open Scientific Code in Research](https://docs.google.com/presentation/d/1uZuqgoJp67uRB6t0LCZJ06V8YYyff9-iqrv6zfqtOhk)- by Aleksandra Nenadic, Open Life Sciences Programe (OLS-2) cohort call, online, 8 October 2020 
 * [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) - by Rachael Ainsworth, [Intelligent Systems for Molecular Biology (ISMB) 2020](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/web), Online, 13 July 2020
