@@ -5,7 +5,7 @@ title: Bioschemas
 path: bioschemas
 collection: activities
 description: Markup to support findability of data in the life sciences.
-logo: 
+logo: bioschemas.svg
 website: https://bioschemas.org/
 ---
 
