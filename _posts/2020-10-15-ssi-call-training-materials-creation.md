@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SEEK 1.10.2 Released"
+title:  "SSI's Call For Training Materila Creation"
 date:   2020-10-15
 categories: announcements release
 ---
