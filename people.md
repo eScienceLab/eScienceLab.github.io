@@ -59,7 +59,7 @@ staff:
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
-  role: Project Portfolio Manager, Community Manager
+  role: Project Portfolio Manager, Community Lead
 - name: Alan R Williams
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
