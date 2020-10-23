@@ -18,8 +18,9 @@ staff:
   orcid: 0000-0002-3887-3857
   img: ebtisam-alharbi-sm.jpg
   role: PhD Student
-- name: Aitor Alpaolaza
-  img: aitor-alpaolaza-sm.jpg
+- name: Aitor Apaolaza
+  orcid: 0000-0002-5530-6846
+  img: aitor-apaolaza-sm.jpg
   role: Software Developer
 - name: Munazah Andrabi
   img: munazah-andrabi-sm.jpg
