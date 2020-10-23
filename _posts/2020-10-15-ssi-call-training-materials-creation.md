@@ -5,7 +5,7 @@ date:   2020-10-15
 categories: announcements release
 ---
 
-The [SSI](https://software.ac.uk/) is currently supported by the [Scottish Funding Council’s (SFC)](http://www.sfc.ac.uk/) Upskilling Fund to deliver a programme of data skills training for the Scottish workforce. We are inviting quotes for the provision of a Carpentries-style course curriculum on either of the following two topics:
+The [Software Sustainability Institute](https://software.ac.uk/) is inviting quotes for the provision of a Carpentries-style course curriculum on either of the following two topics:
 
 1. A standalone statistics course focussing on a collection of basic and intermediate statistical skills. This module could be targeted to those working in, 
 e.g. public health or veterinary science, but ideally would be of wider interest to data scientists across various areas needing state-of-the-art statistical and visualisation techniques.
