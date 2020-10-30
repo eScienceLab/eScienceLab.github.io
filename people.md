@@ -23,7 +23,7 @@ staff:
   img: aitor-apaolaza-sm.jpg
   role: Software Developer
 - name: Munazah Andrabi
-  img: munazah-andrabi-sm.jpg
+  img: munazah-andrabi-sm.png
   role: Research Community Manager
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
@@ -52,7 +52,7 @@ staff:
 - name: Stuart Owen
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
-  role: Senior Technical Architect
+  role: Project Manager, Senior Research Software Engineer
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
