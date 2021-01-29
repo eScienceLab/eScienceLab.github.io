@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launch of the New Lesson Study Groups Programme"
+title:  "Launch of the New Lesson Study Groups Programme, February 2021"
 date:   2021-01-28
 categories: announcements
 ---
