@@ -39,7 +39,35 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+## 2021
+
+Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumontier (2021):
+**Semantic micro-contributions with decentralized nanopublication services**
+_PeerJ Computer Science_ (accepted)
+<https://doi.org/10.7717/peerj-cs.387>
+
+Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2021):  
+**Landscape Analysis for the Specimen Data Refinery**  
+_Research Ideas and Outcomes_ **6**:e57602
+<https://doi.org/10.3897/rio.6.e57602>
+
+Jennifer Harrow, John Hancock, ELIXIR‐EXCELERATE Community, Niklas Blomberg (2021):  
+**ELIXIR‐EXCELERATE: establishing Europe's data infrastructure for the life science research of the future**  
+_EMBO Journal_ e107409
+<https://doi.org/10.15252/embj.2020107409>
+
+
+Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
+**A Fresh Look at FAIR for Research Software**
+[arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)]
+
+
 ## 2020
+
+Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M Wimalaratne, Henning Hermjakob (2020):  
+**Identifiers.org: Compact Identifier services in the cloud**
+_Bioinformatics_ btaa864
+<https://doi.org/10.1093/bioinformatics/btaa864>
 
 Jeremy Leipzig​, Daniel Nüst​2, Charles Tapley Hoyt​, Stian Soiland-Reyes​, Karthik Ram​, Jane Greenberg (2020):  
 **The role of metadata in reproducible computational research**  
