@@ -42,48 +42,48 @@ which is particularly useful for long author lists or long titles.
 ## 2021
 
 Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumontier (2021):
-[**Semantic micro-contributions with decentralized nanopublication services**](https://doi.org/10.7717/peerj-cs.387)  
+[**Semantic micro-contributions with decentralized nanopublication services**](https://doi.org/10.7717/peerj-cs.387).  
 _PeerJ Computer Science_ (accepted)
 <https://doi.org/10.7717/peerj-cs.387>
 
 Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2021):  
-[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602)  
+[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602).  
 _Research Ideas and Outcomes_ **6**:e57602
 <https://doi.org/10.3897/rio.6.e57602>
 
 Jennifer Harrow, John Hancock, ELIXIR‐EXCELERATE Community, Niklas Blomberg (2021):  
-[**ELIXIR‐EXCELERATE: establishing Europe's data infrastructure for the life science research of the future**](https://doi.org/10.15252/embj.2020107409)  
+[**ELIXIR‐EXCELERATE: establishing Europe's data infrastructure for the life science research of the future**](https://doi.org/10.15252/embj.2020107409).  
 _EMBO Journal_ e107409
 <https://doi.org/10.15252/embj.2020107409>
 
 Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
-[**A Fresh Look at FAIR for Research Software**](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)  
+[**A Fresh Look at FAIR for Research Software**](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf).  
 [arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)]
 
 
 ## 2020
 
 Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M Wimalaratne, Henning Hermjakob (2020):  
-[**Identifiers.org: Compact Identifier services in the cloud**](https://doi.org/10.1093/bioinformatics/btaa864)
+[**Identifiers.org: Compact Identifier services in the cloud**](https://doi.org/10.1093/bioinformatics/btaa864).
 _Bioinformatics_ btaa864
 <https://doi.org/10.1093/bioinformatics/btaa864>
 
 Jeremy Leipzig​, Daniel Nüst​2, Charles Tapley Hoyt​, Stian Soiland-Reyes​, Karthik Ram​, Jane Greenberg (2020):  
-[**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf)   
+[**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf).   
 [arXiv:2006.08589](https://arxiv.org/abs/2006.08589) [[pdf](https://arxiv.org/pdf/2006.08589.pdf)]
 
 Niall Beard, Finn Bacall, Aleksandra Nenadic, Milo Thurston, Carole A Goble, Susanna-Assunta Sansone, Teresa K Attwood (2020):  
-[**TeSS: a platform for discovering life science training opportunities**](https://doi.org/10.1093/bioinformatics/btaa047)  
+[**TeSS: a platform for discovering life science training opportunities**](https://doi.org/10.1093/bioinformatics/btaa047).  
 _Bioinformatics_ **6**(10)
 <https://doi.org/10.1093/bioinformatics/btaa047>
 
 Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2020):  
-[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602)  
+[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602).  
 _Research Ideas and Outcomes_ **6**:e57602
 <https://doi.org/10.3897/rio.6.e57602>
 
 Charles Auffray, Rudi Balling, Niklas Blomberg, MYRNA BONALDO, Bertrand Boutron, Samir Brahmachari, Christian Bréchot, Alfredo Cesario, Sai-Juan Chen, Karine Clément, Daria Danilenko, Alberto Di Meglio, Andrea Gelemanovic, Carole Goble, Takashi Gojobori, Jason D Goldman, Michel Goldman, Yi-Ke Guo, James Heath, Leroy Hood, Peter Hunter, Li Jin, Hiroaki Kitano, Bartha Maria Knoppers, Doron Lancet, Catherine Larue, Mark Lathrop, Martine Laville, Ariel B Lindner, Antoine Magnan, Andres Metspalu, Edgar Morin, Lisa F.P. Ng, Laurent Nicod, Denis Noble, Laurent Nottale, Helga Nowotny, Theresa Ochoa, Iruna Okeke, Tolu Oni, Peter Openshaw, Mehmet Oztürk, Susanna Palkonen, Janusz Paweska, Christophe Pison, Mihael Polymeropoulos, Christian Pristipino, Ulrike Protzer, Josep Roca, Damjana Rozman, Marc Santolini, Ferran Sanz, Giovanni Scambia, Eran Segal, Ismail Serageldin, Marcelo Bento Soares, Peter Sterk, Sumio Sugano, Giulio Superti-Furga, David Supple, Jesper Tegnér, Mathias Uhlen, Andrea Urbani, Alfonso Valencia, Vincenzo Valentini, Sylvie van der Werf, Manlio Vinciguerra, Olaf Wolkenhauer, Emiel Wouters (2020):
-[**COVID-19 and Beyond: A Call for Action and Audacious Solidarity to All the Citizens and Nations, It Is Humanity’s Fight**](https://doi.org/10.2139/ssrn.3630412)  
+[**COVID-19 and Beyond: A Call for Action and Audacious Solidarity to All the Citizens and Nations, It Is Humanity’s Fight**](https://doi.org/10.2139/ssrn.3630412).  
 _SSRN Electronic Journal_
 <https://doi.org/10.2139/ssrn.3630412>
 
