@@ -601,7 +601,7 @@ _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:282297)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:282297&datastreamId=SUPPLEMENTARY-1.PDF)
 
-Blanc, A.; Brooke, J.; Fellows, D.; Soldati, M.; Perez-Suarez, D.; Marassi, A. & Santin, A. (2013):  
+Anja Le Blanc, John Brooke, Donal Fellows, Marco Soldati, David Pérez-Suárez, Alessandro Marassi & Andrej Santin (2013):  
 **Workflows for Heliophysics**.  
 _Journal of Grid Computing_ **11**(3), 481-503. [https://doi.org/10.1007/s10723-013-9256-5](https://doi.org/10.1007/s10723-013-9256-5)
 [[researchgate]](https://www.researchgate.net/publication/236683534_Workflows_for_Heliophysics)
@@ -631,7 +631,7 @@ _Standards in Genomics Sciences_ **8**(2): 352–359.
 
 Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013):  
 **A Checklist-Based Approach for Quality Assessment of Scientific Information**.  
-_3rd International Workshop on Linked Science 2013 ([[researchgate]](https://www.researchgate.net/publication/289477075_A_checklist-based_approach_for_quality_assessment_of_scientific_information)).  [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
+_3rd International Workshop on Linked Science 2013_ ([[researchgate]](https://www.researchgate.net/publication/289477075_A_checklist-based_approach_for_quality_assessment_of_scientific_information)).  [[slides]](https://cdn.rawgit.com/wf4ever/ro-manager/master/doc/Presentations/20130910-LISC-2013-Checklist-presentation.pdf)
 
 Sonja Holl, Daniel Garijo, Khalid Belhajjame, Olav Zimmermann, Renato De Giovanni, Matthias Obst, Carole Goble (2013):  
 **On Specifying and Sharing Scientific Workflow Optimization Results Using Research Objects**.  
