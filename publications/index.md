@@ -243,6 +243,11 @@ _F1000Research_ 2017, **6**:876
 
 ## 2016
 
+Renato De Giovanni, Alan R. Williams, Vera Hernández Ernst, Robert Kulawik, Francisco Quevedo Fernandez, Alex R. Hardisty (2016):  
+**ENM Components: a new set of web service‐based workflow components for ecological niche modelling**.  
+_Ecography_ **39** pp 376–383
+<https://doi.org/10.1111/ecog.01552>
+
 Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Bacall, Martin Golebiewski, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, David D. van Niekerk, Alan R. Williams, Lars Malmström, Bernd Rinn, Wolfgang Müller, Carole Goble (2016):  
 **FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**  
 _Nucleic Acids Research_ **45**(D1) pp D404–D407.
