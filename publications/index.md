@@ -68,7 +68,7 @@ Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M 
 _Bioinformatics_ btaa864
 <https://doi.org/10.1093/bioinformatics/btaa864>
 
-Jeremy Leipzig​, Daniel Nüst​2, Charles Tapley Hoyt​, Stian Soiland-Reyes​, Karthik Ram​, Jane Greenberg (2020):  
+Jeremy Leipzig, Daniel Nüst, Charles Tapley Hoyt, Stian Soiland-Reyes, Karthik Ram, Jane Greenberg (2020):  
 [**The role of metadata in reproducible computational research**](https://arxiv.org/pdf/2006.08589.pdf).   
 [arXiv:2006.08589](https://arxiv.org/abs/2006.08589) [[pdf](https://arxiv.org/pdf/2006.08589.pdf)]
 
