@@ -43,7 +43,7 @@ which is particularly useful for long author lists or long titles.
 
 Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumontier (2021):  
 [**Semantic micro-contributions with decentralized nanopublication services**](https://doi.org/10.7717/peerj-cs.387).  
-_PeerJ Computer Science_ (accepted)
+_PeerJ Computer Science_ **7**:e387
 <https://doi.org/10.7717/peerj-cs.387>
 
 Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2021):  
