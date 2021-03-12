@@ -14,10 +14,6 @@ staff:
   orcid: 0000-0003-2591-9462
   img: rachael-ainsworth.jpg
   role: Community Manager
-- name: Ebtisam Alharbi
-  orcid: 0000-0002-3887-3857
-  img: ebtisam-alharbi-sm.jpg
-  role: PhD Student
 - name: Aitor Apaolaza
   orcid: 0000-0002-5530-6846
   img: aitor-apaolaza-sm.jpg
@@ -29,6 +25,9 @@ staff:
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Software Developer
+- name: Paul Brack
+  orcid: 0000-0002-5432-2748
+  role: Research Associate
 - name: Chris Child
   orcid: 0000-0003-0758-6908
   img: chris-child-sm.jpg
@@ -65,13 +64,17 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
+
+phd:
+- name: Ebtisam Alharbi
+  orcid: 0000-0002-3887-3857
+  img: ebtisam-alharbi-sm.jpg
+  role: PhD Student
 - name: Yo Yehudi
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
-  role: PhD Student
-
-phd:
-
+  role: PhD Student  
+  
 associate:
 - name: Andy M. Brass
   orcid: 0000-0002-0389-7058
