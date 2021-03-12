@@ -27,6 +27,7 @@ staff:
   role: Software Developer
 - name: Paul Brack
   orcid: 0000-0002-5432-2748
+  img: no-photo.png
   role: Research Associate
 - name: Chris Child
   orcid: 0000-0003-0758-6908
@@ -80,6 +81,9 @@ associate:
   orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
+- name: Frederik Coppens
+  orcid: 0000-0001-6565-5145
+  img: no-photo.png
 - name: Alasdair J. G. Gray
   orcid: 0000-0002-5711-4872
   img: alasdair-gray.jpg
