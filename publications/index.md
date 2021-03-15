@@ -41,6 +41,16 @@ which is particularly useful for long author lists or long titles.
 
 ## 2021
 
+Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital (2021):  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.5281/zenodo.4602855).  
+Extended abstract (submitted), _Zenodo_
+<https://doi.org/10.5281/zenodo.4602855>
+
+Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
+[**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
+Extended abstract (submitted), _Zenodo_
+<https://doi.org/10.5281/zenodo.4605654>
+
 Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumontier (2021):  
 [**Semantic micro-contributions with decentralized nanopublication services**](https://doi.org/10.7717/peerj-cs.387).  
 _PeerJ Computer Science_ **7**:e387
