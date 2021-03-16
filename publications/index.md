@@ -213,7 +213,6 @@ Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad C
 _Data Science and Engineering_ **2**:232 pp 232–244.  
 [https://doi.org/10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
 
-
 Pinar Alper, Khalid Belhajjame, Carole A.Goble (2017):  
 [**Static analysis of Taverna workflows to predict provenance patterns**](https://www.research.manchester.ac.uk/portal/files/51115976/FGCS2017.pdf).  
 _Future Generation Computer Systems_ **75** pp 310-329.
@@ -221,7 +220,7 @@ _Future Generation Computer Systems_ **75** pp 310-329.
 [[preprint](https://www.research.manchester.ac.uk/portal/files/51115976/FGCS2017.pdf)]
 [[preprint server](https://www.research.manchester.ac.uk/portal/en/publications/static-analysis-of-taverna-workflows-to-predict-provenance-patterns(fd2833ab-287a-43ba-9c06-a89416d4e0ee).html)]
 
-Aleksandra Pawlik, Celia W.G. van Gelder, Aleksandra Nenadic, Patricia M. Palagi, Eija Korpelainen, Philip Lijnzaad, Diana Marek,  Susanna-Assunta Sansone, John Hancock, Carole Goble (2017):  
+Aleksandra Pawlik, Celia W.G. van Gelder, Aleksandra Nenadic, Patricia M. Palagi, Eija Korpelainen, Philip Lijnzaad, Diana Marek, Susanna-Assunta Sansone, John Hancock, Carole Goble (2017):  
 [**Developing a strategy for computational lab skills training through Software and Data Carpentry: Experiences from the ELIXIR Pilot action**](https://doi.org/10.12688/f1000research.11718.1).  
 [version 1; peer review: 3 approved]  
 _F1000Research_ 2017 **6**:1020 ELIXIR-1040.
@@ -231,7 +230,6 @@ Julie A McMurry, Nick Juty, Niklas Blomberg, Tony Burdett, Tom Conlin, Nathalie 
 [**Identifiers for the 21st century: How to design, provision, and reuse identifiers to maximize utility and impact of life science data**](https://doi.org/10.1371/journal.pbio.2001414).  
 _PLOS Biology_ **15**(6):e2001414
 [https://doi.org/10.1371/journal.pbio.2001414](https://doi.org/10.1371/journal.pbio.2001414)
-[[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/identifiers-(2b43a199-444c-4129-9de7-a281348ea7fd).html)
 [[pdf]](http://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2001414&type=printable)
 
 Matthias Obst, Saverio Vicario, Kennet Lundin, Matz Berggren, Anna Karlsson, Robert Haines, Alan Williams, Carole Goble, Cherian Mathew, Anton Güntsch (2017):  
@@ -245,7 +243,7 @@ John M Hancock, Alf Game, Chris P Ponting, Carole Anne Goble (2017):
 _F1000Research_ 2017, **5**(ELIXIR):2894
 [https://doi.org/10.12688/f1000research.10473.2](https://doi.org/10.12688/f1000research.10473.2)
 
-Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez X, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí,, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková,, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi,, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017):  
+Rafael C. Jiménez, Mateusz Kuzak, Monther Alhamdoosh, Michelle Barker, Bérénice Batut, Mikael Borg, Salvador Capella-Gutierrez X, Neil Chue Hong, Martin Cook, Manuel Corpas, Madison Flannery, Leyla Garcia, Josep Ll. Gelpí,, Simon Gladman, Carole Goble, Montserrat González Ferreiro, Alejandra Gonzalez-Beltran, Philippa C. Griffin, Björn Grüning, Jonas Hagberg, Petr Holub, Rob Hooft, Jon Ison, Daniel S. Katz, Brane Leskošek, Federico López Gómez, Luis J. Oliveira, David Mellor, Rowland Mosbergen, Nicola Mulder, Yasset Perez-Riverol, Robert Pergl, Horst Pichler, Bernard Pope, Ferran Sanz, Maria V. Schneider, Victoria Stodden, Radosław Suchecki, Radka Svobodová Vařeková,, Harry-Anton Talvik, Ilian Todorov, Andrew Treloar, Sonika Tyagi, Maarten van Gompel, Daniel Vaughan, Allegra Via, Xiaochuan Wang, Nathan S. Watson-Haigh, Steve Crouch (2017):  
 [**Four simple recommendations to encourage best practices in research software**](https://doi.org/10.12688/f1000research.11407.1)  
 [version 1; peer review: 3 approved]  
 _F1000Research_ 2017, **6**:876
@@ -329,7 +327,9 @@ Niklas Blomberg, Jan-Willem Boiten, Luiz Bonino da Silva Santos, Philip E. Bourn
 Tim Clark, Mercè Crosas, Ingrid Dillo, Olivier Dumon, Scott Edmunds, Chris T. Evelo, Richard Finkers,
 Alejandra Gonzalez-Beltran, Alasdair J.G. Gray, Paul Groth, Carole Goble, Jeffrey S. Grethe, Jaap Heringa,
 Peter A.C ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J. Lusher, Maryann E. Martone, Albert Mons,
-Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes, Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen, Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao, Barend Mons (2016)  
+Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes,
+Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
+Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao, Barend Mons (2016)  
 **The FAIR Guiding Principles for scientific data management and stewardship**.  
 _Nature Scientific Data_ **3**, 2016
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
@@ -392,7 +392,7 @@ Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Rau
 _Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-,
 [https://doi.org/10.1016/j.websem.2015.01.003](https://doi.org/10.1016/j.websem.2015.01.003)
 
-Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen1 and Søren Brunak (2015):  
+Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen and Søren Brunak (2015):  
 **Tools and data services registry: a community effort to document bioinformatics resources**.  
 _Nucleic Acids Research_ 2015 gkv1116.
 [https://doi.org/10.1093/nar/gkv1116](https://doi.org/10.1093/nar/gkv1116)
@@ -573,7 +573,7 @@ _Future Generation Computer Systems_, **36** pp 338-351.
 [https://doi.org/10.1016/j.future.2013.09.018](https://doi.org/10.1016/j.future.2013.09.018)
 [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
 
-Carole Goble, David De Roure and Sean Bechhofer (2013):  
+Carole Goble, David De Roure, Sean Bechhofer (2013):  
 **Accelerating Scientists’ Knowledge Turns**.  
 Knowledge Discovery, Knowledge Engineering and Knowledge Management (Revised Selected Papers of Third International Joint Conference, IC3K 2011, Paris, France, October 26-29, 2011, editors: Ana Fred, Jan L. G. Dietz, Kecheng Liu, Joaquim Filipe). _Communications in Computer and Information Science_ **348** Springer Berlin Heidelberg, 2013. 3-25. 8 June 2013.
 [https://doi.org/10.1007/978-3-642-37186-8_1](https://doi.org/10.1007/978-3-642-37186-8_1)
