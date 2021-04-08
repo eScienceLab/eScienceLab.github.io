@@ -98,22 +98,22 @@ _SSRN Electronic Journal_
 <https://doi.org/10.2139/ssrn.3630412>
 
 Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
-[**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](http://www.data-intelligence-journal.org/p/31/).  
+[**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](https://doi.org/10.1162/dint_a_00025).  
 _Data Intelligence_ **2**(1):30–39
 <https://doi.org/10.1162/dint_a_00025>
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
-[**FAIR Computational Workflows**](http://www.data-intelligence-journal.org/p/45/).  
+[**FAIR Computational Workflows**](https://doi.org/10.1162/dint_a_00033).  
 _Data Intelligence_  **2**(1):108–121
 <https://doi.org/10.1162/dint_a_00033>
 
 Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2020):  
-[**FAIR Principles: Interpretations and Implementation Considerations**](http://www.data-intelligence-journal.org/p/33/).  
+[**FAIR Principles: Interpretations and Implementation Considerations**](https://doi.org/10.1162/dint_r_00024).  
 _Data Intelligence_ **2**(1):10–29
 <https://doi.org/10.1162/dint_r_00024>
  
 Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2020):  
-[**FAIR Data Reuse – the Path through Data Citation**](http://www.data-intelligence-journal.org/p/37/).  
+[**FAIR Data Reuse – the Path through Data Citation**](https://doi.org/10.1162/dint_a_00030).  
 _Data Intelligence_ **2**(1):78–86
 <https://doi.org/10.1162/dint_a_00030>
 
