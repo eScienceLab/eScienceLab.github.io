@@ -37,10 +37,6 @@ staff:
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
-- name: Robin Long
-  orcid: 0000-0003-2249-645X
-  img: robin-long-sm.jpg
-  role: Research Software Engineer
 - name: Douglas Lowe
   orcid: 0000-0002-1248-3594
   img: douglas-lowe-sm.jpg
@@ -158,6 +154,8 @@ former:
 - name: Bharathi Kattamuri
 - name: Anna Leida
   orcid: 0000-0002-5945-1709
+- name: Robin Long
+  orcid: 0000-0003-2249-645X
 - name: Phillip Lord
 - name: James Marsh
 - name: Catarina Martins
