@@ -14,13 +14,13 @@ staff:
   orcid: 0000-0003-2591-9462
   img: rachael-ainsworth.jpg
   role: Community Manager
+- name: Munazah Andrabi
+  img: munazah-andrabi-sm.png
+  role: Research Community Manager
 - name: Aitor Apaolaza
   orcid: 0000-0002-5530-6846
   img: aitor-apaolaza-sm.jpg
   role: Software Developer
-- name: Munazah Andrabi
-  img: munazah-andrabi-sm.png
-  role: Research Community Manager
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
@@ -71,7 +71,12 @@ phd:
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
   role: PhD Student  
-  
+#- name: Mezna Aloqalaa
+#  role: PhD Student
+#  img: no-photo.png
+#  orcid: 0000
+
+
 associate:
 - name: Andy M. Brass
   orcid: 0000-0002-0389-7058
