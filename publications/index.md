@@ -112,6 +112,11 @@ Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon
 _Data Intelligence_ **2**(1):10–29
 <https://doi.org/10.1162/dint_r_00024>
  
+Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin Del Pico, Victoria Dominguez Del Angel, Stephanie Van De Sandt, Jon Ison, Paula Andrea Martinez, Peter Mcquilton, Alfonso Valencia, Jennifer Harrow, Fotis Psomopoulos, Josep Ll. Gelpi, Neil Chue Hong, Carole Goble, Salvador Capella-Gutierrez (2020):  
+[**Towards FAIR principles for research software**](https://doi.org/10.3233/DS-190026).  
+_Data Science_ **3**(1) pp. 37–59.  
+<https://doi.org/10.3233/DS-190026>
+ 
 Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2020):  
 [**FAIR Data Reuse – the Path through Data Citation**](https://doi.org/10.1162/dint_a_00030).  
 _Data Intelligence_ **2**(1):78–86
