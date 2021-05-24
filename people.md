@@ -71,9 +71,9 @@ phd:
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
   role: PhD Student  
-- name: Mezna Aloqalaa
+- name: Meznah Aloqalaa
   role: PhD Student
-  img: mezna-sm.jpeg
+  img: meznah-sm.jpg
 
 
 associate:
