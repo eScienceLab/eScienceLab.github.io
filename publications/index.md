@@ -56,11 +56,6 @@ Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumont
 _PeerJ Computer Science_ **7**:e387
 <https://doi.org/10.7717/peerj-cs.387>
 
-Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2021):  
-[**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602).  
-_Research Ideas and Outcomes_ **6**:e57602
-<https://doi.org/10.3897/rio.6.e57602>
-
 Jennifer Harrow, John Hancock, ELIXIR‐EXCELERATE Community, Niklas Blomberg (2021):  
 [**ELIXIR‐EXCELERATE: establishing Europe's data infrastructure for the life science research of the future**](https://doi.org/10.15252/embj.2020107409).  
 _EMBO Journal_ e107409
