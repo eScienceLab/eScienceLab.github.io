@@ -6,7 +6,7 @@ path: seek
 collection: products
 description: Finding, sharing and exchanging data, models, simulations and processes in life sciences
 website: http://fair-dom.org/platform/seek/
-logo: /images/logo/fairdom-seek-logo-100.png
+logo: /images/logo/fairdom-seek-logo-horiz.svg
 screenshot: /images/screenshots/sm_seek.png
 wiki: http://www.fairdomseek.org/about
 ---
