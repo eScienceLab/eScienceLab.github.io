@@ -30,5 +30,5 @@ partners.
 
 Within SynBioChem, the eScience Lab is supporting the DATA
 sub-project, which is working to develop an integrated data and
-metadata management platform for the centre based on SEEK, openBIS,
+metadata management platform for the centre based on [FAIRDOM-SEEK](/products/seek), openBIS,
 LabArchives, and ICE.

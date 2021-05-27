@@ -17,4 +17,4 @@ BioVeL supports scientists to carry out research on biodiversity by offering com
 to process large amounts of data from your own and cross-disciplinary sources,
 as well as tools for designing and running workflows.
 
-The [BioVeL Portal](https://portal.biovel.eu/) was built using the [SEEK Platform](/products/seek/)
+The [BioVeL Portal](https://portal.biovel.eu/) was built using the [FAIRDOM-SEEK Platform](/products/seek/)

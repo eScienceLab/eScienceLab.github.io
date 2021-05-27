@@ -43,7 +43,7 @@ IBISBA want to leverage state-of-the-art workflow systems. Working with our part
 We will produce a **library of workflows** using these nodes that will be described
 in [Common Workflow Language](http://www.commonwl.org/), marked up with rich metadata using and extending the [EDAM ontology](http://edamontology.org/).
 
-Workflows will be stored along with associated datafiles and models in an IBISBA installation of a customised [SEEK](/products/seek/) we call the [**IBISBAHub**](https://hub.ibisba.eu/). 
+Workflows will be stored along with associated datafiles and models in an IBISBA installation of a customised [FAIRDOM-SEEK](/products/seek/) we call the [**IBISBAHub**](https://hub.ibisba.eu/). 
 
 We will evaluate an open source Business Process Model system (e.g. [Activiti](https://www.activiti.org/) or [Apache ODE](http://ode.apache.org/)) to model the full path from research through to production process to create a demonstrator that includes the execution of different computational workflows, interaction with researchers and lab equipment.
 

@@ -22,7 +22,7 @@ PREP-IBISBA will also prepare EU-IBISBA implementation by providing the opportun
 ## Related projects and initiatives
 
 * [IBISBA](/projects/ibisba/)
-* [SEEK platform](/products/seek/)
+* [FAIRDOM-SEEK platform](/products/seek/)
 * [Common Workflow Language](/activities/cwl/) 
 * [Research Object](/products/researchobject/)
 
