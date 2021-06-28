@@ -191,7 +191,7 @@ Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K. 
 At _IEEE 2010 Fourth [International Workshop on Scientific Workflows SWF](http://web.archive.org/web/20120102014735/http://www.cs.wayne.edu/~shiyong/swf/) 2010_, in **6th World Congress of Services**, pp. 306-313, IEEE.
 <https://doi.org/10.1109/SERVICES.2010.21>
 [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/functional-units-abstractions-for-web-service-annotations(278fb195-f2f0-4757-9959-67e147dac889).html)]
-
+[[pdf](https://www.research.manchester.ac.uk/portal/files/195082966/FU_SWF.pdf)]
 Moeller, S.; Krabbenhoeft, H.; Tille, A.; Paleino, D.; Williams, A.; Wolstencroft, K.; Goble, C. & Plessy, C. (2010), Community-driven computational biology with Debian and Taverna, in **BOSC 2010**.
 
 
@@ -215,8 +215,10 @@ _BMC Bioinformatics_ **11**:542.
 
 Iain Buchan, Shoaib Sufi, Sarah Thew, Ian Dunlop, Urara Hiroeh, Dexter Canoy, Georgina Moulton, John Ainsworth, Angela Dale, Sean Bechhofer, Carole Goble (2009): **Obesity e-Lab: Connecting Social Science via Research Objects**, _5th International Conference on e-Social Science_ [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/obesity-elab(4030a506-ba67-495c-981d-5f8f877404b8).html)]
 
-Belhajjame, KhaIid, Missier, P. & Goble, C.Cannataro, M., ed.,  (2009), Data Provenance in Scientific Workflows, Medical Information Science Reference.
-
+Khalid Belhajjame, Paolo Missier, Carole Goble (2009):  
+**Data Provenance in Scientific Workflows**
+In _Handbook of Research on Computational Grid Technologies for Life Sciences, Biomedicine, and Healthcare_, Mario Cannataro (editor). Medical Information Science Reference.
+<https://doi.org/10.4018/978-1-60566-374-6.ch003>
 
 De Roure, D. & Goble, C. (2009), Lessons from myExperiment: Research Objects for Data Intensive Research, in **eScience Workshop 2009**.
 
