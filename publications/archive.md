@@ -186,11 +186,11 @@ _Scientific and Statistical Database Management: 22nd International Conference, 
 
 
 
-Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K. & Goble, C. (2010), Functional Units: Abstractions for Web Service Annotations, in IEEE 2010 Fourth International Workshop on Scientific Workflows SWF 2010
-
-
-Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K.; Pettifer, S. & Goble, C. (2010), Functional Units: Abstractions for Web Service Annotations, in **6th World Congress of Services**, pp. 306-313.
-
+Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K. & Goble, C. (2010):  
+**Functional Units: Abstractions for Web Service Annotations**.  
+At _IEEE 2010 Fourth [International Workshop on Scientific Workflows SWF](http://web.archive.org/web/20120102014735/http://www.cs.wayne.edu/~shiyong/swf/) 2010_, in **6th World Congress of Services**, pp. 306-313, IEEE.
+<https://doi.org/10.1109/SERVICES.2010.21>
+[[preprint](https://www.research.manchester.ac.uk/portal/en/publications/functional-units-abstractions-for-web-service-annotations(278fb195-f2f0-4757-9959-67e147dac889).html)]
 
 Moeller, S.; Krabbenhoeft, H.; Tille, A.; Paleino, D.; Williams, A.; Wolstencroft, K.; Goble, C. & Plessy, C. (2010), Community-driven computational biology with Debian and Taverna, in **BOSC 2010**.
 
