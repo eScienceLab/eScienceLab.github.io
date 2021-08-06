@@ -8,25 +8,29 @@ title: Presentations
 
 
 ## 2021
+
+* [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)) - by Rachael Ainsworth, [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * [RO-Crate: A framework for packaging research products into FAIR Research Objects](https://www.slideshare.net/carolegoble/rocrate-a-framework-for-packaging-research-products-into-fair-research-objects) by Carole Goble, Stian Soiland-Reyes at
 [_RDA IG Data Fabric: FAIR Digital Objects_](https://www.rd-alliance.org/group/data-fabric-ig/wiki/rda-ig-data-fabric-fair-digital-objects) 2021-02-25.
 [[Video recording](https://www.youtube.com/watch?v=pz-MLdI7GLA)]
-* [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects) by Carole Goble at [_17th Italian Research Conference on Digital Libraries_](http://ircdl2021.dei.unipd.it/) (IRCDL 2021)
-Padova, Italy - 18-19 February 2021 [[Video recording](https://youtu.be/xDV1mzLudAY?list=PLKynRfLznsVxASq5t5apewqZCggWg7fwU&t=220)]
+* [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects) by Carole Goble at [_17th Italian Research Conference on Digital Libraries_](http://ircdl2021.dei.unipd.it/) (IRCDL 2021) Padova, Italy - 18-19 February 2021 [[Video recording](https://youtu.be/xDV1mzLudAY?list=PLKynRfLznsVxASq5t5apewqZCggWg7fwU&t=220)]
+* [SSI Fellowship Programme 2021 Launch Webinar](https://doi.org/10.5281/zenodo.4432058) ([video](https://youtu.be/aceXqDJSoxY)) - by Rachael Ainsworth, Software Sustainability Institute, Online, 14 January 2021 
 
 
 ## 2020
 
+* Supporting collaborative projects - how community managers design programming for different levels of participation (Rachael Ainsworth was a panellist), [JROST 2020 Conference](https://investinopen.org/community/jrost-2020-conference/), Online, 16 December 2020
+* [Community Building](https://docs.google.com/presentation/d/1jeTk_PzsWpaR4DRmBrbrDGol2_drPEizp26o4d8jnnA/edit?usp=sharing) (invited talk) - by Rachael Ainsworth, [Open Life Science Cohort call: Open Leadership: Academia, industry and beyond!](https://openlifesci.org/ols-2/schedule/#week-12), Online, 19 November 2020
+* [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects?next_slideshow=1) by Carole Goble at [_DaMaLOS 2020 workshop_](https://zbmed.github.io/damalos ) at _The 19th International Semantic Web Conference ([ISWC 2020](https://iswc2020.semanticweb.org/))_, 2 November 2020
 * [How are we Faring with FAIR? (and what FAIR is not)](https://www.slideshare.net/carolegoble/how-are-we-faring-with-fair-and-what-fair-is-not) keynote by Carole Goble at workshop _FAIRe Data Infrastructures_, 15 October 2020
-* [FAIR History and the Future](https://www.slideshare.net/carolegoble/fair-history-and-the-future) by Carole Goble at FAIR Data Principles at the FAIRplus Innovation and SME Forum, Hinxton Genome Campus, Cambridge, UK, 29 January 2020
-* [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects?next_slideshow=1) by Carole Goble at [_DaMaLOS 2020 workshop_](https://zbmed.github.io/damalos ) at 
-_The 19th International Semantic Web Conference ([ISWC 2020](https://iswc2020.semanticweb.org/))_
-* [Packaging workflows with RO-Crate](https://doi.org/10.5281/zenodo.4011999) by Stian Soiland-Reyes, Ignacio Eguinoa at [_Workshop on FAIR Computational Workflows_](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/), 19th European Conference on Computational Biology ([ECCB 2020](https://eccb2020.info/)). <https://doi.org/10.5281/zenodo.4011999>
 * [Open Scientific Code in Research](https://docs.google.com/presentation/d/1uZuqgoJp67uRB6t0LCZJ06V8YYyff9-iqrv6zfqtOhk)- by Aleksandra Nenadic, Open Life Sciences Programe (OLS-2) cohort call, online, 8 October 2020 
+* [Packaging workflows with RO-Crate](https://doi.org/10.5281/zenodo.4011999) by Stian Soiland-Reyes, Ignacio Eguinoa at [_Workshop on FAIR Computational Workflows_](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/), 19th European Conference on Computational Biology ([ECCB 2020](https://eccb2020.info/)), 2 September 2020
+* [Challenges and opportunities in transitioning meetings online](https://2020.carpentrycon.org/schedule/#session-57) (contributed session, [Etherpad](https://pad.carpentries.org/cchome-meetings-online), [blog post](https://software.ac.uk/blog/2020-11-26-carpentryconhome-challenges-and-opportunities-transitioning-meetings-online)) - by Rachael Ainsworth, [CarpentryCon @ Home](https://2020.carpentrycon.org/), Online, 5 August 2020
 * [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) - by Rachael Ainsworth, [Intelligent Systems for Molecular Biology (ISMB) 2020](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/web), Online, 13 July 2020
 * [Introduction to Using GitHub](https://doi.org/10.5281/zenodo.3932346) ([video](https://vimeo.com/435771660), [resources](https://github.com/rainsworth/intro-to-github/tree/v1.0)) - by Rachael Ainsworth, [Open Data Manchester: Pick N Mix](https://www.eventbrite.co.uk/e/pick-n-mix-9-an-introduction-to-github-tickets-108128196346), Manchester, UK, 30 June 2020
 * [Better Software, Better Research: How the Software Sustainability Institute is helping to promote reproducible research](https://doi.org/10.6084/m9.figshare.11898450.v1) - by Rachael Ainsworth, [Beware: Results May Vary (RMV20). Openness as a Way of Enhancing Research Quality](https://hackmd.io/@ajstewartlang/r1ec-g5l8), University of Manchester, Manchester, UK, 28 February 2020.
 * [Reproducibility and Open Research Software](https://doi.org/10.6084/m9.figshare.11762121.v1) - by Rachael Ainsworth, [Open Research London: The importance and challenges of sharing research software](https://www.eventbrite.co.uk/e/the-importance-and-challenges-of-sharing-research-software-tickets-85224955135#), Institute of Physics, London, UK, 5 February 2020
+* [FAIR History and the Future](https://www.slideshare.net/carolegoble/fair-history-and-the-future) by Carole Goble at FAIR Data Principles at the FAIRplus Innovation and SME Forum, Hinxton Genome Campus, Cambridge, UK, 29 January 2020
 
 
 ## 2019
