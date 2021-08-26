@@ -42,9 +42,11 @@ which is particularly useful for long author lists or long titles.
 ## 2021
 
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
-[**Packaging research artefacts with RO-Crate**](https://stain.github.io/ro-crate-paper/).  
-_Manuscript in preparation_
-<https://stain.github.io/ro-crate-paper/>
+**Packaging research artefacts with RO-Crate**.  
+[arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
+[[html](https://stain.github.io/ro-crate-paper/)]
+[[RO-Crate]](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/)  
+<https://doi.org/10.5281/zenodo.5146228> 
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2021): 
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://arxiv.org/pdf/2105.07028).
