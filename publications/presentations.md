@@ -9,6 +9,7 @@ title: Presentations
 
 ## 2021
 
+* Career planning (Rachael Ainsworth was a panellist), [Irish National Astronomy Meeting 2021 (INAM 2021)](https://astronomers.ie/inam-2021/), Online, 31 August 2021
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)) - by Rachael Ainsworth, [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * [RO-Crate: A framework for packaging research products into FAIR Research Objects](https://www.slideshare.net/carolegoble/rocrate-a-framework-for-packaging-research-products-into-fair-research-objects) by Carole Goble, Stian Soiland-Reyes at
 [_RDA IG Data Fabric: FAIR Digital Objects_](https://www.rd-alliance.org/group/data-fabric-ig/wiki/rda-ig-data-fabric-fair-digital-objects) 2021-02-25.
