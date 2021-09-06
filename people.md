@@ -15,6 +15,7 @@ staff:
   img: rachael-ainsworth.jpg
   role: Community Manager
 - name: Munazah Andrabi
+  orcid: 0000-0002-7718-5109
   img: munazah-andrabi-sm.png
   role: Research Community Manager
 - name: Aitor Apaolaza
