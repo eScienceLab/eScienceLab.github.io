@@ -50,12 +50,12 @@ Matúš Kalaš, Vedran Kasalica, Alireza Khanteymoori,
 Tobias Kuhn, Hailiang Mei, Hervé Ménager, Steffen Möller, Robin A. Richardson,
 Vincent Robert, Stian Soiland-Reyes, Robert Stevens, Szoke Szaniszlo, 
 Suzan Verberne, Aswin Verhoeven, Katherine Wolstencroft (2021):  
-**Perspectives on automated composition of workflows in the life sciences [version 1; peer review: awaiting peer review]**.  
+[**Perspectives on automated composition of workflows in the life sciences** [version 1; peer review: awaiting peer review]](https://doi.org/10.12688/f1000research.54159.1).  
 _F1000Research_ **10**:897  
 <https://doi.org/10.12688/f1000research.54159.1>
 
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
-**Packaging research artefacts with RO-Crate**.  
+[**Packaging research artefacts with RO-Crate**](https://stain.github.io/ro-crate-paper/).  
 [arXiv:2108.06503v1](https://arxiv.org/abs/arXiv:2108.06503v1) [cs.DL]
 [[html](https://stain.github.io/ro-crate-paper/)]
 [[RO-Crate]](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/)  
