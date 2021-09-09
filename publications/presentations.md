@@ -9,6 +9,8 @@ title: Presentations
 
 ## 2021
 
+* Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be? (Rachael Ainsworth was an invited panellist, [video](https://vimeo.com/588305806#t=7035s)), [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
+* [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890) (invited talk, [video](https://vimeo.com/588305806#t=1500s)) - by Rachael Ainsworth, [OAI12 – The Geneva Workshop on Innovations in Scholarly](https://oai.events/oai12/), Online, 8 September 2021
 * Career planning (Rachael Ainsworth was a panellist), [Irish National Astronomy Meeting 2021 (INAM 2021)](https://astronomers.ie/inam-2021/), Online, 31 August 2021
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110) (invited keynote talk, [video](https://youtu.be/TkIZ4FIGfBc)) - by Rachael Ainsworth, [ESCAPE Summer School](https://indico.in2p3.fr/event/20306/), Online, 7 June 2021
 * [RO-Crate: A framework for packaging research products into FAIR Research Objects](https://www.slideshare.net/carolegoble/rocrate-a-framework-for-packaging-research-products-into-fair-research-objects) by Carole Goble, Stian Soiland-Reyes at
