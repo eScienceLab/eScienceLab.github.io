@@ -4,7 +4,7 @@ name: fairplus
 title: FAIRplus
 path: fairplus
 collection: projects
-description: The EOSC-Life project develops an open collaborative space for digital biology in Europe
+description: Tools and guidelines for making life science data FAIR 
 logo: fairplus-logo.png
 website: https://fairplus-project.eu/
 start_date: 2019-01-01
