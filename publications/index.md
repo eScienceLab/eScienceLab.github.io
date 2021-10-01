@@ -437,6 +437,10 @@ _Nucleic Acids Research_ 2015 gkv1116.
 [https://doi.org/10.1093/nar/gkv1116](https://doi.org/10.1093/nar/gkv1116)
 
 ## 2014
+Timothy Clark (2014):  
+[**Sociotechnical Architecture for Biomedical Communication on the Web of Argument and Data**](https://www.research.manchester.ac.uk/portal/files/54555377/FULL_TEXT.PDF).  
+PhD Thesis, _The University of Manchester_.
+<https://isni.org/isni/0000000453641987>
 
 Carole Goble (2014):  
 **Better Software, Better Research**.  
