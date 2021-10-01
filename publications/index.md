@@ -453,7 +453,7 @@ PhD Thesis, _The University of Manchester_ [uk.bl.ethos.607428](https://ethos.bl
 <https://isni.org/isni/0000000453641987>
 
 Matthew Philip Gamble (2014):  
-[**Modelling and computing the quality of scientific information on the Web of Data**](https://www.research.manchester.ac.uk/portal/files/54551459/FULL_TEXT.PDF)
+[**Modelling and computing the quality of scientific information on the Web of Data**](https://www.research.manchester.ac.uk/portal/files/54551459/FULL_TEXT.PDF).  
 PhD Thesis, _The University of Manchester_ [uk.bl.ethos.617974](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.617974)
 <http://isni.org/isni/0000000453526516>
 
