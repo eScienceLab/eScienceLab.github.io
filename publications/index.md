@@ -236,6 +236,11 @@ _Research Ideas and Outcomes_ **5**:e30250
 
 ## 2017
 
+Kristian Garza Gutierrez (2017):  
+[**Facilitating data sharing: a design approach to incorporate context into the research data repository**](https://www.research.manchester.ac.uk/portal/files/60830158/FULL_TEXT.PDF).  
+PhD thesis, _The University of Manchester_ [uk.bl.ethos.728225](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.728225)
+<http://isni.org/isni/0000000464990066>
+
 Stephen J Eglen, Ben Marwick, Yaroslav O Halchenko, Michael Hanke, Shoaib Sufi, Padraig Gleeson, R Angus Silver, Andrew P Davison, Linda Lanyon, Mathew Abrams, Thomas Wachtler, David J Willshaw, Christophe Pouzat, Jean-Baptiste Poline (2017):  
 [**Toward standard practices for sharing computer code and programs in neuroscience**](https://doi.org/10.1038/nn.4550).  
 _Nature Neuroscience_ **20**, 770–773.
@@ -289,6 +294,11 @@ _F1000Research_ 2017, **6**:876
 [https://doi.org/10.12688/f1000research.11407.1](https://doi.org/10.12688/f1000research.11407.1)
 
 ## 2016
+
+Pinar Alper (2016):  
+[**Towards harnessing computational workflow provenance for experiment reporting**](https://www.research.manchester.ac.uk/portal/files/54583473/FULL_TEXT.PDF).  
+PhD thesis, _The University of Manchester_. [uk.bl.ethos.686781](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.686781)
+<http://isni.org/isni/0000000459201915>
 
 Renato De Giovanni, Alan R. Williams, Vera Hernández Ernst, Robert Kulawik, Francisco Quevedo Fernandez, Alex R. Hardisty (2016):  
 **ENM Components: a new set of web service‐based workflow components for ecological niche modelling**.  
@@ -439,8 +449,13 @@ _Nucleic Acids Research_ 2015 gkv1116.
 ## 2014
 Timothy Clark (2014):  
 [**Sociotechnical Architecture for Biomedical Communication on the Web of Argument and Data**](https://www.research.manchester.ac.uk/portal/files/54555377/FULL_TEXT.PDF).  
-PhD Thesis, _The University of Manchester_.
+PhD Thesis, _The University of Manchester_ [uk.bl.ethos.607428](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.607428)
 <https://isni.org/isni/0000000453641987>
+
+Matthew Philip Gamble (2014):  
+[**Modelling and computing the quality of scientific information on the Web of Data**](https://www.research.manchester.ac.uk/portal/files/54551459/FULL_TEXT.PDF)
+PhD Thesis, _The University of Manchester_ [uk.bl.ethos.617974](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.617974)
+<http://isni.org/isni/0000000453526516>
 
 Carole Goble (2014):  
 **Better Software, Better Research**.  
