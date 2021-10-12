@@ -7,6 +7,8 @@ categories: announcements projects
 
 # BY-COVID: A new EU project for pandemic preparedness
 
+![BY-COVID logo](/images/logo/by-covid.svg)
+
 Today marks the launch of a new €12 million Horizon Europe funded project, [BeYond-COVID](https://by-covid.org/) (BY-COVID), which will tackle the data challenges that can hinder effective pandemic response. The core aim of the project is to ensure that data on SARS-CoV-2 and other infectious diseases can be found and used by everyone. 
 
 The COVID-19 pandemic continues to affect many lives globally, and it is crucial for us to reflect back on how the scientific community initially responded to the crisis, and what technical gaps there were that hindered the ability of scientists to investigate SARS-CoV-2 at the early stages of the pandemic. There has been a strong response across the world, with many nations generating and sharing vast amounts of data and locally tracking variants. 
