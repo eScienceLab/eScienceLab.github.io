@@ -27,7 +27,7 @@ BY-COVID is an exciting interdisciplinary project that unites life science, medi
 
 ## eScience Lab involvement
 
-Continuing work done with [ELIXIR](/projects/elixir/) and [EOSC-Life](/projects/eosclife/), eScience Lab is involved in BY-COVID to facilitate use of [WorkflowHub](/products/workflowhub/) and [RO-Crate](https://www.researchobject.org/ro-crate/) for FAIR sharing of workflows, COVID-19 data and their citations.
+Continuing work done with [ELIXIR](/projects/elixir/) and [EOSC-Life](/projects/eosclife/), eScience Lab is involved in BY-COVID to facilitate use of [RDMKit](https://rdmkit.elixir-europe.org/), [WorkflowHub](/products/workflowhub/) and [RO-Crate](https://www.researchobject.org/ro-crate/) for FAIR sharing of workflows, COVID-19 data and their citations.
 
 UNIMAN participates in Work packages and tasks:
 
