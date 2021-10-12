@@ -43,4 +43,4 @@ Contact details: Andrea Troncoso, BY-COVID Project Manager [[email]](mailto:byco
 
 ## eScience Lab engagement
 
-The [eScience Lab's participation in BY-COVID](/projects/by-covid/) from The University of Manchester will build on work done with ELIXIR and EOSC-Life to facilitate use of [RDMKit](https://rdmkit.elixir-europe.org/), [WorkflowHub](/products/workflowhub/) and [RO-Crate](https://www.researchobject.org/ro-crate/)  for FAIR sharing of workflows, COVID-19 data and their citations.
+The [eScience Lab's participation in BY-COVID](/projects/by-covid/) from The University of Manchester will build on work done with [ELIXIR](/projects/elixir/) and [EOSC-Life](/projects/eosclife/) to facilitate use of [RDMKit](https://rdmkit.elixir-europe.org/), [WorkflowHub](/products/workflowhub/) and [RO-Crate](https://www.researchobject.org/ro-crate/)  for FAIR sharing of workflows, COVID-19 data and their citations.
