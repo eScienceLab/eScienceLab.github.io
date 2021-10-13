@@ -39,6 +39,6 @@ UNIMAN participates in Work packages and tasks:
   - Task 4.1: Infectious diseases toolkit 
   - Task 4.3: Analysis transparency, sharing and trusted exchange 
   - Task 4.6: Training
-
-![BY-COVID concept diagram](/images/by-covid-concept.svg) 
+  
+![BY-COVID concept diagram](/images/by-covid-concept.svg)  
   
