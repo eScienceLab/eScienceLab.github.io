@@ -37,7 +37,7 @@ BY-COVID is an exciting interdisciplinary project that unites life science, medi
 
 <hr />
 
-Visit the [BY-COVID website](https://by-covid.org/) for more information. Follow the BY-COVID project on Twitter [@BYCOVID_eu](https://twitter.com/BYCOVID_eu) and [on LinkedIn](https://www.linkedin.com/company/by-covid/).
+This news item was adapted from <https://by-covid.org/news-events/by-covid-launch/> press release. Visit the [BY-COVID website](https://by-covid.org/) for more information. Follow the BY-COVID project on Twitter [@BYCOVID_eu](https://twitter.com/BYCOVID_eu) and [on LinkedIn](https://www.linkedin.com/company/by-covid/).
 
 Contact details: Andrea Troncoso, BY-COVID Project Manager [[email]](mailto:bycovid-coordination@elixir-europe.org) and Katharina Lauer, Senior ELIXIR Industry Officer [[email]](katharina.lauer@elixir-europe.org)
 
