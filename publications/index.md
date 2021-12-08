@@ -39,12 +39,20 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
-## 2021
+## 2022 
 
-Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2021):  
+Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2022):  
+[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://arxiv.org/pdf/2105.07028).  
+_Communications of the ACM_ (accepted).
+To appear as <https://doi.org/10.1145/3486897>  
+preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
+
+Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
 [**10 Simple Rules for making a software tool workflow-ready**](https://zenodo.org/record/5636487/preview/10_simple_rules_for_making_a_software_tool_workflow-ready--PREPRINT.pdf)  
-(submitted) _Zenodo_  
+_PLOS Computational Biology_ (accepted)   
 <https://doi.org/10.5281/zenodo.5636487>
+
+## 2021
 
 Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
 Mohammad Sadnan Al Manir, Ilkay Altintas, Christopher J. O. Baker, Ammar Ben Hadj Amor, Salvador Capella-Gutierrez,
@@ -67,12 +75,6 @@ _Data Science_ (accepted).
 [[pdf](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.pdf)]
 [[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 Preprint: <https://doi.org/10.5281/zenodo.5146227> 
-
-Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2021):  
-[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://arxiv.org/pdf/2105.07028).  
-Accepted, _Communications of the ACM_. 
-To appear as <https://doi.org/10.1145/3486897>  
-preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
 Petr Holub, Rudolf Wittner, Cecilia Mascia, Francesca Frexia, Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman, Melanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, Katrina Exter, Elliot Fairweather, Carole Goble, Martin Golebiewski, Bron Kisler, Andreas Kremer, Sheng Lin-Gibson, Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae, Isabelle Perseil, Ayat Salman, James Sluka, Stian Soiland-Reyes, Caterina Strambio-De-Castillia, Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2021):  
 [**Towards a Common Standard for Data and Specimen Provenance in Life Sciences**](https://doi.org/10.5281/zenodo.5093125).  
