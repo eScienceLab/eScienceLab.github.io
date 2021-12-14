@@ -50,9 +50,27 @@ preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
 [**10 Simple Rules for making a software tool workflow-ready**](https://zenodo.org/record/5636487/preview/10_simple_rules_for_making_a_software_tool_workflow-ready--PREPRINT.pdf)  
 _PLOS Computational Biology_ (accepted)   
-<https://doi.org/10.5281/zenodo.5636487>
+[[preprint](https://doi.org/10.5281/zenodo.5636487)]
 
 ## 2021
+
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
+[**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
+_Data Science_ (accepted).  
+[arXiv:2108.06503v2](https://arxiv.org/abs/arXiv:2108.06503v2) [cs.DL]
+[[html](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html)]
+[[pdf](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.pdf)]
+[[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
+[[preprint](https://doi.org/10.5281/zenodo.5146227)
+
+Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2021):  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.5281/zenodo.5542553).  
+_Data Intelligence_ (accepted) 
+[[preprint](https://doi.org/10.5281/zenodo.5727730)]
+
+Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin Groom, Stuart Owen, Stian Soiland-Reyes (2021): 
+**The Specimen Data Refiney: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**.
+_Data Intelligence_ (accepted?)  **No preprint available**
 
 Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
 Mohammad Sadnan Al Manir, Ilkay Altintas, Christopher J. O. Baker, Ammar Ben Hadj Amor, Salvador Capella-Gutierrez,
@@ -67,28 +85,19 @@ Suzan Verberne, Aswin Verhoeven, Katherine Wolstencroft (2021):
 _F1000Research_ **10**:897  
 <https://doi.org/10.12688/f1000research.54159.1>
 
-Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2021):  
-[**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
-_Data Science_ (accepted).  
-[arXiv:2108.06503v2](https://arxiv.org/abs/arXiv:2108.06503v2) [cs.DL]
-[[html](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html)]
-[[pdf](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.pdf)]
-[[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
-Preprint: <https://doi.org/10.5281/zenodo.5146227> 
-
 Petr Holub, Rudolf Wittner, Cecilia Mascia, Francesca Frexia, Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman, Melanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, Katrina Exter, Elliot Fairweather, Carole Goble, Martin Golebiewski, Bron Kisler, Andreas Kremer, Sheng Lin-Gibson, Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae, Isabelle Perseil, Ayat Salman, James Sluka, Stian Soiland-Reyes, Caterina Strambio-De-Castillia, Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2021):  
 [**Towards a Common Standard for Data and Specimen Provenance in Life Sciences**](https://doi.org/10.5281/zenodo.5093125).  
 _Submitted_. https://doi.org/10.5281/zenodo.5093125 
-
-Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2021):  
-[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.5281/zenodo.5542553).  
-(Submitted), _Zenodo_
-<https://doi.org/10.5281/zenodo.5542553>
 
 Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman; Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo; Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi (2021):  
 [**FAIR Principles for Research Software (FAIR4RS Principles)**](https://www.rd-alliance.org/system/files/FAIR4RS_Principles_v0.3_RDA-RFC.pdf)
 _Research Data Alliance_
 <https://doi.org/10.15497/RDA00065>
+
+Rafael Ferreira da Silva, Henri Casanova, Kyle Chard, Ilkay Altintas, Rosa M Badia, Bartosz Balis, Tainã Coleman, Frederik Coppens, Frank Di Natale, Bjoern Enders, Thomas Fahringer, Rosa Filgueira, Grigori Fursin, Daniel Garijo, Carole Goble, Dorran Howell, Shantenu Jha, Daniel S. Katz, Daniel Laney, Ulf Leser, Maciej Malawski, Kshitij Mehta, Loïc Pottier, Jonathan Ozik, J. Luc Peterson, Lavanya Ramakrishnan, Stian Soiland-Reyes, Douglas Thain, Matthew Wolf (2021):  
+[**A Community Roadmap for Scientific Workflows Research and Development**](https://arxiv.org/pdf/2110.02168).  
+[arXiv:2110.02168 [cs.DC]](https://arxiv.org/abs/2110.02168)
+
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
 [**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
