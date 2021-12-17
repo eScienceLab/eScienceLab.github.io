@@ -18,6 +18,10 @@ staff:
   orcid: 0000-0002-7718-5109
   img: munazah-andrabi-sm.png
   role: Research Community Manager
+- name: Andrew Stewart
+  orcid: 0000-0002-9795-4104
+  img: AndrewStewart.jpg
+  role: Senior Lecturer
 - name: Aitor Apaolaza
   orcid: 0000-0002-5530-6846
   img: aitor-apaolaza-sm.jpg
@@ -105,9 +109,6 @@ associate:
   url: http://www.manchester.ac.uk/research/robert.stevens/
   img: robert-stevens.jpg
   orcid: 0000-0002-6038-9025
-- name: Andrew Stewart
-  orcid: 0000-0002-9795-4104
-  img: AndrewStewart.jpg
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
   img: katy-wolstencroft-sm.jpg
