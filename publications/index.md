@@ -96,7 +96,7 @@ Rafael Ferreira da Silva, Henri Casanova, Kyle Chard, Ilkay Altintas, Rosa M Bad
 [**A Community Roadmap for Scientific Workflows Research and Development**](https://arxiv.org/pdf/2110.02168).  
 [arXiv:2110.02168 [cs.DC]](https://arxiv.org/abs/2110.02168)
 _2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](https://works-workshop.org/))_, pp 81–90. 
-To appear as <https://doi.org/10.1109/WORKS54523.2021.00016>
+<https://doi.org/10.1109/WORKS54523.2021.00016>
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
 [**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
