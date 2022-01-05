@@ -56,10 +56,11 @@ _ICSOC 2008 International Workshops_, Sydney, Australia, December 1st, 2008, Rev
 <https://doi.org/10.1007/978-3-642-01247-1_11>
 
 Wei Tan, Paolo Missier, Ian Foster, Ravi Madduri, David De Roure, Carole Goble (2009):  
-**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**.  
+[**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**](https://www.research.manchester.ac.uk/portal/en/publications/a-comparison-of-using-taverna-and-bpel-in-building-scientific-workflows-the-case-of-cagrid(723326bc-961a-4793-9a4c-8b35c0ec9256).html).  
 _Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117  
 <https://doi.org/10.1002/cpe.1547>
 [[PMC2901112]](https://identifiers.org/pmc/PMC2901112)
+[[pdf](https://www.research.manchester.ac.uk/portal/files/209157223/nihms155372.pdf)]
 
 Wei Tan, Ian Foster and Ravi Madduri (2008):  
 **Combining the Power of Taverna and caGrid: Scientific Workflows that Enable Web-Scale Collaboration**.  
