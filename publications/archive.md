@@ -178,13 +178,12 @@ Missier, P.; Paton, N. & Belhajjame, K. (2010), Fine-grained and efficient linea
 
 Missier, P.; Sahoo, S.; Zhao, J.; Goble, C. & Sheth, A. (2010), Janus: from Workflows to Semantic Provenance and Linked Open Data, in **IPAW-10**.
 
-
-Paolo Missier, Stian Soiland-Reyes, Stuart Owen, Wei Tan, Alexandra Nenadic, Ian Dunlop, Alan Williams, Tom Oinn, Carole Goble (2010)
-**Taverna, Reloaded**
-_Scientific and Statistical Database Management: 22nd International Conference, SSDBM 2010, Heidelberg, Germany, June 30--July 2, 2010. Proceedings_
-[doi:10.1007/978-3-642-13818-8_33](http://dx.doi.org/10.1007/978-3-642-13818-8_33)
-
-
+Paolo Missier, Stian Soiland-Reyes, Stuart Owen, Wei Tan, Alexandra Nenadic, Ian Dunlop, Alan Williams, Tom Oinn, Carole Goble (2010):  
+**Taverna, Reloaded**.  
+_Scientific and Statistical Database Management: 22nd International Conference_ (SSDBM 2010), Heidelberg, Germany, June 30--July 2, 2010. 
+In _Lecture Notes in Computer Science_ **6187**.
+<https://doi.org/10.1007/978-3-642-13818-8_33>
+[[preprint](https://www.research.manchester.ac.uk/portal/files/61957309/paper_125.pdf)]
 
 Missier, P.; Wolstencroft, K.; Tanoh, F.; Li, P.; Bechhofer, S.; Belhajjame, K. & Goble, C. (2010):  
 **Functional Units: Abstractions for Web Service Annotations**.  
@@ -194,24 +193,26 @@ At _IEEE 2010 Fourth [International Workshop on Scientific Workflows SWF](http:/
 [[pdf](https://www.research.manchester.ac.uk/portal/files/195082966/FU_SWF.pdf)]
 Moeller, S.; Krabbenhoeft, H.; Tille, A.; Paleino, D.; Williams, A.; Wolstencroft, K.; Goble, C. & Plessy, C. (2010), Community-driven computational biology with Debian and Taverna, in **BOSC 2010**.
 
-
 Pirro, G.; Trunfio, P.; Talia, D.; Missier, P. & Goble, C. (2010), ERGOT: A Semantic-based System for Service Discovery in Distributed Infrastructures, in **Proc. of the 10th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing**.
 
-
-Roure, D. & Goble, C. (2010), Supporting e-Science Using Semantic Web Technologies - The Semantic Grid, in Huajun Chen; Yimin Wang & Kei-Hoi Cheung, ed., **Semantic e-Science**, Springer US, , pp. 1-28.
-
+Roure, D. & Goble, C. (2010):  
+**Supporting e-Science Using Semantic Web Technologies - The Semantic Grid**, in Huajun Chen; Yimin Wang & Kei-Hoi Cheung, ed., **Semantic e-Science**, Springer US, , pp. 1-28.
 
 Swainston, N.; Jameson, D.; Li, P.; Spasic, I.; Mendes, P. & Paton, N. (2010), Integrative Information Management for Systems Biology, in **7th International Conference on Data Integration in the Life Sciences (DILS 2010)**.
 
-
-Wei Tan, Ravi Madduri, Alexandra Nenadic, Stian Soiland-Reyes, Dinanath Sulakhe, Ian Foster and Carole A Goble (2010):
-**CaGrid Workflow Toolkit: A Taverna based workflow tool for cancer grid**
-_BMC Bioinformatics_ **11**:542.
-[doi:10.1186/1471-2105-11-542](http://dx.doi.org/10.1186/1471-2105-11-542)
+Wei Tan, Ravi Madduri, Alexandra Nenadic, Stian Soiland-Reyes, Dinanath Sulakhe, Ian Foster, Carole A Goble (2010):  
+**CaGrid Workflow Toolkit: A Taverna based workflow tool for cancer grid**.  
+_BMC Bioinformatics_ **11**:542.  
+<https://doi.org/10.1186/1471-2105-11-542>
 
 
 ## 2009
 
+Alexandra Nenadic, Stian Soiland‐Reyes, Carole Goble (2009):  
+[**Bringing caBIG services together using Taverna**](https://www.research.manchester.ac.uk/portal/en/publications/bringing-cabig-services-together-using-taverna(db95e519-11ab-4d92-bf35-eeb447afe166).html).  
+_UK e‐Science All Hands (AHM) 2009 Conference_, Oxford, UK, 2009.
+[[pdf](https://www.research.manchester.ac.uk/portal/files/28600665/POST-PEER-REVIEW-PUBLISHERS.PDF)]
+[[slides](https://www.slideshare.net/soilandreyes/bringing-cabig-services-together-using-taverna)]
 
 Iain Buchan, Shoaib Sufi, Sarah Thew, Ian Dunlop, Urara Hiroeh, Dexter Canoy, Georgina Moulton, John Ainsworth, Angela Dale, Sean Bechhofer, Carole Goble (2009): **Obesity e-Lab: Connecting Social Science via Research Objects**, _5th International Conference on e-Social Science_ [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/obesity-elab(4030a506-ba67-495c-981d-5f8f877404b8).html)]
 
@@ -220,20 +221,22 @@ Khalid Belhajjame, Paolo Missier, Carole Goble (2009):
 In _Handbook of Research on Computational Grid Technologies for Life Sciences, Biomedicine, and Healthcare_, Mario Cannataro (editor). Medical Information Science Reference.
 <https://doi.org/10.4018/978-1-60566-374-6.ch003>
 
-De Roure, D. & Goble, C. (2009), Lessons from myExperiment: Research Objects for Data Intensive Research, in **eScience Workshop 2009**.
+De Roure, D. & Goble, C. (2009):  
+**Lessons from myExperiment: Research Objects for Data Intensive Research**, in _eScience Workshop 2009_.
 
+De Roure, D. & Goble, C. (2009):  
+**Lessons from myExperiment: Two insights into emerging e-Research practice**, in _UK e-Science All Hands Meeting_.
 
-De Roure, D. & Goble, C. (2009), Lessons from myExperiment: Two insights into emerging e-Research practice, in **UK e-Science All Hands Meeting**.
+De Roure, D. & Goble, C. (2009):  
+**myExperiment: A Web 2.0 Virtual Research Environment for Research using Computation and Services**.  
+_Workshop On Integrating Digital Library Content with Computational Tools and Services at JCDL 2009_.
 
+De Roure, D. & Goble, C. (2009):  
+**Research In a Connected World, chapter Scholarly Communication and the Web.**
 
-De Roure, D. & Goble, C. (2009), myExperiment: A Web 2.0 Virtual Research Environment for Research using Computation and Services, in **Workshop On Integrating Digital Library Content with Computational Tools and Services at JCDL 2009**.
-
-
-De Roure, D. & Goble, C. (2009), Research In a Connected World, chapter Scholarly Communication and the Web.
-
-
-De Roure, D. & Goble, C. (2009), **Software Design for Empowering Scientists**, IEEE Software 26(1), 88-95.
-
+De Roure, D. & Goble, C. (2009):  
+**Software Design for Empowering Scientists**.  
+_IEEE Software_ **26**(1), 88-95.
 
 De Roure, D.; Goble, C.; Aleksejevs, S.; Bechhofer, S.; Bhagat, J.; Cruickshank, D.; Michaelides, D. & Newman, D. (2009), The myExperiment Open Repository for Scientific Workflows, in **Open Repositories 2009**.
 
@@ -279,21 +282,24 @@ Pettifer, S.; Thorne, D.; McDermott, P.; Marsh, J.; Villéger, A.; Kell, D. B. &
 
 Sroka, J.; Hidders, J.; Missier, P. & Goble, C. (2009), **A formal semantics for the Taverna 2 workflow model**, Journal of Computer and System Sciences 76(6), 490-508.
 
-Wei Tan, Kyle Chard, Dinanath Sulakhe, Ravi Madduri, Ian Foster, Stian Soiland‐Reyes, Carole Goble (2009):
-**Scientific workflows as services in caGrid: a Taverna and gRAVI approach**
-_IEEE International Conference on Web Services (ICWS 2009)_
-[doi:10.1109/ICWS.2009.19](http://dx.doi.org/10.1109/ICWS.2009.19)
-[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:192018)
+Wei Tan, Kyle Chard, Dinanath Sulakhe, Ravi Madduri, Ian Foster, Stian Soiland‐Reyes, Carole Goble (2009):  
+**Scientific workflows as services in caGrid: a Taverna and gRAVI approach**.  
+_IEEE International Conference on Web Services (ICWS 2009)_  
+<https://doi.org/10.1109/ICWS.2009.19>
+[[preprint](https://www.research.manchester.ac.uk/portal/files/58596272/icws2009_tan_cagrid_taverna_gravi_submitted_preprint.pdf)]
 
+Wei Tan, Paolo Missier, Ian Foster, Ravi Madduri, David De Roure, Carole Goble (2009):  
+[**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**](https://www.research.manchester.ac.uk/portal/en/publications/a-comparison-of-using-taverna-and-bpel-in-building-scientific-workflows-the-case-of-cagrid(723326bc-961a-4793-9a4c-8b35c0ec9256).html).  
+_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117  
+<https://doi.org/10.1002/cpe.1547>
+[[PMC2901112]](https://identifiers.org/pmc/PMC2901112)
+[[pdf](https://www.research.manchester.ac.uk/portal/files/209157223/nihms155372.pdf)]
 
-Wei Tan, Paolo Missier, Ian Foster,  Ravi Madduri, David De Roure, Carole Goble (2009): 
-**A comparison of using Taverna and BPEL in building scientific workflows: the case of caGrid**
-_Concurrency and Computation: Practice and Experience_ **22*(9) 1098-1117
-[doi:10.1002/cpe.1547](http://dx.doi.org/10.1002/cpe.1547)
-
-
-Tan, W.; Missier, P.; Madduri, R. & Foster, I. (2009), Building Scientific Workflow with Taverna and BPEL: A Comparative Study in caGrid, in **Service-Oriented Computing - ICSOC 2008 Workshops**, Springer Berlin / Heidelberg, , pp. 118-129.
-
+Wei Tan, Paolo Missier, Ravi Madduri, Ian Foster (2009):  
+[**Building Scientific Workflow with Taverna and BPEL: A Comparative Study in caGrid**](https://www.research.manchester.ac.uk/portal/en/publications/building-scientific-workflow-with-taverna-and-bpel(27097dd0-f2c3-468a-83f5-89b29fcdd298).html).  
+_ICSOC 2008 International Workshops_, Sydney, Australia, December 1st, 2008, Revised Selected Papers.  
+<https://doi.org/10.1007/978-3-642-01247-1_11>
+[[pdf](https://www.research.manchester.ac.uk/portal/files/62488982/bpel_taverna_wesoa_081219.pdf)]
 
 Wassink, I.; van der Vet, P. E.; Wolstencroft, K.; Neerincx, P. B. T.; Roos, M.; Rauwerda, H. & Breit, T. (2009), Analysing scientific workflows: why workflows not only connect web services, in **IEEE Congress on Services**.
 
