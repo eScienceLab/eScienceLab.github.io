@@ -67,7 +67,7 @@ _Data Intelligence_ (accepted)
 [[preprint](https://doi.org/10.5281/zenodo.5727730)]
 
 Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin Groom, Stuart Owen, Stian Soiland-Reyes (2021): 
-**The Specimen Data Refiney: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**.
+**The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**.
 _Data Intelligence_ (accepted?)  **No preprint available**
 
 Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
