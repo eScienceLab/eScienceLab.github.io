@@ -484,12 +484,11 @@ _IEEE Internet Computing_ **18**(5) pp.4-, Sept/Oct 2014. Editorial.
 [https://doi.org/10.1109/MIC.2014.88](https://doi.org/10.1109/MIC.2014.88)
 [[preprint]](http://www.software.ac.uk/resources/publications/better-software-better-research)
 
-Carole Goble,
-Alasdair J G Gray,
-Eleftherios Tatakis (2014):  
-**Help me describe my data: A demonstration of the Open PHACTS VoID Editor**.  
+Carole Goble, Alasdair J G Gray, Eleftherios Tatakis (2014):  
+[**Help me describe my data: A demonstration of the Open PHACTS VoID Editor**](http://ceur-ws.org/Vol-1272/paper_33.pdf).  
 _ISWC-P&D 2014: Proceedings of the ISWC 2014 Posters & Demonstrations Track_,
-CEUR-WS.org online [http://ceur-ws.org/Vol-1272/paper_33.pdf](http://ceur-ws.org/Vol-1272/paper_33.pdf)
+_CEUR Workshop Proeedings_ **1272**:33  
+<http://ceur-ws.org/Vol-1272/paper_33.pdf>
 
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014):  
 **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**.  
@@ -497,9 +496,9 @@ _Biodiversity Data Journal 12/2014_; **2**:e4221. [https://doi.org/10.3897/BDJ.2
 
 Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve Pettifer (2014):  
 **API-centric Linked Data integration: The Open PHACTS Discovery Platform case study**.  
-_Web Semantics: Science, Services and Agents on the World Wide Web_
-[https://doi.org/10.1016/j.websem.2014.03.003](https://doi.org/10.1016/j.websem.2014.03.003)
-[[researchgate]](https://www.researchgate.net/publication/261440552_API-centric_Linked_data_integration_The_open_PHACTS_discovery_platform_case_study)
+_Web Semantics: Science, Services and Agents on the World Wide Web_  
+<https://doi.org/10.1016/j.websem.2014.03.003>
+[[preprint](https://www.research.manchester.ac.uk/portal/files/209942151/359_609_1_SM.pdf)]
 
 Pinar Alper,
 Khalid Belhajjame,
@@ -608,11 +607,14 @@ _GigaScience_ **3**:2
 
 Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2014):  
 **Applying linked data approaches to pharmacology: Architectural decisions and implementation**.  
-_Semantic Web_ **5**(3), 1–13.
+_Semantic Web_ **5**(3), 1–13.  
+<https://doi.org/10.3233/SW-2012-0088>
 [[pdf]](http://www.semantic-web-journal.net/system/files/swj258_1.pdf)
-[[journal article]](http://www.semantic-web-journal.net/content/applying-linked-data-approaches-pharmacology-architectural-decisions-and-implementation)
-[[https://doi.org/10.3233/SW-2012-0088](https://doi.org/10.3233/SW-2012-0088)
 
+Joseline Ratnam , Barbara Zdrazil, Daniela Digles, Emiliano Cuadrado-Rodriguez, Jean-Marc Neefs, Hannah Tipney, Ronald Siebes, Andra Waagmeester, Glyn Bradley, Chau Han Chau, Lars Richter, Jose Brea, Chris T. Evelo, Edgar Jacoby, Stefan Senger, Maria Isabel Loza, Gerhard F. Ecker, Christine Chichester (2014):  
+[**The Application of the Open Pharmacological Concepts Triple Store (Open PHACTS) to Support Drug Discovery Research**](https://doi.org/10.1371/journal.pone.0115460).  
+_PLOS ONE_ **9**(12): e115460.  
+<https://doi.org/10.1371/journal.pone.0115460>
 
 
 ## 2013
@@ -643,8 +645,9 @@ _Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611
 [https://doi.org/10.1016/j.future.2011.08.004](https://doi.org/10.1016/j.future.2011.08.004) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(479e591e-b295-4478-b0c7-a145c19dcd45).html) [[pdf]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013):  
-**PAV ontology: provenance, authoring and versioning**.  
-_Journal of Biomedical Semantics_ **4**:1, 37. [https://doi.org/10.1186/2041-1480-4-37](https://doi.org/10.1186/2041-1480-4-37)
+[**PAV ontology: provenance, authoring and versioning**](https://doi.org/10.1186/2041-1480-4-37).  
+_Journal of Biomedical Semantics_ **4**:1, 37.  
+<https://doi.org/10.1186/2041-1480-4-37>
 
 Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole Goble (2013):  
 **Common motifs in scientific workflows: An empirical analysis**.  
@@ -666,10 +669,19 @@ _Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp.
 [[pdf]](http://delicias.dia.fi.upm.es/members/dgarijo/papers/prov-bench-paper.pdf)
 [[related website]](https://github.com/provbench/Wf4Ever-PROV)
 
+Colin Batchelor, Christian Y. A. Brenninkmeijer, Christine Chichester, Mark Davies, Daniela Digles, Ian Dunlop, Chris T. Evelo, Anna Gaulton, Carole Goble, Alasdair J. G. Gray, Paul Groth, Lee Harland, Karen Karapetyan, Antonis Loizou, John P. Overington (2014):  
+[**Scientific Lenses to Support Multiple Views over Linked Chemistry Data**](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_7.pdf).  
+_Proceedings of 13th International Semantic Web Conference, Part 1_, (ISWC 2014) Riva del Garda, Italy, October 19-23, 2014.
+_Lecture Notes in Computer Science_ **8796**.  
+<https://doi.org/10.1007/978-3-319-11964-9_7>
+[[preprint](https://www.research.manchester.ac.uk/portal/en/publications/scientific-lenses-to-support-multiple-views-over-linked-chemistry-data(5eb9b5f8-2f13-478a-a99d-2b4cc3c5cf4c).html)]
+
 Christian Brenninkmeijer, Chris Evelo, Carole Goble, Alasdair J G Gray, Paul Groth, Steve Pettifer, Robert Stevens, Antony J Williams, Egon L Willighagen (2013):  
-**Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**.  
-_Intelligent Systems for Molecular Biology and European Conference on Computational Biology_ (ISMB/ECCB 2013), Berlin, Germany, July 2013.
-[[html]](https://www.researchgate.net/publication/266157706_Scientific_lenses_an_approach_to_dynamically_vary_the_relationship_between_datasets )
+[**Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**](http://ceur-ws.org/Vol-951/paper5.pdf).  
+_Proceedings of the Second International Workshop on Linked Science 2012 - Tackling Big Data_ ([LISC 2012](http://ceur-ws.org/Vol-951/)).
+In conjunction with the International Semantic Web Conference (ISWC2012).
+_CEUR Workshop Proeedings_ **951**:5  
+<http://ceur-ws.org/Vol-951/paper5.pdf>
 
 Tim Clark, Paolo Ciccarese, Carole A Goble (2013):  
 **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**.  
@@ -678,9 +690,11 @@ _Journal of Biomedical Semantics_ **5**:28
 [[poster]](http://f1000research.com/posters/1093963)
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):  
-**Computing Identity Co-Reference Across Drug Discovery Datasets**.  
-_Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)_; CEUR-WS.org; 2013.
-[http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf](http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf)
+[**Computing Identity Co-Reference Across Drug Discovery Datasets**](http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf).  
+_Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)_; 
+_CEUR Workshop Proeedings_ **1114**:4  
+<http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf>
+
 
 Pinar Alper, Khalid Belhajjame, Carole Goble, Pinar Karagoz (2013):  
 **Small Is Beautiful: Summarizing Scientific Workflows Using Semantic Annotations**.  
@@ -732,6 +746,17 @@ Sonja Holl, Daniel Garijo, Khalid Belhajjame, Olav Zimmermann, Renato De Giovann
 _Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science (WORKS '13)_.
 [https://doi.org/10.1145/2534248.2534251](https://doi.org/10.1145/2534248.2534251)
 [[pdf]](http://dgarijo.com/papers/works13.pdf)
+
+Kamal Azzaoui, Edgar Jacoby, Stefan Senger, Emiliano Cuadrado Rodríguez3, Mabel Loza, Barbara Zdrazil, Marta Pinto, Antony J. Williams, Victor de la Torre, Jordi Mestres, Manuel Pastor, Olivier Taboureau, Matthias Rarey, Christine Chichester, Steve Pettifer, Niklas Blomberg, Lee Harland, Bryn Williams-Jones, Gerhard F. Ecker (2013):  
+[**Scientific competency questions as the basis for semantically enriched open pharmacological space development**](https://doi.org/10.1016/j.drudis.2013.05.008).  
+_Drug Discovery Today_ **18** (17-18) pp 843–852.  
+<https://doi.org/10.1016/j.drudis.2013.05.008>
+
+Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
+[**Open PHACTS: semantic interoperability for drug discovery**](https://doi.org/10.1016/j.drudis.2012.05.016).  
+_Drug Discovery Today_  **17**(21-22) pp 1188 - 1198.  
+<https://doi.org/10.1016/j.drudis.2012.05.016>
+
 
 ## 2002-2012
 
