@@ -11,41 +11,52 @@ Note that this list may not provide open access links for every publications. Fe
 
 ## 2012
 
-Wolstencroft, K, Owen, S, HorridToward interoperable bioscience datage, M, Jupp, S, Krebs, O, Snoep, J, du Preez, F, Mueller, W, Stevens, R, Goble, C (2012)
-**Stealthy annotation of experimental biology by spreadsheets**
-_Concurrency and Computation: Practice and Experience_ **25**:4, pp. 467-480, October 2012
-[doi:10.1002/cpe.2941](http://dx.doi.org/10.1002/cpe.2941)
 
-Matthew Gamble, Carole Goble, Graham Klyne, Jun Zhao (2012): **MIM: A minimum information model vocabulary and framework for scientific linked data**, _2012 IEEE 8th International Conference on E-Science_, e-Science 2012. [doi:10.1109/eScience.2012.6404489](http://dx.doi.org/10.1109/eScience.2012.6404489) [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/mim-a-minimum-information-model-vocabulary-and-framework-for-scientific-linked-data(77c9610c-4a5f-43dc-bbdd-fad65a733d93).html)] [[preprint pdf]](https://www.research.manchester.ac.uk/portal/files/83852243/gamble_mim_10.1109_eScience.2012.6404489.pdf)
+Katherine Wolstencroft, Stuart Owen, Matthew Horridge, Simon Jupp, Olga Krebs, Jacky Snoep, Franco du Preez, Wolfgang Mueller, Robert Stevens, Carole Goble (2012):  
+**Stealthy annotation of experimental biology by spreadsheets**.  
+_Concurrency and Computation: Practice and Experience_ **25**:4, pp. 467-480, October 2012.  
+<https://doi.org/10.1002/cpe.2941>
 
-Belhajjame, K.; Corcho, O.; Garijo, D.; Zhao, J.; Missier, P.; Newman, D.; Palma, R.; Bechhofer, S.; García Cuesta, E.; Gómez-Pérez, J. M.; Soiland-Reyes, S.; Verdes-Montenegro, L.; De Roure, D. & Goble, C. (2012), **Workflow-Centric Research Objects: First Class Citizens in Scholarly Discourse**, in *Proceedings of Workshop on the Semantic Publishing*. [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/workflowcentric-research-objects-first-class-citizens-in-scholarly-discourse(caa26ab5-715a-43e6-92e0-4f94b7106b86).html) [[pdf](https://www.research.manchester.ac.uk/portal/files/27406754/POST-PEER-REVIEW-NON-PUBLISHERS.PDF)]
+Matthew Gamble, Carole Goble, Graham Klyne, Jun Zhao (2012):  
+**MIM: A minimum information model vocabulary and framework for scientific linked data**.  
+_2012 IEEE 8th International Conference on E-Science_, e-Science 2012.  
+<https://doi.org/10.1109/eScience.2012.6404489> [[preprint](https://www.research.manchester.ac.uk/portal/en/publications/mim-a-minimum-information-model-vocabulary-and-framework-for-scientific-linked-data(77c9610c-4a5f-43dc-bbdd-fad65a733d93).html)] [[preprint pdf]](https://www.research.manchester.ac.uk/portal/files/83852243/gamble_mim_10.1109_eScience.2012.6404489.pdf)
+
+Belhajjame, K.; Corcho, O.; Garijo, D.; Zhao, J.; Missier, P.; Newman, D.; Palma, R.; Bechhofer, S.; García Cuesta, E.; Gómez-Pérez, J. M.; Soiland-Reyes, S.; Verdes-Montenegro, L.; De Roure, D. & Goble, C. (2012):  
+**Workflow-Centric Research Objects: First Class Citizens in Scholarly Discourse**.
+in *Proceedings of Workshop on the Semantic Publishing*. [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/workflowcentric-research-objects-first-class-citizens-in-scholarly-discourse(caa26ab5-715a-43e6-92e0-4f94b7106b86).html) [[pdf](https://www.research.manchester.ac.uk/portal/files/27406754/POST-PEER-REVIEW-NON-PUBLISHERS.PDF)]
 
 
-Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang, David De Roure and Carole Goble (2012):
-**ReputationNet: a Reputation Engine to Enhance ServiceMap by Recommending Trusted Services**.
+Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang, David De Roure and Carole Goble (2012):  
+**ReputationNet: a Reputation Engine to Enhance ServiceMap by Recommending Trusted Services**.  
 Accepted for IEEE SCC2012, June 2012.  
 [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNetSCC2012.pdf)
 
 
-Khalid Belhajjame, David De Roure and Carole Goble (2012):
-**Research Object Management: Opportunities and Challenges**.
+Khalid Belhajjame, David De Roure and Carole Goble (2012):  
+**Research Object Management: Opportunities and Challenges**.  
 Data Intensive Collaboration in Science and Engineering (DISCOSE) workshop, collocated with ACM CSCW 2012
 [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/Belhajjame_discose2012.pdf)
 
 
-Jun Zhao, Jose Manuel Gomez-Perezy, Khalid Belhajjame, Graham Klyne, Esteban Garcia-Cuestay, Aleix Garridoy, Kristina Hettne, Marco Roos, David De Roure, Carole Goble (2012):
-**Why Workflows Break - Understanding and Combating Decay in Taverna Workflows**, _eScience 2012_, Chicago, October 2012.
-[[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/why-decay.pdf)
+Jun Zhao, Jose Manuel Gomez-Perezy, Khalid Belhajjame, Graham Klyne, Esteban Garcia-Cuestay, Aleix Garridoy, Kristina Hettne, Marco Roos, David De Roure, Carole Goble (2012):  
+[**Why Workflows Break - Understanding and Combating Decay in Taverna Workflows**](https://www.research.manchester.ac.uk/portal/files/174861334/why_decay.pdf).  
+_eScience 2012_, Chicago, October 2012.  
+<https://doi.org/10.1109/eScience.2012.6404482>
+[[preprint]](https://www.research.manchester.ac.uk/portal/files/174861334/why_decay.pdf)
 
 
-Harmelen, F.; Kampis, G.; Boerner, K.; Besselaar, P.; Schultes, E.; Goble, C.; Groth, P.; Mons, B.; Anderson, S.; Decker, S.; Hayes, C.; Buecheler, T. & Helbing, D. (2012), **Theoretical and technological building blocks for an innovation accelerator**, The European Physical Journal Special Topics 214(1), 183-214.
+Harmelen, F.; Kampis, G.; Boerner, K.; Besselaar, P.; Schultes, E.; Goble, C.; Groth, P.; Mons, B.; Anderson, S.; Decker, S.; Hayes, C.; Buecheler, T. & Helbing, D. (2012), **Theoretical and technological building blocks for an innovation accelerator**, The European Physical Journal Special Topics 214(1), 183-214.  
+<https://doi.org/10.1140/epjst/e2012-01692-1>
 
-
-Hettne, K.; Soiland-Reyes, S.; Klyne, G.; Belhajjame, K.; Gamble, M.; Bechhofer, S.; Roos, M. & Corcho, O. (2012), Workflow forever: semantic web semantic models and tools for preserving and digitally publishing computational experiments, in **Proceedings of the 4th International Workshop on Semantic Web Applications and Tools for the Life Sciences**, ACM, New York, NY, USA, pp. 36--37.
-
+Hettne, K.; Soiland-Reyes, S.; Klyne, G.; Belhajjame, K.; Gamble, M.; Bechhofer, S.; Roos, M. & Corcho, O. (2012):  
+**Workflow forever: semantic web semantic models and tools for preserving and digitally publishing computational experiments**.  
+in _Proceedings of the 4th International Workshop on Semantic Web Applications and Tools for the Life Sciences_ (SWAT4LS '11), December 2011, pp. 36–-37.  
+<https://doi.org/10.1145/2166896.2166909>
+[[preprint](https://www.research.manchester.ac.uk/portal/files/38535608/FULL_TEXT.pdf)]
 
 Jupp, S.; Horridge, M.; Iannone, L.; Klein, J.; Owen, S.; Schanstra, J.; Wolstencroft, K. & Stevens, R. (2012), **Populous: a tool for building OWL ontologies from templates**, BMC Bioinformatics 13.
-
+<https://doi.org/10.1186/1471-2105-13-S1-S5>
 
 Karasavvas, K.; Wolstencroft, K.; Mina, E.; Cruickshank, D.; Williams, A.; De Roure, D.; Goble, C. & Roos, M. (2012), **Opening new gateways to workflows for life scientists.**, Stud Health Technol Inform 175, 131--141.
 
@@ -62,10 +73,10 @@ _Nature Genetics_ **44**(2), 121--126.
 [doi:10.1038/ng.1054](http://dx.doi.org/10.1038/ng.1054)
 
 
-
 Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
-**Open PHACTS: semantic interoperability for drug discovery**, 
-_Drug Discovery Today_  **17**(21-22) pp 1188 - 1198. [doi:10.1016/j.drudis.2012.05.016](http://dx.doi.org/10.1016/j.drudis.2012.05.016)
+[**Open PHACTS: semantic interoperability for drug discovery**](https://doi.org/10.1016/j.drudis.2012.05.016).  
+_Drug Discovery Today_  **17**(21-22) pp 1188 - 1198.  
+<https://doi.org/10.1016/j.drudis.2012.05.016>
 
 
 Zhao, J.; Klyne, G.; Holubowicz, P.; Palma, R.; Soiland-Reyes, S.; Hettne, K.; Ruiz, J. E.; Roos, M.; Page, K. & Gómez-Pérez, J. M. (2012), **RO-Manager: A Tool for Creating and Manipulating Research Objects to Support Reproducibility and Reuse in Sciences**, Proc. 2nd Intl. Workshop on Linked Science.
