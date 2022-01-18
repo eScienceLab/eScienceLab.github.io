@@ -77,6 +77,13 @@ _ISWC-P&D 2014: Proceedings of the ISWC 2014 Posters & Demonstrations Track_,
 _CEUR Workshop Proeedings_ **1272**:33  
 <http://ceur-ws.org/Vol-1272/paper_33.pdf>
 
+Colin Batchelor, Christian Y. A. Brenninkmeijer, Christine Chichester, Mark Davies, Daniela Digles, Ian Dunlop, Chris T. Evelo, Anna Gaulton, Carole Goble, Alasdair J. G. Gray, Paul Groth, Lee Harland, Karen Karapetyan, Antonis Loizou, John P. Overington (2014):  
+[*Scientific Lenses to Support Multiple Views over Linked Chemistry Data**](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_7.pdf).  
+_Proceedings of 13th International Semantic Web Conference, Part 1_, (ISWC 2014) Riva del Garda, Italy, October 19-23, 2014.
+_Lecture Notes in Computer Science_ **8796**.  
+<https://doi.org/10.1007/978-3-319-11964-9_7>
+[[preprint](https://www.research.manchester.ac.uk/portal/en/publications/scientific-lenses-to-support-multiple-views-over-linked-chemistry-data(5eb9b5f8-2f13-478a-a99d-2b4cc3c5cf4c).html)]
+
 Christian Brenninkmeijer, Chris Evelo, Carole Goble, Alasdair J G Gray, Paul Groth, Steve Pettifer, Robert Stevens, Antony J Williams, Egon L Willighagen (2013):  
 [**Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**](http://ceur-ws.org/Vol-951/paper5.pdf).  
 _Proceedings of the Second International Workshop on Linked Science 2012 - Tackling Big Data_ ([LISC 2012](http://ceur-ws.org/Vol-951/)).
