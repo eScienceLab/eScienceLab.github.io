@@ -50,7 +50,7 @@ Peter A.C ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J. Lush
 Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes,
 Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
 Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao & Barend Mons (2016):  
-**The FAIR Guiding Principles for scientific data management and stewardship**.  
+[**The FAIR Guiding Principles for scientific data management and stewardship**](https://doi.org/10.1038/sdata.2016.18).  
 _Nature Scientific Data_ **3**, 2016  
 <https://doi.org/10.1038/sdata.2016.18>
 
@@ -58,11 +58,11 @@ Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve
 **API-centric Linked Data integration: The Open PHACTS Discovery Platform case study**.  
 _Web Semantics: Science, Services and Agents on the World Wide Web_  
 <https://doi.org/10.1016/j.websem.2014.03.003>
-[[researchgate]](https://www.researchgate.net/publication/261440552_API-centric_Linked_data_integration_The_open_PHACTS_discovery_platform_case_study)
+[[preprint](https://www.research.manchester.ac.uk/portal/files/209942151/359_609_1_SM.pdf)]
 
 Joseline Ratnam , Barbara Zdrazil, Daniela Digles, Emiliano Cuadrado-Rodriguez, Jean-Marc Neefs, Hannah Tipney, Ronald Siebes, Andra Waagmeester, Glyn Bradley, Chau Han Chau, Lars Richter, Jose Brea, Chris T. Evelo, Edgar Jacoby, Stefan Senger, Maria Isabel Loza, Gerhard F. Ecker, Christine Chichester (2014):  
-**The Application of the Open Pharmacological Concepts Triple Store (Open PHACTS) to Support Drug Discovery Research**.  
-_PLoS ONE_ **9**(12): e115460.  
+[**The Application of the Open Pharmacological Concepts Triple Store (Open PHACTS) to Support Drug Discovery Research**](https://doi.org/10.1371/journal.pone.0115460).  
+_PLOS ONE_ **9**(12): e115460.  
 <https://doi.org/10.1371/journal.pone.0115460>
 
 Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2014):  
@@ -85,23 +85,23 @@ _CEUR Workshop Proeedings_ **951**:5
 <http://ceur-ws.org/Vol-951/paper5.pdf>
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013):  
-**PAV ontology: provenance, authoring and versioning**.  
+[**PAV ontology: provenance, authoring and versioning**](https://doi.org/10.1186/2041-1480-4-37).  
 _Journal of Biomedical Semantics_ **4**:1, 37.  
 <https://doi.org/10.1186/2041-1480-4-37>
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):  
-**Computing Identity Co-Reference Across Drug Discovery Datasets**.  
+[**Computing Identity Co-Reference Across Drug Discovery Datasets**](http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf).  
 _Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)_; 
 _CEUR Workshop Proeedings_ **1114**:4  
 <http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf>
 
 Kamal Azzaoui, Edgar Jacoby, Stefan Senger, Emiliano Cuadrado Rodríguez3, Mabel Loza, Barbara Zdrazil, Marta Pinto, Antony J. Williams, Victor de la Torre, Jordi Mestres, Manuel Pastor, Olivier Taboureau, Matthias Rarey, Christine Chichester, Steve Pettifer, Niklas Blomberg, Lee Harland, Bryn Williams-Jones, Gerhard F. Ecker (2013):  
-**Scientific competency questions as the basis for semantically enriched open pharmacological space development**.  
+[**Scientific competency questions as the basis for semantically enriched open pharmacological space development**](https://doi.org/10.1016/j.drudis.2013.05.008).  
 _Drug Discovery Today_ **18** (17-18) pp 843–852.  
 <https://doi.org/10.1016/j.drudis.2013.05.008>
 
 Antony J. Williams, Lee Harland, Paul Groth, Stephen Pettifer, Christine Chichester, Egon L. Willighagen, Chris T. Evelo, Niklas Blomberg, Gerhard Ecker, Carole Goble, Barend Mons (2012):  
-**Open PHACTS: semantic interoperability for drug discovery**.  
+[**Open PHACTS: semantic interoperability for drug discovery**](https://doi.org/10.1016/j.drudis.2012.05.016).  
 _Drug Discovery Today_  **17**(21-22) pp 1188 - 1198.  
 <https://doi.org/10.1016/j.drudis.2012.05.016>
 
