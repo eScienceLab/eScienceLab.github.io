@@ -55,9 +55,9 @@ To appear as <https://doi.org/10.1145/3486897>
 preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
-[**10 Simple Rules for making a software tool workflow-ready**](https://zenodo.org/record/5636487/preview/10_simple_rules_for_making_a_software_tool_workflow-ready--PREPRINT.pdf)  
+[**10 Simple Rules for making a software tool workflow-ready**](https://zenodo.org/record/5901220/preview/brack-et-al-2022-10-Simple-Rules-for-making-a-software-tool-workflow-ready.pdf)  
 _PLOS Computational Biology_ (accepted)   
-[[preprint](https://doi.org/10.5281/zenodo.5636487)]
+[[preprint](https://doi.org/10.5281/zenodo.5901220)]
 
 ## 2021
 
