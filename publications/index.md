@@ -61,12 +61,14 @@ _PLOS Computational Biology_ (accepted)
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
 [**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.5281/zenodo.5727730).  
-_Data Intelligence_ (accepted) 
+_Data Intelligence_ **4**(2)  
 [[preprint](https://doi.org/10.5281/zenodo.5727730)]
+(In press, to appear as <https://doi.org/10.1162/dint_a_00135>)
 
 Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin Groom, Stuart Owen, Stian Soiland-Reyes (2022): 
 **The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**.
-_Data Intelligence_ (accepted)  **No preprint available**
+_Data Intelligence_ (accepted)  
+[[preprint](https://s11.no/2022/phd/specimen-data-refinery/)]
 
 ## 2021
 
