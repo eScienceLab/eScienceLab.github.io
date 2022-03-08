@@ -47,7 +47,6 @@ _Data Science_ (pre-press).
 <https://doi.org/10.3233/DS-210053>  
 [[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 
-
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2022):  
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://arxiv.org/pdf/2105.07028).  
 _Communications of the ACM_ (accepted).
@@ -61,15 +60,14 @@ _PLOS Computational Biology_ **18**(3):e1009823 (In press)
 (to appear as <https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
-[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.5281/zenodo.5727730).  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00135/1996729/dint_a_00135.pdf).  
 _Data Intelligence_ **4**(2)  
-[[preprint](https://doi.org/10.5281/zenodo.5727730)]
-(In press, to appear as <https://doi.org/10.1162/dint_a_00135>)
+<https://doi.org/10.1162/dint_a_00135>
 
 Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin Groom, Stuart Owen, Stian Soiland-Reyes (2022): 
-[**The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**](https://s11.no/2022/phd/specimen-data-refinery/).
-_Data Intelligence_ (accepted)  
-[[preprint](https://s11.no/2022/phd/specimen-data-refinery/)]
+[**The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**](https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00134/1996727/dint_a_00134.pdf).  
+_Data Intelligence_ **4**(2)  
+<https://doi.org/10.1162/dint_a_00134>
 
 ## 2021
 
