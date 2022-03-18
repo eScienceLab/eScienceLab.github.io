@@ -90,7 +90,7 @@ _Journal of Cognitive Psychology_ **33**(2)
 
 Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2021):  
 [**Exploring the Current Practices, Costs and Benefits of FAIR Implementation in Pharmaceutical Research and Development: A Qualitative Interview Study**]().  
-_Data Intelligence_ **3**(4):507–-527
+_Data Intelligence_ **3**(4):507–-527  
 <https://doi.org/10.1162/dint_a_00109>
 
 Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
