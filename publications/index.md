@@ -69,7 +69,24 @@ Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin 
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00134>
 
+Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, Samuel Guay, Owen N. Shahim, Gisela H. Govaart, Emma Norris, Aoife O’Mahony, Adam J. Parker, Ana Todorovic, Charlotte R. Pennington, Elias Garcia-Pelegrin, Aleksandra Lazić, Olly Robertson, Sara L. Middleton, Beatrice Valentini, Joanne McCuaig, Bradley J. Baker, Elizabeth Collins, Adrien A. Fillon, Tina B. Lonsdorf, Michele C. Lim, Norbert Vanek, Marton Kovacs, Timo B. Roettger, Sonia Rishi, Jacob F. Miranda, Matt Jaquiery, Suzanne L. K. Stewart, Valeria Agostini, Andrew J. Stewart, Kamil Izydorczak, Sarah Ashcroft-Jones, Helena Hartmann, Madeleine Ingham, Yuki Yamada, Martin R. Vasilev, Filip Dechterenko, Nihan Albayrak-Aydemir, Yu-Fang Yang, Annalise A. LaPlume, Julia K. Wolska, Emma L. Henderson, Mirela Zaneva, Benjamin G. Farrar, Ross Mounce, Tamara Kalandadze, Wanyin Li, Qinyu Xiao, Robert M. Ross, Siu Kit Yeung, Meng Liu, Micah L. Vandegrift, Zoltan Kekecs, Marta K. Topor, Myriam A. Baum, Emily A. Williams, Asma A. Assaneea, Amélie Bret, Aidan G. Cashin, Nick Ballou, Tsvetomira Dumbalska, Bettina M. J. Kern, Claire R. Melia, Beatrix Arendt, Gerald H. Vineyard, Jade S. Pickering, Thomas R. Evans, Catherine Laverty, Eliza A. Woodward, David Moreau, Dominique G. Roche, Eike M. Rinke, Graham Reid, Eduardo Garcia-Garzon, Steven Verheyen, Halil E. Kocalar, Ashley R. Blake, Jamie P. Cockcroft, Leticia Micheli, Brice Beffara Bret, Zoe M. Flack, Barnabas Szaszi, Markus Weinmann, Oscar Lecuona, Birgit Schmidt, William X. Ngiam, Ana Barbosa Mendes, Shannon Francis, Brett J. Gall, Mariella Paul, Connor T. Keating, Magdalena Grose-Hodge, James E. Bartlett, Bethan J. Iley, Lisa Spitzer, Madeleine Pownall, Christopher J. Graham, Tobias Wingen, Jenny Terry, Catia Margarida F. Oliveira, Ryan A. Millager, Kerry J. Fox, Alaa AlDoh, Alexander Hart, Olmo R. van den Akker, Gilad Feldman, Dominik A. Kiersz, Christina Pomareda, Kai Krautter, Ali H. Al-Hoorie, Balazs Aczel (2022):  
+**A community-sourced glossary of open scholarship terms**.  
+_Nature Human Behaviour_
+<https://doi.org/10.1038/s41562-021-01269-4>
+[[preprint](https://forrt.org/publications/Parsons_Azevedo_Elsherif_FORRT_Glossary_Community_Sourced_Glossary_Open_Scholarship_Terms.pdf)]
+
 ## 2021
+
+Andrew J. Stewart, Emily K. Farran, James A. Grange, Malcolm Macleod, Marcus Munafò, Phil Newton, David R. Shanks, the UKRN Institutional Leads (2021):  
+[**Improving research quality: the view from the UK Reproducibility Network institutional leads for research improvement**](https://doi.org/10.1186/s13104-021-05883-3).  
+_BMC Research Notes_ **14**:458.  
+<https://doi.org/10.1186/s13104-021-05883-3>
+
+Andrew J. Stewart, Henrik Singmann, Matthew Haigh, Jeffrey S. Wood, Igor Douven (2021):  
+[**Tracking the eye of the beholder: is explanation subjective?**](http://www.open-access.bcu.ac.uk/11478/1/eye_tracking.pdf).  
+_Journal of Cognitive Psychology_ **33**(2)  
+<https://doi.org/10.1080/20445911.2020.1870986>
+[[preprint](http://www.open-access.bcu.ac.uk/11478/)]
 
 Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2021):  
 [**Exploring the Current Practices, Costs and Benefits of FAIR Implementation in Pharmaceutical Research and Development: A Qualitative Interview Study**]().  
@@ -131,6 +148,11 @@ Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkins
 
 
 ## 2020
+
+Michelle Phillips, Andrew J. Stewart, J. Matthew Wilcoxson, Luke A. Jones, Emily Howard, Pip Willcox, Marcus du Sautoy, David De Roure (2020):  
+[**What Determines the Perception of Segmentation in Contemporary Music?**](https://doi.org/10.3389/fpsyg.2020.01001)
+_Frontiers in Psychology_ **11**:1001  
+<https://doi.org/10.3389/fpsyg.2020.01001>
 
 Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M Wimalaratne, Henning Hermjakob (2020):  
 [**Identifiers.org: Compact Identifier services in the cloud**](https://doi.org/10.1093/bioinformatics/btaa864).
