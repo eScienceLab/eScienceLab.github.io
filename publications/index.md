@@ -54,10 +54,9 @@ To appear as <https://doi.org/10.1145/3486897>
 preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
-[**10 Simple Rules for making a software tool workflow-ready**](https://zenodo.org/record/5901220/preview/brack-et-al-2022-10-Simple-Rules-for-making-a-software-tool-workflow-ready.pdf)  
-_PLOS Computational Biology_ **18**(3):e1009823 (In press)   
-[[preprint](https://doi.org/10.5281/zenodo.5901220)]
-(to appear as <https://doi.org/10.1371/journal.pcbi.1009823>
+[**10 Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823)  
+_PLOS Computational Biology_ **18**(3):e1009823
+<https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
 [**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00135/1996729/dint_a_00135.pdf).  
