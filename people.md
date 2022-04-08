@@ -34,6 +34,9 @@ staff:
   orcid: 0000-0002-5432-2748
   img: no-photo.png
   role: Research Associate
+- name: Gerard Capes  
+  role: Research Software Engineer
+  img: no-photo.png
 - name: Chris Child
   orcid: 0000-0003-0758-6908
   img: chris-child-sm.jpg
@@ -66,6 +69,10 @@ staff:
   orcid: 0000-0003-3156-2105
   img: alan-williams-sm.jpg
   role: Senior Research Software Engineer
+- name: Oliver Woolland
+  orcid: 0000-0002-4565-9760
+  img: oliver.jpeg  
+  role: Research Software Engineer
 
 phd:
 - name: Ebtisam Alharbi
