@@ -49,7 +49,7 @@ _Data Science_ (pre-press).
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2022):  
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://arxiv.org/pdf/2105.07028).  
-_Communications of the ACM_ (accepted).
+_Communications of the ACM_ **65**(6)  (in print).
 To appear as <https://doi.org/10.1145/3486897>  
 preprint: [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
