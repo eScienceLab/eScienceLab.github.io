@@ -59,12 +59,12 @@ _PLOS Computational Biology_ **18**(3):e1009823
 <https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
-[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00135/1996729/dint_a_00135.pdf).  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](<https://doi.org/10.1162/dint_a_00135).  
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00135>
 
 Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin Groom, Stuart Owen, Stian Soiland-Reyes (2022): 
-[**The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**](https://direct.mit.edu/dint/article-pdf/doi/10.1162/dint_a_00134/1996727/dint_a_00134.pdf).  
+[**The Specimen Data Refinery: A canonical workflow framework and FAIR Digital Object approach to speeding up digital mobilisation of natural history collections**](https://doi.org/10.1162/dint_a_00134).  
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00134>
 
@@ -94,7 +94,7 @@ _Journal of Cognitive Psychology_ **33**(2)
 [[preprint](http://www.open-access.bcu.ac.uk/11478/)]
 
 Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2021):  
-[**Exploring the Current Practices, Costs and Benefits of FAIR Implementation in Pharmaceutical Research and Development: A Qualitative Interview Study**]().  
+[**Exploring the Current Practices, Costs and Benefits of FAIR Implementation in Pharmaceutical Research and Development: A Qualitative Interview Study**](https://doi.org/10.1162/dint_a_00109).  
 _Data Intelligence_ **3**(4):507–-527  
 <https://doi.org/10.1162/dint_a_00109>
 
@@ -143,8 +143,8 @@ _EMBO Journal_ e107409
 <https://doi.org/10.15252/embj.2020107409>
 
 Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
-[**A Fresh Look at FAIR for Research Software**](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf).  
-[arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/ftp/arxiv/papers/2101/2101.10883.pdf)]
+[**A Fresh Look at FAIR for Research Software**](https://arxiv.org/pdf/2101.10883).  
+[arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/pdf/2101.10883)]
 
 
 ## 2020
