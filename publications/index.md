@@ -64,7 +64,7 @@ _PLOS Computational Biology_ **18**(3):e1009823
 <https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
-[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.1162/dint_a_00135).  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://s11.no/2022/phd/canonical-workflow-building-blocks/).  
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00135>
 
