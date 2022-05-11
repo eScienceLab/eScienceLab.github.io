@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
+[**Features of a FAIR vocabulary**](https://doi.org/10.21203/rs.3.rs-1465079/v1).  
+_ResearchSquare_ (Preprint version 1, under revision)  
+<https://doi.org/10.21203/rs.3.rs-1465079/v1>
+
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
 [**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
 _Data Science_ (pre-press).  
@@ -59,7 +64,7 @@ _PLOS Computational Biology_ **18**(3):e1009823
 <https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
-[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](<https://doi.org/10.1162/dint_a_00135).  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://doi.org/10.1162/dint_a_00135).  
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00135>
 
@@ -145,6 +150,16 @@ _EMBO Journal_ e107409
 Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
 [**A Fresh Look at FAIR for Research Software**](https://arxiv.org/pdf/2101.10883).  
 [arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/pdf/2101.10883)]
+
+Victor Chang, Carole Goble, Muthu Ramachandran, Lazarus Jegatha Deborah, Reinhold Behringer (2021):  
+[**Editorial on Machine Learning, AI and Big Data Methods and Findings for COVID-19**]().  
+_Information Systems Frontiers_ **23** pp. 1363–1367  
+<https://doi.org/10.1007/s10796-021-10216-7>
+
+Marek Ostaszewski, Anna Niarakis, Alexander Mazein, Inna Kuperstein, Robert Phair, Aurelio Orta-Resendiz, Vidisha Singh, Sara Sadat Aghamiri, Marcio Luis Acencio, Enrico Glaab, Andreas Ruepp, Gisela Fobo, Corinna Montrone, Barbara Brauner, Goar Frishman, Luis Cristóbal Monraz Gómez, Julia Somers, Matti Hoch, Shailendra Kumar Gupta, Julia Scheel, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Arnau Montagud, Miguel Ponce de Leon, Akira Funahashi, Yusuke Hiki, Noriko Hiroi, Takahiro G Yamada, Andreas Dräger, Alina Renz, Muhammad Naveez, Zsolt Bocskei, Francesco Messina, Daniela Börnigen, Liam Fergusson, Marta Conti, Marius Rameil, Vanessa Nakonecnij, Jakob Vanhoefer, Leonard Schmiester, Muying Wang, Emily E Ackerman, Jason E Shoemaker, Jeremy Zucker, Kristie Oxford, Jeremy Teuton, Ebru Kocakaya, Gökçe Yağmur Summak, Kristina Hanspers, Martina Kutmon, Susan Coort, Lars Eijssen, Friederike Ehrhart, Devasahayam Arokia Balaya Rex, Denise Slenter, Marvin Martens, Nhung Pham, Robin Haw, Bijay Jassal, Lisa Matthews, Marija Orlic-Milacic, Andrea Senff-Ribeiro, Karen Rothfels, Veronica Shamovsky, Ralf Stephan, Cristoffer Sevilla, Thawfeek Varusai, Jean-Marie Ravel, Rupsha Fraser, Vera Ortseifen, Silvia Marchesi, Piotr Gawron, Ewa Smula, Laurent Heirendt, Venkata Satagopam, Guanming Wu, Anders Riutta, Martin Golebiewski, Stuart Owen, Carole Goble, Xiaoming Hu, Rupert W Overall, Dieter Maier, Angela Bauch, Benjamin M Gyori, John A Bachman, Carlos Vega, Valentin Grouès, Miguel Vazquez, Pablo Porras, Luana Licata, Marta Iannuccelli, Francesca Sacco, Anastasia Nesterova, Anton Yuryev, Anita de Waard, Denes Turei, Augustin Luna, Ozgun Babur, Sylvain Soliman, Alberto Valdeolivas, Marina Esteban-Medina, Maria Peña-Chilet, Kinza Rian, Tomáš Helikar, Bhanwar Lal Puniya, Dezso Modos, Agatha Treveil, Marton Olbei, Bertrand De Meulder, Stephane Ballereau, Aurélien Dugourd, Aurélien Naldi, Vincent Noël, Laurence Calzone, Chris Sander, Emek Demir, Tamas Korcsmaros, Tom C Freeman, Franck Augé, Jacques S Beckmann, Jan Hasenauer, Olaf Wolkenhauer, Egon L Willighagen, Alexander R Pico, Chris T Evelo, Marc E Gillespie, Lincoln D Stein, Henning Hermjakob, Peter D'Eustachio, Julio Saez-Rodriguez, Joaquin Dopazo, Alfonso Valencia, Hiroaki Kitano, Emmanuel Barillot, Charles Auffray, Rudi Balling, Reinhard Schneider, the COVID-19 Disease Map Community (2021):  
+**COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**.  
+_Molecular Systems Biology_ **17**:e10387  
+<https://doi.org/10.15252/msb.202110387>
 
 
 ## 2020
