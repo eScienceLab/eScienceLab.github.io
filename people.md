@@ -30,17 +30,9 @@ staff:
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Software Developer
-- name: Paul Brack
-  orcid: 0000-0002-5432-2748
-  img: no-photo.png
-  role: Research Associate
 - name: Gerard Capes  
   role: Research Software Engineer
   img: no-photo.png
-- name: Chris Child
-  orcid: 0000-0003-0758-6908
-  img: chris-child-sm.jpg
-  role: Senior Research Software Engineer
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
@@ -86,6 +78,7 @@ phd:
 - name: Meznah Aloqalaa
   role: PhD Student
   img: meznah-sm.jpg
+  orcid: 0000-0002-1382-3896
 
 
 associate:
@@ -127,14 +120,16 @@ former:
 - name: Constantinos Astreos
 - name: Niall Beard
   orcid: 0000-0002-2627-0231
-  img: niall-beard-sm.jpg
-  role: Senior Research Software & Training Manager
 - name: Khalid Belhajjame
   orcid: 0000-0001-6938-0820
 - name: Jiten (Jits) Bhagat
 - name: Mark Borkum
+- name: Paul Brack
+  orcid: 0000-0002-5432-2748
 - name: Christian Y. A. Brenninkmeijer
   orcid: 0000-0002-2937-7819
+- name: Chris Child
+  orcid: 0000-0003-0758-6908
 - name: Tim Clark
   orcid: 0000-0003-4994-3803
 - name: Oscar Corcho
@@ -197,8 +192,6 @@ former:
   role: Community Officer
 - name: Natalie J. Stanford
   orcid: 0000-0003-4958-0184
-  img: natalie-stanford-sm.jpg
-  role: Research Community Manager, Data Scientist
 - name: Mannie Tagarira
 - name: Franck Tanohli
 - name: Lefteris Tatakis
