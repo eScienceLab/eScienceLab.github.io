@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
+[**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
+_Drug Discovery Today_ (in press)  
+<https://doi.org/10.1016/j.drudis.2022.05.010>
+
 Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
 [**Features of a FAIR vocabulary**](https://doi.org/10.21203/rs.3.rs-1465079/v1).  
 _ResearchSquare_ (Preprint version 1, under revision)  
