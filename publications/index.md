@@ -41,6 +41,12 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2022):  
+[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
+_Communications of the ACM_ **65**(6) 
+<https://doi.org/10.1145/3486897>  
+[arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
+
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
 _Drug Discovery Today_ (in press)  
@@ -56,12 +62,6 @@ Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Co
 _Data Science_ (pre-press).  
 <https://doi.org/10.3233/DS-210053>  
 [[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
-
-Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Carole Goble, CWL Community (2022):  
-[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
-_Communications of the ACM_ **65**(6) 
-<https://doi.org/10.1145/3486897>  
-[arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
 [**10 Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
