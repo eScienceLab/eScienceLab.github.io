@@ -97,19 +97,19 @@ _Research Data Alliance_
 
 ## 2021
 
-Rebecca Knowles, Bilal A. Mateen, Yo Yehudi (2021)
-[**We need to talk about the lack of investment in digital research infrastructure**](https://doi.org/10.1038/s43588-021-00048-5).
+Rebecca Knowles, Bilal A. Mateen, Yo Yehudi (2021):  
+[**We need to talk about the lack of investment in digital research infrastructure**](https://doi.org/10.1038/s43588-021-00048-5).  
 _Nature Computational Science_ **1**  
 <https://doi.org/10.1038/s43588-021-00048-5>
 
 Lukas Noehrer, Abigail Gilmore, Caroline Jay, Yo Yehudi  (2021):  
-[**The impact of COVID-19 on digital data practices in museums and art galleries in the UK and the US**](https://doi.org/10.1057/s41599-021-00921-8).
+[**The impact of COVID-19 on digital data practices in museums and art galleries in the UK and the US**](https://doi.org/10.1057/s41599-021-00921-8).  
 _Humanities and Social Sciences Communications_ **8**:236  
 <https://doi.org/10.1057/s41599-021-00921-8>
 
-Manuel Spitschan, Yo Yehudi, Laura Acion (2021):
-[**Video grant proposals could be exclusionary**](https://doi.org/10.1038/d41586-021-00862-x).
-_Nature_ **592**:26 (2021)
+Manuel Spitschan, Yo Yehudi, Laura Acion (2021):  
+[**Video grant proposals could be exclusionary**](https://doi.org/10.1038/d41586-021-00862-x).  
+_Nature_ **592**:26 (2021)  
 <https://doi.org/10.1038/d41586-021-00862-x>
 
 Andrew J. Stewart, Emily K. Farran, James A. Grange, Malcolm Macleod, Marcus Munafò, Phil Newton, David R. Shanks, the UKRN Institutional Leads (2021):  
@@ -192,16 +192,16 @@ _Molecular Systems Biology_ **17**:e10387
 
 Elsa Loissel, Emmy Tsang, Sandrine Müller, Julia Deathridge, Helena Pérez Valle, Yo Yehudi, Lucy Cheke (2020):  
 [**The experiences of those who support researchers struggling with their mental health**](https://elifesci.org/mental_health_report_download).  
-(Report)
+(Report)  
 <https://doi.org/10.17863/CAM.60247>
 
-Yo Yehudi, Kaitlin Stack Whitney, Malvika Sharan (2020):
-[**Enhancing the inclusivity and accessibility of your online calls**](https://doi.org/10.31219/osf.io/k3bfn)
-_OSF Preprints_ (Preprint)
+Yo Yehudi, Kaitlin Stack Whitney, Malvika Sharan (2020):  
+[**Enhancing the inclusivity and accessibility of your online calls**](https://doi.org/10.31219/osf.io/k3bfn)  
+_OSF Preprints_  
 <https://doi.org/10.31219/osf.io/k3bfn>
 
 Michelle Phillips, Andrew J. Stewart, J. Matthew Wilcoxson, Luke A. Jones, Emily Howard, Pip Willcox, Marcus du Sautoy, David De Roure (2020):  
-[**What Determines the Perception of Segmentation in Contemporary Music?**](https://doi.org/10.3389/fpsyg.2020.01001)
+[**What Determines the Perception of Segmentation in Contemporary Music?**](https://doi.org/10.3389/fpsyg.2020.01001)  
 _Frontiers in Psychology_ **11**:1001  
 <https://doi.org/10.3389/fpsyg.2020.01001>
 
