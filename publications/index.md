@@ -206,18 +206,18 @@ _Frontiers in Psychology_ **11**:1001
 <https://doi.org/10.3389/fpsyg.2020.01001>
 
 Manuel Bernal-Llinares, Javier Ferrer-Gómez, Nick Juty, Carole Goble, Sarala M Wimalaratne, Henning Hermjakob (2020):  
-[**Identifiers.org: Compact Identifier services in the cloud**](https://doi.org/10.1093/bioinformatics/btaa864).
-_Bioinformatics_ btaa864
+[**Identifiers.org: Compact Identifier services in the cloud**](https://doi.org/10.1093/bioinformatics/btaa864).  
+_Bioinformatics_ btaa864  
 <https://doi.org/10.1093/bioinformatics/btaa864>
 
 Niall Beard, Finn Bacall, Aleksandra Nenadic, Milo Thurston, Carole A Goble, Susanna-Assunta Sansone, Teresa K Attwood (2020):  
 [**TeSS: a platform for discovering life science training opportunities**](https://doi.org/10.1093/bioinformatics/btaa047).  
-_Bioinformatics_ **6**(10)
+_Bioinformatics_ **6**(10)  
 <https://doi.org/10.1093/bioinformatics/btaa047>
 
 Stephanie Walton, Laurence Livermore, Olaf Bánki, Robert W. N. Cubey, Robyn Drinkwater, Markus Englund, Carole Goble, Quentin Groom, Christopher Kermorvant, Isabel Rey, Celia M Santos, Ben Scott, Alan R. Williams, Zhengzhe Wu (2020):  
 [**Landscape Analysis for the Specimen Data Refinery**](https://doi.org/10.3897/rio.6.e57602).  
-_Research Ideas and Outcomes_ **6**:e57602
+_Research Ideas and Outcomes_ **6**:e57602  
 <https://doi.org/10.3897/rio.6.e57602>
 
 Charles Auffray, Rudi Balling, Niklas Blomberg, MYRNA BONALDO, Bertrand Boutron, Samir Brahmachari, Christian Bréchot, Alfredo Cesario, Sai-Juan Chen, Karine Clément, Daria Danilenko, Alberto Di Meglio, Andrea Gelemanovic, Carole Goble, Takashi Gojobori, Jason D Goldman, Michel Goldman, Yi-Ke Guo, James Heath, Leroy Hood, Peter Hunter, Li Jin, Hiroaki Kitano, Bartha Maria Knoppers, Doron Lancet, Catherine Larue, Mark Lathrop, Martine Laville, Ariel B Lindner, Antoine Magnan, Andres Metspalu, Edgar Morin, Lisa F.P. Ng, Laurent Nicod, Denis Noble, Laurent Nottale, Helga Nowotny, Theresa Ochoa, Iruna Okeke, Tolu Oni, Peter Openshaw, Mehmet Oztürk, Susanna Palkonen, Janusz Paweska, Christophe Pison, Mihael Polymeropoulos, Christian Pristipino, Ulrike Protzer, Josep Roca, Damjana Rozman, Marc Santolini, Ferran Sanz, Giovanni Scambia, Eran Segal, Ismail Serageldin, Marcelo Bento Soares, Peter Sterk, Sumio Sugano, Giulio Superti-Furga, David Supple, Jesper Tegnér, Mathias Uhlen, Andrea Urbani, Alfonso Valencia, Vincenzo Valentini, Sylvie van der Werf, Manlio Vinciguerra, Olaf Wolkenhauer, Emiel Wouters (2020):  
@@ -227,17 +227,17 @@ _SSRN Electronic Journal_
 
 Nick Juty, Sarala M. Wimalaratne, Stian Soiland-Reyes, John Kunze, Carole A. Goble, Tim Clark (2020):  
 [**Unique, Persistent, Resolvable: Identifiers as the foundation of FAIR**](https://doi.org/10.1162/dint_a_00025).  
-_Data Intelligence_ **2**(1):30–39
+_Data Intelligence_ **2**(1):30–39  
 <https://doi.org/10.1162/dint_a_00025>
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
 [**FAIR Computational Workflows**](https://doi.org/10.1162/dint_a_00033).  
-_Data Intelligence_  **2**(1):108–121
+_Data Intelligence_  **2**(1):108–121  
 <https://doi.org/10.1162/dint_a_00033>
 
 Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2020):  
 [**FAIR Principles: Interpretations and Implementation Considerations**](https://doi.org/10.1162/dint_r_00024).  
-_Data Intelligence_ **2**(1):10–29
+_Data Intelligence_ **2**(1):10–29  
 <https://doi.org/10.1162/dint_r_00024>
  
 Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin Del Pico, Victoria Dominguez Del Angel, Stephanie Van De Sandt, Jon Ison, Paula Andrea Martinez, Peter Mcquilton, Alfonso Valencia, Jennifer Harrow, Fotis Psomopoulos, Josep Ll. Gelpi, Neil Chue Hong, Carole Goble, Salvador Capella-Gutierrez (2020):  
@@ -247,12 +247,12 @@ _Data Science_ **3**(1) pp. 37–59.
  
 Paul Groth, Helena Cousijn, Tim Clark, Carole Goble (2020):  
 [**FAIR Data Reuse – the Path through Data Citation**](https://doi.org/10.1162/dint_a_00030).  
-_Data Intelligence_ **2**(1):78–86
+_Data Intelligence_ **2**(1):78–86  
 <https://doi.org/10.1162/dint_a_00030>
    
 Raja Mazumder, Vahan Simonyan (eds), IEEE P2791 BioCompute Working Group (BCOWG) (2020):   
-[**IEEE Standard for Bioinformatics Analyses Generated by High-Throughput Sequencing (HTS) to Facilitate Communication**](https://www.research.manchester.ac.uk/portal/en/publications/ieee-standard-for-bioinformatics-analyses-generated-by-highthroughput-sequencing-hts-to-facilitate-communication(936de52b-ac53-4f0e-9927-77fd7073e88d).html).
-_IEEE Std_ 2791-2020. IEEE SA Standards Board.
+[**IEEE Standard for Bioinformatics Analyses Generated by High-Throughput Sequencing (HTS) to Facilitate Communication**](https://www.research.manchester.ac.uk/portal/en/publications/ieee-standard-for-bioinformatics-analyses-generated-by-highthroughput-sequencing-hts-to-facilitate-communication(936de52b-ac53-4f0e-9927-77fd7073e88d).html).  
+_IEEE Std_ 2791-2020. IEEE SA Standards Board.  
 <https://doi.org/10.1109/IEEESTD.2020.9094416>
 
 
@@ -260,23 +260,24 @@ _IEEE Std_ 2791-2020. IEEE SA Standards Board.
 
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
 [**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
-_GigaScience_ **8**(11):giz095
+_GigaScience_ **8**(11):giz095  
 <https://doi.org/10.1093/gigascience/giz095>
 
 Pau Andrio, Adam Hospital, Javier Conejero, Luis Jordá, Marc Del Pino, Laia Codo, Stian Soiland-Reyes, Carole Goble, Daniele Lezzi, Rosa M. Badia, Modesto Orozco, Josep Ll. Gelpi (2019):  
 [**BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows**](https://doi.org/10.1038/s41597-019-0177-4).  
-_Scientific Data_ **6**:169 <https://doi.org/10.1038/s41597-019-0177-4>
+_Scientific Data_ **6**:169  
+<https://doi.org/10.1038/s41597-019-0177-4>
 
 Jon Ison, Hans Ienasescu, Piotr Chmura, Emil Rydza, Hervé Ménager, Matúš Kalaš, Veit Schwämmle, Björn Grüning, Niall Beard, Rodrigo Lopez, Severine Duvaud, Heinz Stockinger, Bengt Persson, Radka Svobodová Vařeková, Tomáš Raček, Jiří Vondrášek, Hedi Peterson, Ahto Salumets, Inge Jonassen, Rob Hooft, Tommi Nyrönen, Alfonso Valencia, Salvador Capella, Josep Gelpí, Federico Zambelli, Babis Savakis, Brane Leskošek, Kristoffer Rapacki, Christophe Blanchet, Rafael Jimenez, Arlindo Oliveira, Gert Vriend, Olivier Collin, Jacques van Helden, Peter Løngreen, Søren Brunak (2019):  
 [**The _bio.tools_ registry of software tools and data resources for the life sciences**](https://doi.org/10.1186/s13059-019-1772-6).  
-_Genome Biology_ **20**:164
+_Genome Biology_ **20**:164  
 <https://doi.org/10.1186/s13059-019-1772-6>
 
 John Van Horn, Sumiko Abe, José Luis Ambite, Teresa K. Attwood, Niall Beard, Louisa Bellis, Avnish Bhattrai, Alex Bui, Gully Burns, Lily Fierro, Jonathan Gordon,
 Jeffrey Grethe, Jeana Kamdar, Xiaoyu Lei, Kristina Lerman, Annette McGrath, Nicola Mulder, Caroline O'Driscoll, Crystal Stewart, Sonika Tyagi (2019):  
 [**Advancing the international data science workforce through shared training and education**](https://doi.org/10.12688/f1000research.18357.1).  
 [version 1; peer review: 1 approved, 1 approved with reservations].  
-_F1000Research_ **8**:251
+_F1000Research_ **8**:251  
 <https://doi.org/10.12688/f1000research.18357.1>
 
 ## 2018
@@ -303,12 +304,12 @@ _Scientific Data_ **5** 180029
 
 Pinar Alper, Khalid Belhajjame, Vasa Curcin, Carole A. Goble (2018):  
 [**LabelFlow Framework for Annotating Workflow Provenance**](https://doi.org/10.3390/informatics5010011).  
-_Informatics_ **5**(1) 11  
+_Informatics_ **5**(1):11  
 <https://doi.org/10.3390/informatics5010011>
 
 Gil Alterovitz, Dennis A Dean II, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Amanda Bell, Anais Hayes, Anita Suresh, Charles Hadley S King IV, Dan Taylor, KanakaDurga Addepalli, Elaine Johanson, Elaine E Thompson, Eric Donaldson, Hiroki Morizono, Hsinyi Tsang, Jeet K Vora, Jeremy Goecks, Jianchao Yao, Jonas S Almeida, Jonathon Keeney, KanakaDurga Addepalli, Konstantinos Krampis, Krista Smith, Lydia Guo, Mark Walderhaug, Marco Schito, Matthew Ezewudo, Nuria Guimera, Paul Walsh, Robel Kahsay, Srikanth Gottipati, Timothy C Rodwell, Toby Bloom, Yuching Lai, Vahan Simonyan, Raja Mazumder (2018):  
 [**Enabling Precision Medicine via standard communication of NGS provenance, analysis, and results**](https://doi.org/10.1371/journal.pbio.3000099).  
-_PLOS Biology._  **16**(12):e3000099  
+_PLOS Biology._ **16**(12):e3000099  
 <https://doi.org/10.1371/journal.pbio.3000099>
 ([bioXriv:191783](https://doi.org/10.1101/191783))
 
