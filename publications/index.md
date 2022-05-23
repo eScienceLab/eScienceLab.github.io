@@ -53,7 +53,7 @@ _Communications of the ACM_ **65**(6)
 [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
 Anne M. Treasure, Siobhan Mackenzie Hall, Igor Lesko, Derek Moore, Malvika Sharan, Menno van Zaanen, Yo Yehudi, Anelda van der Walt (2022):  
-**Ten simple rules for establishing a mentorship programme**.  
+[**Ten simple rules for establishing a mentorship programme**](https://doi.org/10.1371/journal.pcbi.1010015).  
 _PLOS Computational Biology_ **18**(5):e1010015  
 <https://doi.org/10.1371/journal.pcbi.1010015>
 
