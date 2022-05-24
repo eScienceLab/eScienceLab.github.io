@@ -41,10 +41,26 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Rachel Lyne, Adrián Bazaga, Daniela Butano, Sergio Contrino, Joshua Heimbach, Fengyuan Hu, Alexis Kalderimis, Mike Lyne, Kevin Reierskog, Radek Stepan, Julie Sullivan, Archie Wise, Yo Yehudi, Gos Micklem (2022):  
+[**HumanMine: advanced data searching, analysis and cross-species comparison**](https://doi.org/10.1101/2022.05.11.491545).  
+_bioRxiv_ 2022.05.11.491545  
+<https://doi.org/10.1101/2022.05.11.491545>
+
+Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
+[**Features of a FAIR vocabulary**](https://doi.org/10.21203/rs.3.rs-1465079/v1).  
+_ResearchSquare_ (Preprint version 1, under revision)  
+<https://doi.org/10.21203/rs.3.rs-1465079/v1>
+
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
 _Drug Discovery Today_ (in press)  
 <https://doi.org/10.1016/j.drudis.2022.05.010>
+
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
+[**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
+_Data Science_ (pre-press).  
+<https://doi.org/10.3233/DS-210053>  
+[[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):  
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
@@ -56,17 +72,6 @@ Anne M. Treasure, Siobhan Mackenzie Hall, Igor Lesko, Derek Moore, Malvika Shara
 [**Ten simple rules for establishing a mentorship programme**](https://doi.org/10.1371/journal.pcbi.1010015).  
 _PLOS Computational Biology_ **18**(5):e1010015  
 <https://doi.org/10.1371/journal.pcbi.1010015>
-
-Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
-[**Features of a FAIR vocabulary**](https://doi.org/10.21203/rs.3.rs-1465079/v1).  
-_ResearchSquare_ (Preprint version 1, under revision)  
-<https://doi.org/10.21203/rs.3.rs-1465079/v1>
-
-Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
-[**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
-_Data Science_ (pre-press).  
-<https://doi.org/10.3233/DS-210053>  
-[[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
 [**10 Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
