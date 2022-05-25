@@ -64,7 +64,7 @@ _Data Science_ (pre-press).
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):  
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
-_Communications of the ACM_ **65**(6) 
+_Communications of the ACM_ **65**(6)  
 <https://doi.org/10.1145/3486897>  
 [arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
 
@@ -75,7 +75,7 @@ _PLOS Computational Biology_ **18**(5):e1010015
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
 [**10 Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
-_PLOS Computational Biology_ **18**(3):e1009823
+_PLOS Computational Biology_ **18**(3):e1009823  
 <https://doi.org/10.1371/journal.pcbi.1009823>
 
 Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
@@ -95,8 +95,8 @@ _Nature Human Behaviour_
 [[preprint](https://forrt.org/publications/Parsons_Azevedo_Elsherif_FORRT_Glossary_Community_Sourced_Glossary_Open_Scholarship_Terms.pdf)]
 
 Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman; Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo; Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi, FAIR4RS WG (2022):  
-[**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf)
-_Research Data Alliance_
+[**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf).  
+_Research Data Alliance_  
 <https://doi.org/10.15497/RDA00068>
 
 
@@ -159,7 +159,7 @@ _2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](http
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
 [**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
-Extended abstract (submitted), _Zenodo_
+Extended abstract (submitted), _Zenodo_  
 <https://doi.org/10.5281/zenodo.4605654>
 
 Rudolf Wittner, Petr Holub, Heimo Müller, Jörg Geiger, Carole Goble, Stian Soiland-Reyes, Luca Pirredu, Francesca Frexia, Cecilia Mascia, Elliot Fairweather, Jason R. Swedlow, Josh Moore, Caterina Strambio, Gianluigi Zanetti, David Grunwald, Hiroki Nakae (2021):  
@@ -175,7 +175,7 @@ _PeerJ Computer Science_ **7**:e387
 
 Jennifer Harrow, John Hancock, ELIXIR‐EXCELERATE Community, Niklas Blomberg (2021):  
 [**ELIXIR‐EXCELERATE: establishing Europe's data infrastructure for the life science research of the future**](https://doi.org/10.15252/embj.2020107409).  
-_EMBO Journal_ e107409
+_EMBO Journal_ e107409  
 <https://doi.org/10.15252/embj.2020107409>
 
 Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
@@ -188,7 +188,7 @@ _Information Systems Frontiers_ **23** pp. 1363–1367
 <https://doi.org/10.1007/s10796-021-10216-7>
 
 Marek Ostaszewski, Anna Niarakis, Alexander Mazein, Inna Kuperstein, Robert Phair, Aurelio Orta-Resendiz, Vidisha Singh, Sara Sadat Aghamiri, Marcio Luis Acencio, Enrico Glaab, Andreas Ruepp, Gisela Fobo, Corinna Montrone, Barbara Brauner, Goar Frishman, Luis Cristóbal Monraz Gómez, Julia Somers, Matti Hoch, Shailendra Kumar Gupta, Julia Scheel, Hanna Borlinghaus, Tobias Czauderna, Falk Schreiber, Arnau Montagud, Miguel Ponce de Leon, Akira Funahashi, Yusuke Hiki, Noriko Hiroi, Takahiro G Yamada, Andreas Dräger, Alina Renz, Muhammad Naveez, Zsolt Bocskei, Francesco Messina, Daniela Börnigen, Liam Fergusson, Marta Conti, Marius Rameil, Vanessa Nakonecnij, Jakob Vanhoefer, Leonard Schmiester, Muying Wang, Emily E Ackerman, Jason E Shoemaker, Jeremy Zucker, Kristie Oxford, Jeremy Teuton, Ebru Kocakaya, Gökçe Yağmur Summak, Kristina Hanspers, Martina Kutmon, Susan Coort, Lars Eijssen, Friederike Ehrhart, Devasahayam Arokia Balaya Rex, Denise Slenter, Marvin Martens, Nhung Pham, Robin Haw, Bijay Jassal, Lisa Matthews, Marija Orlic-Milacic, Andrea Senff-Ribeiro, Karen Rothfels, Veronica Shamovsky, Ralf Stephan, Cristoffer Sevilla, Thawfeek Varusai, Jean-Marie Ravel, Rupsha Fraser, Vera Ortseifen, Silvia Marchesi, Piotr Gawron, Ewa Smula, Laurent Heirendt, Venkata Satagopam, Guanming Wu, Anders Riutta, Martin Golebiewski, Stuart Owen, Carole Goble, Xiaoming Hu, Rupert W Overall, Dieter Maier, Angela Bauch, Benjamin M Gyori, John A Bachman, Carlos Vega, Valentin Grouès, Miguel Vazquez, Pablo Porras, Luana Licata, Marta Iannuccelli, Francesca Sacco, Anastasia Nesterova, Anton Yuryev, Anita de Waard, Denes Turei, Augustin Luna, Ozgun Babur, Sylvain Soliman, Alberto Valdeolivas, Marina Esteban-Medina, Maria Peña-Chilet, Kinza Rian, Tomáš Helikar, Bhanwar Lal Puniya, Dezso Modos, Agatha Treveil, Marton Olbei, Bertrand De Meulder, Stephane Ballereau, Aurélien Dugourd, Aurélien Naldi, Vincent Noël, Laurence Calzone, Chris Sander, Emek Demir, Tamas Korcsmaros, Tom C Freeman, Franck Augé, Jacques S Beckmann, Jan Hasenauer, Olaf Wolkenhauer, Egon L Willighagen, Alexander R Pico, Chris T Evelo, Marc E Gillespie, Lincoln D Stein, Henning Hermjakob, Peter D'Eustachio, Julio Saez-Rodriguez, Joaquin Dopazo, Alfonso Valencia, Hiroaki Kitano, Emmanuel Barillot, Charles Auffray, Rudi Balling, Reinhard Schneider, the COVID-19 Disease Map Community (2021):  
-**COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**.  
+[**COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**](https://doi.org/10.15252/msb.202110387).  
 _Molecular Systems Biology_ **17**:e10387  
 <https://doi.org/10.15252/msb.202110387>
 
