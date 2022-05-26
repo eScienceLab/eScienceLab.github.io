@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
+[**COVID-19: An exploration of consecutive systemic barriers to pathogen-related data sharing during a pandemic**](https://arxiv.org/pdf/2205.12098).  
+_arXiv_ 2205.12098 [cs.CY] (preprint)  
+<https://doi.org/10.48550/arXiv.2205.12098>
+
 Rachel Lyne, Adrián Bazaga, Daniela Butano, Sergio Contrino, Joshua Heimbach, Fengyuan Hu, Alexis Kalderimis, Mike Lyne, Kevin Reierskog, Radek Stepan, Julie Sullivan, Archie Wise, Yo Yehudi, Gos Micklem (2022):  
 [**HumanMine: advanced data searching, analysis and cross-species comparison**](https://doi.org/10.1101/2022.05.11.491545).  
 _bioRxiv_ 2022.05.11.491545  
@@ -66,7 +71,7 @@ Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Ne
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
 _Communications of the ACM_ **65**(6)  
 <https://doi.org/10.1145/3486897>  
-[arXiv:2105.07028 [cs.DC]](https://arxiv.org/abs/2105.07028)
+[arXiv:2105.07028 [cs.DC]](https://doi.org/10.48550/arXiv.2105.07028)
 
 Anne M. Treasure, Siobhan Mackenzie Hall, Igor Lesko, Derek Moore, Malvika Sharan, Menno van Zaanen, Yo Yehudi, Anelda van der Walt (2022):  
 [**Ten simple rules for establishing a mentorship programme**](https://doi.org/10.1371/journal.pcbi.1010015).  
@@ -153,7 +158,7 @@ _Working Paper_. https://doi.org/10.5281/zenodo.5093125
 
 Rafael Ferreira da Silva, Henri Casanova, Kyle Chard, Ilkay Altintas, Rosa M Badia, Bartosz Balis, Tainã Coleman, Frederik Coppens, Frank Di Natale, Bjoern Enders, Thomas Fahringer, Rosa Filgueira, Grigori Fursin, Daniel Garijo, Carole Goble, Dorran Howell, Shantenu Jha, Daniel S. Katz, Daniel Laney, Ulf Leser, Maciej Malawski, Kshitij Mehta, Loïc Pottier, Jonathan Ozik, J. Luc Peterson, Lavanya Ramakrishnan, Stian Soiland-Reyes, Douglas Thain, Matthew Wolf (2021):  
 [**A Community Roadmap for Scientific Workflows Research and Development**](https://arxiv.org/pdf/2110.02168).  
-[arXiv:2110.02168 [cs.DC]](https://arxiv.org/abs/2110.02168)
+[arXiv:2110.02168 [cs.DC]](https://doi.org/10.48550/arXiv.2110.02168)
 _2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](https://works-workshop.org/))_, pp 81–90. 
 <https://doi.org/10.1109/WORKS54523.2021.00016>
 
@@ -180,7 +185,8 @@ _EMBO Journal_ e107409
 
 Daniel S. Katz, Morane Gruenpeter, Tom Honeyman, Lorraine Hwang, Mark D. Wilkinson, Vanessa Sochat, Hartwig Anzt, Carole Goble, FAIR4RS Subgroup 1 (2021):  
 [**A Fresh Look at FAIR for Research Software**](https://arxiv.org/pdf/2101.10883).  
-[arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/pdf/2101.10883)]
+[arXiv:2101.10883](https://arxiv.org/abs/2101.10883) [[pdf](https://arxiv.org/pdf/2101.10883)]  
+<https://doi.org/10.48550/arXiv.2101.10883>
 
 Victor Chang, Carole Goble, Muthu Ramachandran, Lazarus Jegatha Deborah, Reinhold Behringer (2021):  
 [**Editorial on Machine Learning, AI and Big Data Methods and Findings for COVID-19**]().  
