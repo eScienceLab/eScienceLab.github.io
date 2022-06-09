@@ -21,7 +21,7 @@ staff:
 - name: Andrew Stewart
   orcid: 0000-0002-9795-4104
   img: AndrewStewart.jpg
-  role: Senior Lecturer
+  role: Professor
 - name: Aitor Apaolaza
   orcid: 0000-0002-5530-6846
   img: aitor-apaolaza-sm.jpg
