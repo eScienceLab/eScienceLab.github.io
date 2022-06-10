@@ -4,7 +4,8 @@ title: Presentations
 ---
 
 
-
+## 2022
+* [The Software Sustainability Institute Community and Events](https://doi.org/10.6084/m9.figshare.20006468) (invited talk), [RSE Midlands Inaugural Meeting](https://rse-midlands.github.io/docs/event-8th-june/) - by Rachael Ainsworth, University of Birmingham, 8 June 2022
 
 
 ## 2021
