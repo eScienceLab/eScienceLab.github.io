@@ -33,7 +33,6 @@ Wide uptake of FAIR data principles and practices by national and European provi
 In order to build a web of FAIR data and related services FAIR-IMPACT will be supported by three coordination mechanisms:
 
 * a **Technical Bridging Team**, leading and ensuring the technical alignment between FAIR-IMPACT and other strategic initiatives in the framework of the European Open Science Cloud (namely [FAIRCore4EOSC](https://www.openaire.eu/faircore4eosc-project), [EOSC Future](https://eoscfuture.eu/) and the [EOSC Association](https://eosc.eu/));
-
 * a **FAIR Implementation Team**, supporting adoption and implementation of FAIR-enabling practices, policies, tools or technical specifications;
 * the **Synchronisation Force**, built on the successful Synchronisation Force series from the FAIRsFAIR project, in charge of establishing a dialogue among the various projects, initiatives and actors in both EOSC and FAIR ecosystems. to reduce redundancy and ensure that solutions are more widely promoted, sustainable and can be transferred to the relevant EOSC Partnership and current and future EOSC stakeholders.
 
