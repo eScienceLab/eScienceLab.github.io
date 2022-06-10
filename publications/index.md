@@ -79,7 +79,7 @@ _PLOS Computational Biology_ **18**(5):e1010015
 <https://doi.org/10.1371/journal.pcbi.1010015>
 
 Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
-[**10 Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
+[**Ten Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
 _PLOS Computational Biology_ **18**(3):e1009823  
 <https://doi.org/10.1371/journal.pcbi.1009823>
 
