@@ -3,10 +3,11 @@ layout: post
 title:  "Solutions for FAIR Open Science in Europe: the FAIR-IMPACT project kicks-off"
 date:   2022-06-13 12:00:00 +0000
 categories: announcements projects
-published: false
 ---
 
 > The recently awarded FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project starts on 1st of June and gathers 28 partners from 11 countries.
+
+![FAIR-IMPACT](images/logo/FAIRImpact.png)
 
 ## EOSC and FAIR principles
 
@@ -40,9 +41,11 @@ By enabling the FAIR principles for EOSC across scientific communities, stakehol
 
 ## About the project
 
-[FAIR-IMPACT](http://fair-impact.eu/) _“Expanding FAIR solutions across EOSC”_ is funded by the European Commission Horizon Europe programme (HORIZON-INFRA-2021-EOSC-01-05 101057344). Coordinated by [DANS](https://dans.knaw.nl/) and supported by 27 additional partners from 11 countries, the project has officially started on the 1st of June 2022. 
+**FAIR-IMPACT** _“Expanding FAIR solutions across EOSC”_ is funded by the European Commission Horizon Europe programme (HORIZON-INFRA-2021-EOSC-01-05 101057344). Coordinated by [DANS](https://dans.knaw.nl/) and supported by 27 additional partners from 11 countries, the project has officially started on the 1st of June 2022. 
 
 FAIR-IMPACT will build on the successful practices, policies, tools and technical specifications arising from [FAIRsFAIR](https://www.fairsfair.eu/), other H2020 projects and initiatives, and from the FAIR and other relevant Working Groups of the former EOSC Executive Board. 
+
+![Graphics: Coordination mechanisms, Target Stakeholders, Key Results and Collaboration Mechanisms](/images/posts_images/2022-06-13-fairimpact.png)
 
 ### eScienceLab in FAIR-IMPACT
 
