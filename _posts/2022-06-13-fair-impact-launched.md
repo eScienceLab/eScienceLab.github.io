@@ -41,7 +41,7 @@ By enabling the FAIR principles for EOSC across scientific communities, stakehol
 
 ## About the project
 
-**FAIR-IMPACT** _“Expanding FAIR solutions across EOSC”_ is funded by the European Commission Horizon Europe programme (HORIZON-INFRA-2021-EOSC-01-05 101057344). Coordinated by [DANS](https://dans.knaw.nl/) and supported by 27 additional partners from 11 countries, the project has officially started on the 1st of June 2022. 
+[**FAIR-IMPACT**](https://esciencelab.org.uk/projects/fair-impact/) _“Expanding FAIR solutions across EOSC”_ is funded by the European Commission Horizon Europe programme (HORIZON-INFRA-2021-EOSC-01-05 101057344). Coordinated by [DANS](https://dans.knaw.nl/) and supported by 27 additional partners from 11 countries, the project has officially started on the 1st of June 2022. 
 
 FAIR-IMPACT will build on the successful practices, policies, tools and technical specifications arising from [FAIRsFAIR](https://www.fairsfair.eu/), other H2020 projects and initiatives, and from the FAIR and other relevant Working Groups of the former EOSC Executive Board. 
 
