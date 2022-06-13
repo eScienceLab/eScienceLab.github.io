@@ -7,7 +7,7 @@ categories: announcements projects
 
 > The recently awarded FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project starts on 1st of June and gathers 28 partners from 11 countries.
 
-![FAIR-IMPACT](images/logo/FAIRImpact.png)
+![FAIR-IMPACT](/images/logo/FAIRImpact.png)
 
 ## EOSC and FAIR principles
 
