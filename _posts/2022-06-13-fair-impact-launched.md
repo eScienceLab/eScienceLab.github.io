@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solutions for FAIR Open Science in Europe: the FAIR-IMPACT project kicks-off"
-date:   2022-06-13 12:00:00 +0000
+date:   2022-06-13 11:59:00 +0100
 categories: announcements projects
 ---
 
