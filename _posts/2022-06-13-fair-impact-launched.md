@@ -45,7 +45,7 @@ By enabling the FAIR principles for EOSC across scientific communities, stakehol
 
 FAIR-IMPACT will build on the successful practices, policies, tools and technical specifications arising from [FAIRsFAIR](https://www.fairsfair.eu/), other H2020 projects and initiatives, and from the FAIR and other relevant Working Groups of the former EOSC Executive Board. 
 
-![Graphics: Coordination mechanisms, Target Stakeholders, Key Results and Collaboration Mechanisms](/images/posts_images/2022-06-13-fairimpact.png)
+[![Graphics: Coordination mechanisms, Target Stakeholders, Key Results and Collaboration Mechanisms](/images/posts_images/2022-06-13-fairimpact.png)](/projects/fair-impact/)
 
 ### eScienceLab in FAIR-IMPACT
 
