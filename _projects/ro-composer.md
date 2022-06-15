@@ -14,7 +14,8 @@ description:
 website: https://github.com/ResearchObject/research-object-composer
 start_date: 2018-08-01
 duration: 12 months
-#project_reference: https://projectreporter.nih.gov/project_info_details.cfm?aid=9732880&icde=44591431
+project_reference: https://reporter.nih.gov/project-details/9732880
+expirted: true
 ---
 
 eScience Lab is a subcontractor to Elsevier [Mendeley Data](https://data.mendeley.com/) to develop the [Research Object Composer](https://github.com/ResearchObject/research-object-composer) and consult on [Research Object](/products/researchobject/) structure, building on our existing collaboration with Seven Bridges in the [Common Workflow Language](/activities/cwl/) project.

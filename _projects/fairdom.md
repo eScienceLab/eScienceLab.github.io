@@ -7,9 +7,11 @@ collection: projects
 description: Data and model management service facility for Systems Biology
 logo: fairdom.png
 website: http://fair-dom.org
-start_date: 2014-11-1
-duration:
-project_reference: http://www.bbsrc.ac.uk/research/grants/grants/AwardDetails.aspx?FundingReference=BB/M013189/1
+start_date: 2014-11-01
+end_date: 2020-04-30
+duration: 66 months
+expired: true
+project_reference: https://gow.bbsrc.ukri.org/grants/AwardDetails.aspx?FundingReference=BB/M013189/1
 ---
 
 FAIRDOM is a joint action of ERA-Net

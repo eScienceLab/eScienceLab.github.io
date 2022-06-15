@@ -6,7 +6,7 @@ collection: projects
 description: Webservices for comparative genomics
 logo: efungi_logo.jpg
 website: http://www.cs.man.ac.uk/~cornell/eFungi/
-start_date: 2004-10-1
+start_date: 2004-10-01
 duration: 46 months
 project_reference:
 expired: true

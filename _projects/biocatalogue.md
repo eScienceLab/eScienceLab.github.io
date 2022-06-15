@@ -13,11 +13,9 @@ project_reference:
 expired: true
 ---
 
-The BioCatalogue is a registry of life sciences Web Services and an open platform for Web Services registration, annotation and monitoring.
-
+The BioCatalogue was a registry of life sciences Web Services and an open platform for Web Services registration, annotation and monitoring.
 
 The BioCatalogue:
-
 
 - provides a single registration point for Web Service providers and a single search site for scientists and developers,
 - provides a curated catalogue of life science Web Services,

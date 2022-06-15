@@ -8,7 +8,8 @@ description: Tools and guidelines for making life science data FAIR
 logo: fairplus-logo.png
 website: https://fairplus-project.eu/
 start_date: 2019-01-01
-duration: 42 months
+end_date: 2022-12-31
+duration: 48 months
 project_reference: https://cordis.europa.eu/project/id/802750
 ---
 

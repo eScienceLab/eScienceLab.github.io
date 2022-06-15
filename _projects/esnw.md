@@ -6,10 +6,10 @@ collection: projects
 description: Centre for Collaborative Multidisciplinary e-Research in the North West
 logo:
 website:
-start_date: 2007-3-1
+start_date: 2007-03-10
 duration: 36 months
-project_reference: http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D057248/1
-expired: true
+project_reference: https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/D057248/1
+expired: true 
 ---
 
 The ESNW : A Centre for Collaborative Multidisciplinary e-Research in the North West project is building a centre for collaborative multidisciplinary

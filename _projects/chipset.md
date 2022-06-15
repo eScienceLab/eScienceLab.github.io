@@ -6,14 +6,13 @@ path: chipset.html
 collection: projects
 description: Community Health Intelligence Partnership Semantic Epidemiology Toolkit
 logo: farr.png
-website: http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html
 start_date:
 duration:
 project_reference: 
 expired: true
 ---
 
-The CHIP-SET project](http://web.archive.org/web/20151024060946/http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html) was part of the [Farr Institute of Health
+The [CHIP-SET project](http://web.archive.org/web/20151024060946/http://www.farrinstitute.org/centre/HeRC/67_EInfrastructure.html) was part of the [Farr Institute of Health
 Informatics Research](http://www.farrinstitute.org) e-infrastructure working group].
 
 CHIP-SET aimed to extend the electronic laboratory (e-Lab) concept and software to

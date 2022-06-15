@@ -8,7 +8,7 @@ description: ELIXIR-Converge builds sustainable life science data management ser
 logo: elixir_converge_logo.png
 website: https://elixir-europe.org/about-us/how-funded/eu-projects/converge
 start_date: 2020-02-01
-duration: 36 months
+duration: 42 months
 project_reference: https://cordis.europa.eu/project/id/871075
 ---
 

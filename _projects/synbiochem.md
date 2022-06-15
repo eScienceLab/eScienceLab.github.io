@@ -7,7 +7,7 @@ collection: projects
 description: Manchester Synthetic Biology Research Centre for Fine and Specialty Chemicals
 logo: synbiochem.png
 website: http://www.synbiochem.co.uk
-start_date: 2015-6-11
+start_date: 2015-06-11
 duration: 60 months
 project_reference: http://www.bbsrc.ac.uk/research/grants-search/AwardDetails.aspx?FundingReference=BB/M017702/1
 ---
