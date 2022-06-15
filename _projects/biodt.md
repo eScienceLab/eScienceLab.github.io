@@ -1,6 +1,6 @@
 ---
 layout: project
-name: biodt
+name: BioDT
 title: biodt
 path: biodt.html
 collection: projects
