@@ -47,6 +47,8 @@ FAIR-IMPACT will build on the successful practices, policies, tools and technica
 
 [![Graphics: Coordination mechanisms, Target Stakeholders, Key Results and Collaboration Mechanisms](/images/posts_images/2022-06-13-fairimpact.png)](/projects/fair-impact/)
 
+_Adapted from press release <>_
+
 ### eScienceLab in FAIR-IMPACT
 
 The [eScience Lab](https://esciencelab.org.uk/) at the Department of Computer Science of The University of Manchester is participating in FAIR-IMPACT, contributing expertise on sharing [Research Objects](/products/researchobject/) using Linked Data with [RO-Crate](https://www.researchobject.org/ro-crate/) and [Bioschemas](/activities/bioschemas/).
