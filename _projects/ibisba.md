@@ -11,6 +11,7 @@ project_reference: https://cordis.europa.eu/projects/730976
 start_date: 2017-12-01
 end_date: 2021-11-30
 duration: 4 years
+expired: true
 ---
 
 The _Industrial Biotechnology Innovation and Synthetic Biology Accelerator_ ([IBISBA 1.0](https://www.ibisba.eu/)) is funded as part of [H2020 INFRAIA-02](https://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraia-02-2017.html).
@@ -29,8 +30,7 @@ Transnational access will be facilitated by an ambition _outreach plan_ that wil
 
 **Interoperability** will be a focus of considerable attention, with actions directed towards harmonization and the implementation of repeatable working practices that integrate experimentation with data analysis, and data management, thus providing the basis for the sharing and reuse of data assets in a framework of Open Science.
 
-
-
+Work from IBISBA 1.0 continues in the project [PREP-IBISBA](prep-ibisba.md).
 
 ## eScience Lab contributions
 
