@@ -72,6 +72,8 @@ Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Ne
 _Communications of the ACM_ **65**(6)  
 <https://doi.org/10.1145/3486897>  
 [arXiv:2105.07028 [cs.DC]](https://doi.org/10.48550/arXiv.2105.07028)
+[[pdf](https://www.research.manchester.ac.uk/portal/files/218742952/3486897.pdf)]
+[[html](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext)]
 
 Anne M. Treasure, Siobhan Mackenzie Hall, Igor Lesko, Derek Moore, Malvika Sharan, Menno van Zaanen, Yo Yehudi, Anelda van der Walt (2022):  
 [**Ten simple rules for establishing a mentorship programme**](https://doi.org/10.1371/journal.pcbi.1010015).  
