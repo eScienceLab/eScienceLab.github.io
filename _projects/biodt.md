@@ -1,7 +1,7 @@
 ---
 layout: project
 name: BioDT
-title: biodt
+title: BioDT
 path: biodt.html
 collection: projects
 description: Biodiversity Digital Twin
