@@ -23,8 +23,8 @@ Funded by Horizon Europe call [HORIZON-INFRA-2021-TECH-01-01](https://ec.europa.
 eScience Lab is involved in BioDT to contribute expertise on [FAIR Computational Workflows](https://workflows.community/groups/fair/), [RO-Crate](https://w3id.org/ro/crate), [WorkflowHub](/products/workflowhub/) and [FAIR Digital Objects](https://fairdo.org/). Contributions include:
 
 * WP5: Improving Quality of Data, Workflows and Models through FAIR Principles
-  - Task 5.4: Supporting FAIR workflows and models (M1-M36) (lead: UNIMAN)
-  - D5.1: Pilot Service to open up FAIR semantic mappings for FDO (M24)
-  - D5.2: Pilot integration of workflows and data products organised through FDO with common community workflows and data products used within the RIs (M34)
+  - Task 5.4: Supporting FAIR workflows and models (lead: UNIMAN)
+  - D5.1: Pilot Service to open up FAIR semantic mappings for FDO 
+  - D5.2: Pilot integration of workflows and data products organised through FDO with common community workflows and data products used within the RIs
 * WP6: Simulation, Modelling and Data Analytics
 
