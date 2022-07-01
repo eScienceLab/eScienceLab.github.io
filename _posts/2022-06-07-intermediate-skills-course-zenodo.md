@@ -1,4 +1,11 @@
-The SSI has officially published the beta release of the [Intermediate Research Software Development Skills In Python course](https://carpentries-incubator.github.io/python-intermediate-development/) on [Zenodo](https://zenodo.org/record/6532057#.Ynkb4dPMKX0). 
+---
+layout: post
+title:  "pro-iBiosphere agree on BiodiversityCatalogue"
+date:   2014-06-09 11:10:47 +0000
+categories: announcements biodiversitycatalogue
+---
+
+The [Software Sustainability Institute](https://software.ac.uk) has officially published the beta release of the [Intermediate Research Software Development Skills In Python course](https://carpentries-incubator.github.io/python-intermediate-development/) on [Zenodo](https://zenodo.org/record/6532057#.Ynkb4dPMKX0). 
 This release is now ready to be taught by other instructors from The Carpentries community or anyone with the relevant expertise.
 
 The lesson teaches intermediate-level software development skills in a way that mimics a typical software development process in a team, 
