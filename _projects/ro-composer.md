@@ -1,21 +1,15 @@
 ---
 layout: project
-#name: datastage
 name: ro-composer
-tile: Research Object Composer
-#title: DataSTAGE FAIR4CURES
-#path: datastage.html
+title: Research Object Composer
 path: ro-composer.html
 collection: projects
-#description: Storage, Toolspace, Access and analytics for Big Data Empowerment
 description: 
-#logo: datastage.png
-#website: https://datastage.io/
 website: https://github.com/ResearchObject/research-object-composer
 start_date: 2018-08-01
 duration: 12 months
 project_reference: https://reporter.nih.gov/project-details/9732880
-expirted: true
+expired: true
 ---
 
 eScience Lab is a subcontractor to Elsevier [Mendeley Data](https://data.mendeley.com/) to develop the [Research Object Composer](https://github.com/ResearchObject/research-object-composer) and consult on [Research Object](/products/researchobject/) structure, building on our existing collaboration with Seven Bridges in the [Common Workflow Language](/activities/cwl/) project.

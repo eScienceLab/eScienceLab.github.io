@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "pro-iBiosphere agree on BiodiversityCatalogue"
-date:   2014-06-09 11:10:47 +0000
-categories: announcements biodiversitycatalogue
+title:  "Beta release of SSI's Intermediate Research Software Development Skills course"
+date:   2022-06-07 11:10:47 +0000
+categories: announcements
 ---
 
 The [Software Sustainability Institute](https://software.ac.uk) has officially published the beta release of the [Intermediate Research Software Development Skills In Python course](https://carpentries-incubator.github.io/python-intermediate-development/) on [Zenodo](https://zenodo.org/record/6532057#.Ynkb4dPMKX0). 
