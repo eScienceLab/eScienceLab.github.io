@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "pro-iBiosphere agree on BiodiversityCatalogue"
-date:   2014-06-09 11:10:47 +0000
+title:  "Beta release of SSI's Intermediate Research Software Development Skills course published"
+date:   2022-06-07 11:10:47 +0000
 categories: announcements biodiversitycatalogue
 ---
 
