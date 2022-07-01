@@ -1,15 +1,13 @@
 ---
-layout: project
+layout: product
 name: biocatalogue
 title: BioCatalogue
-path: biocatalogue.html
-collection: projects
+path: Biocatalogue
+collection: products
 description: Curated catalogue of life sciences Web services
-logo: biocatalogue.png
-start_date:
-duration:
-project_reference:
-expired: true
+logo: /images/logo/biocatalogue.png
+screenshot: /images/screenshots/sm_biocatalogue.png
+wiki: https://wikipedia.org/wiki/BioCatalogue
 ---
 The BioCatalogue was a registry of life sciences Web Services and an open platform for Web Services registration, annotation and monitoring. **The BioCatalogue website has been retired.**
 
