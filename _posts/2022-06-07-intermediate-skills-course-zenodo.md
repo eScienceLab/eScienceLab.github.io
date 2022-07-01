@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beta release of SSI's Intermediate Research Software Development Skills course published"
+title:  "Beta release of SSI's Intermediate Research Software Development Skills course"
 date:   2022-06-07 11:10:47 +0000
 categories: announcements
 ---
