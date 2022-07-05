@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
+[**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
+_Drug Discovery Today_ **27**(8)
+<https://doi.org/10.1016/j.drudis.2022.05.010>
+
 Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
 [**COVID-19: An exploration of consecutive systemic barriers to pathogen-related data sharing during a pandemic**](https://arxiv.org/pdf/2205.12098).  
 _arXiv_ 2205.12098 [cs.CY] (preprint)  
@@ -56,11 +61,6 @@ Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot 
 _ResearchSquare_ (Preprint version 1, under revision)  
 <https://doi.org/10.21203/rs.3.rs-1465079/v1>
 
-Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
-[**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
-_Drug Discovery Today_ (in press)  
-<https://doi.org/10.1016/j.drudis.2022.05.010>
-
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
 [**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
 _Data Science_ (pre-press).  
@@ -68,11 +68,11 @@ _Data Science_ (pre-press).
 [[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):  
-[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext).  
+[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](http://cacm.acm.org/magazines/2022/6/261172/fulltext?doi=10.1145%2F3486897).  
 _Communications of the ACM_ **65**(6)  
 <https://doi.org/10.1145/3486897>  
 [arXiv:2105.07028 [cs.DC]](https://doi.org/10.48550/arXiv.2105.07028)
-[[pdf](https://www.research.manchester.ac.uk/portal/files/218742952/3486897.pdf)]
+[[pdf](https://cacm.acm.org/magazines/2022/6/261172-methods-included/pdf)]
 [[html](https://cacm.acm.org/magazines/2022/6/261172-methods-included/fulltext)]
 
 Anne M. Treasure, Siobhan Mackenzie Hall, Igor Lesko, Derek Moore, Malvika Sharan, Menno van Zaanen, Yo Yehudi, Anelda van der Walt (2022):  
