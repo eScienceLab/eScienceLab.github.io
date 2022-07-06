@@ -156,13 +156,14 @@ _F1000Research_ **10**:897
 
 Petr Holub, Rudolf Wittner, Cecilia Mascia, Francesca Frexia, Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman, Melanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, Katrina Exter, Elliot Fairweather, Carole Goble, Martin Golebiewski, Bron Kisler, Andreas Kremer, Sheng Lin-Gibson, Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae, Isabelle Perseil, Ayat Salman, James Sluka, Stian Soiland-Reyes, Caterina Strambio-De-Castillia, Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2021):  
 [**Towards a Common Standard for Data and Specimen Provenance in Life Sciences**](https://doi.org/10.5281/zenodo.5093125).  
-_Working Paper_. https://doi.org/10.5281/zenodo.5093125 
+_Working Paper_.  
+<https://doi.org/10.5281/zenodo.5093125>
 
 Rafael Ferreira da Silva, Henri Casanova, Kyle Chard, Ilkay Altintas, Rosa M Badia, Bartosz Balis, Tainã Coleman, Frederik Coppens, Frank Di Natale, Bjoern Enders, Thomas Fahringer, Rosa Filgueira, Grigori Fursin, Daniel Garijo, Carole Goble, Dorran Howell, Shantenu Jha, Daniel S. Katz, Daniel Laney, Ulf Leser, Maciej Malawski, Kshitij Mehta, Loïc Pottier, Jonathan Ozik, J. Luc Peterson, Lavanya Ramakrishnan, Stian Soiland-Reyes, Douglas Thain, Matthew Wolf (2021):  
 [**A Community Roadmap for Scientific Workflows Research and Development**](https://arxiv.org/pdf/2110.02168).  
-[arXiv:2110.02168 [cs.DC]](https://doi.org/10.48550/arXiv.2110.02168)
-_2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](https://works-workshop.org/))_, pp 81–90. 
+_2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](https://works-workshop.org/))_, pp 81–90.  
 <https://doi.org/10.1109/WORKS54523.2021.00016>
+[arXiv:2110.02168 [cs.DC]](https://doi.org/10.48550/arXiv.2110.02168)
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
 [**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
@@ -177,7 +178,7 @@ _Lecture Notes in Computer Science_ **12839**
 
 Tobias Kuhn, Vincent Emonet, Haris Antonatos, Stian Soiland-Reyes, Michel Dumontier (2021):  
 [**Semantic micro-contributions with decentralized nanopublication services**](https://doi.org/10.7717/peerj-cs.387).  
-_PeerJ Computer Science_ **7**:e387
+_PeerJ Computer Science_ **7**:e387  
 <https://doi.org/10.7717/peerj-cs.387>
 
 Jennifer Harrow, John Hancock, ELIXIR‐EXCELERATE Community, Niklas Blomberg (2021):  
@@ -513,7 +514,7 @@ _CEUR_ **1686**(15)
 
 Peter Amstutz, Michael R. Crusoe, Nebojša Tijanić (editors), Brad Chapman, John Chilton, Michael Heuer, Andrey Kartashov, Dan Leehr, Hervé Ménager, Maya Nedeljkovich, Matt Scales, Stian Soiland-Reyes, Luka Stojanovic (2016):  
 **Common Workflow Language, v1.0**  
-Specification, _Common Workflow Language working group_. 
+Specification, _Common Workflow Language working group_.  
 [https://w3id.org/cwl/v1.0/](https://w3id.org/cwl/v1.0/)
 [https://doi.org/10.6084/m9.figshare.3115156.v2](https://doi.org/10.6084/m9.figshare.3115156.v2)
 
@@ -522,31 +523,32 @@ Specification, _Common Workflow Language working group_.
 
 Katherine Wolstencroft, Stuart Owen, Olga Krebs, Quyen Nguyen, Natalie J Stanford, Martin Golebiewski, Andreas Weidemann, Meik Bittkowski, Lihua An, David Shockley, Jacky L Snoep, Wolfgang Mueller, Carole Goble (2015):  
 **SEEK: a systems biology data and model management platform**.  
-_BMC Systems Biology_ 20, **9**:33 [https://doi.org/10.1186/s12918-015-0174-y](https://doi.org/10.1186/s12918-015-0174-y)
+_BMC Systems Biology_ 20, **9**:33  
+<https://doi.org/10.1186/s12918-015-0174-y>
 
 Natalie J Stanford, Katherine Wolstencroft, Martin Golebiewski, Renate Kania, Nick Juty, Christopher Tomlinson, Stuart Owen, Sarah Butcher, Henning Hermjakob, Nicolas Le Novère, Wolfgang Mueller, Jacky Snoep, Carole Goble (2015):  
 **The evolution of standards and data management practices in systems biology**.  
-_Molecular Systems Biology_ **11**:851
-[https://doi.org/10.15252/msb.20156053](https://doi.org/10.15252/msb.20156053)
+_Molecular Systems Biology_ **11**:851  
+<https://doi.org/10.15252/msb.20156053>
 
 Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):  
 **Framing the community data system interface**.  
 _BCS HCI 2015: Proceedings of the 2015 British HCI Conference_: pp 269-270
-[https://doi.org/10.1145/2783446.2783605](https://doi.org/10.1145/2783446.2783605)
+<https://doi.org/10.1145/2783446.2783605>
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:274873&datastreamId=FULL-TEXT.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:274873)
 
 Aleksandra Pawlik, Judith Segal, Helen Sharp, Marian Petre (2015):  
 **Crowdsourcing Scientific Software Documentation: A Case Study of the NumPy documentation project**.  
- _Computing in Science & Engineering_, **17** (1),  January/February 2015.
-[https://doi.org/10.1109/MCSE.2014.93](https://doi.org/10.1109/MCSE.2014.93)
+ _Computing in Science & Engineering_, **17** (1),  January/February 2015.  
+<https://doi.org/10.1109/MCSE.2014.93>
 [[preprint]](http://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/T-06879046.pdf)
 
 Jinhui Yao, Wei Tan, Surya Nepal, Shiping Chen, Jia Zhang, David De Roure, Carole Goble
 (2015):  
 **ReputationNet: Reputation-Based Service Recommendation for e-Science**.  
-_IEEE Transactions on Services Computing_ **8**(3)
-[https://doi.org/10.1109/TSC.2014.2364029](https://doi.org/10.1109/TSC.2014.2364029)
+_IEEE Transactions on Services Computing_ **8**(3)  
+<https://doi.org/10.1109/TSC.2014.2364029>
 [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/ReputationNet.pdf)
 [[researchgate]](https://www.researchgate.net/publication/272821108_ReputationNet_Reputation-Based_Service_Recommendation_for_e-Science)
 
