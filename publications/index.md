@@ -167,7 +167,7 @@ _2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](http
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
 [**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
-Extended abstract (submitted), _Zenodo_  
+_Zenodo_  
 <https://doi.org/10.5281/zenodo.4605654>
 
 Rudolf Wittner, Petr Holub, Heimo Müller, Jörg Geiger, Carole Goble, Stian Soiland-Reyes, Luca Pirredu, Francesca Frexia, Cecilia Mascia, Elliot Fairweather, Jason R. Swedlow, Josh Moore, Caterina Strambio, Gianluigi Zanetti, David Grunwald, Hiroki Nakae (2021):  
