@@ -63,7 +63,7 @@ _ResearchSquare_ (Preprint version 1, under revision)
 
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
 [**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
-_Data Science_ (pre-press).  
+_Data Science_ **5**(2)  
 <https://doi.org/10.3233/DS-210053>  
 [[RO-Crate]](https://w3id.org/ro/doi/10.5281/zenodo.5146227)  
 
