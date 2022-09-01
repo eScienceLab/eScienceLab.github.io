@@ -45,7 +45,7 @@ which is particularly useful for long author lists or long titles.
 
 Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland (2022):  
 [**The Specimen Data Refinery: Using a scientific workflow approach for information extraction**](https://doi.org/10.3897/biss.6.93500)
-_Biodiversity Information Science and Standards_ **6**:e93500
+_Biodiversity Information Science and Standards_ **6**:e93500  
 <https://doi.org/10.3897/biss.6.93500>
 
 Ebitsam Alharbi (2022):  
@@ -60,7 +60,7 @@ _Harvard Data Science Review_ **4**(3)
 
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
-_Drug Discovery Today_ **27**(8)
+_Drug Discovery Today_ **27**(8)  
 <https://doi.org/10.1016/j.drudis.2022.05.010>
 
 Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
