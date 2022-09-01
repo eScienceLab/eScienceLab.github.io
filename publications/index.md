@@ -44,6 +44,7 @@ which is particularly useful for long author lists or long titles.
 Ebitsam Alharbi (2022):
 [**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
 PhD Thesis, _The University of Manchester_ 
+<https://www.research.manchester.ac.uk/portal/en/theses/the-practices-costs-and-benefits-of-fair-implementation-in-pharmaceutical-research-and-development(61faec0b-92d6-4bb6-85ed-c1404cdf510b).html>
 
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
