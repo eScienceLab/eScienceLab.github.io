@@ -41,6 +41,13 @@ which is particularly useful for long author lists or long titles.
 
 ## 2022 
 
+
+
+Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland (2022):  
+[**The Specimen Data Refinery: Using a scientific workflow approach for information extraction**](https://doi.org/10.3897/biss.6.93500)
+_Biodiversity Information Science and Standards_ **6**:e93500
+<https://doi.org/10.3897/biss.6.93500>
+
 Ebitsam Alharbi (2022):  
 [**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
 PhD Thesis, _The University of Manchester_  
@@ -115,6 +122,11 @@ Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos 
 [**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf).  
 _Research Data Alliance_  
 <https://doi.org/10.15497/RDA00068>
+
+Peter Wittenburg, Ivonne Anders, Christophe Blanchi, Merret Buurman, Carole Goble, Jonas Grieb, Alex Hardisty, Sharif Islam, Thomas Jejkal, Tibor Kálmán, Christine Kirkpatrick, Laurence Lannom, Thomas Lauer, Giridhar Manepalli, Karsten Peters-von Gehlen, Andreas Pfeil, Robert Quick, Mark van de Sanden, Ulrich Schwardmann, Stian Soiland-Reyes, Rainer Stotzka, Zachary Trautt, Dieter Van Uytvanck, Claus Weiland, Philipp Wieder (2022):  
+[**FAIR Digital Object Demonstrators 2021**](https://doi.org/10.5281/zenodo.5872645).   
+Report, FAIR Digital Objects Forum. _Zenodo_
+<https://doi.org/10.5281/zenodo.5872645>
 
 
 ## 2021
