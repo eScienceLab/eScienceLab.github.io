@@ -46,6 +46,11 @@ Ebitsam Alharbi (2022):
 PhD Thesis, _The University of Manchester_  
 <https://www.research.manchester.ac.uk/portal/en/theses/the-practices-costs-and-benefits-of-fair-implementation-in-pharmaceutical-research-and-development(61faec0b-92d6-4bb6-85ed-c1404cdf510b).html>
 
+Jan G. Bjaalie, Carole Goble, Susanna-Assunta Sansone, Richard Nakamura, Maryann E. Martone (2022):  
+[**Perspectives on Data Sharing and the New NIH Policy from the European Union**](https://doi.org/10.1162/99608f92.bcd0b999).  
+_Harvard Data Science Review_ **4**(3)  
+<https://doi.org/10.1162/99608f92.bcd0b999>
+
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
 _Drug Discovery Today_ **27**(8)
