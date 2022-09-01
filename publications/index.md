@@ -125,7 +125,7 @@ _Research Data Alliance_
 
 Peter Wittenburg, Ivonne Anders, Christophe Blanchi, Merret Buurman, Carole Goble, Jonas Grieb, Alex Hardisty, Sharif Islam, Thomas Jejkal, Tibor Kálmán, Christine Kirkpatrick, Laurence Lannom, Thomas Lauer, Giridhar Manepalli, Karsten Peters-von Gehlen, Andreas Pfeil, Robert Quick, Mark van de Sanden, Ulrich Schwardmann, Stian Soiland-Reyes, Rainer Stotzka, Zachary Trautt, Dieter Van Uytvanck, Claus Weiland, Philipp Wieder (2022):  
 [**FAIR Digital Object Demonstrators 2021**](https://doi.org/10.5281/zenodo.5872645).   
-Report, FAIR Digital Objects Forum. _Zenodo_
+Report, FAIR Digital Objects Forum. _Zenodo_  
 <https://doi.org/10.5281/zenodo.5872645>
 
 
