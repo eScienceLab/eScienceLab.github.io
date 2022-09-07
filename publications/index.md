@@ -48,7 +48,7 @@ Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland 
 _Biodiversity Information Science and Standards_ **6**:e93500  
 <https://doi.org/10.3897/biss.6.93500>
 
-Ebitsam Alharbi (2022):  
+Ebtisam Alharbi (2022):  
 [**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
 PhD Thesis, _The University of Manchester_  
 <https://www.research.manchester.ac.uk/portal/en/theses/the-practices-costs-and-benefits-of-fair-implementation-in-pharmaceutical-research-and-development(61faec0b-92d6-4bb6-85ed-c1404cdf510b).html>
