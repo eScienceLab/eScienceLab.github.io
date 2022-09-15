@@ -4,7 +4,7 @@ name: eurosciencegateway
 title: EuroScienceGateway
 path: eurosciencegateway.html
 collection: projects
-description: ..
+description: Improving computational workflows in Galaxy by maturing Pulsar Network and publishing computational workflows as FAIR Digital Objects.
 logo: eurosciencegateway-v10.png
 website: http://eurosciencegateway.eu/
 start_date: 2022-09-01
@@ -37,7 +37,7 @@ EuroScienceGateway will leverage the [Galaxy platform](https://usegalaxy.eu/) (a
 Network](https://pulsar-network.readthedocs.io) (a wide job execution system distributed to scale computing power over heterogeneous resources) and
 FAIR workflow services pioneered in the [EOSC-Life](https://www.eosc-life.eu/) cluster ([WorkflowHub](https://workflowhub.eu/), [Workflow RO-Crate](https://w3id.org/workflowhub/workflow-ro-crate/) and metadata standards like [schema.org](https://schema.org/)). 
 
-EuroScienceGateway will lift Pulsar9 from TRL-7 to TRL-9 by expanding the APIs, hardening deployments and adding support for different usage patterns, e.g. data localisation during job scheduling. 
+EuroScienceGateway will lift Pulsar from TRL-7 to TRL-9 by expanding the APIs, hardening deployments and adding support for different usage patterns, e.g. data localisation during job scheduling. 
 
 [National Galaxy instances](https://galaxyproject.org/use/) across Europe and other workflow management systems will be enabled to submit jobs to this distributed compute network. Pulsar will become a production-ready interface for European computing resources, including [EGI](https://www.egi.eu/) and [EuroHPC](https://eurohpc-ju.europa.eu/) as Pulsar providers.
 
