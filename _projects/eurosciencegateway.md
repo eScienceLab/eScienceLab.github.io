@@ -29,11 +29,11 @@ EuroScienceGateway will deliver a robust, scalable, seamlessly integrated open i
 
 At the heart of the proposal workflows will integrate with the [EOSC-Core](https://eoscfuture.eu/wp-content/uploads/2022/04/EOSC-Core.pdf). Adoption, development and implementation of technologies to interoperate across services, will allow researchers to produce high-quality FAIR data, available to all in EOSC. Communities across disciplines -- Life Sciences, Climate and Biodiversity, Astrophysics, Materials science - will demonstrate the bridge from EOSC's technical services to scientific analysis.
 
-Funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) (_Enabling an operational, open and FAIR EOSC ecosystem_), EuroScienceGateway will work closely with [EOSC](https://www.eosc.eu/), EOSC projects including [EOSC-Life](eosclife.md), as well as established e-Infrastructures and life science communities like [ELIXIR](elixir.md).
+Funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) (_Enabling an operational, open and FAIR EOSC ecosystem_), EuroScienceGateway will work closely with [EOSC](https://www.eosc.eu/), EOSC projects including [EOSC-Life](../eosclife/), as well as established e-Infrastructures and life science communities like [ELIXIR](../elixir/).
 
 ### Galaxy and Pulsar Network
 
-EuroScienceGateway will leverage the [Galaxy platform](https://usegalaxy.eu/) (an open, web-based platform for data-intensive research), the [Pulsar
+EuroScienceGateway will leverage the [Galaxy platform](https://galaxyproject.eu/) (an open, web-based platform for data-intensive research), the [Pulsar
 Network](https://pulsar-network.readthedocs.io) (a wide job execution system distributed to scale computing power over heterogeneous resources) and
 FAIR workflow services pioneered in the [EOSC-Life](https://www.eosc-life.eu/) cluster ([WorkflowHub](https://workflowhub.eu/), [Workflow RO-Crate](https://w3id.org/workflowhub/workflow-ro-crate/) and metadata standards like [schema.org](https://schema.org/)). 
 
@@ -47,11 +47,11 @@ The eScience Lab at The University of Manchester is leading the work package WP2
 
 This work package adds sufficient measures to EuroScienceGateway to support FAIR practices for and by workflows. 
 
-[FAIR Digital Objects](https://fairdo.org/) (FDOs), for exchanging, publishing, archiving and citing workflows and their companion data, provenance logs and associated resources, will be realized as [RO-Crate](_products/researchobject.md#research-object-crate-ro-crate)s. 
+[FAIR Digital Objects](https://fairdo.org/) (FDOs), for exchanging, publishing, archiving and citing workflows and their companion data, provenance logs and associated resources, will be realized as [RO-Crate](/products/researchobject/#research-object-crate-ro-crate)s. 
  
 The FDOs will be published through EOSC and in EOSC catalogues (e.g. [OpenAIRE](https://www.openaire.eu/)) and further communicated through outreach plans to increase uptake of the EuroScienceGateway in affiliated and newly targeted computational researcher communities. 
 
-[WorkflowHub](../_products/workflowhub.md), a FAIR registry for workflows that is RO-Crate compliant, will be lifted to TRL-9 status (from TRL-7) and made the registry of choice for all workflow system types and for all disciplines in EOSC. 
+[WorkflowHub](../workflowhub/), a FAIR registry for workflows that is RO-Crate compliant, will be lifted to TRL-9 status (from TRL-7) and made the registry of choice for all workflow system types and for all disciplines in EOSC. 
 
 By collaborating with the project CSA INFRA-01-EOSC-01-05 (_Enabling discovery and interoperability of federated research objects across scientific communities_), both the WorkflowHub and Workflow Digital Objects will be further aligned with the PID and metadata schema frameworks.
 
