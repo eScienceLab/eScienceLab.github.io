@@ -78,6 +78,14 @@ _See also [full list of BioExcel deliverables](https://bioexcel.eu/research/deli
 
 **BioExcel-2**: (2019-2022)
 
+D1.5 – Long-term hardware and application roadmap [doi:10.5281/zenodo.5840262]
+D1.6 – Final project release [doi:10.5281/zenodo.7035016]
+
+    Fourth project release of BioExcel core applications [doi:10.5281/zenodo.6761700]
+D1.7 – Update of whitepaper on scientific software development [doi:10.5281/zenodo.6451631]
+
+    BioExcel Whitepaper on Scientific Software Development [doi:10.5281/zenodo.6404474]
+
 * D2.1 – State-of-the-art and Initial Roadmap [doi:10.5281/zenodo.4604607]
 * D2.2 – First release of workflow-ready building blocks library [doi:10.5281/zenodo.4605207]
 * D2.3 – First release of demonstration workflows [doi:10.5281/zenodo.4540432]
@@ -88,12 +96,20 @@ _See also [full list of BioExcel deliverables](https://bioexcel.eu/research/deli
   - Published [in WorkflowHub](https://workflowhub.eu/programmes/2#workflows)
 * D3.5 – Best Practice Guides [doi:10.5281/zenodo.5511704]
 
+* D6.3 – High Performance Computing in support of COVID-19 Research [doi:10.5281/zenodo.5840055]
+* 
+
 **BioExcel** (2016-2018):
 
+* D1.2 – First project release of all pilot applications [doi:10.5281/zenodo.5744559]
+* D1.5 – Final project release of pilot applications [doi:10.5281/zenodo.1474181]
 * D2.1 – State of the art and gap analysis [doi:10.5281/zenodo.263963]
 * D2.2 – First Release of Workflow Blocks and Portals [doi:10.5281/zenodo.263965]
 * D2.3 – User Feedback and Future Roadmap [doi:10.5281/zenodo.1060946]
-* D2.4 – Final Release of Workflows and Modular Tools for User Services
+* D2.4 – Final Release of Workflows and Modular Tools for User Services [doi:10.5281/zenodo.3236256]
+* D3.1 – Selection and Establishment of User Groups [doi:10.5281/zenodo.264011]
+* D3.2 – Consultancy Proposals [doi:10.5281/zenodo.574607]
+* D3.5 – Consultancy Modalities and Funding Options, Final Update [doi:10.5281/zenodo.3563882]
 
 ## Selected publications
 
