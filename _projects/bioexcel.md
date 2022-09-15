@@ -68,48 +68,44 @@ In the [BioExcel-2 project](https://cordis.europa.eu/project/id/823830) we were 
   * T4.4: Capacity building and knowledge transfer
   * T4.5: Collaboration
 
-We will be building on our extensive experience and engagement with [Common Workflow Language (CWL)](/activities/cwl/) and [Research Objects](/products/researchobject/) as well as fostering links between BioExcel communities and related [projects](/projects/) like [ELIXIR](/projects/elixir/), [EOSC](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) and [BioConda](https://bioconda.github.io/).
+We built on our extensive experience and engagement with [Common Workflow Language (CWL)](/activities/cwl/) and [Research Objects](/products/researchobject/) and strengthened links between BioExcel communities and related [projects](/projects/) like [ELIXIR](/projects/elixir/), [EOSC](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) and [BioConda](https://bioconda.github.io/).
 
-We developed and maintain the [CWL Viewer](/products/cwlviewer/) with support from BioExcel. We are contributing to the [BioExcel Building Blocks (BioBB) library](http://mmb.irbbarcelona.org/biobb/), translating workflows into CWL and assisting with the development of their tutorial material. We are also assisting with registering BioBB workflows on [WorkflowHub](https://workflowhub.eu/workflows?filter%5Bproject%5D=11).
+We developed and maintain the [CWL Viewer](https://view.commonwl.org/) with support from BioExcel, now maintained by [Curii](https://www.curii.com/). We  contributed to the [BioExcel Building Blocks (BioBB) library](http://mmb.irbbarcelona.org/biobb/), translating workflows into CWL and assisting with the development of their tutorial material and containers for Docker and Conda. We are also assisting with registering BioBB workflows on [WorkflowHub](https://workflowhub.eu/workflows?filter%5Bproject%5D=11).
 
 ## Selected deliverables
 
 _See also [full list of BioExcel deliverables](https://bioexcel.eu/research/deliverables/)_.
 
-**BioExcel-2**: (2019-2022)
+### BioExcel-2 (2019-2022)
 
-D1.5 – Long-term hardware and application roadmap [doi:10.5281/zenodo.5840262]
-D1.6 – Final project release [doi:10.5281/zenodo.7035016]
-
-    Fourth project release of BioExcel core applications [doi:10.5281/zenodo.6761700]
-D1.7 – Update of whitepaper on scientific software development [doi:10.5281/zenodo.6451631]
-
-    BioExcel Whitepaper on Scientific Software Development [doi:10.5281/zenodo.6404474]
-
-* D2.1 – State-of-the-art and Initial Roadmap [doi:10.5281/zenodo.4604607]
-* D2.2 – First release of workflow-ready building blocks library [doi:10.5281/zenodo.4605207]
-* D2.3 – First release of demonstration workflows [doi:10.5281/zenodo.4540432]
-* D2.4 – Development of a framework for the combination of HPC and HPDA operations [doi:10.5281/zenodo.4916029]
-* D2.5 – Provision of a Workflow Environment at BioExcel portal [doi:10.5281/zenodo.4916029]
-* D2.6 – Integration of BioExcel software framework with standards and international initiatives [doi:10.5281/zenodo.5824544]
-* D2.7 – Final release of demonstration workflows [doi:10.5281/zenodo.7034862]
+* [D1.5 – Long-term hardware and application roadmap](https://doi.org/10.5281/zenodo.5840262)
+* [D1.6 – Final project release](https://doi.org/10.5281/zenodo.7035016)
+ - [Fourth project release of BioExcel core applications](https://doi.org/10.5281/zenodo.6761700)
+* [D1.7 – Update of whitepaper on scientific software development](https://doi.org/10.5281/zenodo.6451631) 
+ - [BioExcel Whitepaper on Scientific Software Development](https://doi.org/10.5281/zenodo.6404474)
+* [D2.1 – State-of-the-art and Initial Roadmap](https://doi.org/10.5281/zenodo.4604607)
+* [D2.2 – First release of workflow-ready building blocks library](https://doi.org/10.5281/zenodo.4605207)
+* [D2.3 – First release of demonstration workflows](https://doi.org/10.5281/zenodo.4540432)
+* [D2.4 – Development of a framework for the combination of HPC and HPDA operations](https://doi.org/10.5281/zenodo.4916029)
+* [D2.5 – Provision of a Workflow Environment at BioExcel portal](https://doi.org/10.5281/zenodo.4916029)
+* [D2.6 – Integration of BioExcel software framework with standards and international initiatives](https://doi.org/10.5281/zenodo.5824544)
+* [D2.7 – Final release of demonstration workflows](https://doi.org/10.5281/zenodo.7034862)
   - Published [in WorkflowHub](https://workflowhub.eu/programmes/2#workflows)
-* D3.5 – Best Practice Guides [doi:10.5281/zenodo.5511704]
+* [D3.5 – Best Practice Guides](https://doi.org/10.5281/zenodo.5511704)
+* [D6.3 – High Performance Computing in support of COVID-19 Research](https://doi.org/10.5281/zenodo.5840055)
 
-* D6.3 – High Performance Computing in support of COVID-19 Research [doi:10.5281/zenodo.5840055]
-* 
 
-**BioExcel** (2016-2018):
+### BioExcel (2016-2018)
 
-* D1.2 – First project release of all pilot applications [doi:10.5281/zenodo.5744559]
-* D1.5 – Final project release of pilot applications [doi:10.5281/zenodo.1474181]
-* D2.1 – State of the art and gap analysis [doi:10.5281/zenodo.263963]
-* D2.2 – First Release of Workflow Blocks and Portals [doi:10.5281/zenodo.263965]
-* D2.3 – User Feedback and Future Roadmap [doi:10.5281/zenodo.1060946]
-* D2.4 – Final Release of Workflows and Modular Tools for User Services [doi:10.5281/zenodo.3236256]
-* D3.1 – Selection and Establishment of User Groups [doi:10.5281/zenodo.264011]
-* D3.2 – Consultancy Proposals [doi:10.5281/zenodo.574607]
-* D3.5 – Consultancy Modalities and Funding Options, Final Update [doi:10.5281/zenodo.3563882]
+* [D1.2 – First project release of all pilot applications](https://doi.org/10.5281/zenodo.5744559)
+* [D1.5 – Final project release of pilot applications](https://doi.org/10.5281/zenodo.1474181)
+* [D2.1 – State of the art and gap analysis](https://doi.org/10.5281/zenodo.263963)
+* [D2.2 – First Release of Workflow Blocks and Portals](https://doi.org/10.5281/zenodo.263965)
+* [D2.3 – User Feedback and Future Roadmap](https://doi.org/10.5281/zenodo.1060946)
+* [D2.4 – Final Release of Workflows and Modular Tools for User Services](https://doi.org/10.5281/zenodo.3236256)
+* [D3.1 – Selection and Establishment of User Groups](https://doi.org/10.5281/zenodo.264011)
+* [D3.2 – Consultancy Proposals](https://doi.org/10.5281/zenodo.574607)
+* [D3.5 – Consultancy Modalities and Funding Options, Final Update](https://doi.org/10.5281/zenodo.3563882)
 
 ## Selected publications
 
