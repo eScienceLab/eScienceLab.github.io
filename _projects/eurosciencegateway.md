@@ -5,7 +5,7 @@ title: EuroScienceGateway
 path: eurosciencegateway.html
 collection: projects
 description: Improving computational workflows in Galaxy by maturing Pulsar Network and publishing computational workflows as FAIR Digital Objects.
-logo: eurosciencegateway-v1.png
+logo: eurosciencegateway.svg
 website: http://eurosciencegateway.eu/
 start_date: 2022-09-01
 duration: 36 months
