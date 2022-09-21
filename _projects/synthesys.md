@@ -36,7 +36,12 @@ research, climate change, food security, one health and the bioeconomy.
 
 eScience Lab is involved with making the [Specimen Data Refinery](https://github.com/DiSSCo/SDR) (SDR), a workflow installation based on [Galaxy](https://galaxyproject.org/) that performs digitization and analysis of _digital specimens_ using community standards including [openDS](https://github.com/DiSSCo/openDS/), [FAIR Digital Objects](https://fairdo.org/) and [RO-Crate](/products/researchobject/).
 
-
+* WP8: JRA3: Specimen Data Refinery (lead: NHM)
+  - (Task 8.2: Development of tools and services (lead: NHM))
+    - (Subtask 8.2.6: Specimen Data Refinery Workflow and Tools Registry)
+  - Task 8.3: Development of the SDR platform for executing data processing services (lead: UNIMAN)
+  - D8.3: Cloud platform for tools and services (lead: UNIMAN)
+  - MS61: Functional SDR registry (lead: UNIMAN)
 
 ## Publications
 
