@@ -31,7 +31,7 @@ staff:
   img: no-photo.png
 - name: Francisco Herrerías-Azcué
   orcid: 0000-0002-5906-221X
-  role: Research IT Software Angineer
+  role: Research IT Software Engineer
   img: franciscio_herreriasazcue.jpeg
 - name: Lukas Hughes-Hoehrer
   orcid: 0000-0002-9167-0397
