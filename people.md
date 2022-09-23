@@ -13,26 +13,30 @@ staff:
 - name: Rachael Ainsworth
   orcid: 0000-0003-2591-9462
   img: rachael-ainsworth.jpg
-  role: Community Manager
+  role: Research Software Manager
 - name: Munazah Andrabi
   orcid: 0000-0002-7718-5109
   img: munazah-andrabi-sm.png
-  role: Research Community Manager
+  role: Life Sciences Informatics Manager
 - name: Andrew Stewart
   orcid: 0000-0002-9795-4104
   img: AndrewStewart.jpg
   role: Professor
-- name: Aitor Apaolaza
-  orcid: 0000-0002-5530-6846
-  img: aitor-apaolaza-sm.jpg
-  role: Software Developer
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
-  role: Software Developer
+  role: Senior Research Software Engineer
 - name: Gerard Capes  
-  role: Research Software Engineer
+  role: Research IT Software Engineer
   img: no-photo.png
+- name: Francisco Herrerías-Azcué
+  orcid: 0000-0002-5906-221X
+  role: Research IT Software Angineer
+  img: no-photo.png
+- name: Lukas Hughes-Hoehrer
+  orcid: 0000-0002-9167-0397
+  role: Research Associate
+  img: no-photo.png  
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
@@ -40,7 +44,7 @@ staff:
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
-  role: Training Manager, Senior Research Software Engineer
+  role: Technical Training Manager, Senior Research Software Engineer
 - name: Stuart Owen
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
@@ -60,7 +64,7 @@ staff:
 - name: Oliver Woolland
   orcid: 0000-0002-4565-9760
   img: oliver.jpeg  
-  role: Research Software Engineer
+  role: Research IT Software Engineer
 
 phd:
 - name: Ebtisam Alharbi
@@ -113,6 +117,8 @@ former:
 - name: Sergejs Aleksejevs
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
+- name: Aitor Apaolaza
+  orcid: 0000-0002-5530-6846
 - name: Constantinos Astreos
 - name: Niall Beard
   orcid: 0000-0002-2627-0231
