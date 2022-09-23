@@ -37,10 +37,6 @@ staff:
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
-- name: Douglas Lowe
-  orcid: 0000-0002-1248-3594
-  img: douglas-lowe-sm.jpg
-  role: Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
@@ -165,6 +161,8 @@ former:
 - name: Robin Long
   orcid: 0000-0003-2249-645X
 - name: Phillip Lord
+- name: Douglas Lowe
+  orcid: 0000-0002-1248-3594
 - name: James Marsh
 - name: Catarina Martins
   orcid: 0000-0001-9021-8860
