@@ -64,6 +64,8 @@ By collaborating with the project CSA INFRA-01-EOSC-01-05 (_Enabling discovery a
 
 ## eScienceLab contributions
 
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
+
 * WP2: Stimulate FAIR and reusable research (lead: UNIMAN)
   - Task T2.1: Integration of EuroScienceGateway in EOSC (lead: UNIMAN)
   - Task T2.2: Reproducible and reusable FAIR Digital Objects  (lead: UNIMAN)
