@@ -9,7 +9,7 @@ logo:
 website: https://www.lifewatch.eu/2022/03/17/lifewatch-eric-in-successful-horizon-europe-proposals/
 start_date: 2022-10-01
 duration: 5 years
-project_reference:
+project_reference: https://cordis.europa.eu/project/id/101058020
 expired: false
 ---
 
@@ -19,7 +19,7 @@ resilient and sustainable agri-food system. The project proposes a transdiscipli
 actors of the agriculture system in the research process, of which the farmers are the first, thanks to a wide offer of
 living labs across Europe. 
 
-It will develop a wider catalogue of integrated and customised services, providing a strong
+Funded by [HORIZON-INFRA-2021-SERV-01-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-serv-01-02) 101058020, AgroServ will develop a wider catalogue of integrated and customised services, providing a strong
 community building and training programme for access managers and users. Results from the research performed under
 AgroServ will be synthetised to be use in the scope of evidence-based policy making. Data from AgroServ will be open and
 compliant with FAIR practices, and made available on the long-term to the communities, and be linked with European
