@@ -16,7 +16,7 @@ The Biodiversity Digital Twin prototype provides advanced models for simulation 
 
 [BioDT](https://biodt.eu/) exploits the [LUMI Supercomputer](https://www.lumi-supercomputer.eu/) and employs FAIR data combined with digital infrastructure, predictive modelling and AI solutions, facilitating evidence-based solutions for biodiversity protection and restoration.
 
-Funded by Horizon Europe call [HORIZON-INFRA-2021-TECH-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-tech-01-01), the project responds to key EU and international policy initiatives, including the [EU Biodiversity Strategy 2030](https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en), [EU Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), [UN Sustainable Development Goals](https://sdgs.un.org/goals), [Destination Earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth).
+Funded by Horizon Europe call [HORIZON-INFRA-2021-TECH-01-01](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-tech-01-01) 101057437, the project responds to key EU and international policy initiatives, including the [EU Biodiversity Strategy 2030](https://environment.ec.europa.eu/strategy/biodiversity-strategy-2030_en), [EU Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), [UN Sustainable Development Goals](https://sdgs.un.org/goals), [Destination Earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth).
 
 ## eScience Lab involvement
 
