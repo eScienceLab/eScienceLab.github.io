@@ -27,3 +27,5 @@ initiatives, such as the [EOSC](https://eosc-portal.eu/about/eosc).
 
 The eScience Lab is one of over 70 partners involved in this project, and will bring expertise
 from [RDMKit](/products/rdmkit), [IBISBA](/projects/ibisba) and [FAIRDOM-SEEK](/products/seek) and build upon that work.
+
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
