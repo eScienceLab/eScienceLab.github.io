@@ -14,7 +14,7 @@ project_reference: https://cordis.europa.eu/project/id/101057344
 
 The FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project gathers 28 partners from 11 countries.
 
-This project will support the implementation of FAIR-enabling practices, tools and services across scientific communities at a European, national, and institutional level.  The FAIR-IMPACT project will work to connect knowledge across scientific communities on **persistent identifiers**, **metadata and ontologies**, **metrics**, **certification** and **interoperability** aspects via a community-led approach.
+This project, funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-05](), will support the implementation of FAIR-enabling practices, tools and services across scientific communities at a European, national, and institutional level.  The FAIR-IMPACT project will work to connect knowledge across scientific communities on **persistent identifiers**, **metadata and ontologies**, **metrics**, **certification** and **interoperability** aspects via a community-led approach.
 
 ### Target stakeholders
 
@@ -53,6 +53,8 @@ This project will support the implementation of FAIR-enabling practices, tools a
 ### eScienceLab involvement
 
 The [eScience Lab](https://esciencelab.org.uk/) at the Department of Computer Science of The University of Manchester is participating in FAIR-IMPACT, contributing expertise on sharing [Research Objects](/products/researchobject/) using Linked Data with [RO-Crate](https://www.researchobject.org/ro-crate/) and [Bioschemas](/activities/bioschemas/).
+
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
 
 Use cases from [WorkflowHub](/products/workflowhub/) will contribute to FAIR-IMPACT work on persistent identifiers and metadata schema mappings.
 
