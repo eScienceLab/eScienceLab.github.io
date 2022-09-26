@@ -12,13 +12,15 @@ duration: 30 months
 project_reference: https://cordis.europa.eu/project/id/101058427
 ---
 
-Funded as part of [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06), EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).
+Funded by call [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06) 101058427, EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).
 
 EOSC4Cancer brings together comprehensive **cancer centres**, **research infrastructures**, leading **research groups**, and major **computational infrastructure** across Europe to make the exploitation of the data possible.
 
 EOSC4Cancer will prepare EOSC services for cancer research and enrich EOSC with data, tools and services from the cancer community.
 
 ## eScience Lab contributions
+
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
 
 In the EOSC4Cancer project the eScience Lab is involved in expanding the [RDMKit]() to make a _RDMkit4Cancer_, providing training support and use of [RO-Crate](/products/researchobject/) & [WorkflowHub](/products/workflowhub/):
 
