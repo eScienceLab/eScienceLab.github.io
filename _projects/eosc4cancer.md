@@ -5,8 +5,8 @@ title: EOSC4Cancer
 path: eosc4cancer.html
 collection: projects
 description: A European-wide foundation to accelerate data-driven Cancer Research
-logo: eosc4cancer.png
-website: 
+logo: eosc4cancer.svg
+website: https://eosc4cancer.eu/
 start_date: 2022-10-01
 duration: 30 months
 project_reference: https://cordis.europa.eu/project/id/101058427
@@ -14,7 +14,7 @@ project_reference: https://cordis.europa.eu/project/id/101058427
 
 Funded by call [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06) 101058427, EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).
 
-EOSC4Cancer brings together comprehensive **cancer centres**, **research infrastructures**, leading **research groups**, and major **computational infrastructure** across Europe to make the exploitation of the data possible.
+[EOSC4Cancer](https://eosc4cancer.eu/) brings together comprehensive **cancer centres**, **research infrastructures**, leading **research groups**, and major **computational infrastructure** across Europe to make the exploitation of the data possible.
 
 EOSC4Cancer will prepare EOSC services for cancer research and enrich EOSC with data, tools and services from the cancer community.
 
