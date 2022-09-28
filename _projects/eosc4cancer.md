@@ -7,7 +7,8 @@ collection: projects
 description: A European-wide foundation to accelerate data-driven Cancer Research
 logo: eosc4cancer.svg
 website: https://eosc4cancer.eu/
-start_date: 2022-10-01
+start_date: 2022-09-01
+end_date: 2025-02-28
 duration: 30 months
 project_reference: https://cordis.europa.eu/project/id/101058427
 ---
