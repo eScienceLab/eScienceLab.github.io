@@ -40,4 +40,4 @@ In the EOSC4Cancer project the eScience Lab is involved in expanding the [RDMKit
 	- D5.2 Courses portfolio, linked through the RDMkit Cancer View (lead: CNIO)
     - M5.2 - First content of the RDMkit Cancer View. - M20 (lead: UNIMAN)
 
-We will also be helping [align EOSC4Cancer](https://doi.org/10.5281/zenodo.6771194) with the [FAIR-IMPACT](/projects/fair-impact/) project.
+We will also be helping [align EOSC4Cancer](https://doi.org/10.5281/zenodo.6771194) with the [FAIR-IMPACT](/projects/fair-impact/) project, as well as [EuroScienceGateway](../eurosciencegateway/) and [EOSC-Life](../eosclife/).
