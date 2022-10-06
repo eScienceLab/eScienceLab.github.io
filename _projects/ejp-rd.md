@@ -9,7 +9,7 @@ logo: ejp-rd.png
 website: http://www.ejprarediseases.org
 start_date: 2019-01-01
 duration: 5 years
-project_reference: https://cordis.europa.eu/project/id/825575
+project_reference: https://doi.org/10.3030/825575
 ---
 
 The European Joint Programme on RD (EJP RD) has two major objectives:

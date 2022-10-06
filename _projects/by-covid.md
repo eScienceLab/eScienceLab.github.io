@@ -9,7 +9,7 @@ logo: by-covid.svg
 website: https://by-covid.org/
 start_date: 2021-10-13
 duration: 36 months
-project_reference: https://cordis.europa.eu/project/id/101046203
+project_reference: https://doi.org/10.3030/101046203
 ---
 
 The BeYond-COVID project ([BY-COVID](https://by-covid.org/)) aims to make COVID-19 data accessible to scientists in laboratories but also to anyone who can use it, such as medical staff in hospitals or government officials.

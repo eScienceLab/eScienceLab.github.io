@@ -9,7 +9,7 @@ logo: eurosciencegateway.svg
 website: http://eurosciencegateway.eu/
 start_date: 2022-09-01
 duration: 36 months
-project_reference: https://cordis.europa.eu/project/id/101057388
+project_reference: https://doi.org/10.3030/101057388
 draft: true
 ---
 

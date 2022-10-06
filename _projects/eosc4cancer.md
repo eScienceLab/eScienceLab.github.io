@@ -10,7 +10,7 @@ website: https://eosc4cancer.eu/
 start_date: 2022-09-01
 end_date: 2025-02-28
 duration: 30 months
-project_reference: https://cordis.europa.eu/project/id/101058427
+project_reference: https://doi.org/10.3030/101058427
 ---
 
 Funded by call [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06) 101058427, EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).

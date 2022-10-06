@@ -9,7 +9,7 @@ logo: excelerate.png
 website: https://www.elixir-europe.org/about-us/how-funded/eu-projects/excelerate
 start_date: 2015-09-01
 duration: 48 months
-project_reference: https://cordis.europa.eu/projects/676559
+project_reference: https://doi.org/10.3030/676559
 expired: true
 ---
 

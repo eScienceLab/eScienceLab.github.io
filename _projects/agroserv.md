@@ -9,7 +9,7 @@ logo:
 website: https://www.lifewatch.eu/2022/03/17/lifewatch-eric-in-successful-horizon-europe-proposals/
 start_date: 2022-10-01
 duration: 5 years
-project_reference: https://cordis.europa.eu/project/id/101058020
+project_reference: https://doi.org/10.3030/101058020
 expired: false
 ---
 

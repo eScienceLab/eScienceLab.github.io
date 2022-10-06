@@ -10,7 +10,7 @@ website: https://bioexcel.eu
 start_date: 2015-11-01
 duration: 3+3.5 years
 expired: true
-project_reference: https://cordis.europa.eu/project/id/823830 https://cordis.europa.eu/project/id/675728
+project_reference: https://doi.org/10.3030/823830 https://doi.org/10.3030/675728
 ---
 
 [BioExcel](https://bioexcel.eu/) is a **Centre of Excellence for Biomolecular
@@ -46,7 +46,7 @@ biomolecular research.
 
 ## eScience Lab contributions
 
-In the [BioExcel-2 project](https://cordis.europa.eu/project/id/823830) we were involved in:
+In the [BioExcel-2 project](https://doi.org/10.3030/823830) we were involved in:
 
 * WP2: **Convergence of HPC/HPDA and Improved Usability** (deputy lead)
   * T2.1: Application building blocks for computational biomolecular simulations

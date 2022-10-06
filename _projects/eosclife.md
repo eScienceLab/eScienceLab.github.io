@@ -9,7 +9,7 @@ logo: eosc-life20k.png
 website: http://www.eosc-life.eu/
 start_date: 2019-03-01
 duration: 48 months
-project_reference: https://cordis.europa.eu/project/id/824087
+project_reference: https://doi.org/10.3030/824087
 ---
 
 [EOSC-Life](http://www.eosc-life.eu/) brings together the 13  Biological and Medical ESFRI research infrastructures (BMS RIs) to create an open collaborative space for digital biology.  It is our joint response to the challenge of analysing and reusing the prodigious amounts of data produced by life-science. Managing and integrating this data is beyond the capabilities of most individual end-users and institutes. By publishing data and tools in a Europe-wide cloud EOSC-Life aims to bring the capabilities of big science projects to the wider research community.  Federated user access (AAI) will allow transnational resource access and authorisation. EOSC-Life establishes a novel access model for the BMS RI: through EOSC scientists would gain direct access to FAIR data and tools in a cloud environment available throughout the European Research Area. 

@@ -7,7 +7,7 @@ collection: projects
 description: Industrial Biotechnology Innovation and Synthetic Biology Accelerator
 logo: ibisba-logo.png
 website: https://www.ibisba.eu/
-project_reference: https://cordis.europa.eu/projects/730976
+project_reference: https://doi.org/10.3030/730976
 start_date: 2017-12-01
 end_date: 2021-11-30
 duration: 4 years

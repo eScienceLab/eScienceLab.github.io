@@ -9,7 +9,7 @@ logo: corbel.png
 website: https://www.corbel-project.eu/
 start_date: 2015-09-01
 duration: 54 months
-project_reference: https://cordis.europa.eu/project/id/654248
+project_reference: https://doi.org/10.3030/654248
 expired: true
 ---
 

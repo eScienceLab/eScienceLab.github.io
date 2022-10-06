@@ -428,11 +428,11 @@ sponsored development of Taverna and the Taverna ecosystem.
 * Joint Information Systems Committee (JISC)
   * [myExperiment](https://www.myexperiment.org/)
 * [EU 7th Framework Programme (FP7)](https://wayback.archive-it.org/12090/20191127213419/https:/ec.europa.eu/research/fp7/index_en.cfm), incl:
-  * [BioVeL project](https://web.archive.org/web/20170207093003/http://www.biovel.eu/) ([FP7-INFRASTRUCTURES-2011-2-283359](https://cordis.europa.eu/project/id/283359))
-  * [SCAPE project](https://scape-project.eu/) ([FP7-ICT-2009-6-270137](https://cordis.europa.eu/project/id/270137))
-  * [Wf4Ever project](http://wf4ever.org/) ([FP7-ICT-2009-6-270192](https://cordis.europa.eu/project/id/270192))
+  * [BioVeL project](https://web.archive.org/web/20170207093003/http://www.biovel.eu/) ([FP7-INFRASTRUCTURES-2011-2-283359](https://doi.org/10.3030/283359))
+  * [SCAPE project](https://scape-project.eu/) ([FP7-ICT-2009-6-270137](https://doi.org/10.3030/270137))
+  * [Wf4Ever project](http://wf4ever.org/) ([FP7-ICT-2009-6-270192](https://doi.org/10.3030/270192))
 * [EU Horizon 2020 (H2020) programme](https://ec.europa.eu/programmes/horizon2020/)
-  * [BioExcel](https://bioexcel.eu/) ([H2020-INFRAEDI-02-2018-823830](https://cordis.europa.eu/project/id/823830), [H2020-EINFRA-2015-1-675728](https://cordis.europa.eu/project/id/675728))
-  * [IBISBA](https://ibisba.eu/) ([H2020-INFRAIA-2017-1-730976](https://cordis.europa.eu/project/id/730976), [H2020-INFRADEV-2019-2-871118](https://cordis.europa.eu/project/id/871118))
+  * [BioExcel](https://bioexcel.eu/) ([H2020-INFRAEDI-02-2018-823830](https://doi.org/10.3030/823830), [H2020-EINFRA-2015-1-675728](https://doi.org/10.3030/675728))
+  * [IBISBA](https://ibisba.eu/) ([H2020-INFRAIA-2017-1-730976](https://doi.org/10.3030/730976), [H2020-INFRADEV-2019-2-871118](https://doi.org/10.3030/871118))
 
 

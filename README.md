@@ -98,7 +98,7 @@ logo: bioexcel.svg
 website: http://bioexcel.eu
 start_date: 2015-11-01
 duration: 36 months
-project_reference: http://cordis.europa.eu/project/rcn/198303
+project_reference: https://doi.org/10.3030/675728
 ---
 ```
 
