@@ -43,6 +43,8 @@ EuroScienceGateway will lift Pulsar from TRL-7 to TRL-9 by expanding the APIs, h
 
 ### WP2: Stimulate FAIR and reusable research
 
+* WP2 introduction slides: <https://doi.org/10.5281/zenodo.7152762>
+
 The eScience Lab at The University of Manchester is leading the work package WP2 _Stimulate FAIR and reusable research_, contributing with our expertise on [FAIR Computational Workflows](https://workflows.community/groups/fair/)).
 
 This work package adds sufficient measures to EuroScienceGateway to support FAIR practices for and by workflows. 
@@ -54,6 +56,7 @@ The FDOs will be published through EOSC and in EOSC catalogues (e.g. [OpenAIRE](
 [WorkflowHub](../workflowhub/), a FAIR registry for workflows that is RO-Crate compliant, will be lifted to TRL-9 status (from TRL-7) and made the registry of choice for all workflow system types and for all disciplines in EOSC. 
 
 By collaborating with the project CSA INFRA-01-EOSC-01-05 (_Enabling discovery and interoperability of federated research objects across scientific communities_), both the WorkflowHub and Workflow Digital Objects will be further aligned with the PID and metadata schema frameworks.
+
 
 #### WP2 Objectives
 
