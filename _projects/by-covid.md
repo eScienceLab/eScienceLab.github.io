@@ -4,7 +4,7 @@ name: by-covid
 title: BY-COVID
 path: by-covid.html
 collection: projects
-description: BeYond-COVID
+description: BeYond-COVID, make data from COVID-19 and other infectious diseases open and accessible to everyone
 logo: by-covid.svg
 website: https://by-covid.org/
 start_date: 2021-10-13
