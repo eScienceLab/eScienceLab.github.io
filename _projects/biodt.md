@@ -9,7 +9,7 @@ logo: biodt.svg
 website: https://biodt.eu/
 start_date: 2022-06-01
 duration: 36 months
-project_reference: https://doi.org/10.3030/101057437
+project_reference: https://doi.org/10.3030/101057437 https://gtr.ukri.org/projects?ref=10038930
 ---
 
 The Biodiversity Digital Twin prototype provides advanced models for simulation and prediction capabilities, through practical use cases addressing critical issues related to global biodiversity dynamics.
@@ -22,7 +22,7 @@ Funded by Horizon Europe call [HORIZON-INFRA-2021-TECH-01-01](https://ec.europa.
 
 eScience Lab is involved in BioDT to contribute expertise on [FAIR Computational Workflows](https://workflows.community/groups/fair/), [RO-Crate](https://w3id.org/ro/crate), [WorkflowHub](/products/workflowhub/) and [FAIR Digital Objects](https://fairdo.org/). Contributions include:
 
-UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) (#10038930) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
 
 * WP5: Improving Quality of Data, Workflows and Models through FAIR Principles
   - Task 5.4: Supporting FAIR workflows and models (lead: UNIMAN)

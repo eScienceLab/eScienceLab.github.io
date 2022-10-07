@@ -9,7 +9,7 @@ logo:
 website: https://www.lifewatch.eu/2022/03/17/lifewatch-eric-in-successful-horizon-europe-proposals/
 start_date: 2022-10-01
 duration: 5 years
-project_reference: https://doi.org/10.3030/101058020
+project_reference: https://doi.org/10.3030/101058020 https://gtr.ukri.org/projects?ref=10038927
 expired: false
 ---
 
@@ -28,4 +28,4 @@ initiatives, such as the [EOSC](https://eosc-portal.eu/about/eosc).
 The eScience Lab is one of over 70 partners involved in this project, and will bring expertise
 from [RDMKit](/products/rdmkit), [IBISBA](/projects/ibisba) and [FAIRDOM-SEEK](/products/seek) and build upon that work.
 
-UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) (#10038927) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
