@@ -4,7 +4,7 @@ name: biodiversitygenomics
 title: Biodiversity Genomics Europe (BGE)
 path: biodiversitygenomics.html
 collection: projects
-description: 
+description: Tackle biodiversity crisis using DNA data
 logo: bge-biodiversity-genomics-europe.svg
 website: https://biodiversitygenomics.eu/
 start_date: 2022-09-01
@@ -25,7 +25,10 @@ However, after centuries of research, an estimated 80% of the world’s multicel
 
 Despite ground-breaking developments in both DNA barcoding and full genome sequencing, there remains a critical need to develop and strengthen functioning communities of practice at multiple scales that translate into building capacity, boosting complementarity among activities in individual countries and establishing mechanisms to democratise participation.
 
-To address this challenge from the European perspective, the BGE consortium, with [33 partners](https://biodiversitygenomics.eu/partners/), brings together two newly formed networks, [BIOSCAN Europe](https://www.bioscaneurope.org/) (which focuses on DNA barcoding) and the [European Reference Genome Atlas](https://www.erga-biodiversity.eu/) (ERGA) (which focuses on genome sequencing).
+To address this challenge from the European perspective, the BGE consortium, with [33 partners](https://biodiversitygenomics.eu/partners/), brings together two newly formed networks:
+
+- [BIOSCAN Europe](https://www.bioscaneurope.org/) -- DNA barcoding
+- [European Reference Genome Atlas](https://www.erga-biodiversity.eu/) (ERGA) -- genome sequencing
 
 The project will tackle three fundamental objectives:
 
@@ -39,7 +42,7 @@ The joint work in WP12 is focused on priority areas in biodiversity research, tr
 
 Robert Waterhouse, BGE Joint Network Activities Coordinator describes the opportunities that BGE
 will provide to bring together two scientific strands hitherto separated: the DNA barcoding and the
-full genome communities: 
+full genome communities.
 
 > If we are going to achieve the kind of scaling up that we want to achieve, 
 > we need to learn from each other, even if we have existed in parallel for some time.
@@ -53,24 +56,26 @@ UK partners in Horizon Europe projects are funded through [Innovate UK](https://
 Contributions include bringing [RO-Crate](../../products/researchobject/) to [COPO](https://copo-project.org/) in WP12, and to cross-walk to [FAIR-IMPACT](../fair-impact/) and [BioDT](../biodt/).
 
 * WP12: Joint Network Activities (lead: UNIL)
- - T12.5 FAIR Data Infrastructures (lead: ELIXIR/EBI) 
- - MS12.1.1 - Joint network training activities
- - MS12.2.1 - Pollinator population sampling
- - MS12.3.1 - Multi-locus sequence assays and resequencing
- - MS12.4.1 - Dark taxa genomics
- - MS12.5.1 - Data infrastructures for biodiversity genomics
- - MS12.6.1 - (Meta)data change management
- - MS12.7.1 - Pollinator intraspecific genome diversity
- - MS12.8.1 - Species resolution with multi-locus sequencing M32 12 Report submitted
- - D12.1 Joint training activities
- - D12.2 Population-level sample
- - D12.3 Multi-locus sequence dataset
- - D12.4 Future-proofing dark taxa samples
- - D12.5 Developed FAIR data infrastructures
- - D12.6 Metadata change management implementations
- - D12.7 Developed intraspecific monitoring tools
- - D12.8 Multi-locus barcoding protocol
+    - T12.5 FAIR Data Infrastructures (lead: ELIXIR/EBI) 
+    - MS12.1.1 Joint network training activities
+    - MS12.2.1 Pollinator population sampling
+    - MS12.3.1 Multi-locus sequence assays and resequencing
+    - MS12.4.1 Dark taxa genomics
+    - MS12.5.1 Data infrastructures for biodiversity genomics
+    - MS12.6.1 (Meta)data change management
+    - MS12.7.1 Pollinator intraspecific genome diversity
+    - MS12.8.1 Species resolution with multi-locus sequencing M32 12 Report submitted
+    - D12.1 Joint training activities
+    - D12.2 Population-level sample
+    - D12.3 Multi-locus sequence dataset
+    - D12.4 Future-proofing dark taxa samples
+    - D12.5 Developed FAIR data infrastructures
+    - D12.6 Metadata change management implementations
+    - D12.7 Developed intraspecific monitoring tools
+    - D12.8 Multi-locus barcoding protocol
 
-Task T12.5 will build on genomics (meta)data management systems of the Darwin Tree of Life, iBOL, ELIXIR and other infrastructures, services, and interoperability resources to provide a comprehensive FAIR data foundation. It will support ERGA and BIOSCAN Europe workflows in an integrated framework using the COPO data brokering platform to support the processing, validation, and ingestion of standardised sample, barcode and sequencing metadata into the biodiversity genomics data ecosystem.
+Task T12.5 will build on genomics (meta)data management systems of the [Darwin Tree of Life](https://www.darwintreeoflife.org/), [International Barcode of Life](https://ibol.org/) (iBOL), [ELIXIR](/projects/elixir/) and other infrastructures, services, and interoperability resources to provide a comprehensive FAIR data foundation. 
+
+This will support [European Reference Genome Atlas](https://www.erga-biodiversity.eu/) (ERGA) and [BIOSCAN Europe](https://www.bioscaneurope.org/) workflows in an integrated framework using the [COPO](https://copo-project.org/) data brokering platform to support the processing, validation, and ingestion of standardised sample, barcode and sequencing metadata into the biodiversity genomics data ecosystem.
 
 
