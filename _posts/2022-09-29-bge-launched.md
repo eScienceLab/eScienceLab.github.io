@@ -7,6 +7,8 @@ categories: project launch biodiversity
 
 # Biodiversity Genomics Europe: Europe's drive to reverse biodiversity loss through genomics research
 
+![Biodiversity Genomics Europe](/images/logo/bge-biodiversity-genomics-europe.svg)
+
 > BGE brings together experts from more than 20 countries to launch an unprecedented project that will tackle the biodiversity crisis using DNA data.
 
 The comprehensive application of genomic science to biodiversity research will
@@ -62,7 +64,10 @@ BGE’s project director, **Dimitris Koureas** from [Naturalis Biodiversity Cent
 
 **Pete Hollingsworth**, Director of Science at the [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/), added:
 
->  “This vital European coalition brings together diverse expertise and infrastructure across two emerging technological streams using the power of DNA and genomic science to help understand and conserve biodiversity, providing the means to tackle some of the biggest challenges facing the planet today.”
+>  “This vital European coalition brings together diverse expertise and 
+> infrastructure across two emerging technological streams using the power 
+> of DNA and genomic science to help understand and conserve biodiversity, 
+> providing the means to tackle some of the biggest challenges facing the planet today.”
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7P4Ick5ZsHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -87,7 +92,7 @@ BGE will also collaborate with the [Earth BioGenome Project](https://www.earthbi
 
 **Peter Hollingsworth**, BGE Deputy Director (DNA Barcoding stream) and **Mark Blaxter**, BGE Genome Sequencing Work Package leader discuss the importance of reference barcodes and reference genomes: 
 
-> "By doing a reference genome where we capture everything, everything becomes accessible for questioning. It tells us where we should focus our science".
+> “By doing a reference genome where we capture everything, everything becomes accessible for questioning. It tells us where we should focus our science.”
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yUS3qHtXGa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
