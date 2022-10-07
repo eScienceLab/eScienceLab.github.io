@@ -5,9 +5,9 @@ date:   2022-09-26 12:00:00
 categories: project launch biodiversity
 ---
 
-# Biodiversity Genomics Europe: Europe's drive to reverse biodiversity loss through genomics research
+<a href="https://biodiversitygenomics.eu/" alt="Biodiversity Genomics Europe"><img src="/images/logo/bge-biodiversity-genomics-europe.svg" style="max-height: 10em; max-width: 80%"></a>
 
-<a href="https://biodiversitygenomics.eu/" alt="Biodiversity Genomics Europe"><img src="/images/logo/bge-biodiversity-genomics-europe.svg" style="max-height: 20%; max-width: 100%"></a>
+# Biodiversity Genomics Europe: Europe's drive to reverse biodiversity loss through genomics research
 
 > BGE brings together experts from more than 20 countries to launch an unprecedented project that will tackle the biodiversity crisis using DNA data.
 
@@ -38,6 +38,8 @@ DNA barcoding uses short sequences of DNA to discriminate between species - anal
 conventional barcodes distinguish products in a supermarket. With modern genetic sequencing
 techniques, DNA barcoding has the potential to dramatically accelerate the inventory of life on Earth,
 providing a basis for global conservation monitoring.
+
+![Photo from a small lab, a female scientist is depositing a sample into a genome sequencing machine](/images/posts/2022-09-26-bge-royal-botanical-garden-edinburgh.jpeg "Photo by Royal Botanic Garden Edinburgh")
 
 At the opposite end of the scale, genome sequencing determines the order of DNA nucleotides - the
 building blocks of the genetic code -- throughout the entire genome of any given species. This enables
