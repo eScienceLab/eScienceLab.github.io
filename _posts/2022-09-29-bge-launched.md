@@ -47,29 +47,32 @@ function and, crucially, how species respond and adapt to environmental change
 
 The EU’s Biodiversity Strategy for 2030 and the European Green Deal make clear commitments to
 address challenges such as pollinator decline, the deterioration of key terrestrial, freshwater and
-marine habitats, and the impact of invasive non-native species on biodiversity. The Horizon
-Europe-funded BGE Consortium -- a major investment in European genomic science - provides the
-means to achieve these aims.
+marine habitats, and the impact of invasive non-native species on biodiversity. The [Horizon
+Europe-funded](https://doi.org/10.3030/101059492) BGE Consortium -- 
+a major investment in European genomic science -- provides the means to achieve these aims.
 
-BGE’s project director, Dimitris Koureas (Naturalis Biodiversity Center, The Netherlands) said:
+BGE’s project director, Dimitris Koureas from [Naturalis Biodiversity Center](https://www.naturalis.nl/) said:
 
 > “We see BGE as a mechanism through which we can go out from the limitations of national investments that
 we already have in biodiversity genomics and into the European level. We are looking at BGE as a
 mechanism to build the economies of scope and scale that we need for the future.”
 
 
-Pete Hollingsworth, Director of Science at the Royal Botanic Garden Edinburgh, added:
+Pete Hollingsworth, Director of Science at the [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/), added:
 
 >  “This vital European coalition brings together diverse expertise and infrastructure across two emerging
 technological streams using the power of DNA and genomic science to help understand and conserve
 biodiversity, providing the means to tackle some of the biggest challenges facing the planet today.”
-Camila Mazzoni, research group leader at the Leibniz Institute for Zoo and Wildlife Research, said
-“BGE bridges the identification and monitoring of coexisting species via barcoding and the
+
+
+Camila Mazzoni, research group leader at the [Leibniz Institute for Zoo and Wildlife Research](https://www.izw-berlin.de/), expanded:
+
+> “BGE bridges the identification and monitoring of coexisting species via barcoding and the
 understanding of the entire genetic make-up and adaptive capacity of each species via genomes. The
 steady buildup and connection of both types of information will bring an unprecedented
 comprehension of Earth’s biodiversity and the human actions towards its restoration”.
 
-BGE will also collaborate with the Earth BioGenome Project and International Barcode of Life.
+BGE will also collaborate with the [Earth BioGenome Project](https://www.earthbiogenome.org/) and [International Barcode of Life](https://ibol.org).
 
 _Text adapted from [BGE press release 2022-09-28](https://biodiversitygenomics.eu/wp-content/uploads/2022/09/BGE_press_release.pdf)_.
 
