@@ -7,7 +7,7 @@ categories: project launch biodiversity
 
 # Biodiversity Genomics Europe: Europe's drive to reverse biodiversity loss through genomics research
 
-![Biodiversity Genomics Europe](/images/logo/bge-biodiversity-genomics-europe.svg)
+<a href="https://biodiversitygenomics.eu/" alt="Biodiversity Genomics Europe"><img src="/images/logo/bge-biodiversity-genomics-europe.svg" style="max-height: 20%; max-width: 100%"></a>
 
 > BGE brings together experts from more than 20 countries to launch an unprecedented project that will tackle the biodiversity crisis using DNA data.
 
