@@ -51,28 +51,45 @@ marine habitats, and the impact of invasive non-native species on biodiversity. 
 Europe-funded](https://doi.org/10.3030/101059492) BGE Consortium -- 
 a major investment in European genomic science -- provides the means to achieve these aims.
 
-BGE’s project director, Dimitris Koureas from [Naturalis Biodiversity Center](https://www.naturalis.nl/) said:
+BGE’s project director, **Dimitris Koureas** from [Naturalis Biodiversity Center](https://www.naturalis.nl/) said:
 
-> “We see BGE as a mechanism through which we can go out from the limitations of national investments that
-we already have in biodiversity genomics and into the European level. We are looking at BGE as a
-mechanism to build the economies of scope and scale that we need for the future.”
+> “We see BGE as a mechanism through which we can go out from the limitations of 
+> national investments that we already have in biodiversity genomics and into 
+> the European level. We are looking at BGE as a mechanism to build the economies 
+> of scope and scale that we need for the future.”
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t740NaFdqBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Pete Hollingsworth**, Director of Science at the [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/), added:
+
+>  “This vital European coalition brings together diverse expertise and infrastructure across two emerging technological streams using the power of DNA and genomic science to help understand and conserve biodiversity, providing the means to tackle some of the biggest challenges facing the planet today.”
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7P4Ick5ZsHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Pete Hollingsworth, Director of Science at the [Royal Botanic Garden Edinburgh](https://www.rbge.org.uk/), added:
+**Camila Mazzoni**, research group leader at the [Leibniz Institute for Zoo and Wildlife Research](https://www.izw-berlin.de/), expanded:
 
->  “This vital European coalition brings together diverse expertise and infrastructure across two emerging
-technological streams using the power of DNA and genomic science to help understand and conserve
-biodiversity, providing the means to tackle some of the biggest challenges facing the planet today.”
+> “BGE bridges the identification and monitoring of coexisting species via barcoding and the understanding of 
+> the entire genetic make-up and adaptive capacity of each species via genomes. The steady buildup and 
+> connection of both types of information will bring an unprecedented comprehension of Earth’s 
+> biodiversity and the human actions towards its restoration.”
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/t5uj2gcSv4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Camila Mazzoni, research group leader at the [Leibniz Institute for Zoo and Wildlife Research](https://www.izw-berlin.de/), expanded:
+**Robert Waterhouse**, BGE Joint Network Activities Coordinator on how BGE brings together the BIOSCAN Europe and European Reference Genome Atlas (ERGA) communities: 
 
-> “BGE bridges the identification and monitoring of coexisting species via barcoding and the
-understanding of the entire genetic make-up and adaptive capacity of each species via genomes. The
-steady buildup and connection of both types of information will bring an unprecedented
-comprehension of Earth’s biodiversity and the human actions towards its restoration”.
+> “If we are going to achieve the kind of scaling up that we want to achieve, we need to learn from each other, even if we have existed in parallel for some time.”
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3PRJaYFwo7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 BGE will also collaborate with the [Earth BioGenome Project](https://www.earthbiogenome.org/) and [International Barcode of Life](https://ibol.org).
+
+**Peter Hollingsworth**, BGE Deputy Director (DNA Barcoding stream) and **Mark Blaxter**, BGE Genome Sequencing Work Package leader discuss the importance of reference barcodes and reference genomes: 
+
+> "By doing a reference genome where we capture everything, everything becomes accessible for questioning. It tells us where we should focus our science".
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yUS3qHtXGa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Text adapted from [BGE press release 2022-09-28](https://biodiversitygenomics.eu/wp-content/uploads/2022/09/BGE_press_release.pdf)_.
 
