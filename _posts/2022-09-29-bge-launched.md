@@ -32,16 +32,16 @@ complex picture from individual to planetary levels. Genomic science is our best
 mapping these interdependencies and predicting how individuals and groups may respond to
 environmental change.
 
-By bringing together Europe’s key practitioners in two fundamental DNA-based technologies - DNA
+By bringing together Europe’s key practitioners in two fundamental DNA-based technologies -- DNA
 barcoding and genome sequencing -- BGE will streamline the rollout of these methods across Europe.
-DNA barcoding uses short sequences of DNA to discriminate between species - analogous to the way
+DNA barcoding uses short sequences of DNA to discriminate between species -- analogous to the way
 conventional barcodes distinguish products in a supermarket. With modern genetic sequencing
 techniques, DNA barcoding has the potential to dramatically accelerate the inventory of life on Earth,
 providing a basis for global conservation monitoring.
 
 ![Photo from a small lab, a female scientist is depositing a sample into a genome sequencing machine](/images/posts/2022-09-26-bge-royal-botanical-garden-edinburgh.jpeg "Photo by Royal Botanic Garden Edinburgh")
 
-At the opposite end of the scale, genome sequencing determines the order of DNA nucleotides - the
+At the opposite end of the scale, genome sequencing determines the order of DNA nucleotides -- the
 building blocks of the genetic code -- throughout the entire genome of any given species. This enables
 scientists to identify and locate genes and other features of the genome, creating a comparative
 'map' of the code that creates each organism. This provides a full picture of how biological systems
@@ -54,6 +54,8 @@ address challenges such as pollinator decline, the deterioration of key terrestr
 marine habitats, and the impact of invasive non-native species on biodiversity. The [Horizon
 Europe-funded](https://doi.org/10.3030/101059492) BGE Consortium -- 
 a major investment in European genomic science -- provides the means to achieve these aims.
+
+BGE will also collaborate with the [Earth BioGenome Project](https://www.earthbiogenome.org/) and [International Barcode of Life](https://ibol.org).
 
 BGE’s project director, **Dimitris Koureas** from [Naturalis Biodiversity Center](https://www.naturalis.nl/) said:
 
@@ -90,7 +92,7 @@ BGE’s project director, **Dimitris Koureas** from [Naturalis Biodiversity Cent
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3PRJaYFwo7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-BGE will also collaborate with the [Earth BioGenome Project](https://www.earthbiogenome.org/) and [International Barcode of Life](https://ibol.org).
+
 
 **Peter Hollingsworth**, BGE Deputy Director (DNA Barcoding stream) and **Mark Blaxter**, BGE Genome Sequencing Work Package leader discuss the importance of reference barcodes and reference genomes: 
 
