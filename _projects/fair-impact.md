@@ -9,7 +9,7 @@ logo: FAIRImpact.png
 website: http://fair-impact.eu/
 start_date: 2022-06-01
 duration: 36 months
-project_reference: https://doi.org/10.3030/101057344 https://gtr.ukri.org/projects?ref=10038961
+project_reference: https://doi.org/10.3030/101057344 https://gtr.ukri.org/projects?ref=10038992
 ---
 
 The FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project gathers 28 partners from 11 countries.
@@ -54,7 +54,7 @@ This project, funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-05](http
 
 The [eScience Lab](https://esciencelab.org.uk/) at the Department of Computer Science of The University of Manchester is participating in FAIR-IMPACT, contributing expertise on sharing [Research Objects](/products/researchobject/) using Linked Data with [RO-Crate](https://www.researchobject.org/ro-crate/) and [Bioschemas](/activities/bioschemas/).
 
-UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) (#10038961) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) ([#10038992](https://gtr.ukri.org/projects?ref=10038992)) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
 
 Use cases from [WorkflowHub](/products/workflowhub/) will contribute to FAIR-IMPACT work on persistent identifiers and metadata schema mappings.
 
