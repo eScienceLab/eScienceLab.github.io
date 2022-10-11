@@ -14,7 +14,7 @@ project_reference: https://doi.org/10.3030/101057344 https://gtr.ukri.org/projec
 
 The FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project gathers 28 partners from 11 countries.
 
-This project, funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-05) #[101057344](https://doi.org/10.3030/101057344), will support the implementation of FAIR-enabling practices, tools and services across scientific communities at a European, national, and institutional level.  The FAIR-IMPACT project will work to connect knowledge across scientific communities on **persistent identifiers**, **metadata and ontologies**, **metrics**, **certification** and **interoperability** aspects via a community-led approach.
+This project, funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-05](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-05) [#101057344](https://doi.org/10.3030/101057344), will support the implementation of FAIR-enabling practices, tools and services across scientific communities at a European, national, and institutional level.  The FAIR-IMPACT project will work to connect knowledge across scientific communities on **persistent identifiers**, **metadata and ontologies**, **metrics**, **certification** and **interoperability** aspects via a community-led approach.
 
 ### Target stakeholders
 
