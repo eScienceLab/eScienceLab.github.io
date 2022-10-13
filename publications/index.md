@@ -45,29 +45,25 @@ Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Gobl
 [**Updating Linked Data practices for FAIR Digital Object principles**](https://s11.no/2022/phd/updating-ld-for-fdo/).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (abstract).  
 _Research Ideas and Outcomes_ **8**:e94501
-<https://doi.org/10.3897/rio.8.94501>
-(in production)
+<https://doi.org/10.3897/rio.8.e94501>
 
 Stian Soiland-Reyes, Peter Sefton, Leyla Jael Castro, Frederik Coppens, Daniel Garijo, Simone Leo, Marc Portier, Paul Groth (2022):  
 [**Creating lightweight FAIR Digital Objects with RO-Crate**](https://s11.no//2022/phd/fdo-with-ro-crate/).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
 _Research Ideas and Outcomes_ **8**:e93937
-<https://doi.org/10.3897/rio.8.93937>
-(in production)
+<https://doi.org/10.3897/rio.8.e93937>
 
 Oliver Woolland, Paul Brack, Stian Soiland-Reyes, Ben Scott, Laurence Livermore (2022):  
 [**Incrementally building FAIR Digital Objects with Specimen Data Refinery workflows**](https://s11.no//2022/phd/incrementally-building-fdos/).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
 _Research Ideas and Outcomes_ **8**:e94349
-<https://doi.org/10.3897/rio.8.94349>
-(in production)
+<https://doi.org/10.3897/rio.8.e94349>
 
 Paul De Geest, Frederik Coppens, Stian Soiland-Reyes, Ignacio Eguinoa, Simone Leo (2022):  
 [**Enhancing RDM in Galaxy by integrating RO-Crate**](https://s11.no//2022/phd/galaxy-ro-crate/).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
 _Research Ideas and Outcomes_ **8**:e95164
-<https://doi.org/10.3897/rio.8.95164>
-(in production)
+<https://doi.org/10.3897/rio.8.e95164>
 
 Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland (2022):  
 [**The Specimen Data Refinery: Using a scientific workflow approach for information extraction**](https://doi.org/10.3897/biss.6.93500)  
