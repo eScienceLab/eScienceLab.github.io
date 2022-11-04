@@ -74,7 +74,8 @@ Paul De Geest, Frederik Coppens, Stian Soiland-Reyes, Ignacio Eguinoa, Simone Le
 [**Enhancing RDM in Galaxy by integrating RO-Crate**](https://doi.org/10.3897/rio.8.e95164).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
 _Research Ideas and Outcomes_ **8**:e95164  
-<https://doi.org/10.3897/rio.8.e95164>
+<https://doi.org/10.3897/rio.8.e95164> 
+[[poster](https://doi.org/10.5281/zenodo.7257146)] 
 
 Carlos Martinez-Ortiz, Carole Goble, Daniel S Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, Leyla Jael Castro, Neil Chue Hong, Morane Gruenpeter, Jennifer Harrow, Anna-Lena Lamprecht, Fotis E Psomopoulos (2022):  
 [**How does software fit into the FDO landscape?**](https://doi.org/10.3897/rio.8.e95724).  
@@ -87,6 +88,7 @@ Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland 
 Biodiversity Information Standards ([TDWG 2022](https://www.tdwg.org/conferences/2022/)).  
 _Biodiversity Information Science and Standards_ **6**:e93500  
 <https://doi.org/10.3897/biss.6.93500>
+[[slides](https://doi.org/10.6084/m9.figshare.21312345.v1)]
 
 Ebtisam Alharbi (2022):  
 [**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
