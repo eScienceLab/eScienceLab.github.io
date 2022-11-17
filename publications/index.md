@@ -51,7 +51,7 @@ _Data Intelligence_ (accepted)
 
 Vitor Martins dos Santos, Mihail Anton, Barbara Szomolay, Marek Ostaszewski, Ilja Arts, Rui Benfeitas, Victoria Dominguez Del Angel, Polonca Ferk, Dirk Fey, Carole Goble, Martin Golebiewski, Kristina Gruden, Katharina F. Heil, Henning Hermjakob, Pascal Kahlem, Maria I. Klapa, Jasper Koehorst, Alexey Kolodkin, Martina Kutmon, Brane Leskošek, Sébastien Moretti, Wolfgang Müller, Marco Pagni, Tadeja Rezen, Miguel Rocha, Damjana Rozman, David Šafránek, Rahuman S. Malik Sheriff, Maria Suarez Diez, Kristel Van Steen, Hans V Westerhoff, Ulrike Wittig, Katherine Wolstencroft, Anze Zupanic, Chris T. Evelo, John M. Hancock (2022):  
 [**Systems Biology in ELIXIR: modelling in the spotlight**](https://doi.org/10.12688/f1000research.126734.1). [version 1; peer review: awaiting peer review]   
-_F1000Research_ **11**  
+_F1000Research_ **11**(ELIXIR):1265  
 <https://doi.org/10.12688/f1000research.126734.1>
 
 Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Goble, Paul Groth (2022):  
