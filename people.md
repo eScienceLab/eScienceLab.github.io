@@ -33,10 +33,10 @@ staff:
   orcid: 0000-0002-5906-221X
   role: Research IT Software Engineer
   img: franciscio_herreriasazcue.jpeg
-- name: Lukas Hughes-Hoehrer
+- name: Lukas Hughes-Noehrer
   orcid: 0000-0002-9167-0397
   role: Research Associate
-  img: no-photo.png  
+  img: LNwebres.jpg  
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
