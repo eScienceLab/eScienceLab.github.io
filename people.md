@@ -21,14 +21,11 @@ staff:
 - name: Andrew Stewart
   orcid: 0000-0002-9795-4104
   img: AndrewStewart.jpg
-  role: Professor
+  role: Head of Department (Computer Science)
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Senior Research Software Engineer
-- name: Gerard Capes  
-  role: Research IT Software Engineer
-  img: no-photo.png
 - name: Francisco Herrerías-Azcué
   orcid: 0000-0002-5906-221X
   role: Research IT Software Engineer
@@ -57,14 +54,6 @@ staff:
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
   role: Project Portfolio Manager, Community Lead
-- name: Alan R Williams
-  orcid: 0000-0003-3156-2105
-  img: alan-williams-sm.jpg
-  role: Senior Research Software Engineer
-- name: Oliver Woolland
-  orcid: 0000-0002-4565-9760
-  img: oliver.jpeg  
-  role: Research IT Software Engineer
 
 phd:
 - name: Ebtisam Alharbi
@@ -86,6 +75,9 @@ associate:
   orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
+- name: Gerard Capes  
+  role: Research IT Software Engineer
+  img: no-photo.png
 - name: Frederik Coppens
   orcid: 0000-0001-6565-5145
   img: no-photo.png
@@ -164,6 +156,7 @@ former:
 - name: Bharathi Kattamuri
 - name: Anna Leida
   orcid: 0000-0002-5945-1709
+- name: Tong Li
 - name: Robin Long
   orcid: 0000-0003-2249-645X
 - name: Phillip Lord
@@ -202,13 +195,20 @@ former:
   orcid: 0000-0001-5554-7634
 - name: Daniele Turi
 - name: Anil Wipat
+- name: Alan R Williams
+  orcid: 0000-0003-3156-2105
+  img: alan-williams-sm.jpg
+  role: Senior Research Software Engineer
 - name: David Withers
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
+- name: Oliver Woolland
+  orcid: 0000-0002-4565-9760
+  img: oliver.jpeg  
+  role: Research IT Software Engineer
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
-- name: Tong Li
 ---
 
 <div about="https://esciencelab.org.uk/#"  vocab="http://schema.org/" typeof="Organization">
