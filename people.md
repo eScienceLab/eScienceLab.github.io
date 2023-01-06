@@ -56,10 +56,6 @@ staff:
   role: Project Portfolio Manager, Community Lead
 
 phd:
-- name: Ebtisam Alharbi
-  orcid: 0000-0002-3887-3857
-  img: ebtisam-alharbi-sm.jpg
-  role: PhD Student
 - name: Yo Yehudi
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
@@ -107,6 +103,10 @@ associate:
 
 former:
 - name: Sergejs Aleksejevs
+- name: Ebtisam Alharbi
+  orcid: 0000-0002-3887-3857
+  img: ebtisam-alharbi-sm.jpg
+  role: PhD Student
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
 - name: Aitor Apaolaza
