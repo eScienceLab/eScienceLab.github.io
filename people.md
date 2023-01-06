@@ -59,7 +59,7 @@ phd:
 - name: Yo Yehudi
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
-  role: PhD Student  
+  role: EngD student  
 - name: Meznah Aloqalaa
   role: PhD Student
   img: meznah-sm.jpg
