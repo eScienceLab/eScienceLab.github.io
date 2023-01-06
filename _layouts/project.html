@@ -4,7 +4,7 @@ layout: default
 
 <script type="application/ld+json">
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org/",
     "@type": ["Organization", "Project", "ResearchProject"],
     {% if page.description %}
       "description": "{{ page.description }}",
@@ -19,8 +19,11 @@ layout: default
     {% if page.start_date %}
       "foundingDate": "{{ page.start_date }}",
     {% endif %}
+    {% if page.end_date %}
+      "dissolutionDate": "{{ page.end_date }}",
+    {% endif %}    
     {% if page.project_reference %}
-      "ownershipFundingInfo": ["{{ page.project_reference | split: ' ' | join: '","' }}"]
+      "funding": [ "{{ page.project_reference | split: ' ' | join: '","' }}"]
     {% endif %}
   }
   </script>

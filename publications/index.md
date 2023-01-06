@@ -39,41 +39,61 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+## 2023
+
+Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty (2023):  
+[**An analysis of crosswalks from research data schemas to Schema.org**](https://doi.org/10.1162/dint_a_00186).  
+_Data Intelligence_ (accepted)  
+<https://doi.org/10.1162/dint_a_00186>
+
+
 ## 2022 
 
+Vitor Martins dos Santos, Mihail Anton, Barbara Szomolay, Marek Ostaszewski, Ilja Arts, Rui Benfeitas, Victoria Dominguez Del Angel, Polonca Ferk, Dirk Fey, Carole Goble, Martin Golebiewski, Kristina Gruden, Katharina F. Heil, Henning Hermjakob, Pascal Kahlem, Maria I. Klapa, Jasper Koehorst, Alexey Kolodkin, Martina Kutmon, Brane Leskošek, Sébastien Moretti, Wolfgang Müller, Marco Pagni, Tadeja Rezen, Miguel Rocha, Damjana Rozman, David Šafránek, Rahuman S. Malik Sheriff, Maria Suarez Diez, Kristel Van Steen, Hans V Westerhoff, Ulrike Wittig, Katherine Wolstencroft, Anze Zupanic, Chris T. Evelo, John M. Hancock (2022):  
+[**Systems Biology in ELIXIR: modelling in the spotlight**](https://doi.org/10.12688/f1000research.126734.1). [version 1; peer review: awaiting peer review]   
+_F1000Research_ **11**(ELIXIR):1265  
+<https://doi.org/10.12688/f1000research.126734.1>
+
 Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Goble, Paul Groth (2022):  
-[**Updating Linked Data practices for FAIR Digital Object principles**](https://s11.no/2022/phd/updating-ld-for-fdo/).  
-1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (abstract).  
-_Research Ideas and Outcomes_ **8**:e94501
-<https://doi.org/10.3897/rio.8.94501>
-(in production)
+[**Updating Linked Data practices for FAIR Digital Object principles**](https://doi.org/10.3897/rio.8.e94501).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (presentation).  
+_Research Ideas and Outcomes_ **8**:e94501  
+<https://doi.org/10.3897/rio.8.e94501> 
+[[slides](https://doi.org/10.5281/zenodo.7256428)]
 
 Stian Soiland-Reyes, Peter Sefton, Leyla Jael Castro, Frederik Coppens, Daniel Garijo, Simone Leo, Marc Portier, Paul Groth (2022):  
-[**Creating lightweight FAIR Digital Objects with RO-Crate**](https://s11.no//2022/phd/fdo-with-ro-crate/).  
+[**Creating lightweight FAIR Digital Objects with RO-Crate**](https://doi.org/10.3897/rio.8.e93937).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
-_Research Ideas and Outcomes_ **8**:e93937
-<https://doi.org/10.3897/rio.8.93937>
-(in production)
+_Research Ideas and Outcomes_ **8**:e93937  
+<https://doi.org/10.3897/rio.8.e93937>
+[[poster](https://doi.org/10.5281/zenodo.7245315)]
 
 Oliver Woolland, Paul Brack, Stian Soiland-Reyes, Ben Scott, Laurence Livermore (2022):  
-[**Incrementally building FAIR Digital Objects with Specimen Data Refinery workflows**](https://s11.no//2022/phd/incrementally-building-fdos/).  
+[**Incrementally building FAIR Digital Objects with Specimen Data Refinery workflows**](https://doi.org/10.3897/rio.8.e94349).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
-_Research Ideas and Outcomes_ **8**:e94349
-<https://doi.org/10.3897/rio.8.94349>
-(in production)
+_Research Ideas and Outcomes_ **8**:e94349  
+<https://doi.org/10.3897/rio.8.e94349>
+[[poster](https://doi.org/10.5281/zenodo.7233688)]
 
 Paul De Geest, Frederik Coppens, Stian Soiland-Reyes, Ignacio Eguinoa, Simone Leo (2022):  
-[**Enhancing RDM in Galaxy by integrating RO-Crate**](https://s11.no//2022/phd/galaxy-ro-crate/).  
+[**Enhancing RDM in Galaxy by integrating RO-Crate**](https://doi.org/10.3897/rio.8.e95164).  
 1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
-_Research Ideas and Outcomes_ **8**:e95164
-<https://doi.org/10.3897/rio.8.95164>
-(in production)
+_Research Ideas and Outcomes_ **8**:e95164  
+<https://doi.org/10.3897/rio.8.e95164> 
+[[poster](https://doi.org/10.5281/zenodo.7257146)] 
+
+Carlos Martinez-Ortiz, Carole Goble, Daniel S Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, Leyla Jael Castro, Neil Chue Hong, Morane Gruenpeter, Jennifer Harrow, Anna-Lena Lamprecht, Fotis E Psomopoulos (2022):  
+[**How does software fit into the FDO landscape?**](https://doi.org/10.3897/rio.8.e95724).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (presentation)  
+_Research Ideas and Outcomes_ **8**:e95164  
+<https://doi.org/10.3897/rio.8.e95724>
 
 Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland (2022):  
 [**The Specimen Data Refinery: Using a scientific workflow approach for information extraction**](https://doi.org/10.3897/biss.6.93500)  
 Biodiversity Information Standards ([TDWG 2022](https://www.tdwg.org/conferences/2022/)).  
 _Biodiversity Information Science and Standards_ **6**:e93500  
 <https://doi.org/10.3897/biss.6.93500>
+[[slides](https://doi.org/10.6084/m9.figshare.21312345.v1)]
 
 Ebtisam Alharbi (2022):  
 [**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
