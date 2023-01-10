@@ -43,9 +43,9 @@ which is particularly useful for long author lists or long titles.
 ## 2023
 
 Natasha Noy, Carole Goble (2023):  
-**Are We Cobblers without Shoes?: Making Computer Science Data FAIR**.  
+[**Are We Cobblers without Shoes?: Making Computer Science Data FAIR**](https://research.manchester.ac.uk/en/publications/are-we-cobblers-without-shoes-making-computer-science-data-fair).  
 _Communications of the ACM_ **66**(1)  
-<https://doi.org/10.1145/3528574> (no preprint available yet)  
+<https://doi.org/10.1145/3528574>
 
 ## 2022 
 
