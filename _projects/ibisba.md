@@ -30,7 +30,7 @@ Transnational access will be facilitated by an ambition _outreach plan_ that wil
 
 **Interoperability** will be a focus of considerable attention, with actions directed towards harmonization and the implementation of repeatable working practices that integrate experimentation with data analysis, and data management, thus providing the basis for the sharing and reuse of data assets in a framework of Open Science.
 
-Work from IBISBA 1.0 continues in the project [PREP-IBISBA](prep-ibisba.md).
+Work from IBISBA 1.0 continues in the project [PREP-IBISBA](/projects/prep-ibisba/).
 
 ## eScience Lab contributions
 
