@@ -8,7 +8,7 @@ logo:
 website: http://www.helio-vo.eu
 start_date: 2009-06-01
 duration: 42 months
-project_reference: https://cordis.europa.eu/project/id/238969
+project_reference: https://doi.org/10.3030/238969
 expired: true
 ---
 

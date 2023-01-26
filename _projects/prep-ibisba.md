@@ -7,7 +7,7 @@ collection: projects
 description: European Industrial Biotechnology Innovation and Synthetic Biology Accelerator Preparatory Phase
 logo: ibisba-logo.png
 website: https://www.ibisba.eu/
-project_reference: https://cordis.europa.eu/project/id/871118
+project_reference: https://doi.org/10.3030/871118
 start_date: 2020-01-01
 end_date: 2023-12-31
 duration: 4 years

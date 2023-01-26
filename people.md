@@ -7,44 +7,41 @@ head:
 - name: Prof. Carole Goble
   orcid: 0000-0003-1219-2137
   img: carole-goble-sm.jpg
-  role: Head
+  role: Professor, group leader
 
 staff:
 - name: Rachael Ainsworth
   orcid: 0000-0003-2591-9462
   img: rachael-ainsworth.jpg
-  role: Community Manager
+  role: Research Software Manager
 - name: Munazah Andrabi
   orcid: 0000-0002-7718-5109
   img: munazah-andrabi-sm.png
-  role: Research Community Manager
+  role: Life Sciences Informatics Manager
 - name: Andrew Stewart
   orcid: 0000-0002-9795-4104
   img: AndrewStewart.jpg
-  role: Professor
-- name: Aitor Apaolaza
-  orcid: 0000-0002-5530-6846
-  img: aitor-apaolaza-sm.jpg
-  role: Software Developer
+  role: Head of Department (Computer Science)
 - name: Finn Bacall
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
-  role: Software Developer
-- name: Gerard Capes  
-  role: Research Software Engineer
-  img: no-photo.png
+  role: Senior Research Software Engineer
+- name: Francisco Herrerías-Azcué
+  orcid: 0000-0002-5906-221X
+  role: Research IT Software Engineer
+  img: franciscio_herreriasazcue.jpeg
+- name: Lukas Hughes-Noehrer
+  orcid: 0000-0002-9167-0397
+  role: Research Associate
+  img: LNwebres.jpg  
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
-- name: Douglas Lowe
-  orcid: 0000-0002-1248-3594
-  img: douglas-lowe-sm.jpg
-  role: Research Software Engineer
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
-  role: Training Manager, Senior Research Software Engineer
+  role: Technical Training Manager, Senior Research Software Engineer
 - name: Stuart Owen
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
@@ -57,24 +54,12 @@ staff:
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
   role: Project Portfolio Manager, Community Lead
-- name: Alan R Williams
-  orcid: 0000-0003-3156-2105
-  img: alan-williams-sm.jpg
-  role: Senior Research Software Engineer
-- name: Oliver Woolland
-  orcid: 0000-0002-4565-9760
-  img: oliver.jpeg  
-  role: Research Software Engineer
 
 phd:
-- name: Ebtisam Alharbi
-  orcid: 0000-0002-3887-3857
-  img: ebtisam-alharbi-sm.jpg
-  role: PhD Student
 - name: Yo Yehudi
   orcid: 0000-0003-2705-1724
   img: yo-yehudi-sm.jpg
-  role: PhD Student  
+  role: EngD student  
 - name: Meznah Aloqalaa
   role: PhD Student
   img: meznah-sm.jpg
@@ -86,6 +71,9 @@ associate:
   orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
+- name: Gerard Capes  
+  role: Research IT Software Engineer
+  img: no-photo.png
 - name: Frederik Coppens
   orcid: 0000-0001-6565-5145
   img: no-photo.png
@@ -115,8 +103,14 @@ associate:
 
 former:
 - name: Sergejs Aleksejevs
+- name: Ebtisam Alharbi
+  orcid: 0000-0002-3887-3857
+  img: ebtisam-alharbi-sm.jpg
+  role: PhD Student
 - name: Pinar Alper
   orcid: 0000-0002-2224-0780
+- name: Aitor Apaolaza
+  orcid: 0000-0002-5530-6846
 - name: Constantinos Astreos
 - name: Niall Beard
   orcid: 0000-0002-2627-0231
@@ -162,9 +156,12 @@ former:
 - name: Bharathi Kattamuri
 - name: Anna Leida
   orcid: 0000-0002-5945-1709
+- name: Tong Li
 - name: Robin Long
   orcid: 0000-0003-2249-645X
 - name: Phillip Lord
+- name: Douglas Lowe
+  orcid: 0000-0002-1248-3594
 - name: James Marsh
 - name: Catarina Martins
   orcid: 0000-0001-9021-8860
@@ -198,13 +195,20 @@ former:
   orcid: 0000-0001-5554-7634
 - name: Daniele Turi
 - name: Anil Wipat
+- name: Alan R Williams
+  orcid: 0000-0003-3156-2105
+  img: alan-williams-sm.jpg
+  role: Senior Research Software Engineer
 - name: David Withers
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
+- name: Oliver Woolland
+  orcid: 0000-0002-4565-9760
+  img: oliver.jpeg  
+  role: Research IT Software Engineer
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
-- name: Tong Li
 ---
 
 <div about="https://esciencelab.org.uk/#"  vocab="http://schema.org/" typeof="Organization">

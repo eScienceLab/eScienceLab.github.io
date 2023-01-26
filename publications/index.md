@@ -39,11 +39,86 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+
+## 2023
+
+Natasha Noy, Carole Goble (2023):  
+[**Are We Cobblers without Shoes? Making Computer Science Data FAIR**](https://research.manchester.ac.uk/en/publications/are-we-cobblers-without-shoes-making-computer-science-data-fair).  
+_Communications of the ACM_ **66**(1)  
+<https://doi.org/10.1145/3528574>
+
+Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
+**Umbrella Data Management Plans to integrate FAIR data: lessons from the ISIDORe and BY-COVID consortia for pandemic preparedness**.  
+(submitted in Data Science Journal).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.7520086>
+
 ## 2022 
+
+Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty (2022):  
+[**An analysis of crosswalks from research data schemas to Schema.org**](https://doi.org/10.1162/dint_a_00186).  
+_Data Intelligence_  
+<https://doi.org/10.1162/dint_a_00186>
+
+Vitor Martins dos Santos, Mihail Anton, Barbara Szomolay, Marek Ostaszewski, Ilja Arts, Rui Benfeitas, Victoria Dominguez Del Angel, Polonca Ferk, Dirk Fey, Carole Goble, Martin Golebiewski, Kristina Gruden, Katharina F. Heil, Henning Hermjakob, Pascal Kahlem, Maria I. Klapa, Jasper Koehorst, Alexey Kolodkin, Martina Kutmon, Brane Leskošek, Sébastien Moretti, Wolfgang Müller, Marco Pagni, Tadeja Rezen, Miguel Rocha, Damjana Rozman, David Šafránek, Rahuman S. Malik Sheriff, Maria Suarez Diez, Kristel Van Steen, Hans V Westerhoff, Ulrike Wittig, Katherine Wolstencroft, Anze Zupanic, Chris T. Evelo, John M. Hancock (2022):  
+[**Systems Biology in ELIXIR: modelling in the spotlight**](https://doi.org/10.12688/f1000research.126734.1). [version 1; peer review: 1 approved with reservations]   
+_F1000Research_ **11**(ELIXIR):1265  
+<https://doi.org/10.12688/f1000research.126734.1>
+
+Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Goble, Paul Groth (2022):  
+[**Updating Linked Data practices for FAIR Digital Object principles**](https://doi.org/10.3897/rio.8.e94501).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (presentation).  
+_Research Ideas and Outcomes_ **8**:e94501  
+<https://doi.org/10.3897/rio.8.e94501> 
+[[slides](https://doi.org/10.5281/zenodo.7256428)]
+
+Stian Soiland-Reyes, Peter Sefton, Leyla Jael Castro, Frederik Coppens, Daniel Garijo, Simone Leo, Marc Portier, Paul Groth (2022):  
+[**Creating lightweight FAIR Digital Objects with RO-Crate**](https://doi.org/10.3897/rio.8.e93937).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
+_Research Ideas and Outcomes_ **8**:e93937  
+<https://doi.org/10.3897/rio.8.e93937>
+[[poster](https://doi.org/10.5281/zenodo.7245315)]
+
+Oliver Woolland, Paul Brack, Stian Soiland-Reyes, Ben Scott, Laurence Livermore (2022):  
+[**Incrementally building FAIR Digital Objects with Specimen Data Refinery workflows**](https://doi.org/10.3897/rio.8.e94349).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
+_Research Ideas and Outcomes_ **8**:e94349  
+<https://doi.org/10.3897/rio.8.e94349>
+[[poster](https://doi.org/10.5281/zenodo.7233688)]
+
+Paul De Geest, Frederik Coppens, Stian Soiland-Reyes, Ignacio Eguinoa, Simone Leo (2022):  
+[**Enhancing RDM in Galaxy by integrating RO-Crate**](https://doi.org/10.3897/rio.8.e95164).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (poster)  
+_Research Ideas and Outcomes_ **8**:e95164  
+<https://doi.org/10.3897/rio.8.e95164> 
+[[poster](https://doi.org/10.5281/zenodo.7257146)] 
+
+Carlos Martinez-Ortiz, Carole Goble, Daniel S Katz, Tom Honeyman, Paula Andrea Martinez, Michelle Barker, Leyla Jael Castro, Neil Chue Hong, Morane Gruenpeter, Jennifer Harrow, Anna-Lena Lamprecht, Fotis E Psomopoulos (2022):  
+[**How does software fit into the FDO landscape?**](https://doi.org/10.3897/rio.8.e95724).  
+1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/)) (presentation)  
+_Research Ideas and Outcomes_ **8**:e95164  
+<https://doi.org/10.3897/rio.8.e95724>
+
+Laurence Livermore, Paul Brack, Ben Scott, Stian Soiland-Reyes, Oliver Woolland (2022):  
+[**The Specimen Data Refinery: Using a scientific workflow approach for information extraction**](https://doi.org/10.3897/biss.6.93500)  
+Biodiversity Information Standards ([TDWG 2022](https://www.tdwg.org/conferences/2022/)).  
+_Biodiversity Information Science and Standards_ **6**:e93500  
+<https://doi.org/10.3897/biss.6.93500>
+[[slides](https://doi.org/10.6084/m9.figshare.21312345.v1)]
+
+Ebtisam Alharbi (2022):  
+[**The practices, costs and benefits of FAIR implementation in pharmaceutical Research and Development**](https://www.research.manchester.ac.uk/portal/files/224501648/FULL_TEXT.PDF).  
+PhD Thesis, _The University of Manchester_  
+<https://www.research.manchester.ac.uk/portal/en/theses/the-practices-costs-and-benefits-of-fair-implementation-in-pharmaceutical-research-and-development(61faec0b-92d6-4bb6-85ed-c1404cdf510b).html>
+
+Jan G. Bjaalie, Carole Goble, Susanna-Assunta Sansone, Richard Nakamura, Maryann E. Martone (2022):  
+[**Perspectives on Data Sharing and the New NIH Policy from the European Union**](https://doi.org/10.1162/99608f92.bcd0b999).  
+_Harvard Data Science Review_ **4**(3)  
+<https://doi.org/10.1162/99608f92.bcd0b999>
 
 Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfin-Rossaro, Anne Cambon-Thomsen, Manfred Kohler, Gesa Witt, Danielle Welter, Nick Juty, Caroline Jay, Ola Engkvist, Carole Goble, Dorothy S. Reilly, Venkata Satagopam, Vassilios Ioannidis, Wei Gu, Philip Gribbon (2022):  
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
-_Drug Discovery Today_ **27**(8)
+_Drug Discovery Today_ **27**(8)  
 <https://doi.org/10.1016/j.drudis.2022.05.010>
 
 Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
@@ -105,6 +180,11 @@ Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos 
 [**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf).  
 _Research Data Alliance_  
 <https://doi.org/10.15497/RDA00068>
+
+Peter Wittenburg, Ivonne Anders, Christophe Blanchi, Merret Buurman, Carole Goble, Jonas Grieb, Alex Hardisty, Sharif Islam, Thomas Jejkal, Tibor Kálmán, Christine Kirkpatrick, Laurence Lannom, Thomas Lauer, Giridhar Manepalli, Karsten Peters-von Gehlen, Andreas Pfeil, Robert Quick, Mark van de Sanden, Ulrich Schwardmann, Stian Soiland-Reyes, Rainer Stotzka, Zachary Trautt, Dieter Van Uytvanck, Claus Weiland, Philipp Wieder (2022):  
+[**FAIR Digital Object Demonstrators 2021**](https://doi.org/10.5281/zenodo.5872645).   
+Report, FAIR Digital Objects Forum. _Zenodo_  
+<https://doi.org/10.5281/zenodo.5872645>
 
 
 ## 2021
@@ -464,26 +544,26 @@ At _[PROV: Three Years Later](http://provenanceweek.org/2016/p3yl/programme.html
 
 Pablo Carbonell, Andrew Currin, Mark Dunstan, Donal Fellows, Adrian Jervis, Nicholas J.W. Rattray, Christopher J. Robinson, Neil Swainston, Maria Vinaixa, Alan Williams, Cunyu Yan, Perdita Barran, Rainer Breitling, George Guo-Qiang Chen, Jean-Loup Faulon, Carole Goble, Royston Goodacre, Douglas B. Kell, Rosalind Le Feuvre, Jason Micklefield, Nigel S. Scrutton, Philip Shapira, Eriko Takano, Nicholas J. Turner (2016):  
 **SYNBIOCHEM–a SynBio foundry for the biosynthesis and sustainable production of fine and speciality chemicals**.  
-_Biochemical Society Transactions_ **44**(3) 675-677
-[https://doi.org/10.1042/BST20160009](https://doi.org/10.1042/BST20160009)
+_Biochemical Society Transactions_ **44**(3) 675-677  
+<https://doi.org/10.1042/BST20160009>
 
 Pinar Alper, Khalid Belhajjame, Carole A. Goble (2016):  
 **Automatic Versus Manual Provenance Abstractions: Mind the Gap**.  
-_8th USENIX Workshop on the Theory and Practice of Provenance (TaPP 16)_.
+_8th USENIX Workshop on the Theory and Practice of Provenance (TaPP 16)_.  
 [[usenix]](https://www.usenix.org/conference/tapp16/workshop-program/presentation/alper)
 [arxiv:1605.06669](https://arxiv.org/abs/1605.06669)
 [[pdf]](https://www.usenix.org/system/files/conference/tapp16/tapp16-paper-alper.pdf)
 
 Alex R. Hardisty, Finn Bacall, Niall Beard, Maria-Paula Balcázar-Vargas, Bachir Balech, Zoltán Barcza, Sarah J. Bourlat, Renato De Giovanni, Yde de Jong, Francesca De Leo, Laura Dobor, Giacinto Donvito, Donal Fellows, Antonio Fernandez Guerra, Nuno Ferreira, Yuliya Fetyukova, Bruno Fosso, Jonathan Giddy, Carole Goble, Anton Güntsch, Robert Haines, Vera Hernández Ernst, Hannes Hettling, Dóra Hidy, Ferenc Horváth, Dóra Ittzés, Péter Ittzés, Andrew Jones, Renzo Kottmann, Robert Kulawik, Sonja Leidenberger, Päivi Lyytikäinen-Saarenmaa, Cherian Mathew, Norman Morrison, Aleksandra Nenadic, Abraham Nieva de la Hidalga, Matthias Obst, Gerard Oostermeijer, Elisabeth Paymal, Graziano Pesole, Salvatore Pinto, Axel Poigné, Francisco Quevedo Fernandez, Monica Santamaria, Hannu Saarenmaa, Gergely Sipos, Karl-Heinz Sylla, Marko Tähtinen, Saverio Vicario, Rutger Aldo Vos, Alan R. Williams, Pelin Yilmaz (2016):  
 **BioVeL: a virtual laboratory for data analysis and modelling in biodiversity science and ecology**.  
-_BMC Ecology_ **16**(49)
-[https://doi.org/10.1186/s12898-016-0103-y](https://doi.org/10.1186/s12898-016-0103-y)
+_BMC Ecology_ **16**(49)  
+<https://doi.org/10.1186/s12898-016-0103-y>
 [PMID:27765035](http://www.ncbi.nlm.nih.gov/pubmed/27765035)
 
 Caroline Jay, Simon Harper, Ian Dunlop, Sam Smith, Shoaib Sufi, Carole Goble, Iain Buchan (2016):  
 **Natural Language Search Interfaces: Health Data Needs Single-Field Variable Search**.  
-_Journal of Medical Internet Research_ **18**(1):e13
-[https://doi.org/10.2196/jmir.4912](https://doi.org/10.2196/jmir.4912)
+_Journal of Medical Internet Research_ **18**(1):e13  
+<https://doi.org/10.2196/jmir.4912>
 [PMID:26769334](http://www.ncbi.nlm.nih.gov/pubmed/26769334)
 
 Mark D. Wilkinson, Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak,
@@ -493,17 +573,16 @@ Alejandra Gonzalez-Beltran, Alasdair J.G. Gray, Paul Groth, Carole Goble, Jeffre
 Peter A.C ’t Hoen, Rob Hooft, Tobias Kuhn, Ruben Kok, Joost Kok, Scott J. Lusher, Maryann E. Martone, Albert Mons,
 Abel L. Packer, Bengt Persson, Philippe Rocca-Serra, Marco Roos, Rene van Schaik, Susanna-Assunta Sansone, Erik Schultes,
 Thierry Sengstag, Ted Slater, George Strawn, Morris A. Swertz, Mark Thompson, Johan van der Lei, Erik van Mulligen,
-Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao, Barend Mons (2016)  
+Jan Velterop, Andra Waagmeester, Peter Wittenburg, Katherine Wolstencroft, Jun Zhao, Barend Mons (2016):  
 **The FAIR Guiding Principles for scientific data management and stewardship**.  
-_Nature Scientific Data_ **3**, 2016
+_Nature Scientific Data_ **3**
 [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
 David Nickerson, Koray Atalag, Bernard de Bono, Jörg Geiger, Carole Goble, Susanne Hollmann, Joachim Lonien, Wolfgang Müller, Babette Regierer, Natalie J. Stanford, Martin Golebiewski, Peter Hunter (2016):  
 **The Human Physiome: how standards, software and innovative service infrastructures are providing the building blocks to make it achievable**  
-_Interface Focus_ **6**:20150103.
+_Interface Focus_ **6**:20150103.  
+<https://doi.org/10.1098/rsfs.2015.0103>
 [[pdf]](http://rsfs.royalsocietypublishing.org/content/royfocus/6/2/20150103.full.pdf)
-[https://doi.org/10.1098/rsfs.2015.0103](https://doi.org/10.1098/rsfs.2015.0103 )
-
 
 Alice Allen, Cecilia Aragon, Christoph Becker, Jeffrey Carver, Andrei Chis, Benoit Combemale, Mike Croucher, Kevin Crowston, Daniel Garijo, Ashish Gehani, Carole Goble, Robert Haines, Robert Hirschfeld, James Howison, Kathryn Huff, Caroline Jay, Daniel Katz, Claude Kirchner, Kateryna Kuksenok, Ralf Lämmel, Oscar Nierstrasz, Matthew Turk, Rob Van Nieuwpoort, Matthew Vaughn, Jurgen Vinju (2016):  
 **Lightning Talk: "I solemnly pledge" A Manifesto for Personal Responsibility in the Engineering of Academic Software**  
@@ -516,7 +595,7 @@ Peter Amstutz, Michael R. Crusoe, Nebojša Tijanić (editors), Brad Chapman, Joh
 **Common Workflow Language, v1.0**  
 Specification, _Common Workflow Language working group_.  
 [https://w3id.org/cwl/v1.0/](https://w3id.org/cwl/v1.0/)
-[https://doi.org/10.6084/m9.figshare.3115156.v2](https://doi.org/10.6084/m9.figshare.3115156.v2)
+<https://doi.org/10.6084/m9.figshare.3115156.v2>
 
 
 ## 2015
@@ -554,13 +633,13 @@ _IEEE Transactions on Services Computing_ **8**(3)
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Matthew Gamble, Kristina Hettne, Raul Palma, Eleni Mina, Oscar Corcho, José Manuel Gómez-Pérez, Sean Bechhofer, Graham Klyne, Carole Goble (2015):  
 **Using a suite of ontologies for preserving workflow-centric research objects**.  
-_Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32** May 2015 pp 16-,
-[https://doi.org/10.1016/j.websem.2015.01.003](https://doi.org/10.1016/j.websem.2015.01.003)
+_Journal of Web Semantics: Scence, Services and Agents on the World Wide Web_ **32**  
+<https://doi.org/10.1016/j.websem.2015.01.003>
 
 Jon Ison, Kristoffer Rapacki, Hervé Ménager, Matúš Kalaš, Emil Rydza, Piotr Chmura, Christian Anthon, Niall Beard, Karel Berka, Dan Bolser, Tim Booth, Anthony Bretaudeau,, Jan Brezovsky, Rita Casadio, Gianni Cesareni, Frederik Coppens,, Michael Cornell, Gianmauro Cuccuru, Kristian Davidsen, Gianluca Della Vedova, Tunca Dogan, Olivia Doppelt-Azeroual, Laura Emery, Elisabeth Gasteiger, Thomas Gatter, Tatyana Goldberg, Marie Grosjean, Björn Grüning, Manuela Helmer-Citterich, Hans Ienasescu, Vassilios Ioannidis, Martin Closter Jespersen, Rafael Jimenez, Nick Juty, Peter Juvan, Maximilian Koch, Camille Laibe, Jing-Woei Li,, Luana Licata, Fabien Mareuil, Ivan Mičetić, Rune Møllegaard Friborg, Sebastien Moretti,, Chris Morris, Steffen Möller, Aleksandra Nenadic, Hedi Peterson, Giuseppe Profiti, Peter Rice, Paolo Romano, Paola Roncaglia, Rabie Saidi, Andrea Schafferhans, Veit Schwämmle, Callum Smith, Maria Maddalena Sperotto, Heinz Stockinger, Radka Svobodová Vařeková, Silvio C.E. Tosatto, Victor de la Torre, Paolo Uva, Allegra Via, Guy Yachdav, Federico Zambelli, Gert Vriend, Burkhard Rost, Helen Parkinson, Peter Løngreen and Søren Brunak (2015):  
 **Tools and data services registry: a community effort to document bioinformatics resources**.  
-_Nucleic Acids Research_ 2015 gkv1116.
-[https://doi.org/10.1093/nar/gkv1116](https://doi.org/10.1093/nar/gkv1116)
+_Nucleic Acids Research_ **44**(D1)  
+<https://doi.org/10.1093/nar/gkv1116>
 
 ## 2014
 Timothy Clark (2014):  
@@ -575,8 +654,8 @@ PhD Thesis, _The University of Manchester_ [uk.bl.ethos.617974](https://ethos.bl
 
 Carole Goble (2014):  
 **Better Software, Better Research**.  
-_IEEE Internet Computing_ **18**(5) pp.4-, Sept/Oct 2014. Editorial.
-[https://doi.org/10.1109/MIC.2014.88](https://doi.org/10.1109/MIC.2014.88)
+_IEEE Internet Computing_ **18**(5)  
+<https://doi.org/10.1109/MIC.2014.88>
 [[preprint]](http://www.software.ac.uk/resources/publications/better-software-better-research)
 
 Carole Goble, Alasdair J G Gray, Eleftherios Tatakis (2014):  
@@ -587,7 +666,8 @@ _CEUR Workshop Proeedings_ **1272**:33
 
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014):  
 **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**.  
-_Biodiversity Data Journal 12/2014_; **2**:e4221. [https://doi.org/10.3897/BDJ.2.e4221](https://doi.org/10.3897/BDJ.2.e4221)
+_Biodiversity Data Journal 12/2014_; **2**:e4221  
+<https://doi.org/10.3897/BDJ.2.e4221>
 
 Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve Pettifer (2014):  
 **API-centric Linked Data integration: The Open PHACTS Discovery Platform case study**.  
@@ -600,33 +680,33 @@ Khalid Belhajjame,
 Carole A. Goble,
 Pinar Karagoz (2014):  
 **LabelFlow: Exploiting Workflow Provenance to Surface Scientific Data Provenance**.  
-_Provenance and Annotation of Data and Processes_, 5th International Provenance and Annotation Workshop, IPAW 20, Cologne, Germany, June 9-, 2014. Revised Selected Papers.
-[https://doi.org/10.1007/978-3-319-16462-5_7](https://doi.org/10.1007/978-3-319-16462-5_7)
+_Provenance and Annotation of Data and Processes_, 5th International Provenance and Annotation Workshop, IPAW 20, Cologne, Germany, June 9-, 2014. Revised Selected Papers.  
+<https://doi.org/10.1007/978-3-319-16462-5_7>
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226843&datastreamId=FULL-TEXT.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226843)
 
 Sarah Cohen Boulakia, Jiuqiang Chen, Paolo Missier, Carole A. Goble, Alan R. Williams (2014):  
 **Distilling structure in Taverna scientific workflows: a refactoring approach**.  
-_BMC Bioinformatics_ **15** (Suppl 1), S12.
-[https://doi.org/10.1186/1471-2105-15-S1-S12](https://doi.org/10.1186/1471-2105-15-S1-S12)
+_BMC Bioinformatics_ **15** (Suppl 1), S12.  
+<https://doi.org/10.1186/1471-2105-15-S1-S12>
 
 Judy Qiu, Ian T. Foster, Carole A. Goble (2014):  
 **Emerging Computational Methods for the Life Sciences Workshop 2012**.  
-_Concurrency and Computation: Practice and Experience_ **26**(6): 1231-1233
-[https://doi.org/10.1002/cpe.3101](https://doi.org/10.1002/cpe.3101)
+_Concurrency and Computation: Practice and Experience_ **26**(6)  
+<https://doi.org/10.1002/cpe.3101>
 
 Pinar Alper, Carole A Goble, Khalid Belhajjame (2014):  
 **On assisting scientific data curation in collection-based dataflows using labels.**. 
-_Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_. pp 7-16
-[https://doi.org/10.1145/2534248.2534249](https://doi.org/10.1145/2534248.2534249)
+_Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science_  
+<https://doi.org/10.1145/2534248.2534249>
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:236944)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:236944&datastreamId=SUPPLEMENTARY-1.PDF)
 
 
 Kristina M. Hettne, Harish Dharuri, Jun Zhao, Katherine Wolstencroft, Khalid Belhajjame, Stian Soiland-Reyes, Eleni Mina, Mark Thompson, Don Cruickshank, Lourdes Verdes-Montenegro, Julián Garrido, David De Roure, Óscar Corcho, Graham Klyne, Reinout van Schouwen, Peter A. C. 't Hoen, Sean Bechhofer, Carole A. Goble, Marco Roos (2014):  
 **Structuring research methods and data with the research object model: genomics workflows as a case study**.  
-_Journal of Biomedical Semantics_ **5**:41 [https://doi.org/10.1186/2041-1480-5-41](https://doi.org/10.1186/2041-1480-5-41)
-
+_Journal of Biomedical Semantics_ **5**:41  
+<https://doi.org/10.1186/2041-1480-5-41>
 
 Aidan Budd,
 Manuel Corpas,
@@ -639,66 +719,69 @@ B. F. Francis Ouellette,
 Aleksandra Pawlik,
 Niklas Blomberg (2014):  
 **A Quick Guide for Establishing a Successful Bioinformatics Community**.  
-_PLoS Computational Biology_ **11**(2): e1003972
-[https://doi.org/10.1371/journal.pcbi.1003972](https://doi.org/10.1371/journal.pcbi.1003972)
+_PLoS Computational Biology_ **11**(2): e1003972  
+<https://doi.org/10.1371/journal.pcbi.1003972>
 
 Rutger Aldo Vos, Jordan Valkov Biserkov, Bachir Balech, Niall Beard, Matthew Blissett, Christian Brenninkmeijer, Tom van Dooren, David Eades, George Gosline, Quentin John Groom, Thomas D. Hamann, Hannes Hettling, Robert Hoehndorf, Ayco Holleman, Peter Hovenkamp, Patricia Kelbert, David King, Don Kirkup, Youri Lammers, Thibaut DeMeulemeester, Daniel Mietchen, Jeremy A. Miller, Ross Mounce, Nicola Nicolson, Rod Page, Aleksandra Pawlik, Serrano Pereira, Lyubomir Penev, Kevin Richards, Guido Sautter, David Peter Shorthouse, Marko Tähtinen, Claus Weiland, Alan R. Williams, Soraya Sierra (2014):  
 **Enriched biodiversity data as a resource and service**.  
-_Biodiversity Data Journal_ **2**: e1125
-[https://doi.org/10.3897/BDJ.2.e1125](https://doi.org/10.3897/BDJ.2.e1125)
+_Biodiversity Data Journal_ **2**:e1125  
+<https://doi.org/10.3897/BDJ.2.e1125>
 
 Kevin R. Page, Raul Palma, Piotr Hołubowicz, Graham Klyne, Stian Soiland-Reyes, Daniel Garijo, Khalid Belhajjame, and Rudolf Mayer (2014):  
 **Research Objects for Audio Processing: Capturing Semantics for Reproducibility**.  
-_53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7
+_53rd Audio Engineering Society International Conference on Semantic Audio_, January 2014. ISBN: 978-0-937803-96-7  
 [[Proceedings]](http://www.aes.org/e-lib/browse.cfm?elib=17116)
 [[Preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:213117&datastreamId=SUPPLEMENTARY-1.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:213117)
 
 Steffen Möller, Enis Afgan, Michael Banck, Raoul J P Bonnal, Timothy Booth, John Chilton, Peter J A Cock, Markus Gumbel, Nomi Harris, Richard Holland, Matúš Kalaš, László Kaján, David R. Powell, Pjotr Prins, Jacqueline Quinn, Olivier Sallou, Francesco Strozzi, Torsten Seemann, Clare Sloggett, Stian Soiland-Reyes, Sascha Steinbiss, Andreas Tille, Anthony J. Travis, Roman Valls Guimera, Toshiaki Katayama, Brad A. Chapman (2014):  
 **Community-driven development for computational biology at Sprints, Hackathons and Codefests**.  
-_BMC Bioinformatics_ **15**(Suppl 14):S7 Supplement NETTAB 2013. [https://doi.org/10.1186/1471-2105-15-S14-S7](https://doi.org/10.1186/1471-2105-15-S14-S7)
+_BMC Bioinformatics_ **15**(Suppl 14):S7   
+<https://doi.org/10.1186/1471-2105-15-S14-S7>
 
 Frank T Bergmann, Richard Adams, Stuart Moodie, Jonathan Cooper, Mihai Glont, Martin Golebiewski, Michael Hucka, Camille Laibe, Andrew K Miller, David P Nickerson, Brett G Olivier, Nicolas Rodriguez, Herbert M Sauro, Martin Scharm, Stian Soiland-Reyes, Dagmar Waltemath, Florent Yvon, Nicolas Le Novère (2014):  
 **COMBINE archive and OMEX format: one file to share all information to reproduce a modeling project**.  
-_BMC Bioinformatics_ **15**(1), p. 3, [https://doi.org/10.1186/s12859-014-0369-z](https://doi.org/10.1186/s12859-014-0369-z)
+_BMC Bioinformatics_ **15**(1)  
+<https://doi.org/10.1186/s12859-014-0369-z>
 
 Palma Raul, Piotr Hołubowicz, Kevin Page, Stian Soiland-Reyes, Graham Klyne, Cezary Mazurek (2014):  
 **A Suite of APIs for the Management of Research Objects**.  
-_ISWC-DEV 2014: Proceedings of the ISWC Developers Workshop 2014_, CEUR-WS.org online [http://ceur-ws.org/Vol-1268/paper8.pdf](http://ceur-ws.org/Vol-1268/paper8.pdf)
+_ISWC-DEV 2014: Proceedings of the ISWC Developers Workshop 2014_, CEUR-WS.org online  
+<http://ceur-ws.org/Vol-1268/paper8.pdf>
 
 Emily Merrill, Stéphane Corlosquet, Paolo Ciccarese, Tim Clark, Sudeshna Das (2014):  
 **Semantic Web repositories for genomics data using the eXframe platform**. 
-_Journal of Biomedical Semantics_ **5**(Suppl 1):S3
-[https://doi.org/10.1186/2041-1480-5-S1-S3](https://doi.org/10.1186/2041-1480-5-S1-S3)
+_Journal of Biomedical Semantics_ **5**(Suppl 1):S3  
+<https://doi.org/10.1186/2041-1480-5-S1-S3>
 
 Shoaib Sufi, Neil Chue Hong, Simon Hettrick, Mario Antonioletti, Stephen Crouch, Alexander Hay, Devasena Inupakutika, Mike Jackson, Aleksandra Pawlik, Giacomo Peru, John Robinson, Les Carr, David De Roure, Carole Goble, Mark Parsons (2014):  
 **Software in reproducible research: advice and best practice collected from experiences at the collaborations workshop.**  
-_Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering_. 2014.  
-[https://doi.org/10.1145/2618137.2618140](https://doi.org/10.1145/2618137.2618140)
+_Proceedings of the 1st ACM SIGPLAN Workshop on Reproducible Research Methodologies and New Publication Models in Computer Engineering_.   
+<https://doi.org/10.1145/2618137.2618140>
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:226534&datastreamId=FULL-TEXT.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:226534)
 
 Ramona L. Walls, John Deck, Robert Guralnick, Steve Baskauf, Reed Beaman, Stanley Blum, Shawn Bowers, Pier Luigi Buttigieg, Neil Davies, Dag Endresen, Maria Alejandra Gandolfo, Robert Hanner, Alyssa Janning, Leonard Krishtalka, Andréa Matsunaga, Peter Midford, Norman Morrison, Éamonn Ó. Tuama, Mark Schildhauer, Barry Smith, Brian J. Stucky, Andrea Thomer, John Wieczorek, Jamie Whitacre, John Wooley (2014):  
 **Semantics in Support of Biodiversity Knowledge Discovery: An Introduction to the Biological Collections Ontology and Related Ontologies**.  
-_PLoS ONE_ **9**(3): e89606
-[https://doi.org/10.1371/journal.pone.0089606](https://doi.org/10.1371/journal.pone.0089606)
+_PLoS ONE_ **9**(3): e89606  
+<https://doi.org/10.1371/journal.pone.0089606>
 
 Neil Davies, Dawn Field, Linda Amaral-Zettler, Katharine Barker, Mesude Bicak, Sarah Bourlat, Jonathan Coddington, John Deck, Alexei Drummond, Jack A. Gilbert, Frank Oliver Glöckner, Renzo Kottmann, Chris Meyer, Norman Morrison, Matthias Obst, Robert Robbins, Lynn Schriml, Peter Sterk, Steven Stones-Havas (2014):  
 **Report of the 14th Genomic Standards Consortium Meeting, Oxford, UK, September 17-21, 2012**.  
-_Standards in Genomics Disease_ **9**(3): 1236–1250. 
-[https://doi.org/10.4056/sigs.4319681](https://doi.org/10.4056/sigs.4319681)
+_Standards in Genomics Disease_ **9**(3): 1236–1250.  
+<https://doi.org/10.4056/sigs.4319681>
 [pubmed:PMC4148987](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148987/)
 
 Dawn Field, Peter Sterk, Renzo Kottmann, J. Wim De Smet, Linda Amaral-Zettler, Guy Cochrane, James R. Cole, Neil Davies, Peter Dawyndt, George M. Garrity, Jack A. Gilbert, Frank Oliver Glöckner, Lynette Hirschman, Hans-Peter Klenk, Rob Knight, Nikos Kyrpides, Folker Meyer, Ilene Karsch-Mizrachi, Norman Morrison, Robert Robbins, Inigo San Gil, Susanna Sansone, Lynn Schriml, Tatiana Tatusova, Dave Ussery, Pelin Yilmaz, Owen White, John Wooley, Gregory Caporaso (2014):  
 **Genomic Standards Consortium Projects**.  
-_Standards in Genomics Disease_ **9**(3): 599–601. 
-[https://doi.org/10.4056/sigs.5559680](https://doi.org/10.4056/sigs.5559680)
+_Standards in Genomics Disease_ **9**(3): 599–601.  
+<https://doi.org/10.4056/sigs.5559680>
 [pubmed:PMC4148985](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4148985/)
 
 Neil Davies, Dawn Field, Linda Amaral-Zettler, Melody S Clark, John Deck, Alexei Drummond, Daniel P Faith, Jonathan Geller, Jack Gilbert, Frank Oliver Glöckner, Penny R Hirsch, Jo-Ann Leong, Chris Meyer, Matthias Obst, Serge Planes, Chris Scholin, Alfried P Vogler, Ruth D Gates, Rob Toonen, Véronique Berteaux-Lecellier, Michèle Barbier, Katherine Barker, Stefan Bertilsson, Mesude Bicak, Matthew J Bietz, Jason Bobe, Levente Bodrossy, Angel Borja, Jonathan Coddington, Jed Fuhrman, Gunnar Gerdts, Rosemary Gillespie, Kelly Goodwin, Paul C Hanson, Jean-Marc Hero, David Hoekman, Janet Jansson, Christian Jeanthon, Rebecca Kao, Anna Klindworth, Rob Knight, Renzo Kottmann, Michelle S Koo, Georgios Kotoulas, Andrew J Lowe, Viggó Thór Marteinsson, Folker Meyer, Norman Morrison, David D Myrold, Evangelos Pafilis, Stephanie Parker, John Jacob Parnell, Paraskevi N Polymenakou, Sujeevan Ratnasingham, George K Roderick, Naiara Rodriguez-Ezpeleta, Karsten Schonrogge, Nathalie Simon, Nathalie J Valette-Silver, Yuri P Springer, Graham N Stone, Steve Stones-Havas, Susanna-Assunta Sansone, Kate M Thibault, Patricia Wecker, Antje Wichels, John C Wooley, Tetsukazu Yahara, Adriana Zingone, GOs-COS (2014):  
 **The founding charter of the Genomic Observatories Network**.  
-_GigaScience_ **3**:2
-[https://doi.org/10.1186/2047-217X-3-2](https://doi.org/10.1186/2047-217X-3-2)
+_GigaScience_ **3**:2  
+<https://doi.org/10.1186/2047-217X-3-2>
 
 Alasdair J. G. Gray, Paul Groth, Antonis Loizou, Sune Askjaer, Christian Brenninkmeijer, Kees Burger, Christine Chichester, Chris T. Evelo, Carole Goble, Lee Harland, Steve Pettifer, Mark Thompson, Andra Waagmeester, Antony J. Williams (2014):  
 **Applying linked data approaches to pharmacology: Architectural decisions and implementation**.  
@@ -716,28 +799,31 @@ _PLOS ONE_ **9**(12): e115460.
 
 Katherine Wolstencroft, Robert Haines, Donal Fellows, Alan Williams, David Withers, Stuart Owen, Stian Soiland-Reyes, Ian Dunlop, Aleksandra Nenadic, Paul Fisher, Jiten Bhagat, Khalid Belhajjame, Finn Bacall, Alex Hardisty, Abraham Nieva de la Hidalga, Maria P. Balcazar Vargas, Shoaib Sufi, Carole Goble (2013):  
 **The Taverna workflow suite: designing and executing workflows of Web Services on the desktop, web or in the cloud**.  
-_Nucleic Acids Research_ **41**(W1), W557-W561. [https://doi.org/10.1093/nar/gkt328](https://doi.org/10.1093/nar/gkt328)
+_Nucleic Acids Research_ **41**(W1), W557-W561.  
+<https://doi.org/10.1093/nar/gkt328>
 
 Hyde Zhang, Stian Soiland-Reyes, Carole Goble (2013):  
 **Taverna Mobile: Taverna workflows on Android**.  
-_EMBnet.journal_ **19**(B). [https://doi.org/10.14806/ej.19.B.727](https://doi.org/10.14806/ej.19.B.727) [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
+_EMBnet.journal_ **19**(B).  
+<https://doi.org/10.14806/ej.19.B.727> [[pdf]](http://journal.embnet.org/index.php/embnetjournal/article/view/727/1047)
 
-Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013): 
-**Web Annotation as a First Class Object**. _IEEE Internet Computing_ **17**(6) pp 71-75.
-[https://doi.org/10.1109/MIC.2013.123](https://doi.org/10.1109/MIC.2013.123)
+Paolo Ciccarese, Stian Soiland-Reyes, Tim Clark (2013):  
+**Web Annotation as a First Class Object**.  
+_IEEE Internet Computing_ **17**(6) pp 71-75.  
+<https://doi.org/10.1109/MIC.2013.123>
 [[html]](http://s11.no/2013/web-annotation/)
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/web-annotation-as-a-firstclass-object(16ac93c0-c2af-4e73-b5f8-7d0582556dd7).html)
 [arXiv:1310.6555](http://arxiv.org/abs/1310.6555)
 
-Katherine Wolstencroft, Stuart Owen, Olga Krebs, Wolfgang Mueller, Quyen Nguyen, Jacky L. Snoep, Carole Goble (2013)
-**Semantic Data and Models Sharing in Systems Biology: The Just Enough Results Model and the SEEK Platform**
+Katherine Wolstencroft, Stuart Owen, Olga Krebs, Wolfgang Mueller, Quyen Nguyen, Jacky L. Snoep, Carole Goble (2013):  
+**Semantic Data and Models Sharing in Systems Biology: The Just Enough Results Model and the SEEK Platform**.
 _The Semantic Web – ISWC 2013, October 21-25, 2013, Proceedings, Part II_ pp 212-227.
 [https://doi.org/10.1007/978-3-642-41338-4_14](https://doi.org/10.1007/978-3-642-41338-4_14)
 
 Sean Bechhofer, Iain Buchan, David De Roure, Paolo Missier, John Ainsworth, Jiten Bhagat, Phillip Couch, Don Cruickshank, Mark Delderfield, Ian Dunlop, Matthew Gamble, Danius Michaelides, Stuart Owen, David Newman, Shoaib Sufi, Carole Goble (2013):  
 **Why Linked Data is Not Enough for Scientists**.  
-_Future Generation Computer Systems_ **29**(2), February 2013, Pages 599-611
-[https://doi.org/10.1016/j.future.2011.08.004](https://doi.org/10.1016/j.future.2011.08.004) [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(479e591e-b295-4478-b0c7-a145c19dcd45).html) [[pdf]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
+_Future Generation Computer Systems_ **29**(2)  
+<https://doi.org/10.1016/j.future.2011.08.004> [[preprint]](http://users.ox.ac.uk/~oerc0033/preprints/research-objects.pdf) [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/why-linked-data-is-not-enough-for-scientists(479e591e-b295-4478-b0c7-a145c19dcd45).html) [[pdf]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:131684&datastreamId=POST-PEER-REVIEW-NON-PUBLISHERS.PDF)
 
 Paolo Ciccarese, Stian Soiland-Reyes, Khalid Belhajjame, Alasdair JG Gray, Carole Goble, Tim Clark (2013):  
 [**PAV ontology: provenance, authoring and versioning**](https://doi.org/10.1186/2041-1480-4-37).  
@@ -746,21 +832,22 @@ _Journal of Biomedical Semantics_ **4**:1, 37.
 
 Daniel Garijo, Pinar Alper, Khalid Belhajjame, Oscar Corcho, Yolanda Gil, Carole Goble (2013):  
 **Common motifs in scientific workflows: An empirical analysis**.  
-_Future Generation Computer Systems_, **36** pp 338-351.
-[https://doi.org/10.1016/j.future.2013.09.018](https://doi.org/10.1016/j.future.2013.09.018)
+_Future Generation Computer Systems_, **36** pp 338-351.  
+<https://doi.org/10.1016/j.future.2013.09.018>
 [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
 
 Carole Goble, David De Roure, Sean Bechhofer (2013):  
 **Accelerating Scientists’ Knowledge Turns**.  
-Knowledge Discovery, Knowledge Engineering and Knowledge Management (Revised Selected Papers of Third International Joint Conference, IC3K 2011, Paris, France, October 26-29, 2011, editors: Ana Fred, Jan L. G. Dietz, Kecheng Liu, Joaquim Filipe). _Communications in Computer and Information Science_ **348** Springer Berlin Heidelberg, 2013. 3-25. 8 June 2013.
-[https://doi.org/10.1007/978-3-642-37186-8_1](https://doi.org/10.1007/978-3-642-37186-8_1)
+Knowledge Discovery, Knowledge Engineering and Knowledge Management.  
+_Communications in Computer and Information Science_ **348**    
+<https://doi.org/10.1007/978-3-642-37186-8_1>
 [[preprint server]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
 [[preprint]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):  
 **A workflow PROV-corpus based on Taverna and Wings**.  
-_Proceedings of the Joint EDBT/ICDT 2013 Workshops_, ACM, New York, NY, USA, pp. 331–332.
-[https://doi.org/10.1145/2457317.2457376](https://doi.org/10.1145/2457317.2457376)
+_Proceedings of the Joint EDBT/ICDT 2013 Workshops_  
+<https://doi.org/10.1145/2457317.2457376>
 [[pdf]](http://delicias.dia.fi.upm.es/members/dgarijo/papers/prov-bench-paper.pdf)
 [[related website]](https://github.com/provbench/Wf4Ever-PROV)
 
@@ -780,8 +867,8 @@ _CEUR Workshop Proeedings_ **951**:5
 
 Tim Clark, Paolo Ciccarese, Carole A Goble (2013):  
 **Micropublications: a Semantic Model for Claims, Evidence, Arguments and Annotations in Biomedical Communications**.  
-_Journal of Biomedical Semantics_ **5**:28
-[https://doi.org/10.1186/2041-1480-5-28](https://doi.org/10.1186/2041-1480-5-28)
+_Journal of Biomedical Semantics_ **5**:28  
+<https://doi.org/10.1186/2041-1480-5-28>
 [[poster]](http://f1000research.com/posters/1093963)
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):  
@@ -793,27 +880,28 @@ _CEUR Workshop Proeedings_ **1114**:4
 
 Pinar Alper, Khalid Belhajjame, Carole Goble, Pinar Karagoz (2013):  
 **Small Is Beautiful: Summarizing Scientific Workflows Using Semantic Annotations**.  
-_2013 IEEE International Congress on Big Data_
-[https://doi.org/10.1109/BigData.Congress.2013.49](https://doi.org/10.1109/BigData.Congress.2013.49)
+_2013 IEEE International Congress on Big Data_  
+<https://doi.org/10.1109/BigData.Congress.2013.49>
 [[pdf]](http://www.computer.org/csdl/proceedings/bigdatacongress/2013/5006/00/5006a318.pdf)
 
 Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):  
 **Enhancing and abstracting scientific workflow provenance for data publishing**.  
-_Proceedings of the Joint EDBT/ICDT 2013 Workshops_, pp. 313-318. ACM, 2013.
-[https://doi.org/10.1145/2457317.2457370](https://doi.org/10.1145/2457317.2457370)
+_Proceedings of the Joint EDBT/ICDT 2013 Workshops_  
+<https://doi.org/10.1145/2457317.2457370>
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:282297)
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:282297&datastreamId=SUPPLEMENTARY-1.PDF)
 
 Anja Le Blanc, John Brooke, Donal Fellows, Marco Soldati, David Pérez-Suárez, Alessandro Marassi & Andrej Santin (2013):  
 **Workflows for Heliophysics**.  
-_Journal of Grid Computing_ **11**(3), 481-503. [https://doi.org/10.1007/s10723-013-9256-5](https://doi.org/10.1007/s10723-013-9256-5)
+_Journal of Grid Computing_ **11**(3)  
+<https://doi.org/10.1007/s10723-013-9256-5>
 [[researchgate]](https://www.researchgate.net/publication/236683534_Workflows_for_Heliophysics)
 
 Stephen Crouch, Neil Chue Hong, Simon Hettrick, Mike Jackson, Aleksandra Pawlik, Shoaib Sufi, Les Carr, David De Roure, Carole Goble, Mark Parsons (2013):  
 **The Software Sustainability Institute: Changing Research Software Attitudes and Practices**.  
 _Computing in Science and Engineering_
-**15**(6) pp 74-80
-[https://doi.org/10.1109/MCSE.2013.133](https://doi.org/10.1109/MCSE.2013.133) [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
+**15**(6)  
+<https://doi.org/10.1109/MCSE.2013.133> [[postprint]](http://www.software.ac.uk/software-sustainability-institute-changing-research-software-attitudes-and-practices)
 
 Paolo Missier, Saumen Dey, Khalid Belhajjame, Victor Cuevas-Vicenttín, Bertram Ludäscher (2013):  
 **D-PROV: Extending the PROV Provenance Model with Workﬂow Structure**.  
@@ -824,12 +912,12 @@ _5th USENIX Workshop on the Theory and Practice of Provenance (TaPP '13)_., Lomb
 Pier Luigi Buttigieg, Norman Morrison, Barry Smith, Christopher J Mungall, Suzanna E Lewis, the ENVO Consortium	(2013):  
 **The environment ontology: contextualising biological and biomedical entities**.  
 _Journal of Biomedical Semantics_ 2013, **4**:43  
-[https://doi.org/10.1186/2041-1480-4-43](https://doi.org/10.1186/2041-1480-4-43)
+<https://doi.org/10.1186/2041-1480-4-43>
 
 John Deck, Katharine Barker, Reed Beaman, Pier Luigi Buttigieg, Gabriele Dröge, Robert Guralnick, Chuck Miller, Éamonn Ó Tuama, Zack Murrell, Cynthia Parr, Bob Robbins, Dmitry Schigel, Brian Stucky, Ramona Walls, John Wieczorek, Norman Morrison, John Wooley (2013):  
 **Clarifying Concepts and Terms in Biodiversity Informatics**.  
-_Standards in Genomics Sciences_ **8**(2): 352–359. 
-[https://doi.org/10.4056/sigs.3907833](https://doi.org/10.4056/sigs.3907833)
+_Standards in Genomics Sciences_ **8**(2): 352–359.  
+<https://doi.org/10.4056/sigs.3907833>
 [pubmed:PMC3746421](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746421/)
 
 Jun Zhao, Graham Klyne, Matthew Gamble and Carole Goble (2013):  
@@ -838,7 +926,7 @@ _3rd International Workshop on Linked Science 2013_ ([[researchgate]](https://ww
 
 Sonja Holl, Daniel Garijo, Khalid Belhajjame, Olav Zimmermann, Renato De Giovanni, Matthias Obst, Carole Goble (2013):  
 **On Specifying and Sharing Scientific Workflow Optimization Results Using Research Objects**.  
-_Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science (WORKS '13)_.
+_Proceedings of the 8th Workshop on Workflows in Support of Large-Scale Science (WORKS '13)_.  
 [https://doi.org/10.1145/2534248.2534251](https://doi.org/10.1145/2534248.2534251)
 [[pdf]](http://dgarijo.com/papers/works13.pdf)
 

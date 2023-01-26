@@ -7,7 +7,7 @@ collection: projects
 description: Bringing together pharmacological data resources in an integrated, interoperable infrastructure
 logo: openphacts.svg
 website: http://www.openphacts.org/
-project_reference: http://www.imi.europa.eu/content/open-phacts
+project_reference: https://cordis.europa.eu/project/id/115191
 start_date: 2011-03-01
 end_date: 2016-02-29
 duration: 5 years

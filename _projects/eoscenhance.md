@@ -9,7 +9,7 @@ logo: eoscenhance.png
 website: https://www.eosc-portal.eu/enhance
 start_date: 2019-12-01
 duration: 24 months
-project_reference: https://cordis.europa.eu/project/id/871160
+project_reference: https://doi.org/10.3030/871160
 expired: true
 ---
 

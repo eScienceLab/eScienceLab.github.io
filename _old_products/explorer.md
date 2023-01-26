@@ -14,4 +14,4 @@ The [Open PHACTS Explorer](https://explorer.openphacts.org) provides an intuitiv
 
 During the integration process, chemistry is validated and identifiers mapped. Development of the Open PHACTS Discovery Platform is driven by scientific use-cases and is tested by a community of industrial and academic users.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eR4Ac6khsik" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eR4Ac6khsik" frameborder="0" allowfullscreen></iframe>

@@ -88,7 +88,7 @@
             display: none;
         }
 
-        &:hover .trigger {
+        &:hover .trigger, &.nav-open .trigger {
             display: block;
         }
 

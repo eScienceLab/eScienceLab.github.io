@@ -5,20 +5,23 @@ title: EOSC4Cancer
 path: eosc4cancer.html
 collection: projects
 description: A European-wide foundation to accelerate data-driven Cancer Research
-logo: eosc4cancer.png
-website: 
-start_date: 2022-10-01
+logo: eosc4cancer.svg
+website: https://eosc4cancer.eu/
+start_date: 2022-09-01
+end_date: 2025-02-28
 duration: 30 months
-project_reference: https://cordis.europa.eu/project/id/101058427
+project_reference: https://doi.org/10.3030/101058427 https://gtr.ukri.org/projects?ref=10038961
 ---
 
-Funded as part of [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06), EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).
+Funded by call [HORIZON-INFRA-2021-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-06) 101058427, EOSC4Cancer will provide a federated infrastructure for the exploitation of cancer data for the [EU Cancer Mission](https://doi.org/10.2777/989951).
 
-EOSC4Cancer brings together comprehensive **cancer centres**, **research infrastructures**, leading **research groups**, and major **computational infrastructure** across Europe to make the exploitation of the data possible.
+[EOSC4Cancer](https://eosc4cancer.eu/) brings together comprehensive **cancer centres**, **research infrastructures**, leading **research groups**, and major **computational infrastructure** across Europe to make the exploitation of the data possible.
 
 EOSC4Cancer will prepare EOSC services for cancer research and enrich EOSC with data, tools and services from the cancer community.
 
 ## eScience Lab contributions
+
+UK partners in Horizon Europe projects are funded through [Innovate UK](https://www.ukri.org/councils/innovate-uk/) (#10038961) from the [UKRI Horizon Europe guarantee](https://www.ukri.org/apply-for-funding/apply-for-horizon-europe-guarantee-funding/).
 
 In the EOSC4Cancer project the eScience Lab is involved in expanding the [RDMKit]() to make a _RDMkit4Cancer_, providing training support and use of [RO-Crate](/products/researchobject/) & [WorkflowHub](/products/workflowhub/):
 
@@ -37,4 +40,4 @@ In the EOSC4Cancer project the eScience Lab is involved in expanding the [RDMKit
 	- D5.2 Courses portfolio, linked through the RDMkit Cancer View (lead: CNIO)
     - M5.2 - First content of the RDMkit Cancer View. - M20 (lead: UNIMAN)
 
-We will also be helping [align EOSC4Cancer](https://doi.org/10.5281/zenodo.6771194) with the [FAIR-IMPACT](/projects/fair-impact/) project.
+We will also be helping [align EOSC4Cancer](https://doi.org/10.5281/zenodo.6771194) with the [FAIR-IMPACT](/projects/fair-impact/) project, as well as [EuroScienceGateway](../eurosciencegateway/) and [EOSC-Life](../eosclife/).

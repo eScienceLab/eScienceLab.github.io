@@ -18,4 +18,4 @@ In accordance with FAIR principles, WorkflowHub makes extensive use of open stan
 
 WorkflowHub is written in Ruby on Rails, and is based on the [FAIRDOM-SEEK](/products/seek) codebase.
 
-WorkflowHub's development is part of [EOSC-Life](https://www.eosc-life.eu/), funded by the European Union’s Horizon 2020 programme under grant agreement [824087](https://cordis.europa.eu/project/id/824087).
+WorkflowHub's development is part of [EOSC-Life](https://www.eosc-life.eu/), funded by the European Union’s Horizon 2020 programme under grant agreement [824087](https://doi.org/10.3030/824087).
