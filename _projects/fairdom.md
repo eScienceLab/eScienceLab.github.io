@@ -1,7 +1,7 @@
 ---
 layout: project
 name: fairdom
-title: FAIRDOM
+title: DMMCore: Data and Model Management Core for ERASysAPP & Europe
 path: fairdom
 collection: projects
 description: Data and model management service facility for Systems Biology
