@@ -9,8 +9,8 @@ logo: fairdom.png
 website: http://fair-dom.org
 start_date: 2014-11-01
 end_date: 2020-04-30
-duration: 66 months
-expired: true
+duration: 66 months ++
+expired: false
 project_reference: https://gow.bbsrc.ukri.org/grants/AwardDetails.aspx?FundingReference=BB/M013189/1
 ---
 
