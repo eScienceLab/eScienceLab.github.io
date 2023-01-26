@@ -21,7 +21,7 @@ living labs across Europe.
 
 Funded by [HORIZON-INFRA-2021-SERV-01-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-serv-01-02) 101058020, AgroServ will develop a wider catalogue of integrated and customised services, providing a strong
 community building and training programme for access managers and users. Results from the research performed under
-AgroServ will be synthetised to be use in the scope of evidence-based policy making. Data from AgroServ will be open and
+AgroServ will be synthesised to be used in the scope of evidence-based policy making. Data from AgroServ will be open and
 compliant with FAIR practices, and made available on the long-term to the communities, and be linked with European
 initiatives, such as the [EOSC](https://eosc-portal.eu/about/eosc).
 
@@ -46,5 +46,3 @@ UK partners in Horizon Europe projects are funded through [Innovate UK](https://
   - MS15 Content of the AgroServ FAIRsharing Collection and AgroServ Data Portal discoverable in EOSC. Availability on the openAIRE Research Graph (lead: INRAE)
   - MS16 Release of interoperability toolbox for Galaxy. BioMA and FAIDARE.  FAIDARE adapters on the Galaxy platform BioMA workbooks compatible with usage on the Galaxy platform. BioMA Data Providers for FAIDARE-indexed datasets. (lead: ELIXIR/EMBL)
   - MS17 Release data integration services for KnetMiner to support ROCrate. BrAPI (lead: ELIXIR/EMBL)
-
-
