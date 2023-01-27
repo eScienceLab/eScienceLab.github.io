@@ -4,9 +4,9 @@ title: Projects, programmes and activities with eScience Lab
 permalink: /projects/
 ---
 
-{% include logo_grid.html %}
-
 ## Current projects and programmes
+
+{% include logo_projects.html %}
 
 {% for project in site.projects %}
 {% unless project.expired %}
@@ -15,6 +15,8 @@ permalink: /projects/
 {% endfor %}
 
 ## Current activities
+
+{% include logo_activities.html %}
 
 {% for activity in site.activities %}
 {% unless activity.expired %}
