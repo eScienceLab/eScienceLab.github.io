@@ -19,3 +19,5 @@ Research Objects aim to improve reuse and reproducibility by:
 * Supporting the publication of **more than just PDFs**, making **data**, **code**, and other resources **first class citizens of scholarship**
 * Recognizing that there is often a need to publish collections of these resources together as one shareable, cite-able resource.
 * **Enriching** these resources and collections with any and all additional information required to make research reusable, and reproducible!
+
+The eScience Lab is leading the community efforts of the Research Object implementation [RO-Crate](https://w3id.org/ro/crate) in collaboration with University of Queensland, in addition to [developing RO-Crate](/products/researchobject) in several projects.
