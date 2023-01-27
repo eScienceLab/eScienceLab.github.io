@@ -2,15 +2,17 @@
     {% for product in site.products %}
     <a class="logo-grid-item" href="{{product.url}}"><img alt="{{product.name}}" src="{{product.logo}}"/></a>
     {% endfor %}
+    
     {% for project in site.projects %}
         {% if project.highlight %}
         <a class="logo-grid-item" href="{{project.url}}"><img alt="{{project.name}}" src="/images/logo/{{project.logo}}"/></a>
         {% endif %}
     {% endfor %}
+    
     {% for activity in site.activities %}
         {% if activity.highlight %}
             <a class="logo-grid-item" href="{{activity.url}}"><img alt="{{activity.name}}" src="/images/logo/{{activity.logo}}"/></a>
         {% endif %}
     {% endfor %}        
-{% endfor %}
+
 </div>
