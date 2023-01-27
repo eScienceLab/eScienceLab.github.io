@@ -88,18 +88,13 @@ a.logo-grid-item {
   width: 33%;
   min-width: 300px;
   img {
+    max-height: 120px;
     filter: grayscale(75%);
     -webkit-filter: grayscale(75%);
     &:hover {
       filter: none;
       -webkit-filter: none;
     }
-  }
-}
-
-.highlighted-projects {
-  .logo-grid-item img {
-    max-height: 120px;
   }
 }
 
