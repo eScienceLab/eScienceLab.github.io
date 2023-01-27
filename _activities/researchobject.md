@@ -7,7 +7,7 @@ collection: activities
 highlight: true
 description: Research publications, data, code and more bundled into a shareable, cite-able, reusable format
 website: http://www.researchobject.org/
-logo: /images/logo/researchobject.png
+logo: researchobject.png
 screenshot: /images/screenshots/sm_researchobject.png
 wiki: https://wikipedia.org/wiki/Research_Objects
 ---

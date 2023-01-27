@@ -1,13 +1,8 @@
 <div class="logo-grid">
     {% for product in site.projects %}
         {% if project.highlight %}
-        <a class="logo-grid-item" href="{{project.url}}"><img src="{{project.logo}}"/></a>
+        <a class="logo-grid-item" href="{{project.url}}"><img alt="{{project.name}}" src="/images/logo/{{project.logo}}"/></a>
         {% endif %}
     {% endfor %}
-    {% for activity in site.activities %}
-        {% if activity.highlight %}
-            <a class="logo-grid-item" href="{{activity.url}}"><img src="{{activity.logo}}"/></a>
-        {% endif %}
-    {% endfor %}        
 {% endfor %}
 </div>
