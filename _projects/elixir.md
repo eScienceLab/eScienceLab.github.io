@@ -5,7 +5,7 @@ title: ELIXIR
 path: elixir.html
 collection: projects
 description: Distributed European infrastructure for life-science resources (data, tools, standards, compute services and training)
-logo: elixir.png
+logo: elixir.svg
 website: http://elixir-europe.org
 highlight: true
 start_date:

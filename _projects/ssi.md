@@ -5,7 +5,7 @@ title: Software Sustainability Institute
 path: ssi
 collection: projects
 description: Facilitating self-sustainability of research software
-logo: ssi.png
+logo: ssi.svg
 highlight: true
 website: http://www.software.ac.uk
 start_date: 2010-06-01

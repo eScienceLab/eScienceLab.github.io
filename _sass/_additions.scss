@@ -97,6 +97,12 @@ a.logo-grid-item {
   }
 }
 
+.highlighted-projects {
+  .logo-grid-item img {
+    max-height: 120px;
+  }
+}
+
 .profile_box {
   width: 180px;
   height: 280px;

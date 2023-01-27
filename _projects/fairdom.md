@@ -5,7 +5,7 @@ title: FAIRDOM
 path: fairdom
 collection: projects
 description: Data and model management service facility for Systems Biology
-logo: fairdom.png
+logo: fairdom.svg
 website: http://fair-dom.org
 start_date: 2014-11-01
 end_date: 2020-04-30
