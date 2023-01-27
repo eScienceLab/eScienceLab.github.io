@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects, programmes and activities with eScience Lab
+title: Projects & programmes
 permalink: /projects/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products by eScience Lab
+title: Products
 permalink: /products/
 ---
 
