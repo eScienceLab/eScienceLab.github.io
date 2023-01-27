@@ -14,7 +14,7 @@ permalink: /projects/
 {% endunless %}
 {% endfor %}
 
-## Current activities
+## Current activities and initiatives
 
 {% include logo_activities.html %}
 
@@ -33,7 +33,7 @@ permalink: /projects/
 {% endif %}
 {% endfor %}
 
-## Previous activities
+## Previous activities and initiatives
 
 {% assign sorted_activities = site.activities | sort: 'start-date' %}
 {% for activity in sorted_activities reversed %}
