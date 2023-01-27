@@ -73,6 +73,8 @@ The layout files and some of the top-level pages use [Jekyll Liquid Templates](h
 {% endfor %}
 ```
 
+Use the `highlight: true` to list the project logo, and `expired: true` to move it to "Previous project" -- equivalent for activities.
+
 You can recognize templates as using the `{{` or `{%` syntax. You should be more careful when editing 
 these, e.g. by testing with your own Jekyll locally and check the logs.
 
