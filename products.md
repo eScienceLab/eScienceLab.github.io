@@ -10,7 +10,7 @@ Product pages and metadata live in the `_products/` folder
 -->
 
 <h1>Current Products</h1>
-These are some of the software products that have been developed by, and are currently supported by the eScience Lab.
+These are some of the software products and platforms that have been developed by, and are currently supported by the eScience Lab.
 
 <div>
 {% for product in site.products %}
@@ -26,7 +26,10 @@ These are some of the software products that have been developed by, and are cur
 
 <hr/>
 
-<h1>Former Products</h1>
+<h1>Earlier Products</h1>
+
+These products/platforms were developed by eScience Lab and partners, but are now maintained by other organisations or no longer supported.
+
 <div>
 {% for product in site.old_products %}
     <a href="{{ product.url }}" class="product-screenshot old">
