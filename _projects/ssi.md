@@ -6,6 +6,7 @@ path: ssi
 collection: projects
 description: Facilitating self-sustainability of research software
 logo: ssi.png
+highlight: true
 website: http://www.software.ac.uk
 start_date: 2010-06-01
 duration:

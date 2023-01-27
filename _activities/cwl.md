@@ -6,6 +6,7 @@ path: cwl
 collection: activities
 description: Community-led specification for describing analysis workflows and tools in a way that makes them portable and scalable across a variety of software and hardware environments
 logo: cwl.svg
+highlight: true
 website: http://www.commonwl.org/
 ---
 

@@ -7,6 +7,7 @@ collection: projects
 description: Distributed European infrastructure for life-science resources (data, tools, standards, compute services and training)
 logo: elixir.png
 website: http://elixir-europe.org
+highlight: true
 start_date:
 duration:
 project_reference: http://www.elixir-europe.org/sites/default/files/documents/elixir_scientific_programme_final.pdf

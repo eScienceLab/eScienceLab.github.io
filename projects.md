@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Projects
+title: Projects, programmes and activities with eScience Lab
 permalink: /projects/
 ---
 
-## Current funded projects
+{% include logo_grid.html %}
+
+## Current projects and programmes
 
 {% for project in site.projects %}
 {% unless project.expired %}
@@ -20,7 +22,7 @@ permalink: /projects/
 {% endunless %}
 {% endfor %}
 
-## Previous funded projects
+## Previous projects and programmes
 
 {% assign sorted_projects = site.projects | sort: 'title' %}
 {% for project in sorted_projects %}

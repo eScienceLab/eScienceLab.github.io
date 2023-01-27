@@ -4,6 +4,7 @@ name: research_object
 title: Research Objects
 path: research_object
 collection: activities
+highlight: true
 description: Research publications, data, code and more bundled into a shareable, cite-able, reusable format
 website: http://www.researchobject.org/
 logo: /images/logo/researchobject.png

@@ -3,6 +3,7 @@ layout: activity
 name: bioschemas
 title: Bioschemas
 path: bioschemas
+highlight: true
 collection: activities
 description: Markup to support findability of data in the life sciences.
 logo: bioschemas.svg
