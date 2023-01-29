@@ -44,7 +44,7 @@ which is particularly useful for long author lists or long titles.
 
 Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2023):  
 [**A FAIR-Decide framework for pharmaceutical R&D: FAIR data cost–benefit assessment**](https://doi.org/10.1016/j.drudis.2023.103510).  
-_Drug Discovery Today_ (in press)  
+_Drug Discovery Today_ (in press):103510    
 <https://doi.org/10.1016/j.drudis.2023.103510>
 
 Natasha Noy, Carole Goble (2023):  
