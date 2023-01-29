@@ -42,6 +42,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2023):  
+[**A FAIR-Decide framework for pharmaceutical R&D: FAIR data cost–benefit assessment**](https://doi.org/10.1016/j.drudis.2023.103510).  
+_Drug Discovery Today_ (in press)  
+<https://doi.org/10.1016/j.drudis.2023.103510>
+
 Natasha Noy, Carole Goble (2023):  
 [**Are We Cobblers without Shoes? Making Computer Science Data FAIR**](https://research.manchester.ac.uk/en/publications/are-we-cobblers-without-shoes-making-computer-science-data-fair).  
 _Communications of the ACM_ **66**(1)  
