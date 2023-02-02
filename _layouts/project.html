@@ -21,7 +21,7 @@ layout: default
     {% endif %}
     {% if page.end_date %}
       "dissolutionDate": "{{ page.end_date }}",
-    {% endif %}    
+    {% endif %}
     {% if page.project_reference %}
       "funding": [ "{{ page.project_reference | split: ' ' | join: '","' }}"]
     {% endif %}
@@ -34,12 +34,12 @@ layout: default
   </header>
 
   <div class="post-content">
-    {% if page.description %}
-      <h2 class="post-tagline">{{ page.description }}</h2>
+    {% if page.logo %}
+      <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}" class="large-logo"/>
     {% endif %}
 
-    {% if page.logo %}
-    <img title="{{page.title}}" src="/images/logo/{{page.logo}}" alt="{{page.title}} - {{page.description}}" class="project-logo"/>
+    {% if page.description %}
+      <h2 class="post-tagline">{{ page.description }}</h2>
     {% endif %}
     <ul>
       {% if page.website %}
@@ -52,7 +52,7 @@ layout: default
         <li>Duration: {{page.duration}}</li>
       {% endif %}
       {% if page.project_reference %}
-        <li>Project reference: 
+        <li>Project reference:
           {% assign references = page.project_reference | split: ' ' %}
           {% for dur in references %}
             <a href="{{ dur }}">{{ dur }}</a>

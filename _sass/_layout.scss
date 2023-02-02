@@ -113,6 +113,7 @@
  * Site footer
  */
 .site-footer {
+    margin-top: $spacing-unit;
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
@@ -255,11 +256,6 @@
             font-size: 18px;
         }
     }
-}
-
-/** product **/
-img.product-logo {
-    max-height: 100px;
 }
 
 .hero {

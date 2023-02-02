@@ -60,7 +60,7 @@
   width: 100%;
 }
 
-h2.post-tagline { 
+h2.post-tagline {
   font-size: 110%;
   font-style: italic;
   font-weight: normal;
@@ -68,12 +68,13 @@ h2.post-tagline {
 }
 
 
-img.project-logo {
+img.large-logo {
   padding-bottom: 1em;
   @include media-query($on-laptop) {
     max-width: 50%;
   }
   max-width: 100%;
+  max-height: 300px;
 }
 
 div.logo-grid {

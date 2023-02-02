@@ -1,7 +1,7 @@
 <div class="logo-grid">
     {% for activity in site.activities %}
         {% if activity.highlight %}
-            <a class="logo-grid-item" href="{{activity.url}}"><img alt="{{activity.name}}" src="/images/logo/{{activity.logo}}"/></a>
+        <a class="logo-grid-item" href="{{activity.url}}"><img alt="{{activity.name}}" src="/images/logo/{{activity.logo}}"/></a>
         {% endif %}
     {% endfor %}
 </div>
