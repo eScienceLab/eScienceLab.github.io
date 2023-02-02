@@ -6,7 +6,7 @@ path: tess
 collection: products
 description: A support portal for training in life sciences
 website: https://tess.elixir-europe.org/
-logo: /images/logo/tess.png
+logo: /images/logo/tess.svg
 screenshot: /images/screenshots/sm_tess.png
 ---
 
