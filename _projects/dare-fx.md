@@ -32,7 +32,7 @@ as we needed in the COVID-19 pandemic. The technologies and standards we need to
 do not need to be invented. 
 
 [**DARE-FX**](https://darefx.uk) is assembling leading technology providers from
-[ELIXIR-UK](https://elixiruknode.org/) and [HDR-UK](https://www.hdruk.ac.uk/), 
+[ELIXIR-UK](https://elixiruknode.org/) and [HDR UK](https://www.hdruk.ac.uk/), 
 with three TRE providers and two leading analysis platforms
 to show through a real reference implementation how we can use secure Research
 Objects to move between TREs while still supporting the [Five Safes principles](https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/) that
