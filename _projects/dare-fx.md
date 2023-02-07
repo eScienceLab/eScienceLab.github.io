@@ -12,8 +12,7 @@ duration: 9 months
 project_reference: 
 ---
 
-DARE-FX is a project funded by [UKRI](https://www.ukri.org/) Medical Research Council [MRC](https://www.ukri.org/councils/mrc/) and [DARE UK](https://dareuk.org.uk/) for the call [“Inform design of cross-council trusted research environments”](https://www.ukri.org/opportunity/inform-design-of-cross-council-trusted-research-environments/).
-
+[DARE-FX](https://darefx.uk/) is a project funded by [UKRI](https://www.ukri.org/) Medical Research Council [MRC](https://www.ukri.org/councils/mrc/) and [DARE UK](https://dareuk.org.uk/) for the call [“Inform design of cross-council trusted research environments”](https://www.ukri.org/opportunity/inform-design-of-cross-council-trusted-research-environments/).
 
 ## Motivation
 
@@ -32,11 +31,11 @@ would enable timely analysis of UK wide scattered data to answer urgent question
 as we needed in the COVID-19 pandemic. The technologies and standards we need to be able to do this are available now. They
 do not need to be invented. 
 
-**DARE-FX** is assembling leading technology providers from
+[**DARE-FX**](https://darefx.uk) is assembling leading technology providers from
 [ELIXIR-UK](https://elixiruknode.org/) and [HDR-UK](https://www.hdruk.ac.uk/), 
 with three TRE providers and two leading analysis platforms
 to show through a real reference implementation how we can use secure Research
-Objects to move between TREs while still supporting the **Five Safes principles** that
+Objects to move between TREs while still supporting the [Five Safes principles](https://ukdataservice.ac.uk/help/secure-lab/what-is-the-five-safes-framework/) that
 govern and protect patient data; all overseen by patient representatives.
 
 The impact will be a step change for how researchers can safely combine data from
@@ -45,7 +44,7 @@ using technology and standards we already have today.
 
 ## eScience Lab involvement
 
-eScience Lab is leading this project on behalf of ELIXIR-UK, and is mainly contributing to:
+eScience Lab is leading this project on behalf of [ELIXIR-UK](https://elixiruknode.org/), and is mainly contributing to:
 
 * WP1: PPIE  (lead: University of Nottingham / PIONEER)
   - Promote the inclusion of under-represented groups (as required)
