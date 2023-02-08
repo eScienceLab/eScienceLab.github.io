@@ -9,7 +9,7 @@ permalink: /projects/
 {% include logo_projects.html %}
 
 {% for project in site.projects %}
-{% unless project.expired %}
+{% unless project.expired or project.draft %}
 * [{{ project.title }}]({{ project.url }}) - {{ project.description }}
 {% endunless %}
 {% endfor %}
@@ -19,7 +19,7 @@ permalink: /projects/
 {% include logo_activities.html %}
 
 {% for activity in site.activities %}
-{% unless activity.expired %}
+{% unless activity.expired or activity.draft %}
 * [{{ activity.title }}]({{ activity.url }}) - {{ activity.description }}
 {% endunless %}
 {% endfor %}
@@ -28,7 +28,7 @@ permalink: /projects/
 
 {% assign sorted_projects = site.projects | sort: 'title' %}
 {% for project in sorted_projects %}
-{% if project.expired %}
+{% if project.expired or project.draft %}
 * [{{ project.title }}]({{ project.url }}) - {{ project.description }}
 {% endif %}
 {% endfor %}
@@ -37,7 +37,7 @@ permalink: /projects/
 
 {% assign sorted_activities = site.activities | sort: 'start-date' %}
 {% for activity in sorted_activities reversed %}
-{% if activity.expired %}
+{% if activity.expired or activity.draft %}
 * [{{ activity.title }}]({{ activity.url }}) - {{ activity.description }}
 {% endif %}
 {% endfor %}
