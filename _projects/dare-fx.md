@@ -9,6 +9,7 @@ logo: dare-fx.svg
 website: https://darefx.uk/
 start_date: 2023-02-01
 duration: 9 months
+draft: true
 project_reference: 
 ---
 
