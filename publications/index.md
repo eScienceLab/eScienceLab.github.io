@@ -57,18 +57,18 @@ Natasha Noy, Carole Goble (2023):
 _Communications of the ACM_ **66**(1)  
 <https://doi.org/10.1145/3528574>
 
+Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty (2023):  
+[**An analysis of crosswalks from research data schemas to Schema.org**](https://doi.org/10.1162/dint_a_00186).  
+_Data Intelligence_  
+<https://doi.org/10.1162/dint_a_00186>
+
 Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
 **Umbrella Data Management Plans to integrate FAIR data: lessons from the ISIDORe and BY-COVID consortia for pandemic preparedness**.  
-(submitted in Data Science Journal).  
+(submitted to Data Science Journal).  
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.7520086>
 
 ## 2022 
-
-Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste Cecconi, Nick Juty (2022):  
-[**An analysis of crosswalks from research data schemas to Schema.org**](https://doi.org/10.1162/dint_a_00186).  
-_Data Intelligence_  
-<https://doi.org/10.1162/dint_a_00186>
 
 Vitor Martins dos Santos, Mihail Anton, Barbara Szomolay, Marek Ostaszewski, Ilja Arts, Rui Benfeitas, Victoria Dominguez Del Angel, Polonca Ferk, Dirk Fey, Carole Goble, Martin Golebiewski, Kristina Gruden, Katharina F. Heil, Henning Hermjakob, Pascal Kahlem, Maria I. Klapa, Jasper Koehorst, Alexey Kolodkin, Martina Kutmon, Brane Leskošek, Sébastien Moretti, Wolfgang Müller, Marco Pagni, Tadeja Rezen, Miguel Rocha, Damjana Rozman, David Šafránek, Rahuman S. Malik Sheriff, Maria Suarez Diez, Kristel Van Steen, Hans V Westerhoff, Ulrike Wittig, Katherine Wolstencroft, Anze Zupanic, Chris T. Evelo, John M. Hancock (2022):  
 [**Systems Biology in ELIXIR: modelling in the spotlight**](https://doi.org/10.12688/f1000research.126734.1). [version 1; peer review: 1 approved with reservations]   
