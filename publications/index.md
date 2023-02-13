@@ -42,6 +42,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Brigitte Mathiak, Nick Juty, Alessia Bardi, Julien Colomb, Peter Kraker (2023):   
+[**What are Researchers’ Needs in Data Discovery? Analysis and Ranking of a Large-Scale Collection of Crowdsourced Use Cases**](http://doi.org/10.5334/dsj-2023-003).   
+_Data Science Journal_ **22**(1)   
+<http://doi.org/10.5334/dsj-2023-003>
+
 Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2023):  
 [**A FAIR-Decide framework for pharmaceutical R&D: FAIR data cost–benefit assessment**](https://doi.org/10.1016/j.drudis.2023.103510).  
 _Drug Discovery Today_ (in press):103510    
