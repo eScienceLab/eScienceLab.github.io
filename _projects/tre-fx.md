@@ -3,18 +3,17 @@ layout: project
 name: tre-fx
 title: TRE-FX
 path: tre-fx.html
-redirect_from: /projects/dare-fx/
+redirect_from: /projects/tre-fx/
 collection: projects
 description: Delivering a federated network of TREs to enable safe analytics
-logo: dare-fx.svg
-website: https://darefx.uk/
+logo: tre-fx-logo.svg
+website: https://trefx.uk/
 start_date: 2023-02-01
 duration: 9 months
-draft: true
 project_reference: 
 ---
 
-[TRE-FX](https://darefx.uk/) is a project funded by [UKRI](https://www.ukri.org/) Medical Research Council [MRC](https://www.ukri.org/councils/mrc/) and [DARE UK](https://dareuk.org.uk/) for the call [“Inform design of cross-council trusted research environments”](https://www.ukri.org/opportunity/inform-design-of-cross-council-trusted-research-environments/).
+[TRE-FX](https://trefx.uk/) is a project funded by UK Research and Innovation ([UKRI](https://www.ukri.org/))as part of the [DARE UK](https://dareuk.org.uk/) _Data and Analytics Research Environments UK_ programme.
 
 ## Motivation
 
@@ -32,7 +31,7 @@ The impact will be a step change for how researchers can safely run analyses acr
 
 ## Approach
 
-[**TRE-FX**](https://darefx.uk) is assembling leading technology providers from
+[**TRE-FX**](https://trefx.uk/) is assembling leading technology providers from
 [ELIXIR-UK](https://elixiruknode.org/) and [HDR UK](https://www.hdruk.ac.uk/), 
 with three TRE providers and two leading analysis platforms
 to show through a real reference implementation how we can use secure Research

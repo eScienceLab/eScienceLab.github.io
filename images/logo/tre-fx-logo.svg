@@ -8,7 +8,7 @@
    height="583.99823"
    viewBox="0 0 1529.7787 583.99823"
    sodipodi:docname="dare-fx-draft-logo.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -49,15 +49,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.7025"
-     inkscape:cx="694.66192"
-     inkscape:cy="688.96797"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.405"
+     inkscape:cx="819.57295"
+     inkscape:cy="584.34164"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g190">
+     inkscape:current-layer="g518">
     <inkscape:page
        x="0"
        y="0"
@@ -73,51 +73,8 @@
     <g
        id="g518">
       <g
-         id="g204"
-         transform="translate(489.49901,234.51284)">
-        <g
-           id="g206"
-           transform="translate(0,0.762472)">
-          <g
-             id="g208"
-             transform="translate(0,-34.311252)">
-            <g
-               id="g210"
-               transform="matrix(1,0,0,-1,0,1200)">
-              <g
-                 aria-label="DARE-FX"
-                 transform="matrix(1,0,0,-1,0,1056.6552)"
-                 id="text214"
-                 style="font-weight:900;font-size:152.494px;font-family:Raleway;-inkscape-font-specification:Raleway-Heavy;fill:#f1bd44">
-                <path
-                   d="m 104.1534,-56.727769 q 0,18.909256 -7.167214,31.566258 -7.014724,12.657003 -19.82422,18.9092569 Q 64.352469,0 46.968153,0 H 11.742038 v -108.88072 h 37.666019 q 26.228969,0 40.410911,13.419474 14.334432,13.419472 14.334432,38.733477 z m -30.498796,1.067458 q 0,-29.431343 -23.941559,-29.431343 h -8.539664 v 60.997601 h 6.557242 q 13.419472,0 19.671726,-7.777194 6.252255,-7.777194 6.252255,-23.789064 z"
-                   id="path1838" />
-                <path
-                   d="m 183.90807,0 -5.33729,-20.434196 H 143.19217 L 137.70239,0 h -32.32873 l 35.5311,-109.3382 h 39.19096 L 216.0843,0 Z m -11.43705,-44.528249 -4.72732,-17.841798 q -0.76247,-2.897386 -2.13491,-8.234677 -1.37245,-5.489784 -2.74489,-11.132062 -1.37245,-5.794772 -2.13492,-9.607122 -0.76247,3.81235 -1.98242,9.302134 -1.21995,5.33729 -2.5924,10.827074 -1.21995,5.337291 -2.13492,8.844653 l -4.72731,17.841798 z"
-                   id="path1840" />
-                <path
-                   d="m 255.12308,-108.88072 q 44.37576,0 44.37576,32.176236 0,9.912111 -5.0323,17.231823 -4.87981,7.319712 -13.41948,12.047026 L 312.76582,0 h -33.39619 l -23.02659,-39.648441 h -7.47221 V 0 h -29.43134 v -108.88072 z m -0.45748,22.264126 h -5.79477 v 24.856523 h 5.48978 q 6.70974,0 10.97957,-2.897386 4.42233,-3.04988 4.42233,-10.674581 0,-5.184796 -3.65986,-8.234676 -3.50736,-3.04988 -11.43705,-3.04988 z"
-                   id="path1842" />
-                <path
-                   d="m 388.70812,0 h -64.65746 v -108.88072 h 64.65746 v 23.636572 h -35.22611 v 17.079329 h 32.63371 v 23.63657 h -32.63371 v 20.58669 h 35.22611 z"
-                   id="path1844" />
-                <path
-                   d="m 406.55018,-29.278849 v -23.179088 h 42.08835 v 23.179088 z"
-                   id="path1846" />
-                <path
-                   d="m 507.04393,0 h -28.97386 v -108.88072 h 64.35247 v 23.636572 h -35.37861 v 20.739185 h 32.63372 v 23.63657 h -32.63372 z"
-                   id="path1848" />
-                <path
-                   d="M 661.36813,0 H 627.36197 L 606.1653,-34.006163 585.12113,0 h -33.24369 l 36.14108,-55.660311 -34.00617,-53.220409 h 32.63372 l 19.67173,33.701176 18.90925,-33.701176 h 33.54868 l -34.46364,55.507819 z"
-                   id="path1850" />
-              </g>
-            </g>
-          </g>
-        </g>
-      </g>
-      <g
          id="g216"
-         transform="translate(498.18208,401.85331)">
+         transform="translate(498.18208,394.35331)">
         <g
            id="g218"
            transform="translate(0,0.285148)">
@@ -266,6 +223,52 @@
                transform="scale(2.753431)" />
           </g>
         </g>
+      </g>
+      <g
+         id="g2199"
+         transform="matrix(1.5446146,0,0,1.5446146,-248.88865,-137.28022)">
+        <g
+           aria-label="TRE-FX"
+           transform="scale(1.1007003,0.90851252)"
+           id="text388-8"
+           style="font-size:169.774px;fill:#f1bd44;stroke-width:0.884234">
+          <path
+             d="M 494.74215,255.93659 H 480.1522 V 359.30972 H 454.0395 V 255.93659 h -14.58996 v -15.50183 h 55.29261 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path885" />
+          <path
+             d="m 564.21022,359.47552 h -26.1127 q -4.22777,-5.05675 -4.22777,-28.68252 v -0.1658 l 0.1658,-7.12918 q 0.24869,-14.83865 0.24869,-15.17024 0,-6.05151 -8.12395,-6.05151 v 57.03345 h -26.1127 V 240.43476 h 32.24711 q 11.02536,0 19.14931,5.05675 8.20685,5.05674 8.20685,15.99921 v 14.25836 q 0,13.84388 -16.165,18.73483 16.2479,3.81328 16.2479,19.6467 l -0.41449,13.0149 q 0,28.51672 4.89095,32.33001 z M 534.28424,281.5519 v -19.5638 q 0,-6.21731 -8.12395,-6.21731 v 32.08132 q 8.12395,0 8.12395,-6.30021 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path887" />
+          <path
+             d="M 618.83965,359.30972 H 567.77481 V 240.43476 h 50.73325 v 15.33603 h -24.62055 v 32.08132 h 22.21652 v 14.42416 h -22.21652 v 41.78032 h 24.95214 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path889" />
+          <path
+             d="m 657.05537,317.03202 h -33.73926 v -13.34649 h 33.73926 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path891" />
+          <path
+             d="m 710.27554,255.77079 h -22.7968 v 32.08132 h 20.39278 v 14.42416 h -20.39278 v 57.03345 h -26.1127 V 240.43476 h 48.9095 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path893" />
+          <path
+             d="m 788.36495,359.30972 h -28.01934 l -11.93724,-38.21573 -11.19116,38.21573 h -24.95213 l 20.55857,-67.56143 -15.25313,-51.31353 h 25.11793 l 9.28451,34.48535 10.36218,-34.48535 h 23.45999 l -17.82296,55.04392 z"
+             style="-inkscape-font-specification:'Haettenschweiler Bold'"
+             id="path895" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:169.774px;line-height:1.25;font-family:sans-serif;opacity:0;fill:#f1bd44;fill-opacity:1;stroke:none;stroke-width:0.884234"
+           x="437.53177"
+           y="359.08063"
+           id="text388"
+           transform="scale(1.1007003,0.90851252)"><tspan
+             sodipodi:role="line"
+             id="tspan386"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:169.774px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler Bold';fill:#f1bd44;fill-opacity:1;stroke-width:0.884234"
+             x="437.53177"
+             y="359.08063">TRE-FX</tspan></text>
       </g>
     </g>
   </g>
