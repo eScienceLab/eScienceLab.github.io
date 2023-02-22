@@ -8,7 +8,7 @@ description: RI services to promote deep digitalization of Industrial Biotechnol
 logo: bioindustry4.0.png
 website: https://www.ibisba.eu/Global-News/IBISBA-Joins-Three-New-Horizon-Europe-Projects
 start_date: 2023-01-01
-duration: 36 months
+duration: 48 months
 project_reference: https://doi.org/10.3030/101094287
 ---
 
