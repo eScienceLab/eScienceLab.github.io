@@ -13,10 +13,9 @@ duration: 9 months
 project_reference: https://dareuk.org.uk/driver-project-tre-fx/
 ---
 
-[TRE-FX](https://trefx.uk/) is a project [funded](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/) by UK Research and Innovation ([UKRI](https://www.ukri.org/)) as part of the [DARE UK](https://dareuk.org.uk/) _Data and Analytics Research Environments UK_ programme.
+[TRE-FX](https://trefx.uk/) is a project [funded](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/) by UK Research and Innovation ([UKRI](https://www.ukri.org/)) as part of the [DARE UK](https://dareuk.org.uk/) _Data and Analytics Research Environments UK_ programme (MC_PC_23007 4050900091).
 
 ## Motivation
-
 
 Trusted research environments (TREs) are secure digital locations in which data are placed for researchers to analyse. They host administrative data, hospital data or any other data that must be securely held and only accessible for approved projects by approved researchers.
 
