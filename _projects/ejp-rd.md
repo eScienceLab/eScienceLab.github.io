@@ -32,5 +32,5 @@ The [TeSS](/products/tess/) team will participate in the delivery of Task 3, Wor
 
 * Pillar 3: Capacity building
  - WP16: Online Academic Education Course
-  * Task T16.3: Follow-up, evaluation and monitoring (lead: UCAM)
+  - Task T16.3: Follow-up, evaluation and monitoring (lead: UCAM)
 
