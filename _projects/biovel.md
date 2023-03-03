@@ -8,8 +8,9 @@ description: Biodiversity e-Laboratory
 logo: biovel.png
 website: http://biovel.eu
 start_date: 2011-09-01
+end_date: 2014-12-31
 duration: 39 months
-project_reference:
+project_reference: https://cordis.europa.eu/project/id/283359
 expired: true
 ---
 
