@@ -4,6 +4,10 @@ title: Presentations
 ---
 
 
+## 2023
+* [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
+* [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
+
 ## 2022
 * Reproducible and Open Science (invited talk), Jodrell Bank Centre for Astrophysics Autumn Computing Sessions - by Rachael Ainsworth, University of Manchester, Manchester, UK, 3 November 2022
 * [Reproducible and Open Science](https://doi.org/10.6084/m9.figshare.20079179) (invited keynote talk), [ESCAPE Summer School 2022](https://indico.in2p3.fr/event/26913/) - by Rachael Ainsworth, LAPP, Annecy, France [presented remotely], 20 June 2022
