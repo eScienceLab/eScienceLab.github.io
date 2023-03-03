@@ -19,9 +19,9 @@ The European Joint Programme on RD (EJP RD) has two major objectives:
 
 To this end, the EJP RD actions are organized within four major Pillars assisted by the central coordination and transversal activities:
 
-- **Pillar 1**: Funding of research;
+- Pillar 1: Funding of research;
 - Pillar 2: Coordinated access to data and resources;
-- Pillar 3: Capacity building;
+- **Pillar 3**: Capacity building;
 - Pillar 4: Accelerated translation of research projects and improvement outcomes of clinical studies.
 
 
@@ -30,6 +30,7 @@ To this end, the EJP RD actions are organized within four major Pillars assisted
 
 The [TeSS](/products/tess/) team will participate in the delivery of Task 3, Work Package 16, Pillar 3. To this end, we will support the aggregation and dissemination of training opportunities and events provisioned throughout the duration of the program. 
 
-* Pillar 3 WP16 Online Academic Education Course
-  - : Task 16.3 Follow-up, evaluation and monitoring (lead: UCAM)
+* Pillar 3: Capacity building
+ - WP16: Online Academic Education Course
+  * Task T16.3: Follow-up, evaluation and monitoring (lead: UCAM)
 
