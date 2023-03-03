@@ -29,3 +29,7 @@ To this end, the EJP RD actions are organized within four major Pillars assisted
 ## eScience Lab contribution
 
 The [TeSS](/products/tess/) team will participate in the delivery of Task 3, Work Package 16, Pillar 3. To this end, we will support the aggregation and dissemination of training opportunities and events provisioned throughout the duration of the program. 
+
+* Pillar 3 WP16 Online Academic Education Course
+  - : Task 16.3 Follow-up, evaluation and monitoring (lead: UCAM)
+
