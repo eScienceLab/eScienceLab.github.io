@@ -79,3 +79,4 @@ eScience Lab is leading this project on behalf of [ELIXIR-UK](https://elixirukno
   - Publish DataSHIELD and Bitfount WfExS open-source workflow to workflowhub.eu
   - Federated analytic workflows validated on TREs
 
+* [Slides: TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.7708160)
