@@ -16,3 +16,7 @@ The projects will take a leading role in informing the design of what will be a 
 
 In TRE-FX, we are assembling leading technology providers from [ELIXIR-UK](https://elixiruknode.org/) and [HDR UK](https://www.hdruk.ac.uk/), with three TRE providers and two leading analysis platforms to show through a real reference implementation how we can use secure [Research Objects](/products/researchobject/) to move between TREs, while still supporting the Five Safes principles that govern and protect patient data; called the [Five Safes RO-Crate](https://trefx.uk/implementation).
 
+For details:
+* [DARE-UK: Five projects funded to drive more coordinated secure use of sensitive data for research across the UK](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/)
+* [TRE-FX website](https://trefx.uk/)
+* [eScienceLab in TRE-FX](https://esciencelab.org.uk/projects/tre-fx/)
