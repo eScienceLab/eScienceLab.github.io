@@ -20,4 +20,4 @@ For details:
 * [DARE-UK: Five projects funded to drive more coordinated secure use of sensitive data for research across the UK](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/)
 * [TRE-FX website](https://trefx.uk/)
 * [eScienceLab in TRE-FX](https://esciencelab.org.uk/projects/tre-fx/)
-* [Slides: TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.7708160)
+* [Slides: TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.7708175)
