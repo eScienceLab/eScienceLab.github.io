@@ -55,6 +55,16 @@ Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):
 [**Towards a common standard for data and specimen provenance in life sciences**](https://research.manchester.ac.uk/en/publications/towards-a-common-standard-for-data-and-specimen-provenance-in-lif-2).  
 _Learning Health Systems_  (accepted)
 
+Daniel Arend, Sebastian Beier, laurent bouri, Marco Brandizi, Donald Hobern, Erwan Le Floch, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Philippe Rocca-Serra, Thomas Rosnet, Stian Soiland-Reyes (2023):  
+[**BioHackEU22 Project 22:  Plant data exchange and standard interoperability**](https://doi.org/10.37044/osf.io/c724r).  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/c724r>
+
+Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole Goble, Olivier Sand, Alexander Botzki (2023):  
+[**Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal**](https://doi.org/10.1002/cpz1.682).  
+_Current Protocols_ **3**:e682    
+<https://doi.org/10.1002/cpz1.682>
+
 Brigitte Mathiak, Nick Juty, Alessia Bardi, Julien Colomb, Peter Kraker (2023):   
 [**What are Researchers’ Needs in Data Discovery? Analysis and Ranking of a Large-Scale Collection of Crowdsourced Use Cases**](http://doi.org/10.5334/dsj-2023-003).   
 _Data Science Journal_ **22**(1)   
@@ -82,6 +92,16 @@ _Zenodo_
 <https://doi.org/10.5281/zenodo.7520086>
 
 ## 2022 
+
+Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
+[**Subjective data models in bioinformatics**:  Do wet-lab and computational biologists comprehend data differently?](https://doi.org/10.48550/arXiv.2208.12346).  
+_arXiv_:2208.12346 [cs.HC]  
+<https://doi.org/10.48550/arXiv.2208.12346>
+
+Cyril Pommier, Frederik Coppens, Hanna Ćwiek-Kupczyńska, Daniel Faria, Sebastian Beier, Célia Miguel, Célia Michotey, Flora D’Anna, Stuart Owen & Kristina Gruden (2022):  
+[**Plant Science Data Integration, from Building Community Standards to Defining a Consistent Data Lifecycle**](https://doi.org/10.1007/978-3-031-13276-6_8).  
+In: _Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development_, Hugh F. Williamson, Sabina Leonelli (eds.)  
+<https://doi.org/10.1007/978-3-031-13276-6_8>
 
 Vitor Martins dos Santos, Mihail Anton, Barbara Szomolay, Marek Ostaszewski, Ilja Arts, Rui Benfeitas, Victoria Dominguez Del Angel, Polonca Ferk, Dirk Fey, Carole Goble, Martin Golebiewski, Kristina Gruden, Katharina F. Heil, Henning Hermjakob, Pascal Kahlem, Maria I. Klapa, Jasper Koehorst, Alexey Kolodkin, Martina Kutmon, Brane Leskošek, Sébastien Moretti, Wolfgang Müller, Marco Pagni, Tadeja Rezen, Miguel Rocha, Damjana Rozman, David Šafránek, Rahuman S. Malik Sheriff, Maria Suarez Diez, Kristel Van Steen, Hans V Westerhoff, Ulrike Wittig, Katherine Wolstencroft, Anze Zupanic, Chris T. Evelo, John M. Hancock (2022):  
 [**Systems Biology in ELIXIR: modelling in the spotlight**](https://doi.org/10.12688/f1000research.126734.1). [version 1; peer review: 1 approved with reservations]   
@@ -211,6 +231,11 @@ Report, FAIR Digital Objects Forum. _Zenodo_
 
 
 ## 2021
+
+Shoaib Sufi (2021):  
+[**The Rise of a New Digital Third Space Professional in Higher Education: Recognising Research Software Engineering**]()
+_arXiv_:2103.01041 [cs.CY]  
+<https://doi.org/10.48550/arXiv.2103.01041>
 
 Rebecca Knowles, Bilal A. Mateen, Yo Yehudi (2021):  
 [**We need to talk about the lack of investment in digital research infrastructure**](https://doi.org/10.1038/s43588-021-00048-5).  
@@ -375,6 +400,9 @@ _IEEE Std_ 2791-2020. IEEE SA Standards Board.
 
 ## 2019
 
+Carole Goble, Raul Palma, Stian Soiland-Reyes, Daniel Garijo (eds.) (2019):  
+[**Proceedings of Workshop on Research Objects (RO2019)**](https://www.researchobject.org/ro2019/proceedings).  
+
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
 [**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
 _GigaScience_ **8**(11):giz095  
@@ -398,6 +426,9 @@ _F1000Research_ **8**:251
 <https://doi.org/10.12688/f1000research.18357.1>
 
 ## 2018
+
+Carole Goble, Raul Palma, Stian Soiland-Reyes, Cees Hoof (eds.) (2018):  
+[**Proceedings of Workshop on Research Objects (RO2018)**](https://www.researchobject.org/ro2018/ro2018-proceedings/).
 
 Stian Soiland-Reyes, Marcos Cáceres (2018):  
 [**The Archive and Package (arcp) URI scheme**](https://www.research.manchester.ac.uk/portal/files/76956641/arcp.html).  
@@ -453,6 +484,21 @@ _Research Ideas and Outcomes_ **5**:e30250
 <https://doi.org/10.3897/rio.5.e30250>
 
 ## 2017
+
+Neil Chue Hong, Stephan Druskat, Robert Haines, Caroline Jay, Daniel S Katz, Shoaib Sufi (eds.)  (2017):  
+[**Proceedings of the Workshop on Sustainable Software for Science**: Practice and Experiences (WSSSPE5.1)](https://doi.org/10.6084/m9.figshare.c.3869782).  
+_Figshare_ (collection)  
+<https://doi.org/10.6084/m9.figshare.c.3869782>
+
+Francisco Queiroz, Raniere Silva, Jonah Miller, Sandor Brockhauser, Hans Fangohr (2007):  
+[**Good Usability Practices in Scientific Software Development**]().  
+_Proceedings of the Workshop on Sustainable Software for Science_  
+<https://doi.org/10.6084/m9.figshare.5331814.v3>
+
+Shoaib Sufi, Robin Dasler, Chris Edsall (2017):  
+[**The Research Software Project Manager**](https://www.software.ac.uk/blog/2017-12-04-research-software-project-manager).  
+_WSSSPE5.1 speed blogging series_  
+<https://www.software.ac.uk/blog/2017-12-04-research-software-project-manager>
 
 Kristian Garza Gutierrez (2017):  
 [**Facilitating data sharing: a design approach to incorporate context into the research data repository**](https://www.research.manchester.ac.uk/portal/files/60830158/FULL_TEXT.PDF).  
