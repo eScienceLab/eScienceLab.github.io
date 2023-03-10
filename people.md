@@ -71,9 +71,7 @@ associate:
   orcid: 0000-0002-0389-7058
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
-- name: Gerard Capes  
-  role: Research IT Software Engineer
-  img: no-photo.png
+- name: Anita Banerji
 - name: Frederik Coppens
   orcid: 0000-0001-6565-5145
   img: no-photo.png
@@ -83,12 +81,14 @@ associate:
 - name: Caroline Jay
   orcid: 0000-0002-6080-1382
   img: caroline-jay-sm.jpg
+- name: Fuqi Xu
+  orcid: 0000-0002-5923-3859
+  role: PhD student
 - name: Jasper Koehorst
   orcid: 0000-0001-8172-8981
   img: jasper.jpg
 - name: Paolo Missier
   orcid: 0000-0002-0978-2446
-  url: https://www.researchgate.net/profile/Paolo_Missier
   img: paolo-missier-sm.jpg
 - name: Marco Roos
   orcid: 0000-0002-8691-772X
@@ -97,6 +97,8 @@ associate:
   url: http://www.manchester.ac.uk/research/robert.stevens/
   img: robert-stevens.jpg
   orcid: 0000-0002-6038-9025
+- name: Rudolf Wittner
+  orcid: 0000-0002-0003-2024
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
   img: katy-wolstencroft-sm.jpg
@@ -122,6 +124,9 @@ former:
   orcid: 0000-0002-5432-2748
 - name: Christian Y. A. Brenninkmeijer
   orcid: 0000-0002-2937-7819
+- name: Gerard Capes  
+  role: Research IT Software Engineer
+  img: no-photo.png
 - name: Chris Child
   orcid: 0000-0003-0758-6908
 - name: Tim Clark
