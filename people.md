@@ -259,8 +259,8 @@ former:
       vocab="http://schema.org/" typeof="Person">
    <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}" class="profile_picture"></a>
-    <div property="name" class="name">{{member.name}}</div>
-    <div property="jobTitle" class="role">PhD Student</div>
+    <div property="name" class="name">{{member.name}}</div>  
+    <div property="jobTitle" class="role">{{member.role}}</div>      
     <link property="affiliation" href="https://esciencelab.org.uk/#" />
   </div>
   {% endfor %}
