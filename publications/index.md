@@ -51,7 +51,7 @@ Bron Kisler, Andreas Kremer, Simone Leo, Sheng Lin-Gibson,
 Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae,
 Isabelle Perseil, Ayat Salman, James Sluka, 
 Stian Soiland-Reyes, Caterina Strambio-De-Castillia, 
-Michael Sussman, Jason R. Swedlow21, Kurt Zatloukal4, Jörg Geiger (2023):  
+Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):  
 [**Towards a common standard for data and specimen provenance in life sciences**](https://research.manchester.ac.uk/en/publications/towards-a-common-standard-for-data-and-specimen-provenance-in-lif-2).
 _Learning Health Systems_  (accepted)
 
