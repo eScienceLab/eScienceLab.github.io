@@ -72,6 +72,7 @@ associate:
   url: http://www.manchester.ac.uk/research/andy.brass/personaldetails
   img: andy_brass-sm.jpg
 - name: Anita Banerji
+  img: no-photo.png
 - name: Frederik Coppens
   orcid: 0000-0001-6565-5145
   img: no-photo.png
@@ -84,6 +85,7 @@ associate:
 - name: Fuqi Xu
   orcid: 0000-0002-5923-3859
   role: PhD student
+  img: no-photo.png  
 - name: Jasper Koehorst
   orcid: 0000-0001-8172-8981
   img: jasper.jpg
@@ -98,6 +100,7 @@ associate:
   img: robert-stevens.jpg
   orcid: 0000-0002-6038-9025
 - name: Rudolf Wittner
+  img: no-photo.png
   orcid: 0000-0002-0003-2024
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
