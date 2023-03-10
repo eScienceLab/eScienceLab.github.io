@@ -42,6 +42,19 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
+Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
+Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
+Mélanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, 
+Katrina Exter, Carole Goble, Martin Golebiewski,
+Bron Kisler, Andreas Kremer, Simone Leo, Sheng Lin-Gibson,
+Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae,
+Isabelle Perseil, Ayat Salman, James Sluka, 
+Stian Soiland-Reyes, Caterina Strambio-De-Castillia, 
+Michael Sussman, Jason R. Swedlow21, Kurt Zatloukal4, Jörg Geiger (2023):  
+[**Towards a common standard for data and specimen provenance in life sciences**](https://research.manchester.ac.uk/en/publications/towards-a-common-standard-for-data-and-specimen-provenance-in-lif-2).
+_Learning Health Systems_  (accepted)
+
 Brigitte Mathiak, Nick Juty, Alessia Bardi, Julien Colomb, Peter Kraker (2023):   
 [**What are Researchers’ Needs in Data Discovery? Analysis and Ranking of a Large-Scale Collection of Crowdsourced Use Cases**](http://doi.org/10.5334/dsj-2023-003).   
 _Data Science Journal_ **22**(1)   
