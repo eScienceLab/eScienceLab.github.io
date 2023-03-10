@@ -681,7 +681,7 @@ _Molecular Systems Biology_ **11**:851
 
 Kristian Garza, Carole A. Goble, John M. Brooke, Caroline Jay (2015):  
 **Framing the community data system interface**.  
-_BCS HCI 2015: Proceedings of the 2015 British HCI Conference_: pp 269-270
+_BCS HCI 2015: Proceedings of the 2015 British HCI Conference_: pp 269-270  
 <https://doi.org/10.1145/2783446.2783605>
 [[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:274873&datastreamId=FULL-TEXT.PDF)
 [[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:274873)
