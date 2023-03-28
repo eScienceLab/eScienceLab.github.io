@@ -49,7 +49,7 @@ staff:
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
-  role: Research Fellow
+  role: Technical Architect
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
