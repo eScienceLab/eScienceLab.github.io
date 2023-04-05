@@ -6,7 +6,7 @@ path: eurosciencegateway.html
 collection: projects
 description: Improving computational workflows in Galaxy by maturing Pulsar Network and publishing computational workflows as FAIR Digital Objects.
 logo: eurosciencegateway.svg
-website: http://eurosciencegateway.eu/
+website: https://eurosciencegateway.eu/
 start_date: 2022-09-01
 duration: 36 months
 project_reference: https://doi.org/10.3030/101057388 https://gtr.ukri.org/projects?ref=10038963
