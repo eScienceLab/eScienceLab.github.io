@@ -8,7 +8,7 @@ description: The EOSC-Life project develops an open collaborative space for digi
 logo: eosc-life20k.png
 website: http://www.eosc-life.eu/
 start_date: 2019-03-01
-duration: 48 months
+duration: 54 months
 project_reference: https://doi.org/10.3030/824087
 ---
 
