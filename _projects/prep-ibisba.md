@@ -5,6 +5,7 @@ title: PREP-IBISBA
 path: prep-ibisba.html
 collection: projects
 description: European Industrial Biotechnology Innovation and Synthetic Biology Accelerator Preparatory Phase
+logo: prep-ibisba.png
 logo: ibisba-logo.png
 website: https://www.ibisba.eu/EU-Projects/PREP-IBISBA
 project_reference: https://doi.org/10.3030/871118

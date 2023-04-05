@@ -5,7 +5,7 @@ title: FAIR-IMPACT
 path: fair-impact.html
 collection: projects
 description: FAIR-IMPACT, expanding FAIR solutions across EOSC.
-logo: FAIRImpact.png
+logo: fair-impact.svg
 website: http://fair-impact.eu/
 start_date: 2022-06-01
 duration: 36 months
