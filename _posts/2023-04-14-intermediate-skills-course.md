@@ -16,3 +16,4 @@ teaching principles, as described in Best Practices for Scientific Computing and
 More recently, together with the colleagues from the [Reseach IT at the University of Manchester](https://www.itservices.manchester.ac.uk/research/), a [new course](https://uomresearchit.github.io/python-intermediate-development-nerc/) has been derived specifically suited for 
 environmental and atmospheric sciences. 
 
+![Research Software Skills Training](https://software.ac.uk/sites/default/files/scott-graham-5fNmWej4tAA-unsplash_0.jpg)
