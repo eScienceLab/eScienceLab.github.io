@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Intermediate Research Software Skills Training"
-date:   2023-04-14
+date:   2023-04-13
 categories: announcements
 ---
 
