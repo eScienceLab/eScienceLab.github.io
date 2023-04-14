@@ -6,7 +6,7 @@ categories: announcements
 ---
 
 
-The Software Sustainability Institute has been developing the 
+The [Software Sustainability Institute](https://esciencelab.org.uk/projects/ssi/) has been developing the 
 [Intermediate Research Software Development Skills In Python](https://carpentries-incubator.github.io/python-intermediate-development/) over the past few years. 
 This general course (hosted in [The Carpentries Incubator](https://carpentries-incubator.github.io/python-intermediate-development/))
 teaches intermediate-level software development skills in a way that mimics a typical software engineering and development process in a team, 
