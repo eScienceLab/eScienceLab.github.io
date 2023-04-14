@@ -15,4 +15,4 @@ short-format training (e.g. part or all of a two-day workshop).
 Lesson development is easier and more successful when it is a joint effort among collaborators, so the activities and examples used in this training are 
 best suited to groups of trainees who want to collaborate on a lesson project. Efforts have been made to also cater to lesson developers working alone.
 
-![Collaborative Lesson Development Training with Carpentries Workbench](https://software.ac.uk/sites/default/files/image_0_0.png)
+![Collaborative Lesson Development Training with the Carpentries Workbench](https://software.ac.uk/sites/default/files/image_0_0.png)
