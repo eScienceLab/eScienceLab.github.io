@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Collaborative Lesson Development Training"
+date:   2023-04-14
+categories: announcements
+---
+
 [Collaborative Lesson Development Training](https://carpentries.github.io/lesson-development-training/), developed collaboratively by The Carpentries and members of the global Carpentries community 
 (including the [Software Sustainability Institute](https://esciencelab.org.uk/projects/ssi/)), is a new training curriculum that teaches good practices in lesson design and development, 
 and open source collaboration skills, using The Carpentries Workbench. 
