@@ -52,8 +52,9 @@ Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae,
 Isabelle Perseil, Ayat Salman, James Sluka, 
 Stian Soiland-Reyes, Caterina Strambio-De-Castillia, 
 Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):  
-[**Towards a common standard for data and specimen provenance in life sciences**](https://research.manchester.ac.uk/en/publications/towards-a-common-standard-for-data-and-specimen-provenance-in-lif-2).  
-_Learning Health Systems_  (accepted)
+[**Towards a common standard for data and specimen provenance in life sciences**](https://doi.org/10.1002/lrh2.10365).  
+_Learning Health Systems_  
+<https://doi.org/10.1002/lrh2.10365>
 
 Daniel Arend, Sebastian Beier, laurent bouri, Marco Brandizi, Donald Hobern, Erwan Le Floch, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Philippe Rocca-Serra, Thomas Rosnet, Stian Soiland-Reyes (2023):  
 [**BioHackEU22 Project 22:  Plant data exchange and standard interoperability**](https://doi.org/10.37044/osf.io/c724r).  
