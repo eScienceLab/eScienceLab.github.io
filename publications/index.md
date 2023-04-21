@@ -56,11 +56,6 @@ Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):
 _Learning Health Systems_  
 <https://doi.org/10.1002/lrh2.10365>
 
-Daniel Arend, Sebastian Beier, laurent bouri, Marco Brandizi, Donald Hobern, Erwan Le Floch, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Philippe Rocca-Serra, Thomas Rosnet, Stian Soiland-Reyes (2023):  
-[**BioHackEU22 Project 22:  Plant data exchange and standard interoperability**](https://doi.org/10.37044/osf.io/c724r).  
-_BioHackrXiv_
-<https://doi.org/10.37044/osf.io/c724r>
-
 Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole Goble, Olivier Sand, Alexander Botzki (2023):  
 [**Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal**](https://doi.org/10.1002/cpz1.682).  
 _Current Protocols_ **3**:e682    
@@ -92,7 +87,13 @@ Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Lui
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.7520086>
 
+
 ## 2022 
+
+Daniel Arend, Sebastian Beier, laurent bouri, Marco Brandizi, Donald Hobern, Erwan Le Floch, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Philippe Rocca-Serra, Thomas Rosnet, Stian Soiland-Reyes (2022):  
+[**BioHackEU22 Project 22:  Plant data exchange and standard interoperability**](https://doi.org/10.37044/osf.io/c724r).  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/c724r>
 
 Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
 [**Subjective data models in bioinformatics**:  Do wet-lab and computational biologists comprehend data differently?](https://doi.org/10.48550/arXiv.2208.12346).  
