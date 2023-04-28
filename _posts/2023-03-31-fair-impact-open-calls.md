@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FAIR-IMPACT !"
+title:  "Open Call: FAIR-IMPACT support action on FAIR assessment, RO-Crate and Signposting"
 date:   2023-03-31 14:18:47 +0000
 categories: FAIR calls RO-Crate signposting
 ---
