@@ -56,6 +56,11 @@ Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):
 _Learning Health Systems_  
 <https://doi.org/10.1002/lrh2.10365>
 
+Ginger Tsueng, Sahar Frika, Alasdair J. G. Gray, Marcos Casado Barbero, Alban Gaignard, Ivan Mičetić, Leyla Jael Castro, Nick Juty (2023):  
+**Enabling profile updates through the Data Discovery Engine (DDE)**.  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/3b9gp>
+
 Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole Goble, Olivier Sand, Alexander Botzki (2023):  
 [**Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal**](https://doi.org/10.1002/cpz1.682).  
 _Current Protocols_ **3**:e682    
