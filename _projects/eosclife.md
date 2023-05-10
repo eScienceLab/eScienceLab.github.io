@@ -51,3 +51,35 @@ The workflow registry is planned to be based on the [SEEK platform](/products/se
 * [EOSC-Life homepage](http://www.eosc-life.eu/)
 * [ELIXIR: The EOSC-Life project develops an open collaborative space for digital biology in Europe](https://elixir-europe.org/news/eosc-life-start)
 * [BSC: EOSC-Life: Providing an open collaborative space for digital biology in Europe](https://www.bsc.es/es/research-and-development/projects/eosc-life-providing-open-collaborative-space-digital-biology)
+
+## Related deliverables
+
+Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Luca Pireddu, Simone Leo (2023):  
+[**EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment**](https://doi.org/10.5281/zenodo.7886545).  
+_EOSC-Life_, Project deliverable D2.3  
+<https://doi.org/10.5281/zenodo.7886545>
+
+Florence Bietrix, José Maria Carazo, Salvador Capella-Gutierrez, Frederik Coppens, Maria Luisa Chiusano, Romain David, Jose Maria Fernandez, Maddalena Fratelli, Jean-Karim Heriche, Carole Goble, Philip Gribbon, Petr Holub, Robbie P. Joosten, Simone Leo, Stuart Owen, Helen Parkinson, Roland Pieruschka, Luca Pireddu, Luca Porcu, Michael Raess, Laura Rodriguez-Navas, Andreas Scherer, Stian Soiland-Reyes, Jing Tang, Gary Saunders  (2022):  
+[**EOSC-Life Methodology framework to enhance reproducibility within EOSC-Life – revised version **](https://doi.org/10.5281/zenodo.7137744)
+_EOSC-Life_, Project deliverable D8.1 (revised)  
+<https://doi.org/10.5281/zenodo.7137744>
+
+Frauke Leitner, Jose Maria Carazo, Johanna Bischof, Natalie Haley, Pauline Audergon, Carlos Oscar Sorzano, Laura del Cano, Pablo Conesa, Cymon J. Cox, Gianluca De Moro, Corre Erwan, Katrina Exter, Gildas Le Corguillé, Romain Dallet, Lorraine Gueguen, Jean-Karim Heriche, Beatriz Serrano, Yi Sun, Jean-Marie Burel, Sara Zullino, Dario Livio Longo, Cyril Pommier, Asis Hallab, Constantin Eiteneuer, Romain David, Bjorn Usadel, Stuart Owen, Kristina Gruden, Roland Pieruschka, Alexander Sczyrba, Alfred Puhler, Martin Beracochea, Robert Finn, Philip Gribbon, Andrea Zaliani, Rachael Skyner, Frank von Delft, Ctibor Skuta, Andrew Leach, Jing Tang, Salvador Capella, José M. Fernández, Jordi Rambla, Sergi Beltran (2021):  
+[**EOSC-Life Report on the work of the initial demonstrators**](https://doi.org/10.5281/zenodo.4817723).  
+_EOSC-Life_, Project deliverable D3.2  
+<https://doi.org/10.5281/zenodo.4817723>
+
+Rudolf Wittner, Cecilia Mascia, Francesca Frexia, Heimo Müller, Jörg Geiger, Katrina Exter & Petr Holub (2021):  
+[**EOSC-Life Common Provenance Model**](https://doi.org/10.5281/zenodo.4705074).  
+_EOSC-Life_, Project deliverable D6.2  
+<https://doi.org/10.5281/zenodo.4705074>
+
+Helen Parkinson, Philip Gribbon, Ugis Sarkans, Gesa Witt, Andrea Zaliani, Manfred Kohler, Jason Swedlow, Jean-Marie Burel, Morris Swertz, Esther van Enckevort, Petr Holub, Marzia Massimi, Rafaele Matteonie, Holger Maier, Reetta Hinttala, Anne Heikkinen, Philipp Gormanns, Laura del Cano, Laurent Vasseur, Sophie Leblanc, Yann Herault, Dimitris Kontoyiannis, Christina Chandras, Dimitra Panou, José Miguel López Coronado, Rosa Aznar Novella, Vincent Robert, Ammar Ben Hadj Amor, Serge Casaregola, Jean-Luc Legras, Michel-Yves Mistou, Paolo Romano, Isabelle Perseil, Romain David, Roland Pieruschka, Katrina Exter, Marc Portier, Cedric Decruw, Steve Canham, Christian Ohmann, Sergey Goryanin, Laura Del Cano, Maddalena Fratelli, Carole Goble, Stuart Owen, Stian Soiland-Reyes, Nick Juty, Susanna Sansone, Peter McQuilton, Marco Roos, Luiz Bonino (2021):  
+[**EOSC-Life EOSC repository deployment for project demonstrators**](https://doi.org/10.5281/zenodo.4432029).  
+_EOSC-Life_, Project deliverable D1.2  
+<https://doi.org/10.5281/zenodo.4432029>
+
+Antonio Rosato, Jean-Karim Hériché, Beatriz Serrano-Solano, Björn Grüning, Luca Pireddu & Carole Goble (2020):  
+[**EOSC-Life Cloud implementation of exemplary workflows **](https://doi.org/10.5281/zenodo.4010401).  
+_EOSC-Life_, Project deliverable D2.1  
+<https://doi.org/10.5281/zenodo.4010401>
