@@ -93,7 +93,7 @@ _Zenodo_
 <https://doi.org/10.5281/zenodo.7520086>
 
 
-## 2022 https://doi.org/10.37044/osf.io/3b9gp
+## 2022
 
 Daniel Arend, Sebastian Beier, laurent bouri, Marco Brandizi, Donald Hobern, Erwan Le Floch, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Philippe Rocca-Serra, Thomas Rosnet, Stian Soiland-Reyes (2022):  
 [**BioHackEU22 Project 22:  Plant data exchange and standard interoperability**](https://doi.org/10.37044/osf.io/c724r).  
