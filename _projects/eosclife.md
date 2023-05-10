@@ -59,10 +59,20 @@ Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Luca Pireddu, Simon
 _EOSC-Life_, Project deliverable D2.3  
 <https://doi.org/10.5281/zenodo.7886545>
 
+Antonio Rosato, Jean-Karim Hériché (2022):  
+[**EOSC-Life A common environment that can run cross-RIs workflows**](https://doi.org/10.5281/zenodo.7217294).  
+_EOSC-Life_, Project deliverable D2.2  
+<https://doi.org/10.5281/zenodo.7217294>
+
 Florence Bietrix, José Maria Carazo, Salvador Capella-Gutierrez, Frederik Coppens, Maria Luisa Chiusano, Romain David, Jose Maria Fernandez, Maddalena Fratelli, Jean-Karim Heriche, Carole Goble, Philip Gribbon, Petr Holub, Robbie P. Joosten, Simone Leo, Stuart Owen, Helen Parkinson, Roland Pieruschka, Luca Pireddu, Luca Porcu, Michael Raess, Laura Rodriguez-Navas, Andreas Scherer, Stian Soiland-Reyes, Jing Tang, Gary Saunders  (2022):  
-[**EOSC-Life Methodology framework to enhance reproducibility within EOSC-Life – revised version **](https://doi.org/10.5281/zenodo.7137744)
+[**EOSC-Life Methodology framework to enhance reproducibility within EOSC-Life – revised version**](https://doi.org/10.5281/zenodo.7137744)
 _EOSC-Life_, Project deliverable D8.1 (revised)  
 <https://doi.org/10.5281/zenodo.7137744>
+
+Helen Parkinson, Philip Gribbon, Ugis Sarkans, Gesa Witt, Andrea Zaliani, Manfred Kohler, Jason Swedlow, Jean-Marie Burel, Morris Swertz, Esther van Enckevort, Petr Holub, Marzia Massimi, Rafaele Matteoni, Holger Maier, Reetta Hinttala, Anne Heikkinen, Philipp Gormanns, Laurent Vasseur, Sophie Leblanc, Yann Herault, Dimitris Kontoyiannis, Christina Chandras, Dimitra Panou, José Miguel López Coronado, Rosa Aznar Novella, Vincent Robert, Ammar Ben Hadj Amor, Serge Casaregola, Jean-Luc Legras, Michel-Yves Mistou, Paolo Romano, Isabelle Perseil, Romain David, Roland Pieruschka, Katrina Exter, Marc Portier, Cedric Decruw, Steve Canham, Christian Ohmann, Sergey Goryanin, Laura Del Cano, Maddalena Fratelli, Carole Goble, Stuart Owen, Stian Soiland- Reyes, Nick Juty, Henriette Harmse, Dario Longo, Susanna Sansone, Allyson L. Lister, Peter McQuilton, Milo Tursthon, Ramon Granell, Hossein Mirian, Marco Roos, Luiz Bonino (2021):  
+[**EOSC-Life EOSC FAIR services deployment for open calls**](https://doi.org/10.5281/zenodo.6208249).  
+_EOSC-Life_, Project deliverable D1.3  
+<https://doi.org/10.5281/zenodo.6208249>
 
 Frauke Leitner, Jose Maria Carazo, Johanna Bischof, Natalie Haley, Pauline Audergon, Carlos Oscar Sorzano, Laura del Cano, Pablo Conesa, Cymon J. Cox, Gianluca De Moro, Corre Erwan, Katrina Exter, Gildas Le Corguillé, Romain Dallet, Lorraine Gueguen, Jean-Karim Heriche, Beatriz Serrano, Yi Sun, Jean-Marie Burel, Sara Zullino, Dario Livio Longo, Cyril Pommier, Asis Hallab, Constantin Eiteneuer, Romain David, Bjorn Usadel, Stuart Owen, Kristina Gruden, Roland Pieruschka, Alexander Sczyrba, Alfred Puhler, Martin Beracochea, Robert Finn, Philip Gribbon, Andrea Zaliani, Rachael Skyner, Frank von Delft, Ctibor Skuta, Andrew Leach, Jing Tang, Salvador Capella, José M. Fernández, Jordi Rambla, Sergi Beltran (2021):  
 [**EOSC-Life Report on the work of the initial demonstrators**](https://doi.org/10.5281/zenodo.4817723).  
@@ -80,6 +90,6 @@ _EOSC-Life_, Project deliverable D1.2
 <https://doi.org/10.5281/zenodo.4432029>
 
 Antonio Rosato, Jean-Karim Hériché, Beatriz Serrano-Solano, Björn Grüning, Luca Pireddu & Carole Goble (2020):  
-[**EOSC-Life Cloud implementation of exemplary workflows **](https://doi.org/10.5281/zenodo.4010401).  
+[**EOSC-Life Cloud implementation of exemplary workflows**](https://doi.org/10.5281/zenodo.4010401).  
 _EOSC-Life_, Project deliverable D2.1  
 <https://doi.org/10.5281/zenodo.4010401>
