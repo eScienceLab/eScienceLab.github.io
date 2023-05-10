@@ -52,7 +52,115 @@ The workflow registry is planned to be based on the [SEEK platform](/products/se
 * [ELIXIR: The EOSC-Life project develops an open collaborative space for digital biology in Europe](https://elixir-europe.org/news/eosc-life-start)
 * [BSC: EOSC-Life: Providing an open collaborative space for digital biology in Europe](https://www.bsc.es/es/research-and-development/projects/eosc-life-providing-open-collaborative-space-digital-biology)
 
+## Related publications
+
+_For a complete list, see [EOSC-Life Publications](https://www.eosc-life.eu/resources/project-deliverables/)._
+
+Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
+Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
+Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
+Mélanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, 
+Katrina Exter, Carole Goble, Martin Golebiewski,
+Bron Kisler, Andreas Kremer, Simone Leo, Sheng Lin-Gibson,
+Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae,
+Isabelle Perseil, Ayat Salman, James Sluka, 
+Stian Soiland-Reyes, Caterina Strambio-De-Castillia, 
+Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):  
+[**Towards a common standard for data and specimen provenance in life sciences**](https://doi.org/10.1002/lrh2.10365).  
+_Learning Health Systems_  
+<https://doi.org/10.1002/lrh2.10365>
+
+Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
+**Umbrella Data Management Plans to integrate FAIR data: lessons from the ISIDORe and BY-COVID consortia for pandemic preparedness**.  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.7520086>
+
+Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Goble, Paul Groth (2022):  
+[**Updating Linked Data practices for FAIR Digital Object principles**](https://doi.org/10.3897/rio.8.e94501).  
+_Research Ideas and Outcomes_ **8**:e94501  
+<https://doi.org/10.3897/rio.8.e94501> 
+
+Stian Soiland-Reyes, Peter Sefton, Leyla Jael Castro, Frederik Coppens, Daniel Garijo, Simone Leo, Marc Portier, Paul Groth (2022):  
+[**Creating lightweight FAIR Digital Objects with RO-Crate**](https://doi.org/10.3897/rio.8.e93937).  
+_Research Ideas and Outcomes_ **8**:e93937  
+<https://doi.org/10.3897/rio.8.e93937>
+
+Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022): 
+Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
+[**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
+_Data Science_ **5**(2)  
+<https://doi.org/10.3233/DS-210053>  
+
+Rudolf Wittner, Cecilia Mascia, Matej Gallo, Francesca Frexia, Heimo Müller, Markus Plass, Jörg Geiger & Petr Holub (2022):  
+[**Lightweight Distributed Provenance Model for Complex Real–world Environments**](https://doi.org/10.1038/s41597-022-01537-6).   
+_Scientific Data_ **9**:503  
+<https://doi.org/10.1038/s41597-022-01537-6>
+
+Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):
+[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://s11.no/2022/phd/methods-included/).  
+_Communications of the ACM_ **65**(6)  
+<https://doi.org/10.1145/3486897>  
+
+Paul Brack, Peter Crowther, Stian Soiland-Reyes, Stuart Owen, Douglas Lowe, Alan R Williams, Quentin Groom, Mathias Dillen, Frederik Coppens, Björn Grüning, Ignacio Eguinoa, Philip Ewels, Carole Goble (2022):  
+[**Ten Simple Rules for making a software tool workflow-ready**](https://doi.org/10.1371/journal.pcbi.1009823).  
+_PLOS Computational Biology_ **18**(3):e1009823  
+<https://doi.org/10.1371/journal.pcbi.1009823>
+
+Stian Soiland-Reyes, Genís Bayarri, Pau Andrio, Robin Long, Douglas Lowe, Ania Niewielska, Adam Hospital, Paul Groth (2022):  
+[**Making Canonical Workflow Building Blocks interoperable across workflow languages**](https://s11.no/2022/phd/canonical-workflow-building-blocks/).  
+_Data Intelligence_ **4**(2)  
+<https://doi.org/10.1162/dint_a_00135>
+
+Peter Wittenburg, Ivonne Anders, Christophe Blanchi, Merret Buurman, Carole Goble, Jonas Grieb, Alex Hardisty, Sharif Islam, Thomas Jejkal, Tibor Kálmán, Christine Kirkpatrick, Laurence Lannom, Thomas Lauer, Giridhar Manepalli, Karsten Peters-von Gehlen, Andreas Pfeil, Robert Quick, Mark van de Sanden, Ulrich Schwardmann, Stian Soiland-Reyes, Rainer Stotzka, Zachary Trautt, Dieter Van Uytvanck, Claus Weiland, Philipp Wieder (2022):  
+[**FAIR Digital Object Demonstrators 2021**](https://doi.org/10.5281/zenodo.5872645).   
+Report, FAIR Digital Objects Forum. _Zenodo_  
+<https://doi.org/10.5281/zenodo.5872645>
+
+Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
+Mohammad Sadnan Al Manir, Ilkay Altintas, Christopher J. O. Baker, Ammar Ben Hadj Amor, Salvador Capella-Gutierrez,
+Paulos Charonyktakis, Michael R. Crusoe,
+Yolanda Gil, Carole Goble, Timothy J. Griffin,
+Paul Groth, Hans Ienasescu, Pratik Jagtap,
+Matúš Kalaš, Vedran Kasalica, Alireza Khanteymoori,
+Tobias Kuhn, Hailiang Mei, Hervé Ménager, Steffen Möller, Robin A. Richardson,
+Vincent Robert, Stian Soiland-Reyes, Robert Stevens, Szoke Szaniszlo, 
+Suzan Verberne, Aswin Verhoeven, Katherine Wolstencroft (2021):  
+[**Perspectives on automated composition of workflows in the life sciences**](https://doi.org/10.12688/f1000research.54159.1).  
+[version 1; peer review: 2 approved]  
+_F1000Research_ **10**:897  
+<https://doi.org/10.12688/f1000research.54159.1>
+
+Rafael Ferreira da Silva, Henri Casanova, Kyle Chard, Ilkay Altintas, Rosa M Badia, Bartosz Balis, Tainã Coleman, Frederik Coppens, Frank Di Natale, Bjoern Enders, Thomas Fahringer, Rosa Filgueira, Grigori Fursin, Daniel Garijo, Carole Goble, Dorran Howell, Shantenu Jha, Daniel S. Katz, Daniel Laney, Ulf Leser, Maciej Malawski, Kshitij Mehta, Loïc Pottier, Jonathan Ozik, J. Luc Peterson, Lavanya Ramakrishnan, Stian Soiland-Reyes, Douglas Thain, Matthew Wolf (2021):  
+[**A Community Roadmap for Scientific Workflows Research and Development**](https://arxiv.org/pdf/2110.02168).  
+_2021 IEEE Workshop on Workflows in Support of Large-Scale Science ([WORKS](https://works-workshop.org/))_, pp 81–90.  
+<https://doi.org/10.1109/WORKS54523.2021.00016>
+[arXiv:2110.02168 [cs.DC]](https://doi.org/10.48550/arXiv.2110.02168)
+
+Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Simone Leo, Luca Pireddu, Laura Rodriguez-Navas, José Mª Fernández, Salvador Capella-Gutierrez, Hervé Ménager, Björn Grüning, Beatriz Serrano-Solano, Philip Ewels, Frederik Coppens (2021):  
+[**Implementing FAIR Digital Objects in the EOSC-Life Workflow Collaboratory**](https://doi.org/10.5281/zenodo.4605654).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.4605654>
+
+Rudolf Wittner, Petr Holub, Heimo Müller, Jörg Geiger, Carole Goble, Stian Soiland-Reyes, Luca Pirredu, Francesca Frexia, Cecilia Mascia, Elliot Fairweather, Jason R. Swedlow, Josh Moore, Caterina Strambio, Gianluigi Zanetti, David Grunwald, Hiroki Nakae (2021):  
+[**ISO 23494: Biotechnology - Provenance Information Model for Biological Specimen and Data**](https://www.research.manchester.ac.uk/portal/files/195948339/ProvenanceWeek_2020_Poster_ISO_23494_Provenance_LNCS_format_1_.pdf).  
+In: _Provenance and Annotation of Data and Processes_. IPAW 2020, IPAW 2021.
+_Lecture Notes in Computer Science_ **12839**   
+<https://doi.org/10.1007/978-3-030-80960-7_16> [[preprint](https://doi.org/10.5281/zenodo.3901011)]
+
+Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
+[**FAIR Computational Workflows**](https://doi.org/10.1162/dint_a_00033).  
+_Data Intelligence_  **2**(1):108–121  
+<https://doi.org/10.1162/dint_a_00033>
+
+Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2020):  
+[**FAIR Principles: Interpretations and Implementation Considerations**](https://doi.org/10.1162/dint_r_00024).  
+_Data Intelligence_ **2**(1):10–29  
+<https://doi.org/10.1162/dint_r_00024>
+
+
 ## Related deliverables
+
+_For a complete list, see [EOSC-Life Project deliverables](https://www.eosc-life.eu/resources/project-deliverables/)._
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Luca Pireddu, Simone Leo (2023):  
 [**EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment**](https://doi.org/10.5281/zenodo.7886545).  
