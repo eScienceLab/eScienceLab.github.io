@@ -10,10 +10,10 @@ logo: tre-fx-logo.svg
 website: https://trefx.uk/
 start_date: 2023-02-01
 duration: 9 months
-project_reference: https://dareuk.org.uk/driver-project-tre-fx/
+project_reference: https://gtr.ukri.org/projects?ref=MC_PC_23007
 ---
 
-[TRE-FX](https://trefx.uk/) is a project [funded](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/) by UK Research and Innovation ([UKRI](https://www.ukri.org/)) as part of the [DARE UK](https://dareuk.org.uk/) _Data and Analytics Research Environments UK_ programme (MC_PC_23007 4050900091).
+[TRE-FX](https://trefx.uk/) is a project [funded](https://dareuk.org.uk/five-projects-funded-to-drive-more-coordinated-secure-use-of-sensitive-data-for-research-across-uk/) by UK Research and Innovation ([UKRI](https://www.ukri.org/)) as part of the [DARE UK](https://dareuk.org.uk/) _Data and Analytics Research Environments UK_ programme ([MC_PC_23007](https://gtr.ukri.org/projects?ref=MC_PC_23007)).
 
 ## Motivation
 
