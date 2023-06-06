@@ -6,7 +6,7 @@ path: agroserv.html
 collection: projects
 description: Integrated SERVices supporting a sustainable AGROecological transition
 logo: agroserv.png
-website: https://www.lifewatch.eu/2022/03/17/lifewatch-eric-in-successful-horizon-europe-proposals/
+website: https://agroserv.eu/
 start_date: 2022-10-01
 duration: 5 years
 project_reference: https://doi.org/10.3030/101058020 https://gtr.ukri.org/projects?ref=10038927
