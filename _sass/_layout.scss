@@ -269,7 +269,7 @@
     background-repeat: no-repeat;
     background-position: center center;
     background-image: url('/images/garden_cropped_scaled.jpg');
-    background-size: auto;
+    background-size: cover;
     height: 350px;
     @include media-query($on-laptop) {
         height: 200px;
