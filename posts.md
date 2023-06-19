@@ -6,6 +6,7 @@ permalink: /posts/
 
   <ul class="post-list">
     {% for post in site.posts %}
+      {% unless post.draft %}
       <li>
         <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
 
@@ -13,6 +14,7 @@ permalink: /posts/
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+     {% endunless %}
     {% endfor %}
   </ul>
 
