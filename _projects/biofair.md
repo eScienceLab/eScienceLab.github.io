@@ -51,7 +51,7 @@ _F1000Research_ **12**(ELIXIR):596 (poster)
 <https://doi.org/10.7490/f1000research.1119446.1>
 
 Nicola Soranzo, Carole Goble (2023):  
-[BioFAIR: a new BioCommons infrastructure for UK life science](https://doi.org/10.5281/zenodo.7708304).  
+[**BioFAIR: a new BioCommons infrastructure for UK life science**](https://doi.org/10.5281/zenodo.7708304).  
 _UKRI DRI Community Congress 2023_
 <https://doi.org/10.5281/zenodo.7708304>
 
