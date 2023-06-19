@@ -27,11 +27,11 @@ BioFAIR will be a gateway to existing state-of-the-art tools for analysing and s
 
 BioFAIR complements and enhances existing national and international life science data infrastructures, e.g., UK-generated high-quality data and automated data submission to EMBL-EBI public archives and provides a national platform for project-specific BYOD analysis workflows using EMBL-EBI and UK data and tools.
 
-
+BioFAIR was conceived by [ELIXIR-UK](https://elixiruknode.org/) which also report [BioFAIR Feasibility study](https://doi.org/10.5281/zenodo.7924339).
 
 ## eScience Lab involvement
 
-Carole Goble is joint Head of Node of [ELIXIR UK](https://elixiruknode.org/) and will continue to have an active role in shaping the establishment of BioFAIR.
+Carole Goble is joint Head of Node of [ELIXIR-UK](https://elixiruknode.org/) and will continue to have an active role in shaping the establishment of BioFAIR.
 
 BioFAIR will take advantage of many of the [eScience Lab products](/products/):
 
@@ -40,5 +40,23 @@ BioFAIR will take advantage of many of the [eScience Lab products](/products/):
 - [FAIRDOM-SEEK](/products/seek) as part of the **BioFAIR DataHub** for ISA-based metadata catalogue 
 - [RO-Crate](/products/researchobject) for **Data collection support** including a National Data Lake
 
-It is important to note that BioFAIR is an UK-wide collaboration beyond the above highlights, more details will be available at [BioFAIR website](https://biofair.uk/). and the report [BioFAIR Feasibility study](https://doi.org/10.5281/zenodo.7924339).
+It is important to note that BioFAIR is an UK-wide collaboration beyond the above highlights, more details will be available at [BioFAIR website](https://biofair.uk/). 
+
+## References
+
+Nicola Soranzo1, Robert Andrews, Tim Beck, Alexia Cardona, Emily Delva, Catherine Knox, Gos Micklem, Christine Orengo, Krzysztof Poterlowicz, Susanna-Assunta Sansone, Neil Hall, Carole Goble, ELIXIR-UK (2023):  
+[**BioFAIR: a new BioCommons infrastructure for the UK life science**](https://doi.org/10.7490/f1000research.1119446.1).  
+_ELIXIR All Hands 2023_, Dublin, Ireland, 2023-06-05/--09.   
+_F1000Research_ **12**(ELIXIR):596 (poster)  
+<https://doi.org/10.7490/f1000research.1119446.1>
+
+Nicola Soranzo, Carole Goble (2023):  
+[BioFAIR: a new BioCommons infrastructure for UK life science](https://doi.org/10.5281/zenodo.7708304).  
+_UKRI DRI Community Congress 2023_
+<https://doi.org/10.5281/zenodo.7708304>
+
+Technopolis Group, Nicola Soranzo, Catherine Knox, Hannah Norman, Robert Andrews, Tim Beck, Gos Micklem, Christine Orengo, Susanna Assunta Sansone, Neill Hall, Carole Goble (2021):  
+[**BioFAIR Final Report**](https://doi.org/10.5281/zenodo.7924339). BioFAIR Feasibility Study.  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.7924339>
 
