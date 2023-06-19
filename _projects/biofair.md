@@ -24,6 +24,7 @@ A UK-focused **Data Commons** will assemble, host and operate a coherent set of 
 BioFAIR will be a gateway to existing state-of-the-art tools for analysing and sharing data, allowing “bring your own data” (BYOD) bespoke pipelines.  Researchers will develop their workflows and have their code hosted for cross-project use, levelling up access to advanced data processing platforms and expertly developed data-wrangling and processing pipelines, including AI-based approaches. Computational resources for data storage and computing will underpin the Data Commons services for data analysis, hosting, and archival support.
 
 ![BioFAIR overview](/images/posts_images/biofair-overview.png)
+_Overview of BioFAIR, adapted from ELIXIR All Hands 2023 poster <https://doi.org/10.7490/f1000research.1119446.1>_
 
 BioFAIR complements and enhances existing national and international life science data infrastructures, e.g., UK-generated high-quality data and automated data submission to EMBL-EBI public archives and provides a national platform for project-specific BYOD analysis workflows using EMBL-EBI and UK data and tools.
 
