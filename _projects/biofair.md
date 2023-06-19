@@ -8,6 +8,7 @@ description: Supporting the UK’s life science community with world class digit
 logo: biofair.png
 website: https://biofair.uk/
 start_date: 2024-04-01
+draft: true
 duration: 5 years
 project_reference: https://www.ukri.org/news/ukri-invests-72-million-upgrading-uk-research-infrastructure/
 ---
