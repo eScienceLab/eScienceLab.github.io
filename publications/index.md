@@ -42,6 +42,12 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Stian Soiland-Reyes, Carole Goble, Paul Groth (2023):  
+[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
+_arXiv_ 2306.07436 [cs.DC]  
+<https://doi.org/10.48550/arXiv.2306.07436>
+[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
+
 Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
 Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
@@ -921,18 +927,19 @@ _Communications in Computer and Information Science_ **348**
 [[preprint]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):  
-**A workflow PROV-corpus based on Taverna and Wings**.  
+[**A workflow PROV-corpus based on Taverna and Wings**](https://research.manchester.ac.uk/files/48049057/prov_bench_paper.pdf).  
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_  
 <https://doi.org/10.1145/2457317.2457376>
-[[pdf]](http://delicias.dia.fi.upm.es/members/dgarijo/papers/prov-bench-paper.pdf)
-[[related website]](https://github.com/provbench/Wf4Ever-PROV)
+[[preprint](https://research.manchester.ac.uk/en/publications/a-workflow-prov-corpus-based-on-taverna-and-wings)]
+[[dataset](https://doi.org/10.5281/zenodo.11607)]
+[[GitHub]](https://github.com/provbench/Wf4Ever-PROV)
 
 Colin Batchelor, Christian Y. A. Brenninkmeijer, Christine Chichester, Mark Davies, Daniela Digles, Ian Dunlop, Chris T. Evelo, Anna Gaulton, Carole Goble, Alasdair J. G. Gray, Paul Groth, Lee Harland, Karen Karapetyan, Antonis Loizou, John P. Overington (2014):  
 [**Scientific Lenses to Support Multiple Views over Linked Chemistry Data**](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_7.pdf).  
 _Proceedings of 13th International Semantic Web Conference, Part 1_, (ISWC 2014) Riva del Garda, Italy, October 19-23, 2014.
 _Lecture Notes in Computer Science_ **8796**.  
 <https://doi.org/10.1007/978-3-319-11964-9_7>
-[[preprint](https://www.research.manchester.ac.uk/portal/en/publications/scientific-lenses-to-support-multiple-views-over-linked-chemistry-data(5eb9b5f8-2f13-478a-a99d-2b4cc3c5cf4c).html)]
+[[preprint](https://research.manchester.ac.uk/en/publications/scientific-lenses-to-support-multiple-views-over-linked-chemistry)]
 
 Christian Brenninkmeijer, Chris Evelo, Carole Goble, Alasdair J G Gray, Paul Groth, Steve Pettifer, Robert Stevens, Antony J Williams, Egon L Willighagen (2013):  
 [**Scientific Lenses: An Approach to Dynamically Vary the Relationships between Datasets**](http://ceur-ws.org/Vol-951/paper5.pdf).  
