@@ -22,11 +22,11 @@ The PhD student will be collaborating with and be supported by our team that con
 
 The project will aim to meet the following objectives. These are broadly outlined below, and will be finalised and made more specific during the PhD.
 
-1) Systematic review exploring existing literature on workflow management systems and methods to capture federated provenance and structured metadata
-2) Systematic review limitations, opportunities, ethical and privacy concerns that restricts FAIR sharing of sensitive healthcare data, identifying potential countermeasures
-3) Prototyping of a system that can filter federated workflow provenance to make it publishable as open datasets
-4) Development of framework for open sharing of provenance for sensitive data analysis
-5) Development of metadata models for mapping sensitive data identifiers 
+1. Systematic review exploring existing literature on workflow management systems and methods to capture federated provenance and structured metadata
+2. Systematic review limitations, opportunities, ethical and privacy concerns that restricts FAIR sharing of sensitive healthcare data, identifying potential countermeasures
+3. Prototyping of a system that can filter federated workflow provenance to make it publishable as open datasets
+4. Development of framework for open sharing of provenance for sensitive data analysis
+5. Development of metadata models for mapping sensitive data identifiers 
 
 ## Further Information
 
