@@ -48,6 +48,12 @@ _arXiv_ 2306.07436 [cs.DC]
 <https://doi.org/10.48550/arXiv.2306.07436>
 [[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
+Alasdair Gray, Leyla J. Castro, Nick Juty, Carole Goble (2023):  
+**Schema.org for Scientific Data**.  
+_Artificial Intelligence for Science_ (Chapter 27) pp 495-51.  
+<https://doi.org/10.1142/9789811265679_0027>
+[[preprint not yet available]]
+
 Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
 Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
