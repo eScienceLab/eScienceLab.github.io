@@ -48,11 +48,16 @@ _arXiv_ 2306.07436 [cs.DC]
 <https://doi.org/10.48550/arXiv.2306.07436>
 [[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
+Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
+[**Features of a FAIR vocabulary**](https://doi.org/10.1186/s13326-023-00286-8).  
+_Journal of Biomedical Semantics_ **14**:6  
+<https://doi.org/10.1186/s13326-023-00286-8>
+
 Alasdair Gray, Leyla J. Castro, Nick Juty, Carole Goble (2023):  
 **Schema.org for Scientific Data**.  
 _Artificial Intelligence for Science_ (Chapter 27) pp 495-51.  
 <https://doi.org/10.1142/9789811265679_0027>
-[[preprint not yet available]]
+[preprint not yet available]
 
 Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
@@ -192,11 +197,6 @@ Rachel Lyne, Adrián Bazaga, Daniela Butano, Sergio Contrino, Joshua Heimbach, F
 [**HumanMine: advanced data searching, analysis and cross-species comparison**](https://doi.org/10.1101/2022.05.11.491545).  
 _bioRxiv_ 2022.05.11.491545  
 <https://doi.org/10.1101/2022.05.11.491545>
-
-Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
-[**Features of a FAIR vocabulary**](https://doi.org/10.21203/rs.3.rs-1465079/v1).  
-_ResearchSquare_ (Preprint version 1, under revision)  
-<https://doi.org/10.21203/rs.3.rs-1465079/v1>
 
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
 [**Packaging research artefacts with RO-Crate**](https://www.researchobject.org/2021-packaging-research-artefacts-with-ro-crate/manuscript.html).  
