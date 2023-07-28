@@ -57,7 +57,7 @@ Alasdair Gray, Leyla J. Castro, Nick Juty, Carole Goble (2023):
 **Schema.org for Scientific Data**.  
 _Artificial Intelligence for Science_ (Chapter 27) pp 495-51.  
 <https://doi.org/10.1142/9789811265679_0027>
-[preprint not yet available]
+[no OA preprint available]
 
 Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
