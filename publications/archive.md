@@ -58,8 +58,9 @@ in _Proceedings of the 4th International Workshop on Semantic Web Applications a
 Jupp, S.; Horridge, M.; Iannone, L.; Klein, J.; Owen, S.; Schanstra, J.; Wolstencroft, K. & Stevens, R. (2012), **Populous: a tool for building OWL ontologies from templates**, BMC Bioinformatics 13.
 <https://doi.org/10.1186/1471-2105-13-S1-S5>
 
-Karasavvas, K.; Wolstencroft, K.; Mina, E.; Cruickshank, D.; Williams, A.; De Roure, D.; Goble, C. & Roos, M. (2012), **Opening new gateways to workflows for life scientists.**, Stud Health Technol Inform 175, 131--141.
-
+Karasavvas, K.; Wolstencroft, K.; Mina, E.; Cruickshank, D.; Williams, A.; De Roure, D.; Goble, C. & Roos, M. (2012), **Opening new gateways to workflows for life scientists.**, Studies in Health Technology and Informatics 175, 131--141.
+<https://doi.org/10.3233/978-1-61499-054-3-131>
+[[preprint][(https://research.manchester.ac.uk/en/publications/opening-new-gateways-to-workflows-for-life-scientists)]  
 
 Klein, J.; Jupp, S.; Moulos, P.; Fernandez, M.; Buffin-Meyer, B.; Casemayou, A.; Chaaya, R.; Charonis, A.; Bascands, J.-L.; Stevens, R. & Schanstra, J. P. (2012), **The KUPKB: a novel Web application to access multiomics data on kidney disease**, The FASEB Journal 26(5), 2145-53.
 
