@@ -1,15 +1,22 @@
-#search-wrapper {
+#search-container {
   float: right;
   min-width: 20em;
-  max-width: 30em;
+  max-width: 20em;
   box-sizing: content-box;
-  .gsc-control-cse {
-    background-color: transparent !important;
-    border: none !important;
-  }
-  .gsc-input-box {
+
+  #search-input {
+    padding: 0em 0.5em;
+    margin-top: 1em;
     height: 32px;
+    width: 100%;
   }
+}
+
+#results-container {
+  position: absolute;
+  background-color: white;
+  padding: 0em 1em;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
 }
 
 .product-screenshot {
