@@ -42,6 +42,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, David López, Bjorn Gruning, Simone Leo, Stian Soiland-Reyes (2023):  
+[**BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates**](https://doi.org/10.37044/osf.io/24jst).  
+_BioHackrXiv_  
+<https://doi.org/10.37044/osf.io/24jst>
+
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2023):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
 _arXiv_ 2306.07436 [cs.DC]  
