@@ -30,7 +30,9 @@ RO-Crate is used in several of our projects and products:
 * [BY-COVID](/projects/by-covid/) -- As a way to package rich metadata and provenance together with the common provenance model <https://doi.org/10.5281/zenodo.5093125>
 * [ELIXIR](/projects/elixir/) -- As part of GA4GH cloud activities
 * [EOSC-Life](/projects/eosc-life/) -- as exchange unit with services like [LifeMonitor](https://lifemonitor.eu/) using the [Workflow Testing Crate](https://lifemonitor.eu/workflow_testing_ro_crate) profile <https://doi.org/10.5281/zenodo.4605654>
-* [FAIR-IMPACT](/projects/fair-impact/) -- to help package semantic artefacts and their crosswalk mappings
+* [FAIR-IMPACT](/projects/fair-impact/) -- to help package semantic artefacts and their crosswalk mappings 
 * [SEEK](/products/seek/) -- being developed as an update to the previous Research Object Bundle export
 * [Synthesys+](/projects/synthesys/) -- recording workflow outputs from Galaxy as a [Workflow Run Crate](https://www.researchobject.org/workflow-run-crate/) profile and working with FAIR Digital Objects <https://doi.org/10.1162/dint_a_00134>
-* [Workflow Hub](/products/workflowhub) -- as storage format for workflows and their dependencies, using the [Workflow RO-Crate profile](https://w3id.org/workflowhub/workflow-ro-crate/) 
+* [WorkflowHub](/products/workflowhub) -- as storage format for workflows and their dependencies, using the [Workflow RO-Crate profile](https://w3id.org/workflowhub/workflow-ro-crate/) 
+* [TRE-FX](/projects/trefx) and HDR UK QQ2 -- to build the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile for execution workflows on Trusted Research Environment
+* [EVERSE](/projects/everse) -- as the exchange mechanism for the workflow execution service WfExS
