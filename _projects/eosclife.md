@@ -8,13 +8,15 @@ description: The EOSC-Life project develops an open collaborative space for digi
 logo: eosc-life20k.png
 website: http://www.eosc-life.eu/
 start_date: 2019-03-01
+end_date: 2023-08-31
 duration: 54 months
+exired: true
 project_reference: https://doi.org/10.3030/824087
 ---
 
 [EOSC-Life](http://www.eosc-life.eu/) brought together the 13  Biological and Medical ESFRI research infrastructures (BMS RIs) to create an **open collaborative space for digital biology**.  This was a joint response to the challenge of analysing and reusing the prodigious amounts of data produced by life-science. Managing and integrating this data is beyond the capabilities of most individual end-users and institutes. By publishing data and tools in a Europe-wide cloud, EOSC-Life aimed to bring the capabilities of big science projects to the wider research community.  Federated user access (AAI) allows transnational resource access and authorisation. EOSC-Life establishes a novel access model for the BMS RI: through EOSC scientists would gain direct access to FAIR data and tools in a cloud environment available throughout the European Research Area. 
 
-Funded by call [H2020-INFRAEOSC-2018-2](https://cordis.europa.eu/programme/id/H2020_INFRAEOSC-04-2018) [824087](https://doi.org/10.3030/824087), EOSC-Life make BMS RIs data resources FAIR and publish them in the EOSC following guidelines and standards (e.g. EDMI). Overall this drive the evolution of the RI repository infrastructure for EOSC and integration of the BMS RI repositories. EOSC-Life implemented workflows that cross disciplines and RI boundaries and addressed the needs of interdisciplinary science. Through open hackathons and bring-your-own-data events  EOSC-Life was co-created with exustubg user communities, providing a blueprint for how the EOSC could support wide-spread and excellent data-driven life science research. EOSC-Life started adressing the data policies needed for human research data under GDPR. Interoperable provenance information describe history of sample and data to ensure reproducibility and adherence to regulatory requirements.
+Funded by call [H2020-INFRAEOSC-2018-2](https://cordis.europa.eu/programme/id/H2020_INFRAEOSC-04-2018) [824087](https://doi.org/10.3030/824087), EOSC-Life made BMS RIs data resources FAIR and publish them in the EOSC following guidelines and standards (e.g. EDMI). Overall this drive the evolution of the RI repository infrastructure for EOSC and integration of the BMS RI repositories. EOSC-Life implemented workflows that cross disciplines and RI boundaries and addressed the needs of interdisciplinary science. Through open hackathons and bring-your-own-data events  EOSC-Life was co-created with exustubg user communities, providing a blueprint for how the EOSC could support wide-spread and excellent data-driven life science research. EOSC-Life started adressing the data policies needed for human research data under GDPR. Interoperable provenance information describe history of sample and data to ensure reproducibility and adherence to regulatory requirements.
 
 The goal of the EOSC-Life project was to make sure that life-scientists can find, access and integrate life-science data for analysis and reuse in academic and industrial research. EOSC-Life will transform European life-science by providing an open, continent-scale, collaborative and interdisciplinary environment for data science.
 
@@ -78,7 +80,7 @@ _Learning Health Systems_
 <https://doi.org/10.1002/lrh2.10365>
 
 Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
-**Umbrella Data Management Plans to integrate FAIR data: lessons from the ISIDORe and BY-COVID consortia for pandemic preparedness**.  
+[**Umbrella Data Management Plans to integrate FAIR data: lessons from the ISIDORe and BY-COVID consortia for pandemic preparedness**](https://doi.org/10.5281/zenodo.7520086).  
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.7520086>
 
@@ -87,10 +89,20 @@ Stian Soiland-Reyes, Leyla Jael Castro, Daniel Garijo, Marc Portier, Carole Gobl
 _Research Ideas and Outcomes_ **8**:e94501  
 <https://doi.org/10.3897/rio.8.e94501> 
 
+Paul De Geest, Frederik Coppens, Stian Soiland-Reyes, Ignacio Eguinoa, Simone Leo (2022):  
+[**Enhancing RDM in Galaxy by integrating RO-Crate**](https://doi.org/10.3897/rio.8.e95164).  
+_Research Ideas and Outcomes_ **8**:e95164  
+<https://doi.org/10.3897/rio.8.e95164>
+
 Stian Soiland-Reyes, Peter Sefton, Leyla Jael Castro, Frederik Coppens, Daniel Garijo, Simone Leo, Marc Portier, Paul Groth (2022):  
 [**Creating lightweight FAIR Digital Objects with RO-Crate**](https://doi.org/10.3897/rio.8.e93937).  
 _Research Ideas and Outcomes_ **8**:e93937  
 <https://doi.org/10.3897/rio.8.e93937>
+
+Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
+[**Features of a FAIR vocabulary**](https://doi.org/10.1186/s13326-023-00286-8).  
+_Journal of Biomedical Semantics_ **14**:6  
+<https://doi.org/10.1186/s13326-023-00286-8>
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022): 
 Stian Soiland-Reyes, Peter Sefton, Mercè Crosas, Leyla Jael Castro, Frederik Coppens, José M. Fernández, Daniel Garijo, Björn Grüning, Marco La Rosa, Simone Leo, Eoghan Ó Carragáin, Marc Portier, Ana Trisovic, RO-Crate Community, Paul Groth, Carole Goble (2022):  
@@ -102,6 +114,12 @@ Rudolf Wittner, Cecilia Mascia, Matej Gallo, Francesca Frexia, Heimo Müller, Ma
 [**Lightweight Distributed Provenance Model for Complex Real–world Environments**](https://doi.org/10.1038/s41597-022-01537-6).   
 _Scientific Data_ **9**:503  
 <https://doi.org/10.1038/s41597-022-01537-6>
+
+Francesca Frexia, Cecilia Mascia, Rudolf Wittner, Markus Plass, Heimo Müller, Jörg Geiger, Petr Holub (2022):  
+[**The Common Provenance Model: Capturing Distributed Provenance in Life Sciences Processes**](https://doi.org/10.3233/SHTI220489).  
+In: Brigitte Séroussi, Patrick Weber, Ferdinand Dhombres, Cyril Grouin, Jan-David Liebe, Sylvia Pelayo, Andrea Pinna, Bastien Rance, Lucia Sacchi, Adrien Ugon, Arriel Benis, Parisis Gallos (eds.)  _Challenges of Trustable AI and Added-Value on Health_  
+_Studies in Health Technology and Informatics_ **294**
+<https://doi.org/10.3233/SHTI220489>
 
 Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):
 [**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](https://s11.no/2022/phd/methods-included/).  
@@ -156,18 +174,47 @@ _Lecture Notes in Computer Science_ **12839**
 
 Carole Goble, Sarah Cohen-Boulakia, Stian Soiland-Reyes, Daniel Garijo, Yolanda Gil, Michael R. Crusoe, Kristian Peters, Daniel Schober (2020):  
 [**FAIR Computational Workflows**](https://doi.org/10.1162/dint_a_00033).  
-_Data Intelligence_  **2**(1):108–121  
+_Data Intelligence_ **2**(1):108–121  
 <https://doi.org/10.1162/dint_a_00033>
+
+Elliot Fairweather, Rudolf Wittner, Martin Chapman, Petr Holub, Vasa Curcin (2020):  
+[**Non-repudiable provenance for clinical decision support systems**](https://arxiv.org/pdf/2006.11233).  
+_arXiv_:2006.11233 [cs.CR] 
+<https://doi.org/10.48550/arXiv.2006.11233>
 
 Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon Coles, Ronald Cornet, Mélanie Courtot, Mercè Crosas, Michel Dumontier, Chris T. Evelo, Carole Goble, Giancarlo Guizzardi, Karsten Kryger Hansen, Ali Hasnain, Kristina Hettne, Jaap Heringa, Rob W.W. Hooft, Melanie Imming, Keith G. Jeffery, Rajaram Kaliyaperumal, Martijn G. Kersloot, Christine R. Kirkpatrick, Tobias Kuhn, Ignasi Labastida, Barbara Magagna, Peter McQuilton, Natalie Meyers, Annalisa Montesanti, Mirjam van Reisen, Philippe Rocca-Serra, Robert Pergl, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Juliane Schneider, George Strawn, Mark Thompson, Andra Waagmeester, Tobias Weigel, Mark D. Wilkinson, Egon Willighagen, Peter Wittenburg, Marco Roos, Barend Mons, Erik Schultes (2020):  
 [**FAIR Principles: Interpretations and Implementation Considerations**](https://doi.org/10.1162/dint_r_00024).  
 _Data Intelligence_ **2**(1):10–29  
 <https://doi.org/10.1162/dint_r_00024>
 
+Mark D. Wilkinson, Michel Dumontier, Susanna-Assunta Sansone, Luiz Olavo Bonino da Silva Santos, Mario Prieto, Dominique Batista, Peter McQuilton, Tobias Kuhn, Philippe Rocca-Serra, Mercѐ Crosas, Erik Schultes (2019):  
+[**Evaluating FAIR maturity through a scalable, automated, community-governed framework**](https://doi.org/10.1038/s41597-019-0184-5).  
+_Scientific Data_ **6**(1)  
+<https://doi.org/10.1038/s41597-019-0184-5>
 
 ## Related deliverables
 
 _For a complete list, see [EOSC-Life Project deliverables](https://www.eosc-life.eu/resources/project-deliverables/)._
+
+Niklas Blomberg, Niklas, Friederike Schmidt-Tremmel, Sara Crockett (2023):  
+[**EOSC-Life Summary of EOSC-Life Main Achievements and Impacts with Sustainability and Exploitation Plans**](https://doi.org/10.5281/zenodo.8304575).  
+_EOSC-Life_, Project deliverable D11.3  
+<https://doi.org/10.5281/zenodo.8304575>
+
+Maddalena Fratelli, Gary Saunders, Arina Rybina, Jing Tang (2023):  
+[**EOSC-Life Report on reproducibility**](https://doi.org/10.5281/zenodo.8300699).  
+_EOSC-Life_, Project deliverable D8.4  
+<https://doi.org/10.5281/zenodo.8300699>
+
+Rudolf Wittner, Jörg Geiger, Heimo Müller, Francesca Frexia, Cecilia Mascia, Katrina Exter, Ibon Cancio, Petr Holub (2023):  
+[**EOSC-Life Common provenance model for processing biological material, data generation and computational workflows**](https://doi.org/10.5281/zenodo.8279525).  
+_EOSC-Life_, Project deliverable D6.6  
+<https://doi.org/10.5281/zenodo.8279525>
+
+Arina Rybina, Pauline Audergon, Claudia Pfander (2023):  
+[**EOSC-Life Report on the work of the Open Call Projects**](https://doi.org/10.5281/zenodo.8263074).  
+_EOSC-Life_, Project deliverable D3.3  
+<https://doi.org/10.5281/zenodo.8263074>
 
 Carole Goble, Stian Soiland-Reyes, Finn Bacall, Stuart Owen, Luca Pireddu, Simone Leo (2023):  
 [**EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment**](https://doi.org/10.5281/zenodo.7886545).  
