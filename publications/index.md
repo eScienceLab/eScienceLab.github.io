@@ -42,13 +42,13 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
-Rudolf Wittner, Matej Gallo, Simone Leo, Cecilia Mascia, Francesca Frexia, Markus Plass, Stian Soiland-Reyes, Heimo Müller, Jörg Geiger, Petr Holub (2023):
-[**Linking provenance and its metadata in multi-organizational environments of life sciences**](https://s11.no/2023/phd/linking-provenance/).
+Rudolf Wittner, Matej Gallo, Simone Leo, Cecilia Mascia, Francesca Frexia, Markus Plass, Stian Soiland-Reyes, Heimo Müller, Jörg Geiger, Petr Holub (2023):  
+[**Linking provenance and its metadata in multi-organizational environments of life sciences**](https://s11.no/2023/phd/linking-provenance/).  
 (Submitted)
 
-Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia Martínez-Lizaga, Santiago Royo-Sierra, Simon Saldner, Lorenz Dolanski-Aghamanoukjan, Alexander Degelsegger-Marquez, Stian Soiland-Reyes, Nina Van Goethem, Enrique Bernal-Delgado, On Behalf of BeYond-COVID project contributors (2023):
-[**Federated causal inference based on real-world observational data sources: application to a SARS-CoV-2 vaccine effectiveness assessment**](https://s11.no/2023/phd/federated-causal-inference/).
-(Submitted)
+Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia Martínez-Lizaga, Santiago Royo-Sierra, Simon Saldner, Lorenz Dolanski-Aghamanoukjan, Alexander Degelsegger-Marquez, Stian Soiland-Reyes, Nina Van Goethem, Enrique Bernal-Delgado, On Behalf of BeYond-COVID project contributors (2023):  
+[**Federated causal inference based on real-world observational data sources: application to a SARS-CoV-2 vaccine effectiveness assessment**](https://s11.no/2023/phd/federated-causal-inference/).  
+(Submitted)  
 <https://research.manchester.ac.uk/en/publications/federated-causal-inference-based-on-real-world-observational-data>
 
 Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, David López, Bjorn Gruning, Simone Leo, Stian Soiland-Reyes (2023):  
@@ -435,10 +435,11 @@ _IEEE Std_ 2791-2020. IEEE SA Standards Board.
 
 Carole Goble, Raul Palma, Stian Soiland-Reyes, Daniel Garijo (eds.) (2019):  
 [**Proceedings of Workshop on Research Objects (RO2019)**](https://www.researchobject.org/ro2019/proceedings).  
+IEEE eScience 2019, San Diego, CA, USA, 2019-09-24.
 
-Eoghan Ó Carragáin, Carole Goble, Peter Sefton, Stian Soiland-Reyes (2019):
+Eoghan Ó Carragáin, Carole Goble, Peter Sefton, Stian Soiland-Reyes (2019):  
 [**RO-Crate: A lightweight approach to research object data packaging**](https://s11.no/2019/phd/ro-crate/).  
-RO-15 at _Workshop on Research Objects (RO 2019_), IEEE eScience 2019, 2019-09-24, San Diego, CA, USA.
+RO-15 at _Workshop on Research Objects (RO 2019_), IEEE eScience 2019, 2019-09-24, San Diego, CA, USA.  
 <https://doi.org/10.5281/zenodo.3337883>
 
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
@@ -467,6 +468,7 @@ _F1000Research_ **8**:251
 
 Carole Goble, Raul Palma, Stian Soiland-Reyes, Cees Hoof (eds.) (2018):  
 [**Proceedings of Workshop on Research Objects (RO2018)**](https://www.researchobject.org/ro2018/ro2018-proceedings/).
+IEEE eScience 2018, Amsterdam, The Netherlands, 2018-10-29
 
 Stian Soiland-Reyes, Marcos Cáceres (2018):  
 [**The Archive and Package (arcp) URI scheme**](https://www.research.manchester.ac.uk/portal/files/76956641/arcp.html).  
@@ -482,7 +484,7 @@ Stian Soiland-Reyes, Farah Zaib Khan, Richard O. Sinnott, Andrew Lonie, Michael 
 [**Capturing interoperable reproducible workflows with Common Workflow Language**](http://s11.no/2018/cwl.html).  
 _Workshop on Research Objects_ (RO 2018), 29 Oct 2018, Amsterdam, Netherlands.  
 <https://doi.org/10.5281/zenodo.1312623>
-[[slides](http://slides.com/soilandreyes/2018-10-29-cwlprov)]]
+[[slides](http://slides.com/soilandreyes/2018-10-29-cwlprov)]
 
 Carole Goble, Stian Soiland-Reyes,  Sean Bechhofer (2018):  
 [**Research Object Community Update**](https://doi.org/10.5281/zenodo.1313066).  
