@@ -52,7 +52,7 @@ Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia
 <https://research.manchester.ac.uk/en/publications/federated-causal-inference-based-on-real-world-observational-data>
 
 Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, David López, Bjorn Gruning, Simone Leo, Stian Soiland-Reyes (2023):  
-[**BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates**](https://doi.org/10.37044/osf.io/24jst).  
+[**BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates**](https://s11.no/2023/phd/enhancing-rdm-galaxy-dsw/).  
 _BioHackrXiv_  
 <https://doi.org/10.37044/osf.io/24jst>
 
@@ -436,6 +436,11 @@ _IEEE Std_ 2791-2020. IEEE SA Standards Board.
 Carole Goble, Raul Palma, Stian Soiland-Reyes, Daniel Garijo (eds.) (2019):  
 [**Proceedings of Workshop on Research Objects (RO2019)**](https://www.researchobject.org/ro2019/proceedings).  
 
+Eoghan Ó Carragáin, Carole Goble, Peter Sefton, Stian Soiland-Reyes (2019):
+[**RO-Crate: A lightweight approach to research object data packaging**](https://s11.no/2019/phd/ro-crate/).  
+RO-15 at _Workshop on Research Objects (RO 2019_), IEEE eScience 2019, 2019-09-24, San Diego, CA, USA.
+<https://doi.org/10.5281/zenodo.3337883>
+
 Farah Zaib Khan, Stian Soiland-Reyes, Richard O. Sinnott, Andrew Lonie, Carole Goble, Michael R. Crusoe (2019):  
 [**Sharing interoperable workflow provenance: A review of best practices and their practical application in CWLProv**](https://doi.org/10.1093/gigascience/giz095).  
 _GigaScience_ **8**(11):giz095  
@@ -471,6 +476,19 @@ _2018 IEEE 14th International Conference on e-Science (e-Science)_.
 [[pdf]](https://www.research.manchester.ac.uk/portal/files/83366888/arcp_camera_ready.pdf)
 [[preprint server]](https://www.research.manchester.ac.uk/portal/en/publications/the-archive-and-package-arcp-uri-scheme(eb6dee14-e754-46c0-b82c-3ab54715d24c).html)
 [[arXiv:1809.06935]](https://arxiv.org/abs/1809.06935)
+[[slides](https://slides.com/soilandreyes/2018-09-29-arcp)]
+
+Stian Soiland-Reyes, Farah Zaib Khan, Richard O. Sinnott, Andrew Lonie, Michael R Crusoe, Carole Goble (2018):  
+[**Capturing interoperable reproducible workflows with Common Workflow Language**](http://s11.no/2018/cwl.html).  
+_Workshop on Research Objects_ (RO 2018), 29 Oct 2018, Amsterdam, Netherlands.  
+<https://doi.org/10.5281/zenodo.1312623>
+[[slides](http://slides.com/soilandreyes/2018-10-29-cwlprov)]]
+
+Carole Goble, Stian Soiland-Reyes,  Sean Bechhofer (2018):  
+[**Research Object Community Update**](https://doi.org/10.5281/zenodo.1313066).  
+_Workshop on Research Objects_ (RO 2018), 29 Oct 2018, Amsterdam, Netherlands.  
+<https://doi.org/10.5281/zenodo.1313066> 
+[[slides](https://doi.org/10.5281/zenodo.1484286)]
 
 Natalie J Stanford, Finn Bacall, Fatemeh Zamanzad Ghavidel, Martin Golebiewski, Inge Jonassen, Rune Kleppe, Olga Krebs, Hadas Leonov, Stuart Owen, Kjell Petersen, Maja Rey, Stian Soiland-Reyes, Kidane Tekle, Andreas Weidemann, Alan Williams, Ulrike Wittig, Katy Wolstencroft, Anders Goksøyr, Jacky L. Snoep, Jon Olav Vik, Wolfgang Müller, Carole Goble (2018):  
 [**FAIR Bioinformatics computation and data management: FAIRDOM and the Norwegian Digital Life initiative**](https://www.research.manchester.ac.uk/portal/files/70129474/NETTAB2018_paper_8.pdf).  
