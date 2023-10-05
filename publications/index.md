@@ -671,6 +671,7 @@ _8th USENIX Workshop on the Theory and Practice of Provenance (TaPP 16)_.
 [[usenix]](https://www.usenix.org/conference/tapp16/workshop-program/presentation/alper)
 [arxiv:1605.06669](https://arxiv.org/abs/1605.06669)
 [[pdf]](https://www.usenix.org/system/files/conference/tapp16/tapp16-paper-alper.pdf)
+[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/3-alper.pdf)]
 
 Alex R. Hardisty, Finn Bacall, Niall Beard, Maria-Paula Balcázar-Vargas, Bachir Balech, Zoltán Barcza, Sarah J. Bourlat, Renato De Giovanni, Yde de Jong, Francesca De Leo, Laura Dobor, Giacinto Donvito, Donal Fellows, Antonio Fernandez Guerra, Nuno Ferreira, Yuliya Fetyukova, Bruno Fosso, Jonathan Giddy, Carole Goble, Anton Güntsch, Robert Haines, Vera Hernández Ernst, Hannes Hettling, Dóra Hidy, Ferenc Horváth, Dóra Ittzés, Péter Ittzés, Andrew Jones, Renzo Kottmann, Robert Kulawik, Sonja Leidenberger, Päivi Lyytikäinen-Saarenmaa, Cherian Mathew, Norman Morrison, Aleksandra Nenadic, Abraham Nieva de la Hidalga, Matthias Obst, Gerard Oostermeijer, Elisabeth Paymal, Graziano Pesole, Salvatore Pinto, Axel Poigné, Francisco Quevedo Fernandez, Monica Santamaria, Hannu Saarenmaa, Gergely Sipos, Karl-Heinz Sylla, Marko Tähtinen, Saverio Vicario, Rutger Aldo Vos, Alan R. Williams, Pelin Yilmaz (2016):  
 **BioVeL: a virtual laboratory for data analysis and modelling in biodiversity science and ecology**.  
