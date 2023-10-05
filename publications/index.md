@@ -655,14 +655,10 @@ _CEUR Workshop Proceedings_ **1700**(04)
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/developing-a-benchmark-suite-for-semantic-web-data-from-existing-workflows(03047934-c3d3-4cd4-b001-e0b913766a92).html)
 
 Stian Soiland-Reyes, Pinar Alper, Carole Goble (2016):  
-**Tracking workflow execution with TavernaProv**.  
+[**Tracking workflow execution with TavernaProv**](https://s11.no/2016/provweek-tavernaprov/).  
 At _[PROV: Three Years Later](http://provenanceweek.org/2016/p3yl/programme.html)_, [Provenance Week 2016](http://www2.mitre.org/public/provenance2016/). 
 [https://doi.org/10.5281/zenodo.51314](https://doi.org/10.5281/zenodo.51314)
-[html](https://cdn.rawgit.com/stain/2016-provweek-tavernaprov/submitted/2016-provweek-tavernaprov.xhtml)
-[[pdf]](https://www.research.manchester.ac.uk/portal/files/57034080/Tracking_workflow_execution_with_TavernaProv.pdf) 
-[[rdf]](http://rdf.greggkellogg.net/distiller?format=turtle&in_fmt=rdfa&uri=https://cdn.rawgit.com/stain/2016-provweek-tavernaprov/submitted/2016-provweek-tavernaprov.xhtml) 
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/tracking-workflow-execution-with-tavernaprov(26c40ab9-d80e-48d5-898c-d80e462762f0).html)
-[[source]](https://github.com/stain/2016-provweek-tavernaprov/)
 
 Pablo Carbonell, Andrew Currin, Mark Dunstan, Donal Fellows, Adrian Jervis, Nicholas J.W. Rattray, Christopher J. Robinson, Neil Swainston, Maria Vinaixa, Alan Williams, Cunyu Yan, Perdita Barran, Rainer Breitling, George Guo-Qiang Chen, Jean-Loup Faulon, Carole Goble, Royston Goodacre, Douglas B. Kell, Rosalind Le Feuvre, Jason Micklefield, Nigel S. Scrutton, Philip Shapira, Eriko Takano, Nicholas J. Turner (2016):  
 **SYNBIOCHEM–a SynBio foundry for the biosynthesis and sustainable production of fine and speciality chemicals**.  
@@ -1002,17 +998,16 @@ _CEUR Workshop Proeedings_ **1114**:4
 
 
 Pinar Alper, Khalid Belhajjame, Carole Goble, Pinar Karagoz (2013):  
-**Small Is Beautiful: Summarizing Scientific Workflows Using Semantic Annotations**.  
+[**Small Is Beautiful: Summarizing Scientific Workflows Using Semantic Annotations**](https://research.manchester.ac.uk/files/264991687/2013_BigData_Congress_Industry_6202.pdf).  
 _2013 IEEE International Congress on Big Data_  
 <https://doi.org/10.1109/BigData.Congress.2013.49>
-[[pdf]](http://www.computer.org/csdl/proceedings/bigdatacongress/2013/5006/00/5006a318.pdf)
+[[preprint]](https://research.manchester.ac.uk/en/publications/small-is-beautiful-summarizing-scientific-workflows-using-semanti)
 
 Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):  
-**Enhancing and abstracting scientific workflow provenance for data publishing**.  
+[**Enhancing and abstracting scientific workflow provenance for data publishing**](https://research.manchester.ac.uk/files/32553604/FULL_TEXT.PDF).  
 _Proceedings of the Joint EDBT/ICDT 2013 Workshops_  
 <https://doi.org/10.1145/2457317.2457370>
-[[escholar]](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:282297)
-[[preprint]](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:282297&datastreamId=SUPPLEMENTARY-1.PDF)
+[[preprint]](https://research.manchester.ac.uk/en/publications/enhancing-and-abstracting-scientific-workflow-provenance-for-data)
 
 Anja Le Blanc, John Brooke, Donal Fellows, Marco Soldati, David Pérez-Suárez, Alessandro Marassi & Andrej Santin (2013):  
 **Workflows for Heliophysics**.  
