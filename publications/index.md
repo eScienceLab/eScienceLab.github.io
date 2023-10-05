@@ -1002,6 +1002,7 @@ Pinar Alper, Khalid Belhajjame, Carole Goble, Pinar Karagoz (2013):
 _2013 IEEE International Congress on Big Data_  
 <https://doi.org/10.1109/BigData.Congress.2013.49>
 [[preprint]](https://research.manchester.ac.uk/en/publications/small-is-beautiful-summarizing-scientific-workflows-using-semanti)
+[[slides](https://www.slideshare.net/kbelhajj/small-is-beautiful-summarizing-scientific-workflows-using-semantic-annotations-ieee-bigdata-conference-2013)]
 
 Pinar Alper, Khalid Belhajjame, Carole A. Goble, Pinar Karagoz (2013):  
 [**Enhancing and abstracting scientific workflow provenance for data publishing**](https://research.manchester.ac.uk/files/32553604/FULL_TEXT.PDF).  
