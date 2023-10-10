@@ -81,4 +81,3 @@ eScience Lab is leading this project on behalf of [ELIXIR-UK](https://elixirukno
 
 * [Slides: TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.7708175)
 
-<iframe src="https://zenodo.org/record/7708175/preview/DARE UK_public_webinar_v3.1.pdf" width="90%" height="400"></iframe>
