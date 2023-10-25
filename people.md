@@ -10,10 +10,6 @@ head:
   role: Professor, group leader
 
 staff:
-- name: Rachael Ainsworth
-  orcid: 0000-0003-2591-9462
-  img: rachael-ainsworth.jpg
-  role: Research Software Manager
 - name: Munazah Andrabi
   orcid: 0000-0002-7718-5109
   img: munazah-andrabi-sm.png
@@ -107,6 +103,10 @@ associate:
   img: katy-wolstencroft-sm.jpg
 
 former:
+- name: Rachael Ainsworth
+  orcid: 0000-0003-2591-9462
+  img: rachael-ainsworth.jpg
+  role: Research Software Manager
 - name: Sergejs Aleksejevs
 - name: Ebtisam Alharbi
   orcid: 0000-0002-3887-3857
