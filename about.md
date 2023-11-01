@@ -20,7 +20,7 @@ The [research](/publications/) by the eScience Lab spans a wide array of topics,
 community building. Lab members are leaders in international standards setting and community groups working on digital
 research infrastructure for science.
 
-The eScience Lab currently has guaranteed funding until 2027.
+The eScience Lab currently has guaranteed funding until 2028.
 
 ## History
 
