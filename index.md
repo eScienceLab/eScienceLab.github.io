@@ -40,7 +40,7 @@ layout: index
   }
   </script>
 
-The [eScience Lab](/about/) research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [Department of Computer Science](http://www.cs.manchester.ac.uk/),  [University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
+The [eScience Lab](/about/) research group is led by [Carole Goble](https://research.manchester.ac.uk/en/persons/carole.goble) and [Stian Soiland-Reyes](https://research.manchester.ac.uk/en/persons/soiland-reyes). The group is based at the [Department of Computer Science](http://www.cs.manchester.ac.uk/),  [University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
 
 The [eScience Lab team](/people/) are focused on the research and development of products and practices designed for data driven and computational research. The eScience  [tools](/products/) and techniques support the coming together of people, data and methods, the sharing of the research objects of science and the automation of analysis and data pipelines using computational workflows.
 
