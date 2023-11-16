@@ -45,7 +45,7 @@ staff:
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
-  role: Technical Architect
+  role: Senior Lecturer
 - name: Shoaib Sufi
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
