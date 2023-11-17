@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open positions in our group"
+title:  "Open positions in the eScience Lab"
 date:   2023-11-17
 categories: announcements
 ---
