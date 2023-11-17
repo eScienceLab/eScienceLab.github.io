@@ -53,8 +53,8 @@ Rudolf Wittner, Matej Gallo, Simone Leo, Cecilia Mascia, Francesca Frexia, Marku
 
 Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia Martínez-Lizaga, Santiago Royo-Sierra, Simon Saldner, Lorenz Dolanski-Aghamanoukjan, Alexander Degelsegger-Marquez, Stian Soiland-Reyes, Nina Van Goethem, Enrique Bernal-Delgado, On Behalf of BeYond-COVID project contributors (2023):  
 [**Federated causal inference based on real-world observational data sources: application to a SARS-CoV-2 vaccine effectiveness assessment**](https://s11.no/2023/phd/federated-causal-inference/).  
-(Submitted)  
-<https://research.manchester.ac.uk/en/publications/federated-causal-inference-based-on-real-world-observational-data>
+_BMC Medical Research Methodology_ **23**:248  
+<https://doi.org/10.1186/s12874-023-02068-3>
 
 Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, David López, Bjorn Gruning, Simone Leo, Stian Soiland-Reyes (2023):  
 [**BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates**](https://s11.no/2023/phd/enhancing-rdm-galaxy-dsw/).  
