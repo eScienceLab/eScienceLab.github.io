@@ -65,5 +65,4 @@ UNIMAN contributions (including eScience Lab and Manchester Particle Physics Gro
   * MS4.4: Science clusters integrated into RSQkit (lead: UNIMAN)
 * WP5: Capacity Building and Recognition
   - Task T5.3: Establish a long-term training activity, supported by the respective community services and platforms (leads: UniSalento, CERTH)
-* 
-- 
+
