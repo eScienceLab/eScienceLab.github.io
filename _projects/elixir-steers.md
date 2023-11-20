@@ -48,4 +48,3 @@ UNIMAN contributions:
  - O4.1: Embedding good practices in ELIXIR Node operations, equipping Nodes, established and new, with guidelines on how to be(come) sustainable and effective.
  - T4.2: Organisational and research management capacity for Nodes
  - T4.3: Capacity building in training skills for ELIXIR Node staff
- - 
