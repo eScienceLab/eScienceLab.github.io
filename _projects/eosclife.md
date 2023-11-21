@@ -10,7 +10,7 @@ website: http://www.eosc-life.eu/
 start_date: 2019-03-01
 end_date: 2023-08-31
 duration: 54 months
-exired: true
+expired: true
 project_reference: https://doi.org/10.3030/824087
 ---
 

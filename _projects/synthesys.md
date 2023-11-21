@@ -9,8 +9,9 @@ logo: original-image-sizes/synthesys-plus-logo.png
 website: https://www.synthesys.info/
 project_reference: https://doi.org/10.3030/823827
 start_date: 2019-02-01
-end_date: 2023-01-31
-duration: 4 years
+end_date: 2023-07-31
+expired: true
+duration: 4.5 years
 ---
 
 [SYNTHESYS+](https://www.synthesys.info/) is a pan-European collections infrastructure project and the
