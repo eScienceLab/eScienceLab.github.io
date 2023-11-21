@@ -9,7 +9,7 @@ description: European Virtual Institute for Research Software Excellence
 #website: http://NOTeverse.eu/
 start_date: Late 2023
 duration: 36 months
-project_reference: https://doi.org/10.3030/101129744 (pending consortium agreement)
+#project_reference: https://doi.org/10.3030/101129744
 ---
 
 The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**. 
