@@ -4,7 +4,7 @@ title: Posters
 exclude_from_nav: true
 ---
 
-This is a infrequently updated list of posters made by the [eScience lab team](../people/).
+This is a infrequently updated (and incomplete) list of posters made by the [eScience lab team](../people/).
 
 
 ## 2023
@@ -14,6 +14,12 @@ Simone Leo, Laura Rodríguez-Navas, José M. Fernández, Paul De Geest, Luca Pir
 _Elixir All Hands 2023_, 2023-06-06, Dublin, Ireland.  
 _F1000Research_  **12**(ELIXIR):592 (poster)  
 <https://doi.org/10.7490/f1000research.1119445.1>
+
+Leyla Jael Castro, Stian Soiland-Reyes, Dietrich Rebholz-Schuhmann (2023):  
+[**RO-Crates meets FAIR Digital Objects**](https://doi.org/10.5281/zenodo.8348924).  
+_1st Conference on Research Data Infrastructure_ (CoRDI 2023), 2023-09-12/--14, Karlsruhe, Germany.    
+<https://doi.org/10.5281/zenodo.8348924>
+
 
 
 ## 2022

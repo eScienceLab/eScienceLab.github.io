@@ -61,6 +61,19 @@ Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, Da
 _BioHackrXiv_  
 <https://doi.org/10.37044/osf.io/24jst>
 
+
+Carole Goble, Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Ignacio Eguinoa, Bert Droesbeke, Hervé Ménager, Laura Rodriguez-Navas, José M. Fernández, Björn Grüning, Simone Leo, Luca Pireddu, Michael Crusoe, Johan Gustafsson, Salvador Capella-Gutierrez, Frederik Coppens (2023):  
+[**EOSC-Life Workflow Collaboratory for the Life Sciences**](https://doi.org/10.52825/cordi.v1i.352).  
+1st Conference on Research Data Infrastructure ([CoRDI 2023](https://www.nfdi.de/cordi-2023/)), 2023-09-12/--14, Karlsruhe, Germany.  
+_Proceedings of the Conference on Research Data Infrastructure_ **1**  
+<https://doi.org/10.52825/cordi.v1i.352>
+
+Leyla Jael Castro, Stian Soiland-Reyes, Dietrich Rebholz-Schuhmann (2023):  
+[**RO-Crates Meets FAIR Digital Objects**](https://www.tib-op.org/ojs/index.php/CoRDI/article/view/396/577).  
+1st Conference on Research Data Infrastructure ([CoRDI 2023](https://www.nfdi.de/cordi-2023/)), 2023-09-12/--14, Karlsruhe, Germany.  
+_Proceedings of the Conference on Research Data Infrastructure_ **1**  
+<https://doi.org/10.52825/cordi.v1i.396>
+
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2023):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
 _arXiv_ 2306.07436 [cs.DC]  

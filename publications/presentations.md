@@ -3,10 +3,23 @@ layout: page
 title: Presentations
 ---
 
+This is a infrequently updated (and incomplete) list of presentation made by the [eScience lab team](../people/).
+
 
 ## 2023
 * [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
+
+Peter Sefton, Stian Soiland-Reyes (2023):  
+[**Packaging data with detailed metadata using RO-Crate in FAIR open repositories**](https://ptsefton.com/2023/06/13/ro-crate-or-2023/).  
+_Open Repositories 2023_ ([OR2023](https://or2023.openrepositories.org)), 2023-06-12/--15, Stellenbosch University, South Africa.  
+<https://doi.org/10.5281/zenodo.8091505>
+
+Carole Goble (2023):  
+**The EOSC-Life Workflow Collaboratory for the Life Sciences**.  
+_1st Conference on Research Data Infrastructure_ ([CoRDI 2023](https://www.nfdi.de/cordi-2023/)), 2023-09-12/--14, Karlsruhe, Germany.  
+<https://doi.org/10.5281/zenodo.8348470>
+
 
 ## 2022
 * Reproducible and Open Science (invited talk), Jodrell Bank Centre for Astrophysics Autumn Computing Sessions - by Rachael Ainsworth, University of Manchester, Manchester, UK, 3 November 2022
