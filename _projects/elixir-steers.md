@@ -9,7 +9,7 @@ description: Developing, consolidating and optimising ELIXIR as an European rese
 #website: http://example.eu/
 start_date: Late 2023
 duration: 36 months
-project_reference: https://doi.org/10.3030/101131096 (pending consortium agreement)
+#project_reference: https://doi.org/10.3030/101131096
 ---
 
 [ELIXIR](http://elixir-europe.org/) unites Europe’s leading life science organisations in managing and safeguarding the increasing volume of data being
