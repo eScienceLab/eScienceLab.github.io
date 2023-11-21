@@ -7,7 +7,7 @@ collection: projects
 description: European Virtual Institute for Research Software Excellence
 #logo: everse.svg
 #website: http://NOTeverse.eu/
-start_date: Late 2023
+start_date: 2024-03
 duration: 36 months
 #project_reference: https://doi.org/10.3030/101129744
 ---
