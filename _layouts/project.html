@@ -23,7 +23,7 @@ layout: default
       "dissolutionDate": "{{ page.end_date }}",
     {% endif %}
     {% if page.project_reference %}
-      "funding": [ "{{ page.project_reference | split: ' ' | join: '","' }}"]
+      "funding": ["{{ page.project_reference | join: '", "' }}"]
     {% endif %}
   }
   </script>
@@ -53,9 +53,8 @@ layout: default
       {% endif %}
       {% if page.project_reference %}
         <li>Project reference:
-          {% assign references = page.project_reference | split: ' ' %}
-          {% for dur in references %}
-            <a href="{{ dur }}">{{ dur }}</a>
+          {% for dur in page.project_reference %}
+            <a href="{{ dur | split: ' ' | first }}">{{ dur }}</a>
           {% endfor %}
         </li>
       {% endif %}

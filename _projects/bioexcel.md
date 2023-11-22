@@ -10,7 +10,9 @@ website: https://bioexcel.eu
 start_date: 2015-11-01
 duration: 3+3.5 years
 expired: true
-project_reference: https://doi.org/10.3030/823830 https://doi.org/10.3030/675728
+project_reference:
+  - https://doi.org/10.3030/823830
+  - https://doi.org/10.3030/675728
 ---
 
 [BioExcel](https://bioexcel.eu/) is a **Centre of Excellence for Biomolecular

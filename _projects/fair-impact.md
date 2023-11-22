@@ -9,7 +9,9 @@ logo: fair-impact.svg
 website: http://fair-impact.eu/
 start_date: 2022-06-01
 duration: 36 months
-project_reference: https://doi.org/10.3030/101057344 https://gtr.ukri.org/projects?ref=10038992
+project_reference: 
+  - https://doi.org/10.3030/101057344
+  - https://gtr.ukri.org/projects?ref=10038992
 ---
 
 The FAIR-IMPACT project will identify and design practical solutions, guidelines and frameworks to realise an EOSC of FAIR data and services. The project gathers 28 partners from 11 countries.

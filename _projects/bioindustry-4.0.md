@@ -9,7 +9,9 @@ logo: bioindustry4.0.png
 website: https://www.ibisba.eu/Global-News/IBISBA-Joins-Three-New-Horizon-Europe-Projects
 start_date: 2023-01-01
 duration: 48 months
-project_reference: https://doi.org/10.3030/101094287 https://gtr.ukri.org/projects?ref=10048146
+project_reference:
+  - https://doi.org/10.3030/101094287
+  - https://gtr.ukri.org/projects?ref=10048146
 ---
 
 [IBISBA](ibisba.md) will team up with ESFRI-landmark RIs such as [ELIXIR](elixir.md), Mirri, BBMRI and DSMZ, innovative companies and several research groups in an ambitious 4-year work plan to encourage the adoption of advanced digital technologies in industrial biotechnology. These include innovative measurement devices for online monitoring, data management tools for data quality, open science, and AI learning to support bioprocess design.

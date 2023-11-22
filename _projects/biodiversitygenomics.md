@@ -10,7 +10,9 @@ website: https://biodiversitygenomics.eu/
 start_date: 2022-09-01
 end_date: 2026-02-28
 duration: 42 months
-project_reference: https://doi.org/10.3030/101059492 https://gtr.ukri.org/projects?ref=10040409
+project_reference:
+  - https://doi.org/10.3030/101059492
+  - https://gtr.ukri.org/projects?ref=10040409
 ---
 
 ## Biodiversity in crisis

@@ -9,7 +9,9 @@ logo: biodt.svg
 website: https://biodt.eu/
 start_date: 2022-06-01
 duration: 36 months
-project_reference: https://doi.org/10.3030/101057437 https://gtr.ukri.org/projects?ref=10038930
+project_reference:
+  - https://doi.org/10.3030/101057437
+  - https://gtr.ukri.org/projects?ref=10038930
 ---
 
 The Biodiversity Digital Twin prototype provides advanced models for simulation and prediction capabilities, through practical use cases addressing critical issues related to global biodiversity dynamics.
