@@ -1,6 +1,6 @@
 ---
 layout: project
-name: eosc-entrust
+name: EOSC-ENTRUST
 title: "eosc-entrust"
 path: eosc-entrust.html
 collection: projects
@@ -12,7 +12,7 @@ duration: 36 months
 #project_reference: https://doi.org/10.3030/101131056
 ---
 
-_A European Network of TRUSTed research environments_
+_Trusted environments for sensitive data management in EOSC_
 
 <!-- copied from proposal, rewrite: -->
 
