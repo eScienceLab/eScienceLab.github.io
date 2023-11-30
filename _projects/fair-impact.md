@@ -64,7 +64,7 @@ UNIMAN contributions:
 
 * WP3: Persistent Identifiers (lead: CSC)
   - T3.2: Integration of PID practices into FAIR data management (lead: CSC)
-    + T3.2.1: PIDs in data production workflows
+    + T3.2.1: PIDs in data production workflows 
 * WP4: Metadata and ontologies (lead: INRAE)
   - T4.2: Semantic artefact lifecycle and catalogues (lead: INRIA)
     + T4.2.1 Semantic artefact engineering, adoption and description  
