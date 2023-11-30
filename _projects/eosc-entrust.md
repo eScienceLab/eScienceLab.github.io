@@ -1,7 +1,7 @@
 ---
 layout: project
-name: EOSC-ENTRUST
-title: "eosc-entrust"
+name: eosc-entrust
+title: "EOSC-ENTRUST"
 path: eosc-entrust.html
 collection: projects
 description: A European Network of TRUSTed research environments
