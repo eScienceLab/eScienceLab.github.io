@@ -42,3 +42,4 @@ This funding is available for home students, at the current UKRI rate (tax free 
 
 <https://www.cs.manchester.ac.uk/study/postgraduate-research/research-projects/description/?projectid=36620>
 
+**Deadline**: apply by 2023-12-15
