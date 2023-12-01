@@ -38,13 +38,13 @@ eScience Lab will contribute work on credit and attribution for workflows in [Wo
 UNIMAN contributions:
 
 * WP3: Infrastructure services to enable adoption and deployment of software best practices
- - O3.1: Make software, tools, and workflows first class citizens for assessment of researchers
- - O3.2: Stimulate the usage of Software Management Plans to support sustainable research software
- - O3.3: Benchmark resource usage for computational tasks in life sciences 
- - O3.4: Implement resource optimisation features in workflow management systems
- - T3.1: Enable crediting scientists for research assets
- - T3.3: Identify fit-for-purpose reproducible workflows through technical and scientific benchmarking
+  - O3.1: Make software, tools, and workflows first class citizens for assessment of researchers
+  - O3.2: Stimulate the usage of Software Management Plans to support sustainable research software
+  - O3.3: Benchmark resource usage for computational tasks in life sciences 
+  - O3.4: Implement resource optimisation features in workflow management systems
+  - T3.1: Enable crediting scientists for research assets
+  - T3.3: Identify fit-for-purpose reproducible workflows through technical and scientific benchmarking
 * WP4: Strengthening and equipping ELIXIR Nodes and Node staff with key skills and resources in organisation, management and training
- - O4.1: Embedding good practices in ELIXIR Node operations, equipping Nodes, established and new, with guidelines on how to be(come) sustainable and effective.
- - T4.2: Organisational and research management capacity for Nodes
- - T4.3: Capacity building in training skills for ELIXIR Node staff
+  - O4.1: Embedding good practices in ELIXIR Node operations, equipping Nodes, established and new, with guidelines on how to be(come) sustainable and effective.
+  - T4.2: Organisational and research management capacity for Nodes
+  - T4.3: Capacity building in training skills for ELIXIR Node staff
