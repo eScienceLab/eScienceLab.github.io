@@ -3,7 +3,7 @@ layout: project
 name: tre-fx
 title: TRE-FX
 path: tre-fx.html
-redirect_from: /projects/tre-fx/
+redirect_from: /projects/dare-fx/
 collection: projects
 description: Delivering a federated network of TREs to enable safe analytics
 logo: tre-fx-logo.svg
