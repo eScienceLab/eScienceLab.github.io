@@ -42,6 +42,12 @@ which is particularly useful for long author lists or long titles.
 
 ## 2023
 
+Stian Soiland-Reyes, Carole Goble, Paul Groth (2023/2024):  
+[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
+_PeerJ Computer Science_ (accepted)  
+[[preprint](https://doi.org/10.48550/arXiv.2306.07436)]
+[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
+
 Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
 [**Umbrella Data Management Plans to Integrate FAIR Data: Lessons From the ISIDORe and BY-COVID Consortia for Pandemic Preparedness**](https://doi.org/10.5334/dsj-2023-035).  
 _Data Science Journal_ **22**:52  
@@ -73,12 +79,6 @@ Leyla Jael Castro, Stian Soiland-Reyes, Dietrich Rebholz-Schuhmann (2023):
 1st Conference on Research Data Infrastructure ([CoRDI 2023](https://www.nfdi.de/cordi-2023/)), 2023-09-12/--14, Karlsruhe, Germany.  
 _Proceedings of the Conference on Research Data Infrastructure_ **1**  
 <https://doi.org/10.52825/cordi.v1i.396>
-
-Stian Soiland-Reyes, Carole Goble, Paul Groth (2023):  
-[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
-_arXiv_ 2306.07436 [cs.DC]  
-<https://doi.org/10.48550/arXiv.2306.07436>
-[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
 Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
 [**Features of a FAIR vocabulary**](https://doi.org/10.1186/s13326-023-00286-8).  
