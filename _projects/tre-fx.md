@@ -23,7 +23,7 @@ Trusted research environments (TREs) are secure digital locations in which data 
 
 However, it is hard for a researcher to perform analysis across multiple TREs – for example when data is to be analysed across geographical or governance boundaries, such as devolved healthcare data from across different nations of the UK. Yet this ability is urgently needed. Analysis across a federation of TREs would enable timely analysis of data scattered across the UK to answer urgent questions, as we needed in the COVID-19 pandemic.
 
-The project built a demonstration of how we can use secure research objects to move between TREs while still supporting the Five Safes principles that govern and protect sensitive data – all overseen by public representatives. [Research Objects](activities/researchobject/) are a standardised way of describing and packaging the digital information needed (but not the data itself) to pose a research question and report the answer.
+The project built a demonstration of how we can use secure research objects to move between TREs while still supporting the Five Safes principles that govern and protect sensitive data – all overseen by public representatives. [Research Objects](/products/researchobject/) are a standardised way of describing and packaging the digital information needed (but not the data itself) to pose a research question and report the answer.
 
 
 ## Approach
