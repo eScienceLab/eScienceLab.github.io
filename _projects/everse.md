@@ -12,6 +12,8 @@ duration: 36 months
 #project_reference: https://doi.org/10.3030/101129744
 ---
 
+![EVERSE project](../images/everse.png)
+
 The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**. 
 
 <!-- copied from proposal, rewrite: -->
