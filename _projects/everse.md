@@ -63,4 +63,4 @@ UNIMAN contributions (including eScience Lab and Manchester Particle Physics Gro
 * WP5: Capacity Building and Recognition
   - Task T5.3: Establish a long-term training activity, supported by the respective community services and platforms (leads: UniSalento, CERTH)
 
-For more details, read the [official project press release](../announcements/2023/12/01/everse-press-release/).
+For more details, read the [official project press release](/announcements/2023/12/01/everse-press-release/).
