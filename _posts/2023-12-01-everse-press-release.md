@@ -44,5 +44,5 @@ Building on its engagement in [EOSC-Life](https://www.eosc-life.eu/), [Software 
 The Particle Physics group will co-lead the integration of EVERSE into the EOSC science clusters and their emerging use cases, ensuring that researchers have an active part in the process of defining, designing and deploying excellent research software.
 
 # FUNDING
-The project, is funded by Horizon Europe call HORIZON-INFRA-2023-EOSC-01-02 (\#101129744).
+The project is funded by [Horizon Europe call HORIZON-INFRA-2023-EOSC-01-02 (\#101129744)](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02).
 
