@@ -5,7 +5,7 @@ title: "EVERSE"
 path: everse.html
 collection: projects
 description: European Virtual Institute for Research Software Excellence
-#logo: everse.svg
+logo: everse.png
 website: https://everse.software/
 start_date: 2024-03
 duration: 36 months
