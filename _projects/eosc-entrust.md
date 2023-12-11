@@ -16,7 +16,7 @@ _Trusted environments for sensitive data management in EOSC_
 
 <!-- copied from proposal, rewrite: -->
 
-EOSC-ENTRUST is an Horizon Europe project funded by [HORIZON-INFRA-2023-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-06) grant 101131056 (_Trusted environments for sensitive data management in EOSC_) and lead by [ELIXIR](https://elixir-europe.org/) Hub at [EMBL-EBI](https://www.ebi.ac.uk/).
+[EOSC-ENTRUST](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101131056/program/43108390/details) is an Horizon Europe project funded by [HORIZON-INFRA-2023-EOSC-01-06](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-06) grant 101131056 (_Trusted environments for sensitive data management in EOSC_) and lead by [ELIXIR](https://elixir-europe.org/) Hub at [EMBL-EBI](https://www.ebi.ac.uk/).
 
 
 The mission of EOSC-ENTRUST is to create a European network of trusted research environments for sensitive data and to drive European interoperability by joint development of a common blueprint for federated data access and analysis.
