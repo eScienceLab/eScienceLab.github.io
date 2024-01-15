@@ -10,6 +10,7 @@ website: https://fairplus-project.eu/
 start_date: 2019-01-01
 end_date: 2022-12-31
 duration: 48 months
+expired: true
 project_reference: https://doi.org/10.3030/802750
 ---
 
