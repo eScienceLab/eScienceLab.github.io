@@ -86,6 +86,11 @@ _PeerJ Computer Science_ (accepted)
 
 ## 2023
 
+Tom Brown, Nick Juty, Stian Soiland-Reyes, Felix Shaw, Rutger Vos (2023):
+[**RO-Crates as a practical implementation of FAIR Digital Object to align biodiversity genomics work streams**](https://research.manchester.ac.uk/files/291308873/2023-12-01_RO-Crate_FDO_2024.pdf).
+(submitted)
+<https://research.manchester.ac.uk/en/publications/ro-crates-as-a-practical-implementation-of-fair-digital-object-to>
+
 Romain David, Arina Rybina, Jean‐Marie Burel, Jean‐Karim Heriche, Pauline Audergon, Jan‐Willem Boiten, Frederik Coppens, Sara Crockett, Katrina Exter, Sven Fahrner, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Björn Grüning, Kim Tamara Gurwitz, John M Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean‐Luc Legras, Allyson L Lister, Dario Livio Longo, Rebecca Ludwig, Bénédicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Michaela Th Mayrhofer, Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S Richard, Paolo Romano, Antonio Rosato, Alex Sánchez‐Pla, Susanna‐Assunta Sansone, Ugis Sarkans, Beatriz Serrano‐Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon (2023):  
 [**“Be sustainable”: EOSC‐Life recommendatons for implementation of FAIR principles in life science data handling**](https://doi.org/10.15252/embj.2023115008).  
 _The EMBO Journal_  **42**:e115008  
