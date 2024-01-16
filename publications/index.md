@@ -52,12 +52,12 @@ Stian Soiland-Reyes, Stuart Wheater, Tom Giles, Carole Goble, Phil Quinlan (2024
 <https://research.manchester.ac.uk/en/publications/five-safes-ro-crate-fair-digital-objects-for-trusted-research-env>
 
 Herbert Van de Sompel, Stian Soiland-Reyes (2024):  
-[**FAIR Signposting: Exposing the Topology of Digital Objects on the Web**](https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the-).  
+[**FAIR Signposting: Exposing the Topology of Digital Objects on the Web**](https://research.manchester.ac.uk/files/291196221/FAIR_Signposting_for_FDO2024.pdf).  
 (submitted)  
 <https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the->
 
 Peter Sefton, Stian Soiland-Reyes (2024):  
-[**Five ways RO-Crate data packages are important for repositories**]().  
+[**Five ways RO-Crate data packages are important for repositories**](https://research.manchester.ac.uk/files/291301172/RO-Crate-OR2024_presentation.pdf).  
 (submitted)  
 <https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>
 
