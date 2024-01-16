@@ -72,9 +72,9 @@ Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, H
 <https://doi.org/10.37044/osf.io/7y2jh>
 
 Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, David Hecker, Robert Huber, Stian Soiland-Reyes, Herbert Van de Sompel, Andreas Czerniak, Milo Thurston, Allyson L. Lister, Alban Gaignard (2024):  
-[**Report on "FAIR Signposting" and its uptake by the community**](https://doi.org/10.5281/zenodo.10453348).  
+[**Report on "FAIR Signposting" and its uptake by the community**](https://doi.org/10.5281/zenodo.10490289).  
 *EOSC FAIR Metrics and Data Quality Task Force*  
-<https://doi.org/10.5281/zenodo.10453348>
+<https://doi.org/10.5281/zenodo.10490289>
 
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
