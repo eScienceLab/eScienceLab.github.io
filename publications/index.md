@@ -97,8 +97,9 @@ _Data Science Journal_ **22**:52
 <https://doi.org/10.5334/dsj-2023-035>
 
 Rudolf Wittner, Matej Gallo, Simone Leo, Cecilia Mascia, Francesca Frexia, Markus Plass, Stian Soiland-Reyes, Heimo Müller, Jörg Geiger, Petr Holub (2023):  
-[**Linking provenance and its metadata in multi-organizational environments of life sciences**]().  
+[**Linking provenance and its metadata in multi-organizational environments of life sciences**](https://research.manchester.ac.uk/files/289369669/PeerJ_Linking_provenance_and_its_meta_data_in_distributed_environments_of_life_sciences-1.pdf).  
 (Submitted)
+<https://research.manchester.ac.uk/en/publications/linking-provenance-and-its-metadata-in-multi-organizational-envir>
 
 Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia Martínez-Lizaga, Santiago Royo-Sierra, Simon Saldner, Lorenz Dolanski-Aghamanoukjan, Alexander Degelsegger-Marquez, Stian Soiland-Reyes, Nina Van Goethem, Enrique Bernal-Delgado, On Behalf of BeYond-COVID project contributors (2023):  
 [**Federated causal inference based on real-world observational data sources: application to a SARS-CoV-2 vaccine effectiveness assessment**](https://s11.no/2023/phd/federated-causal-inference/).  
