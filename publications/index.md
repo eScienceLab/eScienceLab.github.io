@@ -47,7 +47,13 @@ _PeerJ Computer Science_ (accepted)
 [[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
 
+
 ## 2023
+
+Romain David, Arina Rybina, Jean‐Marie Burel, Jean‐Karim Heriche, Pauline Audergon, Jan‐Willem Boiten, Frederik Coppens, Sara Crockett, Katrina Exter, Sven Fahrner, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Björn Grüning, Kim Tamara Gurwitz, John M Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean‐Luc Legras, Allyson L Lister, Dario Livio Longo, Rebecca Ludwig, Bénédicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Michaela Th Mayrhofer, Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S Richard, Paolo Romano, Antonio Rosato, Alex Sánchez‐Pla, Susanna‐Assunta Sansone, Ugis Sarkans, Beatriz Serrano‐Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon (2023):  
+[**“Be sustainable”: EOSC‐Life recommendatons for implementation of FAIR principles in life science data handling**](https://doi.org/10.15252/embj.2023115008).  
+_The EMBO Journal_  **42**:e115008  
+<https://doi.org/10.15252/embj.2023115008>
 
 Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
 [**Umbrella Data Management Plans to Integrate FAIR Data: Lessons From the ISIDORe and BY-COVID Consortia for Pandemic Preparedness**](https://doi.org/10.5334/dsj-2023-035).  
