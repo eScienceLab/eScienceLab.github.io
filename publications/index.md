@@ -40,6 +40,22 @@ which is particularly useful for long author lists or long titles.
 -->
 
 ## 2024
+
+Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
+[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://doi.org/10.37044/osf.io/gmk2h).  
+*BioHackrXiv*  
+<https://doi.org/10.37044/osf.io/gmk2h>
+
+Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, Heinrich Lukas Weil, Florian Wetzels, Gavin Chait, Daniel Arend, Manuel Feser, Gajendra Doniparthi, Jonathan Bauer, Sveinung Gundersen, Pável Vázquez (2024):  
+[BioHackEU23 report: **Enabling continuous RDM using Annotated Research Contexts with RO-Crate profiles for ISA**](https://doi.org/10.37044/osf.io/7y2jh).  
+*BioHackrXiv*  
+<https://doi.org/10.37044/osf.io/7y2jh>
+
+Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, David Hecker, Robert Huber, Stian Soiland-Reyes, Herbert Van de Sompel, Andreas Czerniak, Milo Thurston, Allyson L. Lister, Alban Gaignard (2024):  
+[**Report on "FAIR Signposting" and its uptake by the community**](https://doi.org/10.5281/zenodo.10453348).  
+*EOSC FAIR Metrics and Data Quality Task Force*  
+<https://doi.org/10.5281/zenodo.10453348>
+
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
 _PeerJ Computer Science_ (accepted)  
@@ -119,7 +135,11 @@ _BioHackrXiv_
 
 Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole Goble, Olivier Sand, Alexander Botzki (2023):  
 [**Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal**](https://doi.org/10.1002/cpz1.682).  
-_Current Protocols_ **3**:e682    
+_Current Protocols_ **3**:e682    Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, Heinrich Lukas Weil, Florian Wetzels, Gavin Chait, Daniel Arend, Manuel Feser, Gajendra Doniparthi, Jonathan Bauer, Sveinung Gundersen, Pável Vázquez (2024):\
+BioHackEU23 report: **Enabling continuous RDM using Annotated Research Contexts with RO-Crate profiles for ISA**.\
+*BioHackrXiv*\
+<https://doi.org/10.37044/osf.io/7y2jh>
+
 <https://doi.org/10.1002/cpz1.682>
 
 Brigitte Mathiak, Nick Juty, Alessia Bardi, Julien Colomb, Peter Kraker (2023):   
