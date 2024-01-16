@@ -65,6 +65,11 @@ WorkflowHub is based on the [SEEK platform](/products/seek/) using [Common Workf
 
 _For a complete list, see [EOSC-Life Publications](https://www.eosc-life.eu/resources/project-deliverables/)._
 
+Romain David, Arina Rybina, Jean‐Marie Burel, Jean‐Karim Heriche, Pauline Audergon, Jan‐Willem Boiten, Frederik Coppens, Sara Crockett, Katrina Exter, Sven Fahrner, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Björn Grüning, Kim Tamara Gurwitz, John M Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean‐Luc Legras, Allyson L Lister, Dario Livio Longo, Rebecca Ludwig, Bénédicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Michaela Th Mayrhofer, Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S Richard, Paolo Romano, Antonio Rosato, Alex Sánchez‐Pla, Susanna‐Assunta Sansone, Ugis Sarkans, Beatriz Serrano‐Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon (2023):  
+[**“Be sustainable”: EOSC‐Life recommendatons for implementation of FAIR principles in life science data handling**](https://doi.org/10.15252/embj.2023115008).  
+_The EMBO Journal_  **42**:e115008  
+<https://doi.org/10.15252/embj.2023115008>
+
 Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
 Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
