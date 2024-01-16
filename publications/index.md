@@ -41,6 +41,26 @@ which is particularly useful for long author lists or long titles.
 
 ## 2024
 
+Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, RO-Crate community (2024):  
+[**RO-Crate community update 2024**](https://research.manchester.ac.uk/files/291196011/FDO2024_RO-Crate_update.pdf).  
+(submitted)  
+<https://research.manchester.ac.uk/en/publications/ro-crate-community-update-2024>
+
+Stian Soiland-Reyes, Stuart Wheater, Tom Giles, Carole Goble, Phil Quinlan (2024):  
+[**Five Safes RO-Crate: FAIR Digital Objects for Trusted Research Environments**](https://research.manchester.ac.uk/files/291224791/FDO2024-Goble-Lightningtalk-5scrate.pdf).  
+(submitted)  
+<https://research.manchester.ac.uk/en/publications/five-safes-ro-crate-fair-digital-objects-for-trusted-research-env>
+
+Herbert Van de Sompel, Stian Soiland-Reyes (2024):  
+[**FAIR Signposting: Exposing the Topology of Digital Objects on the Web**](https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the-).  
+(submitted)  
+<https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the->
+
+Peter Sefton, Stian Soiland-Reyes (2024):  
+[**Five ways RO-Crate data packages are important for repositories**]().  
+(submitted)  
+<https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>
+
 Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
 [BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://doi.org/10.37044/osf.io/gmk2h).  
 *BioHackrXiv*  
@@ -77,7 +97,7 @@ _Data Science Journal_ **22**:52
 <https://doi.org/10.5334/dsj-2023-035>
 
 Rudolf Wittner, Matej Gallo, Simone Leo, Cecilia Mascia, Francesca Frexia, Markus Plass, Stian Soiland-Reyes, Heimo Müller, Jörg Geiger, Petr Holub (2023):  
-[**Linking provenance and its metadata in multi-organizational environments of life sciences**](https://s11.no/2023/phd/linking-provenance/).  
+[**Linking provenance and its metadata in multi-organizational environments of life sciences**]().  
 (Submitted)
 
 Marjan Meurisse, Francisco Estupiñán-Romero, Javier González-Galindo, Natalia Martínez-Lizaga, Santiago Royo-Sierra, Simon Saldner, Lorenz Dolanski-Aghamanoukjan, Alexander Degelsegger-Marquez, Stian Soiland-Reyes, Nina Van Goethem, Enrique Bernal-Delgado, On Behalf of BeYond-COVID project contributors (2023):  
@@ -135,11 +155,7 @@ _BioHackrXiv_
 
 Finn Bacall, Aitor Apaolaza, Munazah Andrabi, Chris Child, Carole Goble, Olivier Sand, Alexander Botzki (2023):  
 [**Making Bioinformatics Training Events and Material More Discoverable Using TeSS, the ELIXIR Training Portal**](https://doi.org/10.1002/cpz1.682).  
-_Current Protocols_ **3**:e682    Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, Heinrich Lukas Weil, Florian Wetzels, Gavin Chait, Daniel Arend, Manuel Feser, Gajendra Doniparthi, Jonathan Bauer, Sveinung Gundersen, Pável Vázquez (2024):\
-BioHackEU23 report: **Enabling continuous RDM using Annotated Research Contexts with RO-Crate profiles for ISA**.\
-*BioHackrXiv*\
-<https://doi.org/10.37044/osf.io/7y2jh>
-
+_Current Protocols_ **3**:e682    
 <https://doi.org/10.1002/cpz1.682>
 
 Brigitte Mathiak, Nick Juty, Alessia Bardi, Julien Colomb, Peter Kraker (2023):   
