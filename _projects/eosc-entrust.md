@@ -9,7 +9,7 @@ description: A European Network of TRUSTed research environments
 website: http://eosc-entrust.eu/
 start_date: 2024-03
 duration: 36 months
-#project_reference: https://doi.org/10.3030/101131056
+#project_reference: https://cordis.europa.eu/project/id/101131056
 ---
 
 _Trusted environments for sensitive data management in EOSC_
