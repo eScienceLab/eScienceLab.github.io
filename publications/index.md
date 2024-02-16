@@ -129,7 +129,7 @@ Leyla Jael Castro, Stian Soiland-Reyes, Dietrich Rebholz-Schuhmann (2023):
 _Proceedings of the Conference on Research Data Infrastructure_ **1**  
 <https://doi.org/10.52825/cordi.v1i.396>
 
-Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2022):  
+Fuqi Xu, Nick Juty, Carole Goble, Simon Jupp, Helen Parkinson, Mélanie Courtot (2023):  
 [**Features of a FAIR vocabulary**](https://doi.org/10.1186/s13326-023-00286-8).  
 _Journal of Biomedical Semantics_ **14**:6  
 <https://doi.org/10.1186/s13326-023-00286-8>
@@ -184,6 +184,13 @@ Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste C
 _Data Intelligence_  
 <https://doi.org/10.1162/dint_a_00186>
 
+
+
+
+Rafael Ferreira da Silva, Rosa M. Badia, Venkat Bala, Debbie Bard, Peer-Timo Bremer, Ian Buckley, Silvina Caino-Lores, Kyle Chard, Carole Goble, Shantenu Jha, Daniel S. Katz, Daniel Laney, Manish Parashar, Frederic Suter, Nick Tyler, Thomas Uram, Ilkay Altintas, Stefan Andersson, William Arndt, Juan Aznar, Jonathan Bader, Bartosz Balis, Chris Blanton, Kelly Rosa Braghetto, Aharon Brodutch, Paul Brunk, Henri Casanova, Alba Cervera Lierta, Justin Chigu, Taina Coleman, Nick Collier, Iacopo Colonnelli, Frederik Coppens, Michael Crusoe, Will Cunningham, Bruno de Paula Kinoshita, Paolo Di Tommaso, Charles Doutriaux, Matthew Downton, Wael Elwasif, Bjoern Enders, Chris Erdmann, Thomas Fahringer, Ludmilla Figueiredo, Rosa Filgueira, Martin Foltin, Anne Fouilloux, Luiz Gadelha, Andy Gallo, Artur Garcia Saez, Daniel Garijo, Roman Gerlach, Ryan Grant, Samuel Grayson, Patricia Grubel, Johan Gustafsson, Valerie Hayot-Sasson, Oscar Hernandez, Marcus Hilbrich, AnnMary Justine, Ian Laflotte, Fabian Lehmann, Andre Luckow, Jakob Luettgau, Ketan Maheshwari, Motohiko Matsuda, Doriana Medic, Pete Mendygral, Marek Michalewicz, Jorji Nonaka, Maciej Pawlik, Loic Pottier, Line Pouchard, Mathias Putz, Santosh Kumar Radha, Lavanya Ramakrishnan, Sashko Ristov, Paul Romano, Daniel Rosendo, Martin Ruefenacht, Katarzyna Rycerz, Nishant Saurabh, Volodymyr Savchenko, Martin Schulz, Christine Simpson, Raul Sirvent, Tyler Skluzacek, Stian Soiland-Reyes, Renan Souza, Sreenivas Rangan Sukumar, Ziheng Sun, Alan Sussman, Douglas Thain, Mikhail Titov, Benjamin Tovar, Aalap Tripathy, Matteo Turilli, Bartosz Tuznik, Hubertus van Dam, Aurelio Vivas , Logan Ward, Patrick Widener, Sean Wilkinson, Justyna Zawalska, Mahnoor Zulfiqar  (2023):  
+**Workflows Community Summit 2022: A Roadmap Revolution**.  
+_arXiv_:2304.00019  
+<https://arxiv.org/abs/2304.00019>
 
 
 ## 2022
