@@ -9,7 +9,7 @@ logo: everse.png
 website: https://everse.software/
 start_date: 2024-03
 duration: 36 months
-#project_reference: https://doi.org/10.3030/101129744
+project_reference: https://cordis.europa.eu/project/id/101129744
 ---
 
 The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**. 

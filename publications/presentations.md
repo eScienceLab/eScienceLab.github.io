@@ -5,6 +5,11 @@ title: Presentations
 
 This is a infrequently updated (and incomplete) list of presentation made by the [eScience lab team](../people/).
 
+## 2024
+
+* Carole Goble et al: [RO-Crate, FAIR Signposting and Bioschemas](https://zenodo.org/doi/10.5281/zenodo.10555381), Lorentz Symposium: The Road to FAIR and Equitable Science, Leiden, The Netherlands. 
+
+
 
 ## 2023
 * [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
