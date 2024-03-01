@@ -34,6 +34,7 @@ EVERSE is coordinated by the [Centre for Research and Technology Hellas (CERTH)]
 - [PaNOSC](https://www.panosc.eu/): Photon and neutron science through LEAPS/LENS
 - [SSHOC](https://sshopencloud.eu/): UDPipe language processing suite
 
+![EVERSE usecases](/images/everse-usecases-diagram.png)
 
 ### eScienceLab involvement
 
