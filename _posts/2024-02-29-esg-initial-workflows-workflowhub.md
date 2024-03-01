@@ -80,3 +80,5 @@ Stian Soiland-Reyes, Björn Grüning, Paul De Geest (2024):\
 **EuroScienceGateway MS3: Initial EuroScienceGateway workflows registered**.\
 *Zenodo* (Milestone)\
 <https://doi.org/10.5281/zenodo.1072892>
+
+_This post is syndicated from the [Galaxy Community Hub](https://galaxyproject.org/news/2024-02-29-esg-initial-workflows-workflowhub/)_
