@@ -34,6 +34,10 @@ staff:
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
   role: Senior Research Technical Manager
+- name: Douglas Lowe
+  orcid: 0000-0002-1248-3594
+  role: Senior Research Software Engineer
+  img: douglas-lowe-sm.jpg
 - name: Aleksandra Nenadic
   orcid: 0000-0002-2269-3894
   img: aleks-nenadic-sm.jpg
@@ -50,6 +54,11 @@ staff:
   orcid: 0000-0001-6390-2616
   img: shoaib-sufi-sm.jpg
   role: Project Portfolio Manager, Community Lead
+- name: Oliver Woolland
+  orcid: 0000-0002-4565-9760
+  img: oliver.jpeg  
+  role: Research IT Software Engineer
+
 
 phd:
 - name: Yo Yehudi
@@ -60,7 +69,8 @@ phd:
   role: PhD Student
   img: meznah-sm.jpg
   orcid: 0000-0002-1382-3896
-
+- name: Aravindhan Rajasekar
+  role: PhD student
 
 associate:
 - name: Andy M. Brass
@@ -168,8 +178,6 @@ former:
 - name: Robin Long
   orcid: 0000-0003-2249-645X
 - name: Phillip Lord
-- name: Douglas Lowe
-  orcid: 0000-0002-1248-3594
 - name: James Marsh
 - name: Catarina Martins
   orcid: 0000-0001-9021-8860
@@ -210,10 +218,6 @@ former:
 - name: David Withers
 - name: Katy Wolstencroft
   orcid: 0000-0002-1279-5133
-- name: Oliver Woolland
-  orcid: 0000-0002-4565-9760
-  img: oliver.jpeg  
-  role: Research IT Software Engineer
 - name: Christopher Wroe
 - name: Quiwei Yu
 - name: Ed Zaluskali
