@@ -22,6 +22,10 @@ staff:
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Senior Research Software Engineer
+- name: Eli Chadwick
+  orcid: 0000-0002-0035-6475
+  img: eli-chadwick.jpg
+  role: Senior Research Software Engineer
 - name: Francisco Herrerías-Azcué
   orcid: 0000-0002-5906-221X
   role: Research IT Software Engineer
