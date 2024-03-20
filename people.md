@@ -22,6 +22,10 @@ staff:
   orcid: 0000-0002-0048-3300
   img: finn-bacall-sm.jpg
   role: Senior Research Software Engineer
+- name: Eli Chadwick
+  orcid: 0000-0002-0035-6475
+  img: eli-chadwick.jpg
+  role: Senior Research Software Engineer
 - name: Francisco Herrerías-Azcué
   orcid: 0000-0002-5906-221X
   role: Research IT Software Engineer
@@ -231,22 +235,22 @@ former:
 ## Staff
 
   {% for member in page.head %}
-  <div class="profile_box head" 
+  <div class="profile_box head"
     {% if member.orcid %}about="https://orcid.org/{{member.orcid}}"{% endif %}
     vocab="http://schema.org/" typeof="Person">
-   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
+   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}"  class="profile_picture"></a>
     <div property="name" class="name">{{member.name}}</div>
-    <div property="jobTitle" class="role">{{member.role}}</div>    
+    <div property="jobTitle" class="role">{{member.role}}</div>
     <link property="affiliation" rev="founder" href="https://esciencelab.org.uk/#" />
   </div>
   {% endfor %}
 
   {% for member in page.staff %}
-  <div class="profile_box" 
+  <div class="profile_box"
     {% if member.orcid %}about="https://orcid.org/{{member.orcid}}"{% endif %}
     vocab="http://schema.org/" typeof="Person">
-   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
+   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}" class="profile_picture"></a>
     <div property="name" class="name">{{member.name}}</div>
     <div property="jobTitle" class="role">{{member.role}}</div>
@@ -255,16 +259,17 @@ former:
   {% endfor %}
 
 {%if page.phd %}
+
 ## PhD Students
 
   {% for member in page.phd %}
   <div class="profile_box"
       {% if member.orcid %}about="https://orcid.org/{{member.orcid}}"{% endif %}
       vocab="http://schema.org/" typeof="Person">
-   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
+   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}" class="profile_picture"></a>
     <div property="name" class="name">{{member.name}}</div>  
-    <div property="jobTitle" class="role">{{member.role}}</div>      
+    <div property="jobTitle" class="role">{{member.role}}</div>
     <link property="affiliation" href="https://esciencelab.org.uk/#" />
   </div>
   {% endfor %}
@@ -276,7 +281,7 @@ former:
   <div class="grid-item profile_box"
         {% if member.orcid %}about="https://orcid.org/{{member.orcid}}"{% endif %}
       vocab="http://schema.org/" typeof="Person">
-   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img 
+   <a {% if member.orcid %}href="https://orcid.org/{{member.orcid}}"{% endif %} property="url identifier"><img
     property="image" src="/images/profiles/{{member.img}}" alt="{{member.orcid}}" class="profile_picture"></a>
     <div property="name" class="name">{{member.name}}</div>
     <link property="affiliation" rev="sponsor" href="https://esciencelab.org.uk/#" />
@@ -289,11 +294,11 @@ former:
 <ul>
 
 {% for member in page.former %}
-  <li 
+  <li
     {% if member.orcid %}  about="https://orcid.org/{{member.orcid}}" {% endif %}
     typeof="Person">
     {% if member.orcid %}
-      <a href="https://orcid.org/{{member.orcid}}" 
+      <a href="https://orcid.org/{{member.orcid}}"
       property="url identifier">
         <span property="name">{{member.name}}</span>
       </a>
