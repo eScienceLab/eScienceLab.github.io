@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-This is a infrequently updated (and incomplete) list of presentation made by the [eScience lab team](../people/).
+This is a infrequently updated (and incomplete) list of presentation made by the [eScience lab team](../../people/).
 
 ## 2024
 

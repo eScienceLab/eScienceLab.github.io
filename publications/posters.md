@@ -4,7 +4,7 @@ title: Posters
 exclude_from_nav: true
 ---
 
-This is a infrequently updated (and incomplete) list of posters made by the [eScience lab team](../people/).
+This is a infrequently updated (and incomplete) list of posters made by the [eScience lab team](../people.md).
 
 
 ## 2023
