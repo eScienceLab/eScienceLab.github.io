@@ -5,13 +5,22 @@ title: Presentations
 
 This is a infrequently updated (and incomplete) list of presentation made by the [eScience lab team](../../people/).
 
+Recent presentations are uploaded to the [eScience Lab Zenodo Community](https://zenodo.org/communities/esciencelab/records)
+
 ## 2024
 
-* Carole Goble et al: [RO-Crate, FAIR Signposting and Bioschemas](https://zenodo.org/doi/10.5281/zenodo.10555381), Lorentz Symposium: The Road to FAIR and Equitable Science, Leiden, The Netherlands. 
-
+* Leyla Jael Castro, Stian Soiland-Reyes, Jonas Grieb, Claus Weiland (2024): [Practical web-based FDOs with RO-Crate and FAIR Signposting](https://doi.org/10.5281/zenodo.10892090), FAIR Digital Object Summit 2024, Berlin
+* Stian Soiland-Reyes, Herbert Van de Sompel (2024): [Signposting and RO-Crate: experiences and lessons learned](https://doi.org/10.5281/zenodo.10847062), FAIR Digital Object Summit 2024, Berlin
+* Carole Goble et al (2024): [RO-Crate, FAIR Signposting and Bioschemas](https://doi.org/10.5281/zenodo.10555381), Lorentz Symposium: The Road to FAIR and Equitable Science, Leiden, The Netherlands. 
+* Carole Goble, Phil Quinlan (2024): [TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.10527062), DARE UK public webinar
+* Carole Goble (2024): [FAIR Digital Research Objects: Metadata Journeys](https://doi.org/10.5281/zenodo.10710142). University of Auckland: Centre for eResearch, Auckland, New Zealand, 2024-02-16
+* Carole Goble Keynote (2024): [Handling Health Data: FAIR Research Objects for Trusted Research Environments](https://doi.org/10.5281/zenodo.10648472).
+eResearch New Zealand 2024: eResearch New Zealand 2024. Wellington , New Zealand, 2024-02-08 
 
 
 ## 2023
+
+* Nick Juty (2023): [Workflow management systems/data flow/data tracking and provenance](), Biodiversity Genomics Europe All Hands, Barcelona 2023.
 * [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
 
