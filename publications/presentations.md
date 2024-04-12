@@ -75,6 +75,7 @@ Carole Goble (2021):
 
 ## 2019
 
+* Carole Goble (2019): [Reproducibility (and the R*) of Science: motivations, challenges and trends](https://doi.org/10.5281/zenodo.2554885). OpenAIRE Workshop on Open Science Publishing Practices and Prospects, co-located with IRCDL2019 conference, Pisa. 
 * [FAIRy stories: tales from building the FAIR Research Commons](https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons) by Carole Goble at [Plenary Lecture Presented at INCF Neuroinformatics 2019](https://www.neuroinformatics2019.org)
 * [ELIXIR UK Node presentation to the ELIXIR Board](https://www.slideshare.net/carolegoble/elixir-uk-node-presentation-to-the-elixir-board) by Carole Goble, ELIXIR Board, 19 November 2019, Rothamsted
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10255727.v1) - by Rachael Ainsworth, [Glasgow Women in Computing Science](https://www.facebook.com/events/2581122868620864/), University of Glasgow, Glasgow, UK, 15 November 2019
