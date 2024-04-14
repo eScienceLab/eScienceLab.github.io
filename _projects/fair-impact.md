@@ -72,3 +72,15 @@ UNIMAN contributions:
   - T4.3: Standard metadata for research software (lead: INRIA)
   - T4.4: A framework to create, document and share semantic artefact crosswalks and mappings (lead: e-SDF)
   
+
+
+## Related publications, events and deliverables
+
+See also the [FAIR-IMPACT Zenodo community](https://zenodo.org/communities/fair-impact), [Deliverables & milestones](https://fair-impact.eu/deliverables-milestones), [materials for community-review](https://fair-impact.eu/fair-impact-materials-community-review) and [publications by FAIR-IMPACT](https://fair-impact.eu/publications).
+
+* [Encouraging and supporting researchers in producing FAIR computational workflows](https://doi.org/10.5281/zenodo.10091328)
+* [D4.4 - Guidelines for recommended metadata standard for research software within EOSC](https://doi.org/10.5281/zenodo.10786147)
+* [M4.2 - Processes & tools to engineer FAIR semantic artefacts](https://doi.org/10.5281/zenodo.10551054)
+* [M3.4 Defining PID Practices in FAIR data management](https://doi.org/10.5281/zenodo.10210001)
+* [Documenting mapping community practices](https://doi.org/10.5281/zenodo.10245143) (workshop)
+* [M3.2 - Proposal for an EOSC PID Service providers coordination mechanism](https://doi.org/10.5281/zenodo.8405818)
