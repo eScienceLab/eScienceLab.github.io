@@ -15,7 +15,7 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 * Carole Goble, Phil Quinlan (2024): [TRE-FX: Core federation services for a federated network of TREs to enable Five Safes analytics](https://doi.org/10.5281/zenodo.10527062), DARE UK public webinar
 * Carole Goble (2024): [FAIR Digital Research Objects: Metadata Journeys](https://doi.org/10.5281/zenodo.10710142). University of Auckland: Centre for eResearch, Auckland, New Zealand, 2024-02-16
 * Carole Goble Keynote (2024): [Handling Health Data: FAIR Research Objects for Trusted Research Environments](https://doi.org/10.5281/zenodo.10648472).
-eResearch New Zealand 2024: eResearch New Zealand 2024. Wellington , New Zealand, 2024-02-08 
+[eResearch New Zealand 2024](https://eresearchnz.co.nz/): Wellington , New Zealand, 2024-02-08 
 
 
 ## 2023
@@ -64,6 +64,9 @@ Carole Goble (2021):
 * [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects?next_slideshow=1) by Carole Goble at [_DaMaLOS 2020 workshop_](https://zbmed.github.io/damalos ) at _The 19th International Semantic Web Conference ([ISWC 2020](https://iswc2020.semanticweb.org/))_, 2 November 2020
 * [How are we Faring with FAIR? (and what FAIR is not)](https://www.slideshare.net/carolegoble/how-are-we-faring-with-fair-and-what-fair-is-not) keynote by Carole Goble at workshop _FAIRe Data Infrastructures_, 15 October 2020
 * [Open Scientific Code in Research](https://docs.google.com/presentation/d/1uZuqgoJp67uRB6t0LCZJ06V8YYyff9-iqrv6zfqtOhk)- by Aleksandra Nenadic, Open Life Sciences Programe (OLS-2) cohort call, online, 8 October 2020 
+* Sarah Cohen-Boulakia, Daniel Garijo, Carole Goble (2020): [FAIR Computational workflows](https://doi.org/10.5281/zenodo.10968036), [International FAIR Convergence Symposium 2020](https://codata.org/events/conferences/international-fair-convergence-symposium-convened-by-codata-and-go-fair-22-23-october-2020-paris-france/) [[video](https://vimeo.com/499270810)]
+* Ignacio Eguinoa, Carole Goble, Michael R Crusoe, Stian Soiland-Reyes, Salvador Capella-Gutierrez, Sarah Cohen-Boulakia, Björn Grüning, Alexander Peltzer, Frederik Coppens, Mateusz Kuzak (2020): [Workshop on FAIR Computational Workflows](https://doi.org/10.5281/zenodo.4071482), [Workshop](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/), 19th European Conference on Computational Biology ([ECCB 2020](https://eccb2020.info/)), 2 September 2020
+* Carole Goble: [The WorkflowHub - a registry for workflows. The Bioschemas workflow profile](https://doi.org/10.5281/zenodo.4012124), [Workshop on FAIR Computational Workflows](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/), 19th European Conference on Computational Biology ([ECCB 2020](https://eccb2020.info/)), 2 September 2020
 * [Packaging workflows with RO-Crate](https://doi.org/10.5281/zenodo.4011999) by Stian Soiland-Reyes, Ignacio Eguinoa at [_Workshop on FAIR Computational Workflows_](https://eccb2020.info/ntbew01-workshop-on-fair-computational-workflows/), 19th European Conference on Computational Biology ([ECCB 2020](https://eccb2020.info/)), 2 September 2020
 * [Challenges and opportunities in transitioning meetings online](https://2020.carpentrycon.org/schedule/#session-57) (contributed session, [Etherpad](https://pad.carpentries.org/cchome-meetings-online), [blog post](https://software.ac.uk/blog/2020-11-26-carpentryconhome-challenges-and-opportunities-transitioning-meetings-online)) - by Rachael Ainsworth, [CarpentryCon @ Home](https://2020.carpentrycon.org/), Online, 5 August 2020
 * [Best Practices in Online Training: The Software Sustainability Institute's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118) - by Rachael Ainsworth, [Intelligent Systems for Molecular Biology (ISMB) 2020](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/web), Online, 13 July 2020
@@ -94,7 +97,7 @@ RO-15 at _Workshop on Research Objects ([RO 2019](http://www.researchobject.org/
 
 ## 2017
 
-* [Bioschemas for life science data]() - by Carole Goble, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=ag_wLjYQsfw)) ([slides](https://doi.org/10.7490/f1000research.1114494.1)) ([poster](https://doi.org/10.7490/f1000research.1114493.1))
+* [Bioschemas for life science data](https://doi.org/10.7490/f1000research.1114494.1) - by Carole Goble, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=ag_wLjYQsfw)) ([slides](https://doi.org/10.7490/f1000research.1114494.1)) ([poster](https://doi.org/10.7490/f1000research.1114493.1))
 [https://doi.org/10.7490/f1000research.1114494.1](https://doi.org/10.7490/f1000research.1114494.1)
 * [Common Workflow Language viewer](https://doi.org/10.7490/f1000research.1114453.1) - presented by Stian Soiland-Reyes, [BOSC 2017](https://www.open-bio.org/wiki/BOSC_2017_Schedule) ISMB/ECCB 2017-07-22.  ([video](https://www.youtube.com/watch?v=iB_0l-Bm4nA)) ([slides](http://slides.com/markrobinson/cwlviewer)) ([poster](http://dx.doi.org/10.7490/f1000research.1114375.1)) [https://doi.org/10.7490/f1000research.1114453.1](https://doi.org/10.7490/f1000research.1114453.1)
 
