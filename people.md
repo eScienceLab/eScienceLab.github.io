@@ -50,6 +50,10 @@ staff:
   orcid: 0000-0003-2130-0865
   img: stuart-owen-sm.jpg
   role: Project Manager, Senior Research Software Engineer
+- name: Phil Reed
+  orcid: 0000-0002-4479-715X
+  img: phil-reed-sm.jpg
+  role: Research Community and Training Manager
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
