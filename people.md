@@ -54,6 +54,10 @@ staff:
   orcid: 0000-0002-4479-715X
   img: phil-reed-sm.jpg
   role: Research Community and Training Manager
+- name: Alexander Hambley
+  orcid: 0000-0003-1193-6632
+  img: alexander-hambley-sm.jpeg
+  role: Senior Research Software Engineer
 - name: Stian Soiland-Reyes
   orcid: 0000-0001-9842-9718
   img: stian-soiland-reyes-sm.jpeg
