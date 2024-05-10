@@ -9,6 +9,7 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 
 ## 2024
 
+* Stian Soiland-Reyes, Meznah Aloqalaa (2024): [BioCompute Object, Provenance Models and FAIR Computational Workflows](https://doi.org/10.5281/zenodo.11164920), Washington DC.  [[video](https://youtu.be/YmEgLdXl6XM)]
 * Leyla Jael Castro, Stian Soiland-Reyes, Jonas Grieb, Claus Weiland (2024): [Practical web-based FDOs with RO-Crate and FAIR Signposting](https://doi.org/10.5281/zenodo.10892090), [International FAIR Digital Objects Implementation Summit 2024](https://fairdo.org/fdof-summit-2024/), Berlin
 * Stian Soiland-Reyes, Herbert Van de Sompel (2024): [Signposting and RO-Crate: experiences and lessons learned](https://doi.org/10.5281/zenodo.10847062), [International FAIR Digital Objects Implementation Summit 2024](https://fairdo.org/fdof-summit-2024/), Berlin
 * Carole Goble et al (2024): [RO-Crate, FAIR Signposting and Bioschemas](https://doi.org/10.5281/zenodo.10555381), Lorentz Symposium: The Road to FAIR and Equitable Science, Leiden, The Netherlands. 
