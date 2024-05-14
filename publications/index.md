@@ -41,6 +41,18 @@ which is particularly useful for long author lists or long titles.
 
 ## 2024
 
+Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
+[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
+_PeerJ Computer Science_ (accepted)  
+<https://doi.org/10.7717/peerj-cs.1781>
+[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
+
+Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2024):  
+[**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://s11.no/2024/webby-fdos/).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **4** (submitted)  
+<https://s11.no/2024/webby-fdos/>
+
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, RO-Crate community (2024):  
 [**RO-Crate community update 2024**](https://research.manchester.ac.uk/files/291196011/FDO2024_RO-Crate_update.pdf).  
 (submitted)  
@@ -62,7 +74,7 @@ Peter Sefton, Stian Soiland-Reyes (2024):
 <https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>
 
 Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
-[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://doi.org/10.37044/osf.io/gmk2h).  
+[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://s11.no/2024/enabling-fair-digital-objects/).  
 *BioHackrXiv*  
 <https://doi.org/10.37044/osf.io/gmk2h>
 
@@ -72,16 +84,9 @@ Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, H
 <https://doi.org/10.37044/osf.io/7y2jh>
 
 Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, David Hecker, Robert Huber, Stian Soiland-Reyes, Herbert Van de Sompel, Andreas Czerniak, Milo Thurston, Allyson L. Lister, Alban Gaignard (2024):  
-[**Report on "FAIR Signposting" and its uptake by the community**](https://doi.org/10.5281/zenodo.10490289).  
+[**Report on "FAIR Signposting" and its uptake by the community**](https://s11.no/2024/signposting-report/).  
 *EOSC FAIR Metrics and Data Quality Task Force*  
 <https://doi.org/10.5281/zenodo.10490289>
-
-Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
-[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
-_PeerJ Computer Science_ (accepted)  
-[[preprint](https://doi.org/10.48550/arXiv.2306.07436)]
-[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
-
 
 
 ## 2023
