@@ -5,7 +5,7 @@ date: 2024-04-15
 categories: announcements 
 ---
 
-This spring, three new colleagues join the [eScience Lab team](#people):
+This spring, three new colleagues join the [eScience Lab team](/people):
 
 * **Eli Chadwick**: Senior Research Software Engineer
 * **Alexander Hambley**: Senior Research Software Engineer
