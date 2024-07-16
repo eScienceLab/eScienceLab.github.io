@@ -41,13 +41,18 @@ which is particularly useful for long author lists or long titles.
 
 ## 2024
 
+Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
+[**Recording provenance of workflow runs with RO-Crate**](https://arxiv.org/pdf/2312.07852.pdf).  
+_arXiv_:2312.07852  
+<https://doi.org/10.48550/arXiv.2312.07852>
+
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
-_PeerJ Computer Science_ (accepted)  
+_PeerJ Computer Science_  **10**:e1781  
 <https://doi.org/10.7717/peerj-cs.1781>
 [[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
-Flora D'Anna, Niclas Jareborg, Mijke Jetten, Minna Ahokas, Pinar Alper, Robert Andrews, Korbinian Bösl, Teresa D’Altri, Daniel Faria, Nazeefa Fatima, Siiri Fuchs, Clare Garrard, Wei Gu5, Katharina F. Heil, Yvonne Kallberg, Flavio Licciulli, Nils-Christian Lübke, Ana M. P. Melo, Ivan Mičetić15, Jorge Oliveira, Anastasis Oulas, Patricia M. Palagi, Krzysztof Poterlowicz, Xenia Perez-Sitja, Patrick Ruch, Susanna-Assunta Sansone, Helena Schnitzer, Celia van Gelder, Thanasis Vergoulis23, Daniel Wibberg, Ulrike Wittig, Brane Leskošek, Jiri Vondrasek, Munazah Andrabi (2024):  
+Flora D'Anna, Niclas Jareborg, Mijke Jetten, Minna Ahokas, Pinar Alper, Robert Andrews, Korbinian Bösl, Teresa D’Altri, Daniel Faria, Nazeefa Fatima, Siiri Fuchs, Clare Garrard, Wei Gu5, Katharina F. Heil, Yvonne Kallberg, Flavio Licciulli, Nils-Christian Lübke, Ana M. P. Melo, Ivan Mičetić15, Jorge Oliveira, Anastasis Oulas, Patricia M. Palagi, Krzysztof Poterlowicz, Xenia Perez-Sitja, Patrick Ruch, Susanna-Assunta Sansone, Helena Schnitzer, Celia van Gelder, Thanasis Vergoulis, Daniel Wibberg, Ulrike Wittig, Brane Leskošek, Jiri Vondrasek, Munazah Andrabi (2024):  
 [**A research data management (RDM) community for ELIXIR**](https://doi.org/10.12688/f1000research.146301.1).  
 _F1000Research_ **13**(ELIXIR):230  
 <https://doi.org/10.12688/f1000research.146301.1>
@@ -95,11 +100,6 @@ Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, Dav
 
 
 ## 2023
-
-Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2023):  
-[**Recording provenance of workflow runs with RO-Crate**](https://arxiv.org/pdf/2312.07852.pdf).  
-_arXiv_:2312.07852  
-<https://doi.org/10.48550/arXiv.2312.07852>
 
 Tom Brown, Nick Juty, Stian Soiland-Reyes, Felix Shaw, Rutger Vos (2023):
 [**RO-Crates as a practical implementation of FAIR Digital Object to align biodiversity genomics work streams**](https://research.manchester.ac.uk/files/291308873/2023-12-01_RO-Crate_FDO_2024.pdf).
