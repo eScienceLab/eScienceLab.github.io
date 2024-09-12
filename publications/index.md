@@ -42,9 +42,13 @@ which is particularly useful for long author lists or long titles.
 ## 2024
 
 Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
-[**Recording provenance of workflow runs with RO-Crate**](https://arxiv.org/pdf/2312.07852.pdf).  
-_arXiv_:2312.07852  
-<https://doi.org/10.48550/arXiv.2312.07852>
+[**Recording provenance of workflow runs with RO-Crate**]([https://arxiv.org/pdf/2312.07852.pdf](https://doi.org/10.1371/journal.pone.0309210)).  
+_PLOS One_ **19**(9):e0309210  
+<https://doi.org/10.1371/journal.pone.0309210>
+
+Jana Martínková, Nick Juty, Alejandra Gonzalez Beltran, Carole Goble, Yann Le Franc (2024):  
+[**Moving towards FAIR mappings and crosswalks**](https://www.utwente.nl/en/eemcs/fois2024/resources/papers/martinkova-et-al-moving-towards-fair-mappings-and-crosswalks.pdf).  
+_FOAM 2024: FAIR principles for Ontologies and Metadata in Knowledge Management_, Formal Ontology in Information Systems Conference 2024 ([FOIS 2024](https://www.utwente.nl/en/eemcs/fois2024/accepted-papers/)), 15-19 July 2024, Enschede, Netherlands  
 
 Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
 [**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
