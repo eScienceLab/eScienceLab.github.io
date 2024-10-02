@@ -711,11 +711,9 @@ _Ecography_ **39** pp 376–383
 <https://doi.org/10.1111/ecog.01552>
 
 Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Bacall, Martin Golebiewski, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, David D. van Niekerk, Alan R. Williams, Lars Malmström, Bernd Rinn, Wolfgang Müller, Carole Goble (2016):  
-**FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**  
+[**FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**](https://research.manchester.ac.uk/files/345826277/gkw1032.pdf).  
 _Nucleic Acids Research_ **45**(D1) pp D404–D407.  
 <https://doi.org/10.1093/nar/gkw1032>
-[[pdf]](http://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full.pdf)
-[[html]](https://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full)
 
 
 Natalie Stanford, Finn Bacall, Martin Golebiewski, Olga Krebs, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, {van Niekerk}, Dawie, Alan Williams, Katherine Wolstencroft, Lars Malmström, Bernd Rinn, Jacky Snoep, Wolfgang Müller, Carole Goble (2016):  
