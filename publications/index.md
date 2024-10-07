@@ -51,7 +51,7 @@ _arXiv_ 2410.03490 [cs.DL]
 <https://doi.org/10.48550/arXiv.2410.03490>
 
 Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
-[**Recording provenance of workflow runs with RO-Crate**]([https://arxiv.org/pdf/2312.07852.pdf](https://doi.org/10.1371/journal.pone.0309210)).  
+[**Recording provenance of workflow runs with RO-Crate**](https://arxiv.org/pdf/2312.07852.pdf).  
 _PLOS One_ **19**(9):e0309210  
 <https://doi.org/10.1371/journal.pone.0309210>
 
