@@ -107,6 +107,11 @@ Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, H
 *BioHackrXiv*  
 <https://doi.org/10.37044/osf.io/7y2jh>
 
+José M. Fernández, Paula Iborra, Sébastien Moretti, Arun Isaac, Paul De Geest, Stian Soiland-Reyes (2024):
+[**BioHackEU23: FAIR Workflow Execution with WfExS and Workflow Run Crate**](https://doi.org/10.37044/osf.io/7f94w).  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/7f94w>
+
 Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, David Hecker, Robert Huber, Stian Soiland-Reyes, Herbert Van de Sompel, Andreas Czerniak, Milo Thurston, Allyson L. Lister, Alban Gaignard (2024):  
 [**Report on "FAIR Signposting" and its uptake by the community**](https://s11.no/2024/signposting-report/).  
 *EOSC FAIR Metrics and Data Quality Task Force*  
