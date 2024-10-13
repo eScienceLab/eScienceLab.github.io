@@ -74,7 +74,7 @@ _F1000Research_ **13**(ELIXIR):230
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2024):  
 [**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://s11.no/2024/webby-fdos/).  
 _International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
-_Open Conference Proceedings_ **4** (submitted)  
+_Open Conference Proceedings_   (submitted)  
 <https://s11.no/2024/webby-fdos/>
 
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, RO-Crate community (2024):  
