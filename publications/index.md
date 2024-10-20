@@ -41,6 +41,12 @@ which is particularly useful for long author lists or long titles.
 
 ## 2024
 
+Rafael Ferreira da Silva, Deborah Bard, Kyle Chard, Shaun DeWitt, Ian T. Foster, Tom Gibbs, Carole Goble, William Godoy, Johan Gustafsson, Utz−Uwe Haus, Stephen Hudson, Shantenu Jha, Laila Los, Drew Paine, Frederic Suter, Logan Ward, Sean Wilkinson, Marcos Amaris, Yadu Babuji, Jonathan and Bader, Rajat Bhattarai, Wes Brewer, Paul Brunk, Silvina Caino−Lores, Henri Casanova, Daniela Cassol, Jared Coleman, Taina Coleman, Iacopo Colonnelli, Anderson Andrei Da Silva, Daniel de Oliveira, Pascal Elahi, Nour Elfaramawy, Wael Elwasif, Brian Etz, Thomas Fahringer, Wesley Ferreira, Rosa Filgueira, Jacob Fosso Tande, Luiz Gadelha, Andy Gallo, Daniel Garijo, Yiannis Georgiou, Philipp Gritsch, Patricia Grubel, Amal Gueroudji, Quentin Guilloteau, Carlo Hamalainen, Rolando Hong Enriquez, Lauren Huet, Kevin Hunter Kesling, Paula Iborra, Shiva Jahangiri, Jan Janssen, Joe Jordan, Sehrish Kanwal, Liliane Kunstmann, Fabian Lehmann, Ulf Leser, Chen Li, Peini Liu, Jakob Luettgau, Richard Lupat, Jose M. Fernandez, Ketan Maheshwari, Tanu Malik, Jack Marquez, Motohiko Matsuda, Doriana Medic, Somayeh Mohammadi, Alberto Mulone, John−Luke Navarro, Kin Wai Ng, Klaus Noelp, Bruno P. Kinoshita, Ryan Prout, Michael R. Crusoe, Sashko Ristov, Stefan Robila, Daniel Rosendo, Billy Rowell, Jedrzej Rybicki, Hector Sanchez, Nishant Saurabh, Sumit Kumar Saurav, Tom Scogland, Dinindu Senanayake, Woong Shin, Raul Sirvent, Tyler Skluzacek, Barry Sly−Delgado, Stian Soiland−Reyes, Abel Souza, Renan Souza, Domenico Talia, Nathan Tallent, Lauritz Thamsen, Mikhail Titov, Ben Tovar, Karan Vahi, Eric Vardar−Irrgang, Edite Vartina, Yuandou Wang, Merridee Wouters, Qi Yu, Ziad Al Bkhetan, Mahnoor Zulfiqar (2024):  
+**Workflows Community Summit 2024**: Future Trends and Challenges in Scientific Workflows.  
+_Oak Ridge National Laboratory_ Technical Report ORNL/TM−2024/3573  
+_Zenodo_  
+<https://10.5281/zenodo.13844759>
+
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2024):  
 [**WorkflowHub: a registry for computational workflows**](https://doi.org/10.48550/arXiv.2410.06941).  
 _arXiv_:2410.06941 [cs.DL]  
