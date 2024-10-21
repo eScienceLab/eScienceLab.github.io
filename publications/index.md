@@ -1061,12 +1061,11 @@ _Future Generation Computer Systems_, **36** pp 338-351.
 [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
 
 Carole Goble, David De Roure, Sean Bechhofer (2013):  
-**Accelerating Scientists’ Knowledge Turns**.  
+[**Accelerating Scientists’ Knowledge Turns**](https://research.manchester.ac.uk/en/publications/accelerating-scientists-knowledge-turnst).  
 Knowledge Discovery, Knowledge Engineering and Knowledge Management.  
 _Communications in Computer and Information Science_ **348**    
 <https://doi.org/10.1007/978-3-642-37186-8_1>
-[[preprint server]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
-[[preprint]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
+[[preprint]](https://research.manchester.ac.uk/files/347524952/AcceleratingScientistsKnowledgeTurns.pdf).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):  
 [**A workflow PROV-corpus based on Taverna and Wings**](https://research.manchester.ac.uk/files/48049057/prov_bench_paper.pdf).  
