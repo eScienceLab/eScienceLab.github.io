@@ -73,9 +73,9 @@ _PeerJ Computer Science_  **10**:e1781
 [[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
 
 Flora D'Anna, Niclas Jareborg, Mijke Jetten, Minna Ahokas, Pinar Alper, Robert Andrews, Korbinian Bösl, Teresa D’Altri, Daniel Faria, Nazeefa Fatima, Siiri Fuchs, Clare Garrard, Wei Gu5, Katharina F. Heil, Yvonne Kallberg, Flavio Licciulli, Nils-Christian Lübke, Ana M. P. Melo, Ivan Mičetić15, Jorge Oliveira, Anastasis Oulas, Patricia M. Palagi, Krzysztof Poterlowicz, Xenia Perez-Sitja, Patrick Ruch, Susanna-Assunta Sansone, Helena Schnitzer, Celia van Gelder, Thanasis Vergoulis, Daniel Wibberg, Ulrike Wittig, Brane Leskošek, Jiri Vondrasek, Munazah Andrabi (2024):  
-[**A research data management (RDM) community for ELIXIR**](https://doi.org/10.12688/f1000research.146301.1).  
+[**A research data management (RDM) community for ELIXIR**](https://doi.org/10.12688/f1000research.146301.2).  
 _F1000Research_ **13**(ELIXIR):230  
-<https://doi.org/10.12688/f1000research.146301.1>
+<https://doi.org/10.12688/f1000research.146301.2>
 
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2024):  
 [**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://s11.no/2024/webby-fdos/).  
