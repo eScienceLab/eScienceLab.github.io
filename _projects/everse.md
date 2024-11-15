@@ -38,7 +38,7 @@ EVERSE is coordinated by the [Centre for Research and Technology Hellas (CERTH)]
 
 ### eScienceLab involvement
 
-Building on our engagement in [EOSC-Life](../eosc-life/), [Software Sustainability Institute](../ssi/), [ELIXIR](../elixir/) and [FAIR-IMPACT](../fair-impact/), the eScience Lab will focus on gathering best practice for research software quality and software development practices (WP2). This will be documented in a knowledge base Research Software Quality toolkit (RSQkit), building on our [RDMkit](/products/rdmkit) work.
+Building on our engagement in [EOSC-Life](../eosc-life/), [Software Sustainability Institute](../ssi/), [ELIXIR](../elixir/) and [FAIR-IMPACT](../fair-impact/), the eScience Lab will focus on gathering best practice for research software quality and software development practices (WP2). This will be documented in a knowledge base [Research Software Quality toolkit (RSQkit)](https://everse.software/RSQKit/), building on our [RDMkit](/products/rdmkit) work.
 
 In addition, as part of making a _common metadata framework for software quality_ (WP3), we will provide support for [RO-Crate](/products/researchobject) in the Workflow Execution Service ([WfExS](https://github.com/inab/WfExS-backend)) (WP4), continuing work started in [EOSC-Life](../eosc-life/), [BY-COVID](../by-covid/) and [TRE-FX](../tre-fx/). This aims to incorporate the [Five Safes RO-Crate](https://w3id.org/5s-crate/) into WfExS for secured and federated workflow orchestration, and to use community-led standards for research software packaged using container technologies.
 
