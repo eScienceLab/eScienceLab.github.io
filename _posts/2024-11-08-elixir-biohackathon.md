@@ -12,8 +12,7 @@ Two featured projects were co-led by the eScience Lab:
 - [BioSchemas for mortals](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/10.md) – Nick Juty and Phil Reed, to simplify Bioschemas and increase accessibility for diverse user groups. They were joined by Munazah Andrabi and Finn Bacall.
 - [Creating user benefit from ARC-ISA RO-Crate machine-actionability](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/19.md) – Eli Chadwick developing tools for automated, machine-actionable data sharing.
 
-![Eli presenting at BioHackathon](/images/posts_images/BioHackEU24-Eli-smaller.jpg) 
-![Nick presenting at BioHackathon](/images/posts_images/BioHackEU24-Nick-smaller.jpg)
+![Eli presenting at BioHackathon](/images/posts_images/BioHackEU24-Eli-smaller.jpg) ![Nick presenting at BioHackathon](/images/posts_images/BioHackEU24-Nick-smaller.jpg)
 
 _Eli and Nick presenting project reports to the audience at ELIXIR BioHackathon Europe 2024_
 
