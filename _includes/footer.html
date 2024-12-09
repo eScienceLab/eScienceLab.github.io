@@ -13,6 +13,11 @@
           <div class="actions">
             <a href="https://github.com/eScienceLab/eScienceLab.github.io/">Improve this page</a>
           </div>
+          {% if site.bluesky_username %}
+          <li>
+            {% include icon-bluesky.html username=site.bluesky_username %}
+          </li>
+          {% endif %}
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
