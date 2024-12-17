@@ -8,7 +8,6 @@ description: Scaling training portal federation for RIs through Multi-tenanting 
 website: https://tess.elixir-europe.org/
 start_date: 2024-10-01
 end_date: 2026-09-30
-highlight: true
 duration: 24 months
 expired: false
 project_reference: https://www.oscars-project.eu/projects/mtess-x-scaling-training-portal-federation-ris-through-multi-tenanting-and-exchange
