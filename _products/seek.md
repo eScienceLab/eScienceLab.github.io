@@ -5,7 +5,7 @@ title: The FAIRDOM-SEEK Platform
 path: seek
 collection: products
 description: Finding, sharing and exchanging data, models, simulations and processes in life sciences
-website: http://fair-dom.org/fairdomseek/
+website: http://fair-dom.org/fairdomseek
 logo: /images/logo/fairdom-seek-logo-horiz.svg
 screenshot: /images/screenshots/sm_seek.png
 #wiki: http://www.fairdomseek.org/about
