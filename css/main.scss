@@ -30,9 +30,14 @@ $content-width:    1200px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$header-background-color: #272e38;
+$header-background-color: #6b2c91; /* #272e38;*/
 $header-background-image: url('/images/bg.png');
 $header-text-color:      #fff;
+
+// Additional variables with reskin to match business cards
+$headings-color: $header-background-color;
+$footer-background-color: #fff1bb;
+$hero-background-color: $footer-background-color;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

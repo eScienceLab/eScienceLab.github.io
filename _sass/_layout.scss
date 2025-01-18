@@ -268,7 +268,8 @@
     /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5a7999', endColorstr='#344659',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url('/images/garden_cropped_scaled.jpg');
+    background-color: $hero-background-color;
+    background-image: url('/images/hero-banner.svg');
     background-size: cover;
     height: 350px;
     @include media-query($on-laptop) {
@@ -280,8 +281,8 @@
         font-family: $title-font-family;
         font-size: 80px;
         line-height: 350px;
-        color: white;
-        text-shadow: 1px 1px 3px #000;
+        color: $headings-color;
+        text-shadow: 1px 1px 3px #fff;
         padding: 0;
         float: left;
         position: absolute;
