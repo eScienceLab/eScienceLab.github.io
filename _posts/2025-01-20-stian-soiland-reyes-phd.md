@@ -12,6 +12,6 @@ His award comes after many years of publishing research at The University of Man
 Congratulations, Dr Stian Soiland-Reyes!
 
 ![Stian presenting dissertation](/images/posts_images/stian-viva1.jpg) 
-![Stian receiving award](/images/posts_images/stian-viva1.jpg) 
-![Stian with his award](/images/posts_images/stian-viva1.jpg) 
+![Stian receiving award](/images/posts_images/stian-viva2.jpg) 
+![Stian with his award](/images/posts_images/stian-viva3.jpg) 
 
