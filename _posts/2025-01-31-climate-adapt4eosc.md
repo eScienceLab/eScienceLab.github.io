@@ -7,7 +7,11 @@ categories: announcements projects EOSC
 
 # Launch of Climate-Adapt4EOSC
 
-_4 year EU-funded project TO drive Open Science and Data Innovation for Greater Climate Resilience_
+_4 year EU-funded project to drive Open Science and Data Innovation for Greater Climate Resilience_
+
+
+
+[![BY-COVID logo](/images/logo/climate-adapt4eosc.svg)](https://climate-adapt4eosc.eu/)
 
 The newly launched [Climate-Adapt4EOSC project](https://climate-adapt4eosc.eu/) joins the expanding European Open Science Cloud (EOSC) ecosystem, with a particular focus on climate change adaptation. Bringing together 18 partners from 9 countries, the initiative aims to advance open science and data-driven innovation to strengthen climate resilience and climate adaptation effots. 
 
