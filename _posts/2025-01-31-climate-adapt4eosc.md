@@ -42,7 +42,7 @@ Additionally, Climate-Adapt4EOSC is introducing **three innovative services** th
 - **Coordinator:** Demokritos -- National Centre for Scientific Research  
 - **Website:** <https://www.climate-adapt4eosc.eu> 
 - **LinkedIn:** <https://www.linkedin.com/company/eosc-climate-adapt-4/>
-- **Contact**: <mailto:contact@climate-adpapt4eosc.eu>
+- **Contact**: <contact@climate-adpapt4eosc.eu>
 
 
 ### Consortium Members
