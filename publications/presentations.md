@@ -26,12 +26,20 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
 * Peter Sefton, Stian Soiland-Reyes (2023):  [**Packaging data with detailed metadata using RO-Crate in FAIR open repositories**](https://ptsefton.com/2023/06/13/ro-crate-or-2023/).  _Open Repositories 2023_ ([OR2023](https://or2023.openrepositories.org)), 2023-06-12/--15, Stellenbosch University, South Africa.   <https://doi.org/10.5281/zenodo.8091505> 
 * Carole Goble (2023):  **The EOSC-Life Workflow Collaboratory for the Life Sciences**.  _1st Conference on Research Data Infrastructure_ ([CoRDI 2023](https://www.nfdi.de/cordi-2023/)), 2023-09-12/--14, Karlsruhe, Germany.  <https://doi.org/10.5281/zenodo.8348470>
+* [RDMkit: The Research Data Management Toolkit for Life Sciences](https://doi.org/10.5281/zenodo.8354863) by Pinar Alper, Nazeefa Fatima, Carole Goble
+at _1st Conference on Research Data Infrastructure_ [CoRDI 2023](https://www.nfdi.de/cordi-2023/). [[abstract](https://doi.org/10.52825/cordi.v1i.251)]
 
 
 ## 2022
 * Reproducible and Open Science (invited talk), Jodrell Bank Centre for Astrophysics Autumn Computing Sessions - by Rachael Ainsworth, University of Manchester, Manchester, UK, 3 November 2022
 * [Reproducible and Open Science](https://doi.org/10.6084/m9.figshare.20079179) (invited keynote talk), [ESCAPE Summer School 2022](https://indico.in2p3.fr/event/26913/) - by Rachael Ainsworth, LAPP, Annecy, France [presented remotely], 20 June 2022
 * [The Software Sustainability Institute Community and Events](https://doi.org/10.6084/m9.figshare.20006468) (invited talk), [RSE Midlands Inaugural Meeting](https://rse-midlands.github.io/docs/event-8th-june/) - by Rachael Ainsworth, University of Birmingham, 8 June 2022
+* [Making EOSC Research Objects FAIR with RO-Crate: A common metadata overlay for EOSC repositories](https://doi.org/10.5281/zenodo.7323480) by Justin Clark-Casey, Stian Soiland-Reyes at _[EOSC Symposium 2022](https://events.eoscfuture.eu/symposium2022/programme)_  
+* [WorkflowHub: FAIR Workflow Registry](https://doi.org/10.5281/zenodo.7323471) by  Justin Clark-Casey, Carole Goble, Finn Bacall, Frederik Coppens at _[EOSC Symposium 2022](https://events.eoscfuture.eu/symposium2022/programme)_  
+* [RO-Crate: packaging metadata love notes into FAIR Digital Objects](https://doi.org/10.5281/zenodo.7147703), Keynote by Carole Goble at  
+_Helmholtz Metadata Collaboration conference 2022_, 2022-10-05/--06.  
+* [Updating Linked Data practices for FAIR Digital Object principles](https://doi.org/10.5281/zenodo.7256428) presented by Stian Soiland-Reyes at _1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fdo2022.org/))_. [[abstract](https://doi.org/10.3897/rio.8.e94501)]
+* [Cost-Benefit Decision Making for Dataset FAIRification in Pharmaceutical R&D](https://doi.org/10.5281/zenodo.7267882), presented by Carole Goble at BioITWorld Europe, 18-19 Oct 2022, Berlin, Germany
 
 
 ## 2021
@@ -55,6 +63,8 @@ Carole Goble (2021):
 * [_RDA IG Data Fabric: FAIR Digital Objects_](https://www.rd-alliance.org/group/data-fabric-ig/wiki/rda-ig-data-fabric-fair-digital-objects) 25th February 2021. [[Video recording](https://www.youtube.com/watch?v=pz-MLdI7GLA)]
 * [The swings and roundabouts of a decade of fun and games with Research Objects](https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects) by Carole Goble at [_17th Italian Research Conference on Digital Libraries_](http://ircdl2021.dei.unipd.it/) (IRCDL 2021) Padova, Italy - 18-19 February 2021 [[Video recording](https://youtu.be/xDV1mzLudAY?list=PLKynRfLznsVxASq5t5apewqZCggWg7fwU&t=220)]
 * [SSI Fellowship Programme 2021 Launch Webinar](https://doi.org/10.5281/zenodo.4432058) ([video](https://youtu.be/aceXqDJSoxY)) - by Rachael Ainsworth, Software Sustainability Institute, Online, 14 January 2021 
+* [FAIR for Research Software, Machine Learning Models, and Workflows](https://doi.org/10.5281/zenodo.5116050), FAIR Festival 2021, 2021-06-21/--23
+* [Packaging and describing Data Collections with RO-Crate](https://doi.org/10.5281/zenodo.4916168), presented by Carole Goble at _2nd Workshop of the Data Citation Community of Practice for Earth, Space, and Environmental Sciences (and Related Sciences)_ ([DataCitationCoP](https://agu-data.github.io/DataCitationCoP/2nd-workshop-data-citation)), AGU Data Citation Community of Practice, 2021-06-08.  
 
 
 ## 2020
