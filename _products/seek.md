@@ -5,10 +5,10 @@ title: The FAIRDOM-SEEK Platform
 path: seek
 collection: products
 description: Finding, sharing and exchanging data, models, simulations and processes in life sciences
-website: http://fair-dom.org/platform/seek/
+website: http://fair-dom.org/fairdomseek
 logo: /images/logo/fairdom-seek-logo-horiz.svg
 screenshot: /images/screenshots/sm_seek.png
-wiki: http://www.fairdomseek.org/about
+#wiki: http://www.fairdomseek.org/about
 ---
 
 The FAIRDOM-SEEK platform is a Web-based resource for sharing heterogeneous scientific research datasets, models or simulations, processes and research outcomes. It preserves associations between them, along with information about the people and organisations involved. FAIRDOM-SEEK is written in Ruby on Rails and Java.

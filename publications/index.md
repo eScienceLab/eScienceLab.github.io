@@ -41,6 +41,54 @@ which is particularly useful for long author lists or long titles.
 
 ## 2024
 
+Chris Orton, Lara Edwards, David Seymour, Monica Jones, Philip Quinlan, Simon Thompson, Carole Goble, Jennifer Quint, Aziz Sheikh (2024):  
+[**Data as infrastructure**: Systematic data curation addressing fundamental data content differences across the UK](https://doi.org/10.23889/ijpds.v9i5.2683).  
+_Conference Proceedings for International Population Data Linkage Conference 2024_, Chicago, USA, 2024-09-15/--18.  
+_International Journal of Population Data Science_ **9**(5)  
+<https://doi.org/10.23889/ijpds.v9i5.2683>
+
+<small>Rafael Ferreira da Silva, Deborah Bard, Kyle Chard, Shaun DeWitt, Ian T. Foster, Tom Gibbs, Carole Goble, William Godoy, Johan Gustafsson, Utz−Uwe Haus, Stephen Hudson, Shantenu Jha, Laila Los, Drew Paine, Frederic Suter, Logan Ward, Sean Wilkinson, Marcos Amaris, Yadu Babuji, Jonathan and Bader, Rajat Bhattarai, Wes Brewer, Paul Brunk, Silvina Caino−Lores, Henri Casanova, Daniela Cassol, Jared Coleman, Taina Coleman, Iacopo Colonnelli, Anderson Andrei Da Silva, Daniel de Oliveira, Pascal Elahi, Nour Elfaramawy, Wael Elwasif, Brian Etz, Thomas Fahringer, Wesley Ferreira, Rosa Filgueira, Jacob Fosso Tande, Luiz Gadelha, Andy Gallo, Daniel Garijo, Yiannis Georgiou, Philipp Gritsch, Patricia Grubel, Amal Gueroudji, Quentin Guilloteau, Carlo Hamalainen, Rolando Hong Enriquez, Lauren Huet, Kevin Hunter Kesling, Paula Iborra, Shiva Jahangiri, Jan Janssen, Joe Jordan, Sehrish Kanwal, Liliane Kunstmann, Fabian Lehmann, Ulf Leser, Chen Li, Peini Liu, Jakob Luettgau, Richard Lupat, Jose M. Fernandez, Ketan Maheshwari, Tanu Malik, Jack Marquez, Motohiko Matsuda, Doriana Medic, Somayeh Mohammadi, Alberto Mulone, John−Luke Navarro, Kin Wai Ng, Klaus Noelp, Bruno P. Kinoshita, Ryan Prout, Michael R. Crusoe, Sashko Ristov, Stefan Robila, Daniel Rosendo, Billy Rowell, Jedrzej Rybicki, Hector Sanchez, Nishant Saurabh, Sumit Kumar Saurav, Tom Scogland, Dinindu Senanayake, Woong Shin, Raul Sirvent, Tyler Skluzacek, Barry Sly−Delgado, Stian Soiland−Reyes, Abel Souza, Renan Souza, Domenico Talia, Nathan Tallent, Lauritz Thamsen, Mikhail Titov, Ben Tovar, Karan Vahi, Eric Vardar−Irrgang, Edite Vartina, Yuandou Wang, Merridee Wouters, Qi Yu, Ziad Al Bkhetan, Mahnoor Zulfiqar</small> (2024):  
+[**Workflows Community Summit 2024**: Future Trends and Challenges in Scientific Workflows](https://doi.org/10.5281/zenodo.13844759).  
+_Oak Ridge National Laboratory_ Technical Report ORNL/TM−2024/3573  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.13844759>
+
+Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2024):  
+[**WorkflowHub: a registry for computational workflows**](https://doi.org/10.48550/arXiv.2410.06941).  
+_arXiv_:2410.06941 [cs.DL]  
+<https://doi.org/10.48550/arXiv.2410.06941>
+
+Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2024):  
+[**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.48550/arXiv.2410.03490).  
+_arXiv_ 2410.03490 [cs.DL]  
+<https://doi.org/10.48550/arXiv.2410.03490>
+
+Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
+[**Recording provenance of workflow runs with RO-Crate**](https://doi.org/10.1371/journal.pone.0309210).  
+_PLOS One_ **19**(9):e0309210  
+<https://doi.org/10.1371/journal.pone.0309210>
+
+Jana Martínková, Nick Juty, Alejandra Gonzalez Beltran, Carole Goble, Yann Le Franc (2024):  
+[**Moving towards FAIR mappings and crosswalks**](https://www.utwente.nl/en/eemcs/fois2024/resources/papers/martinkova-et-al-moving-towards-fair-mappings-and-crosswalks.pdf).  
+_FOAM 2024: FAIR principles for Ontologies and Metadata in Knowledge Management_, Formal Ontology in Information Systems Conference 2024 ([FOIS 2024](https://www.utwente.nl/en/eemcs/fois2024/accepted-papers/)), 15-19 July 2024, Enschede, Netherlands  
+
+Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
+[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
+_PeerJ Computer Science_  **10**:e1781  
+<https://doi.org/10.7717/peerj-cs.1781>
+[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
+
+Flora D'Anna, Niclas Jareborg, Mijke Jetten, Minna Ahokas, Pinar Alper, Robert Andrews, Korbinian Bösl, Teresa D’Altri, Daniel Faria, Nazeefa Fatima, Siiri Fuchs, Clare Garrard, Wei Gu5, Katharina F. Heil, Yvonne Kallberg, Flavio Licciulli, Nils-Christian Lübke, Ana M. P. Melo, Ivan Mičetić15, Jorge Oliveira, Anastasis Oulas, Patricia M. Palagi, Krzysztof Poterlowicz, Xenia Perez-Sitja, Patrick Ruch, Susanna-Assunta Sansone, Helena Schnitzer, Celia van Gelder, Thanasis Vergoulis, Daniel Wibberg, Ulrike Wittig, Brane Leskošek, Jiri Vondrasek, Munazah Andrabi (2024):  
+[**A research data management (RDM) community for ELIXIR**](https://doi.org/10.12688/f1000research.146301.2).  
+_F1000Research_ **13**(ELIXIR):230  
+<https://doi.org/10.12688/f1000research.146301.2>
+
+Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2024):  
+[**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://s11.no/2024/webby-fdos/).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_   (submitted)  
+<https://s11.no/2024/webby-fdos/>
+
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, RO-Crate community (2024):  
 [**RO-Crate community update 2024**](https://research.manchester.ac.uk/files/291196011/FDO2024_RO-Crate_update.pdf).  
 (submitted)  
@@ -62,7 +110,7 @@ Peter Sefton, Stian Soiland-Reyes (2024):
 <https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>
 
 Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
-[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://doi.org/10.37044/osf.io/gmk2h).  
+[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://s11.no/2024/enabling-fair-digital-objects/).  
 *BioHackrXiv*  
 <https://doi.org/10.37044/osf.io/gmk2h>
 
@@ -71,17 +119,15 @@ Sebastian Beier, Timo Mühlhaus, Cyril Pommier, Stuart Owen, Dominik Brilhaus, H
 *BioHackrXiv*  
 <https://doi.org/10.37044/osf.io/7y2jh>
 
+José M. Fernández, Paula Iborra, Sébastien Moretti, Arun Isaac, Paul De Geest, Stian Soiland-Reyes (2024):
+[**BioHackEU23: FAIR Workflow Execution with WfExS and Workflow Run Crate**](https://doi.org/10.37044/osf.io/7f94w).  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/7f94w>
+
 Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, David Hecker, Robert Huber, Stian Soiland-Reyes, Herbert Van de Sompel, Andreas Czerniak, Milo Thurston, Allyson L. Lister, Alban Gaignard (2024):  
-[**Report on "FAIR Signposting" and its uptake by the community**](https://doi.org/10.5281/zenodo.10490289).  
+[**Report on "FAIR Signposting" and its uptake by the community**](https://s11.no/2024/signposting-report/).  
 *EOSC FAIR Metrics and Data Quality Task Force*  
 <https://doi.org/10.5281/zenodo.10490289>
-
-Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
-[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
-_PeerJ Computer Science_ (accepted)  
-[[preprint](https://doi.org/10.48550/arXiv.2306.07436)]
-[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
-
 
 
 ## 2023
@@ -106,12 +152,12 @@ Tom Brown, Nick Juty, Stian Soiland-Reyes, Felix Shaw, Rutger Vos (2023):
 (submitted)
 <https://research.manchester.ac.uk/en/publications/ro-crates-as-a-practical-implementation-of-fair-digital-object-to>
 
-Romain David, Arina Rybina, Jean‐Marie Burel, Jean‐Karim Heriche, Pauline Audergon, Jan‐Willem Boiten, Frederik Coppens, Sara Crockett, Katrina Exter, Sven Fahrner, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Björn Grüning, Kim Tamara Gurwitz, John M Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean‐Luc Legras, Allyson L Lister, Dario Livio Longo, Rebecca Ludwig, Bénédicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Michaela Th Mayrhofer, Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S Richard, Paolo Romano, Antonio Rosato, Alex Sánchez‐Pla, Susanna‐Assunta Sansone, Ugis Sarkans, Beatriz Serrano‐Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon (2023):  
+<small>Romain David, Arina Rybina, Jean‐Marie Burel, Jean‐Karim Heriche, Pauline Audergon, Jan‐Willem Boiten, Frederik Coppens, Sara Crockett, Katrina Exter, Sven Fahrner, Maddalena Fratelli, Carole Goble, Philipp Gormanns, Tobias Grantner, Björn Grüning, Kim Tamara Gurwitz, John M Hancock, Henriette Harmse, Petr Holub, Nick Juty, Geoffrey Karnbach, Emma Karoune, Antje Keppler, Jessica Klemeier, Carla Lancelotti, Jean‐Luc Legras, Allyson L Lister, Dario Livio Longo, Rebecca Ludwig, Bénédicte Madon, Marzia Massimi, Vera Matser, Rafaele Matteoni, Michaela Th Mayrhofer, Christian Ohmann, Maria Panagiotopoulou, Helen Parkinson, Isabelle Perseil, Claudia Pfander, Roland Pieruschka, Michael Raess, Andreas Rauber, Audrey S Richard, Paolo Romano, Antonio Rosato, Alex Sánchez‐Pla, Susanna‐Assunta Sansone, Ugis Sarkans, Beatriz Serrano‐Solano, Jing Tang, Ziaurrehman Tanoli, Jonathan Tedds, Harald Wagener, Martin Weise, Hans V Westerhoff, Rudolf Wittner, Jonathan Ewbank, Niklas Blomberg, Philip Gribbon</small> (2023):  
 [**“Be sustainable”: EOSC‐Life recommendatons for implementation of FAIR principles in life science data handling**](https://doi.org/10.15252/embj.2023115008).  
 _The EMBO Journal_  **42**:e115008  
 <https://doi.org/10.15252/embj.2023115008>
 
-Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank (2023):  
+<small>Romain David, Audrey S. Richard, Claire Connellan, Katharina B. Lauer, Maria Luisa Chiusano, Carole Goble, Martin Houde, Isabel Kemmer, Antje Keppler, Philippe Lieutaud, Christian Ohmann, Maria Panagiotopoulou, Sara Raza Khan, Arina Rybina, Stian Soiland-Reyes, Charlotte Wit, Rudolf Wittner, Rafael Andrade Buono, Sarah Arnaud Marsh, Pauline Audergon, Dylan Bonfils, Jose-Maria Carazo, Remi Charrel, Frederik Coppens, Wolfgang Fecke, Claudia Filippone, Eva Garcia Alvarez, Sheraz Gul, Henning Hermjakob, Katja Herzog, Petr Holub, Lukasz Kozera, Allyson L. Lister, José López-Coronado, Bénédicte Madon, Kurt Majcen, William Martin, Wolfgang Müller, Elli Papadopoulou, Christine M.A. Prat, Paolo Romano, Susanna-Assunta Sansone, Gary Saunders, Niklas Blomberg, Jonathan Ewbank</small> (2023):  
 [**Umbrella Data Management Plans to Integrate FAIR Data: Lessons From the ISIDORe and BY-COVID Consortia for Pandemic Preparedness**](https://doi.org/10.5334/dsj-2023-035).  
 _Data Science Journal_ **22**:52  
 <https://doi.org/10.5334/dsj-2023-035>
@@ -155,7 +201,7 @@ _Artificial Intelligence for Science_ (Chapter 27) pp 495-51.
 <https://doi.org/10.1142/9789811265679_0027>
 [no OA preprint available]
 
-Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
+<small>Rudolf Wittner, Petr Holub, Cecilia Mascia, Francesca Frexia,
 Heimo Müller, Markus Plass, Clare Allocca, Fay Betsou, 
 Tony Burdett, Ibon Cancio, Adriane Chapman, Martin Chapman,
 Mélanie Courtot, Vasa Curcin, Johann Eder, Mark Elliot, 
@@ -164,7 +210,7 @@ Bron Kisler, Andreas Kremer, Simone Leo, Sheng Lin-Gibson,
 Anna Marsano, Marco Mattavelli, Josh Moore, Hiroki Nakae,
 Isabelle Perseil, Ayat Salman, James Sluka, 
 Stian Soiland-Reyes, Caterina Strambio-De-Castillia, 
-Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger (2023):  
+Michael Sussman, Jason R. Swedlow, Kurt Zatloukal, Jörg Geiger</small> (2023):  
 [**Towards a common standard for data and specimen provenance in life sciences**](https://doi.org/10.1002/lrh2.10365).  
 _Learning Health Systems_  
 <https://doi.org/10.1002/lrh2.10365>
@@ -199,7 +245,7 @@ Mingfang Wu, Stephen M. Richard, Chantelle Verhey, Leyla Jael Castro, Baptiste C
 _Data Intelligence_  
 <https://doi.org/10.1162/dint_a_00186>
 
-Rafael Ferreira da Silva, Rosa M. Badia, Venkat Bala, Debbie Bard, Peer-Timo Bremer, Ian Buckley, Silvina Caino-Lores, Kyle Chard, Carole Goble, Shantenu Jha, Daniel S. Katz, Daniel Laney, Manish Parashar, Frederic Suter, Nick Tyler, Thomas Uram, Ilkay Altintas, Stefan Andersson, William Arndt, Juan Aznar, Jonathan Bader, Bartosz Balis, Chris Blanton, Kelly Rosa Braghetto, Aharon Brodutch, Paul Brunk, Henri Casanova, Alba Cervera Lierta, Justin Chigu, Taina Coleman, Nick Collier, Iacopo Colonnelli, Frederik Coppens, Michael Crusoe, Will Cunningham, Bruno de Paula Kinoshita, Paolo Di Tommaso, Charles Doutriaux, Matthew Downton, Wael Elwasif, Bjoern Enders, Chris Erdmann, Thomas Fahringer, Ludmilla Figueiredo, Rosa Filgueira, Martin Foltin, Anne Fouilloux, Luiz Gadelha, Andy Gallo, Artur Garcia Saez, Daniel Garijo, Roman Gerlach, Ryan Grant, Samuel Grayson, Patricia Grubel, Johan Gustafsson, Valerie Hayot-Sasson, Oscar Hernandez, Marcus Hilbrich, AnnMary Justine, Ian Laflotte, Fabian Lehmann, Andre Luckow, Jakob Luettgau, Ketan Maheshwari, Motohiko Matsuda, Doriana Medic, Pete Mendygral, Marek Michalewicz, Jorji Nonaka, Maciej Pawlik, Loic Pottier, Line Pouchard, Mathias Putz, Santosh Kumar Radha, Lavanya Ramakrishnan, Sashko Ristov, Paul Romano, Daniel Rosendo, Martin Ruefenacht, Katarzyna Rycerz, Nishant Saurabh, Volodymyr Savchenko, Martin Schulz, Christine Simpson, Raul Sirvent, Tyler Skluzacek, Stian Soiland-Reyes, Renan Souza, Sreenivas Rangan Sukumar, Ziheng Sun, Alan Sussman, Douglas Thain, Mikhail Titov, Benjamin Tovar, Aalap Tripathy, Matteo Turilli, Bartosz Tuznik, Hubertus van Dam, Aurelio Vivas , Logan Ward, Patrick Widener, Sean Wilkinson, Justyna Zawalska, Mahnoor Zulfiqar  (2023):  
+<small>Rafael Ferreira da Silva, Rosa M. Badia, Venkat Bala, Debbie Bard, Peer-Timo Bremer, Ian Buckley, Silvina Caino-Lores, Kyle Chard, Carole Goble, Shantenu Jha, Daniel S. Katz, Daniel Laney, Manish Parashar, Frederic Suter, Nick Tyler, Thomas Uram, Ilkay Altintas, Stefan Andersson, William Arndt, Juan Aznar, Jonathan Bader, Bartosz Balis, Chris Blanton, Kelly Rosa Braghetto, Aharon Brodutch, Paul Brunk, Henri Casanova, Alba Cervera Lierta, Justin Chigu, Taina Coleman, Nick Collier, Iacopo Colonnelli, Frederik Coppens, Michael Crusoe, Will Cunningham, Bruno de Paula Kinoshita, Paolo Di Tommaso, Charles Doutriaux, Matthew Downton, Wael Elwasif, Bjoern Enders, Chris Erdmann, Thomas Fahringer, Ludmilla Figueiredo, Rosa Filgueira, Martin Foltin, Anne Fouilloux, Luiz Gadelha, Andy Gallo, Artur Garcia Saez, Daniel Garijo, Roman Gerlach, Ryan Grant, Samuel Grayson, Patricia Grubel, Johan Gustafsson, Valerie Hayot-Sasson, Oscar Hernandez, Marcus Hilbrich, AnnMary Justine, Ian Laflotte, Fabian Lehmann, Andre Luckow, Jakob Luettgau, Ketan Maheshwari, Motohiko Matsuda, Doriana Medic, Pete Mendygral, Marek Michalewicz, Jorji Nonaka, Maciej Pawlik, Loic Pottier, Line Pouchard, Mathias Putz, Santosh Kumar Radha, Lavanya Ramakrishnan, Sashko Ristov, Paul Romano, Daniel Rosendo, Martin Ruefenacht, Katarzyna Rycerz, Nishant Saurabh, Volodymyr Savchenko, Martin Schulz, Christine Simpson, Raul Sirvent, Tyler Skluzacek, Stian Soiland-Reyes, Renan Souza, Sreenivas Rangan Sukumar, Ziheng Sun, Alan Sussman, Douglas Thain, Mikhail Titov, Benjamin Tovar, Aalap Tripathy, Matteo Turilli, Bartosz Tuznik, Hubertus van Dam, Aurelio Vivas , Logan Ward, Patrick Widener, Sean Wilkinson, Justyna Zawalska, Mahnoor Zulfiqar</small>  (2023):  
 **Workflows Community Summit 2022: A Roadmap Revolution**.  
 _arXiv_:2304.00019  
 <https://arxiv.org/abs/2304.00019>
@@ -327,13 +373,13 @@ Alex Hardisty, Paul Brack, Carole Goble, Laurence Livermore, Ben Scott, Quentin 
 _Data Intelligence_ **4**(2)  
 <https://doi.org/10.1162/dint_a_00134>
 
-Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, Samuel Guay, Owen N. Shahim, Gisela H. Govaart, Emma Norris, Aoife O’Mahony, Adam J. Parker, Ana Todorovic, Charlotte R. Pennington, Elias Garcia-Pelegrin, Aleksandra Lazić, Olly Robertson, Sara L. Middleton, Beatrice Valentini, Joanne McCuaig, Bradley J. Baker, Elizabeth Collins, Adrien A. Fillon, Tina B. Lonsdorf, Michele C. Lim, Norbert Vanek, Marton Kovacs, Timo B. Roettger, Sonia Rishi, Jacob F. Miranda, Matt Jaquiery, Suzanne L. K. Stewart, Valeria Agostini, Andrew J. Stewart, Kamil Izydorczak, Sarah Ashcroft-Jones, Helena Hartmann, Madeleine Ingham, Yuki Yamada, Martin R. Vasilev, Filip Dechterenko, Nihan Albayrak-Aydemir, Yu-Fang Yang, Annalise A. LaPlume, Julia K. Wolska, Emma L. Henderson, Mirela Zaneva, Benjamin G. Farrar, Ross Mounce, Tamara Kalandadze, Wanyin Li, Qinyu Xiao, Robert M. Ross, Siu Kit Yeung, Meng Liu, Micah L. Vandegrift, Zoltan Kekecs, Marta K. Topor, Myriam A. Baum, Emily A. Williams, Asma A. Assaneea, Amélie Bret, Aidan G. Cashin, Nick Ballou, Tsvetomira Dumbalska, Bettina M. J. Kern, Claire R. Melia, Beatrix Arendt, Gerald H. Vineyard, Jade S. Pickering, Thomas R. Evans, Catherine Laverty, Eliza A. Woodward, David Moreau, Dominique G. Roche, Eike M. Rinke, Graham Reid, Eduardo Garcia-Garzon, Steven Verheyen, Halil E. Kocalar, Ashley R. Blake, Jamie P. Cockcroft, Leticia Micheli, Brice Beffara Bret, Zoe M. Flack, Barnabas Szaszi, Markus Weinmann, Oscar Lecuona, Birgit Schmidt, William X. Ngiam, Ana Barbosa Mendes, Shannon Francis, Brett J. Gall, Mariella Paul, Connor T. Keating, Magdalena Grose-Hodge, James E. Bartlett, Bethan J. Iley, Lisa Spitzer, Madeleine Pownall, Christopher J. Graham, Tobias Wingen, Jenny Terry, Catia Margarida F. Oliveira, Ryan A. Millager, Kerry J. Fox, Alaa AlDoh, Alexander Hart, Olmo R. van den Akker, Gilad Feldman, Dominik A. Kiersz, Christina Pomareda, Kai Krautter, Ali H. Al-Hoorie, Balazs Aczel (2022):  
+<small>Sam Parsons, Flávio Azevedo, Mahmoud M. Elsherif, Samuel Guay, Owen N. Shahim, Gisela H. Govaart, Emma Norris, Aoife O’Mahony, Adam J. Parker, Ana Todorovic, Charlotte R. Pennington, Elias Garcia-Pelegrin, Aleksandra Lazić, Olly Robertson, Sara L. Middleton, Beatrice Valentini, Joanne McCuaig, Bradley J. Baker, Elizabeth Collins, Adrien A. Fillon, Tina B. Lonsdorf, Michele C. Lim, Norbert Vanek, Marton Kovacs, Timo B. Roettger, Sonia Rishi, Jacob F. Miranda, Matt Jaquiery, Suzanne L. K. Stewart, Valeria Agostini, Andrew J. Stewart, Kamil Izydorczak, Sarah Ashcroft-Jones, Helena Hartmann, Madeleine Ingham, Yuki Yamada, Martin R. Vasilev, Filip Dechterenko, Nihan Albayrak-Aydemir, Yu-Fang Yang, Annalise A. LaPlume, Julia K. Wolska, Emma L. Henderson, Mirela Zaneva, Benjamin G. Farrar, Ross Mounce, Tamara Kalandadze, Wanyin Li, Qinyu Xiao, Robert M. Ross, Siu Kit Yeung, Meng Liu, Micah L. Vandegrift, Zoltan Kekecs, Marta K. Topor, Myriam A. Baum, Emily A. Williams, Asma A. Assaneea, Amélie Bret, Aidan G. Cashin, Nick Ballou, Tsvetomira Dumbalska, Bettina M. J. Kern, Claire R. Melia, Beatrix Arendt, Gerald H. Vineyard, Jade S. Pickering, Thomas R. Evans, Catherine Laverty, Eliza A. Woodward, David Moreau, Dominique G. Roche, Eike M. Rinke, Graham Reid, Eduardo Garcia-Garzon, Steven Verheyen, Halil E. Kocalar, Ashley R. Blake, Jamie P. Cockcroft, Leticia Micheli, Brice Beffara Bret, Zoe M. Flack, Barnabas Szaszi, Markus Weinmann, Oscar Lecuona, Birgit Schmidt, William X. Ngiam, Ana Barbosa Mendes, Shannon Francis, Brett J. Gall, Mariella Paul, Connor T. Keating, Magdalena Grose-Hodge, James E. Bartlett, Bethan J. Iley, Lisa Spitzer, Madeleine Pownall, Christopher J. Graham, Tobias Wingen, Jenny Terry, Catia Margarida F. Oliveira, Ryan A. Millager, Kerry J. Fox, Alaa AlDoh, Alexander Hart, Olmo R. van den Akker, Gilad Feldman, Dominik A. Kiersz, Christina Pomareda, Kai Krautter, Ali H. Al-Hoorie, Balazs Aczel</small> (2022):  
 **A community-sourced glossary of open scholarship terms**.  
 _Nature Human Behaviour_  
 <https://doi.org/10.1038/s41562-021-01269-4>
 [[preprint](https://forrt.org/publications/Parsons_Azevedo_Elsherif_FORRT_Glossary_Community_Sourced_Glossary_Open_Scholarship_Terms.pdf)]
 
-Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman; Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo; Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi, FAIR4RS WG (2022):  
+<small>Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman; Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo; Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi, FAIR4RS WG</small> (2022):  
 [**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf).  
 _Research Data Alliance_  
 <https://doi.org/10.15497/RDA00068>
@@ -382,6 +428,7 @@ Ebtisam Alharbi, Rigina Skeva, Nick Juty, Caroline Jay, Carole Goble (2021):
 _Data Intelligence_ **3**(4):507–-527  
 <https://doi.org/10.1162/dint_a_00109>
 
+<small>
 Anna-Lena Lamprecht, Magnus Palmblad, Jon Ison, Veit Schwämmle,
 Mohammad Sadnan Al Manir, Ilkay Altintas, Christopher J. O. Baker, Ammar Ben Hadj Amor, Salvador Capella-Gutierrez,
 Paulos Charonyktakis, Michael R. Crusoe,
@@ -390,7 +437,7 @@ Paul Groth, Hans Ienasescu, Pratik Jagtap,
 Matúš Kalaš, Vedran Kasalica, Alireza Khanteymoori,
 Tobias Kuhn, Hailiang Mei, Hervé Ménager, Steffen Möller, Robin A. Richardson,
 Vincent Robert, Stian Soiland-Reyes, Robert Stevens, Szoke Szaniszlo, 
-Suzan Verberne, Aswin Verhoeven, Katherine Wolstencroft (2021):  
+Suzan Verberne, Aswin Verhoeven, Katherine Wolstencroft</small> (2021):  
 [**Perspectives on automated composition of workflows in the life sciences**](https://doi.org/10.12688/f1000research.54159.1).  
 [version 1; peer review: 2 approved]  
 _F1000Research_ **10**:897  
@@ -704,11 +751,9 @@ _Ecography_ **39** pp 376–383
 <https://doi.org/10.1111/ecog.01552>
 
 Katherine Wolstencroft, Olga Krebs, Jacky L. Snoep, Natalie J. Stanford, Finn Bacall, Martin Golebiewski, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, David D. van Niekerk, Alan R. Williams, Lars Malmström, Bernd Rinn, Wolfgang Müller, Carole Goble (2016):  
-**FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**  
+[**FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**](https://research.manchester.ac.uk/files/345826277/gkw1032.pdf).  
 _Nucleic Acids Research_ **45**(D1) pp D404–D407.  
 <https://doi.org/10.1093/nar/gkw1032>
-[[pdf]](http://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full.pdf)
-[[html]](https://nar.oxfordjournals.org/content/early/2016/11/28/nar.gkw1032.full)
 
 
 Natalie Stanford, Finn Bacall, Martin Golebiewski, Olga Krebs, Rostyk Kuzyakiv, Quyen Nguyen, Stuart Owen, Stian Soiland-Reyes, Jakub Straszewski, {van Niekerk}, Dawie, Alan Williams, Katherine Wolstencroft, Lars Malmström, Bernd Rinn, Jacky Snoep, Wolfgang Müller, Carole Goble (2016):  
@@ -1037,12 +1082,11 @@ _Future Generation Computer Systems_, **36** pp 338-351.
 [[preprint]](http://oa.upm.es/21854/1/1-s2_0-S0167739X13001970-main.pdf)
 
 Carole Goble, David De Roure, Sean Bechhofer (2013):  
-**Accelerating Scientists’ Knowledge Turns**.  
+[**Accelerating Scientists’ Knowledge Turns**](https://research.manchester.ac.uk/en/publications/accelerating-scientists-knowledge-turnst).  
 Knowledge Discovery, Knowledge Engineering and Knowledge Management.  
 _Communications in Computer and Information Science_ **348**    
 <https://doi.org/10.1007/978-3-642-37186-8_1>
-[[preprint server]](http://ora.ox.ac.uk/objects/uuid%3A17de32c4-518f-4be6-bf78-1ecd6c761b81)
-[[preprint]](http://ora.ox.ac.uk/objects/uuid:17de32c4-518f-4be6-bf78-1ecd6c761b81/datastreams/ATTACHMENT01).
+[[preprint]](https://research.manchester.ac.uk/files/347524952/AcceleratingScientistsKnowledgeTurns.pdf).
 
 Khalid Belhajjame, Jun Zhao, Daniel Garijo, Aleix Garrido, Stian Soiland-Reyes, Pinar Alper, Oscar Corcho (2013):  
 [**A workflow PROV-corpus based on Taverna and Wings**](https://research.manchester.ac.uk/files/48049057/prov_bench_paper.pdf).  

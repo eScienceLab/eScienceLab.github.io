@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-The eScience Lab research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [Department of Computer Science](http://www.cs.manchester.ac.uk/),  [The University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](http://www.cs.manchester.ac.uk/img/).
+The eScience Lab research group is led by [Professor Carole Goble](http://www.manchester.ac.uk/research/Carole.goble/). The group is based at the [Department of Computer Science](http://www.cs.manchester.ac.uk/),  [The University of Manchester](http://www.manchester.ac.uk). It's affiliated with the wider [Information Management Group](https://www.cs.manchester.ac.uk/research/expertise/information-management/).
 
 The [eScience Lab team](/people/) are focused on the research and development of products and practices designed for data driven and computational research. The eScience  [tools](/products/) and techniques support the coming together of people, data and methods, the sharing of the research objects of science and the automation of analysis and data pipelines using computational workflows.
 
@@ -20,12 +20,12 @@ The [research](/publications/) by the eScience Lab spans a wide array of topics,
 community building. Lab members are leaders in international standards setting and community groups working on digital
 research infrastructure for science.
 
-The eScience Lab currently has guaranteed funding until 2028.
+The eScience Lab currently has guaranteed funding until Dec 2028.
 
 ## History
 
 In 2001, the [myGrid consortium](http://www.mygrid.org.uk/about-us/) was formed,
-bringing together collaborators at the Universities of Manchester, Southampton, Newcastle, Nottingham and Sheffield, The European Molecular Biology Laboratory-European Bioinformatics Institute ([EMBL-EBI](http://www.ebi.ac.uk/)) in Cambridge, and industrial partners GlaxoSmithKline, Merck KGaA, AstraZeneca, Sun Microsystems, IBM, GeneticXchange, Epistemics and Cerebra (formerly Network Inference). The UK [Engineering and Physical Sciences Research Council (EPSRC)](https://www.epsrc.ac.uk/) funded the first phase of the project with £3.5 million.
+bringing together collaborators at the Universities of Manchester, Southampton, Newcastle, Nottingham and Sheffield, The European Molecular Biology Laboratory-European Bioinformatics Institute ([EMBL-EBI](http://www.ebi.ac.uk/)) in Cambridge, and industrial partners GlaxoSmithKline, Merck KGaA, AstraZeneca, Sun Microsystems, IBM, GeneticXchange, Epistemics and Cerebra (formerly Network Inference). The UK [Engineering and Physical Sciences Research Council (EPSRC)](https://www.epsrc.ac.uk/) funded the first phase of the project with £3.5 million ([GR/R67743/01](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=GR/R67743/01)).
 
 In phase 2, from 2006 to 2009, the consortium was funded for £2 million as part of the Open Middleware Infrastructure Institute ([OMII-UK](http://www.omii.ac.uk/)) funded by EPSRC  ([EP/D076617/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D076617/1)), in addition to an EPSRC platform grant ([EP/C536444/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/C536444/1)). The membership of the consortium was concentrated at the University of Manchester and EMBL-EBI.
 

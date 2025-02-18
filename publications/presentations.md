@@ -9,6 +9,10 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 
 ## 2024
 
+* Stian Soiland-Reyes, Carole Goble (2024): [WorkflowHub cloud integration in ELIXIR](https://doi.org/10.5281/zenodo.11654943), ELIXIR All Hands Meeting 2024 ([AHM2024](https://elixir-events.eventscase.com/EN/ahm2024/Agenda)), Uppsala, Sweden, 2024-06-12
+* Tim Beck, Stian Soiland-Reyes (2024): [Potential of ELIXIR cloud methods in EOSC-ENTRUST and HDR UK](https://doi.org/10.5281/zenodo.11654733),  ELIXIR All Hands Meeting 2024 ([AHM2024](https://elixir-events.eventscase.com/EN/ahm2024/Agenda)), Uppsala, Sweden, 2024-06-12
+* Phil Reed, Munazah Andrabi (2024): [FAIRDOM-SEEK user documentation and guidelines](https://doi.org/10.5281/zenodo.12166463), FAIRDOM User Meeting, 2024-06-05
+* Stian Soiland-Reyes, Meznah Aloqalaa (2024): [BioCompute Object, Provenance Models and FAIR Computational Workflows](https://doi.org/10.5281/zenodo.11164920), Washington DC.  [[video](https://youtu.be/YmEgLdXl6XM)]
 * Leyla Jael Castro, Stian Soiland-Reyes, Jonas Grieb, Claus Weiland (2024): [Practical web-based FDOs with RO-Crate and FAIR Signposting](https://doi.org/10.5281/zenodo.10892090), [International FAIR Digital Objects Implementation Summit 2024](https://fairdo.org/fdof-summit-2024/), Berlin
 * Stian Soiland-Reyes, Herbert Van de Sompel (2024): [Signposting and RO-Crate: experiences and lessons learned](https://doi.org/10.5281/zenodo.10847062), [International FAIR Digital Objects Implementation Summit 2024](https://fairdo.org/fdof-summit-2024/), Berlin
 * Carole Goble et al (2024): [RO-Crate, FAIR Signposting and Bioschemas](https://doi.org/10.5281/zenodo.10555381), Lorentz Symposium: The Road to FAIR and Equitable Science, Leiden, The Netherlands. 

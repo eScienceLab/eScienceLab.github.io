@@ -21,6 +21,26 @@ _1st Conference on Research Data Infrastructure_ (CoRDI 2023), 2023-09-12/--14, 
 <https://doi.org/10.5281/zenodo.8348924>
 
 
+Xènia Pérez-Sitjà1, Robert Andrews, Sara Khalil, Branka Franicevic, Catherine Knox, Munazah Andrabi, Shoaib Sufi, Susanna-Asunta Sansone, Carole Goble, Krzysztof Poterlowicz (2023):  
+[**ELIXIR-UK data stewardship fellowship programme**](https://doi.org/10.7490/f1000research.1119384.1).  
+_F1000Research_ **12**(ELIXIR):263 (poster)  
+<https://doi.org/10.7490/f1000research.1119384.1>
+
+Katarzyna Kamieniecka, Xènia Pérez Sitjà1, Emily Delva, Catherine Knox, Munazah Andrabi, Nick Juty, Shoaib Sufi, Susanna-Assunta Sansone, Carole Goble, Robert Andrews, Krzysztof Poterlowicz (2023):  
+[**Two years of the ELIXIR-UK Fellowship**(https://doi.org/10.7490/f1000research.1119442.1).  
+_F1000Research_ **12**(ELIXIR):586 (poster)  
+<https://doi.org/10.7490/f1000research.1119442.1>
+
+Hans Ienasescu, Salvador Capella-Gutiérrez, Frederik Coppens, José Mª Fernández1, Alban Gaignard, Carole Goble, Björn Grüning, Johan Gustafsson, Josep Ll. Gelpí, Jennifer Harrow, Steven Manos, Kota Miura, Steffen Möller, Stuart Owen, Perrine Paul-Gilloteaux, Hedi Peterson, Manthos Pithoulias, Jonathan Tedds, Dmitri Repchevsky, Federico Zambelli, Oleg Zharkov, Matúš Kalaš, Hervé Ménager (2023):  
+[**The ELIXIR research software ecosystem**](https://doi.org/10.7490/f1000research.1119595.1).  
+_F1000Research_ **12**:1026 (poster)  
+<https://doi.org/10.7490/f1000research.1119595.1>
+
+Carole Goble, Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Ignacio Eguinoa, Bert Droesbeke, Hervé Ménager, Laura Rodriguez-Navas, José M. Fernández, Salvador Capella-Gutierrez, Michael R. Crusoe, Björn Grüning, Simone Leo, Luca Pireddu, Marco Enrico Piras, Johan Gustafsson, Phil Ewels, WorkflowHub Community, Frederik Coppens (2023):  
+[**WorkflowHub – a fair registry for workflows**](https://doi.org/10.7490/f1000research.1119430.1).  
+_F100Research_ **12**(ELIXIR):571 (poster)  
+<https://doi.org/10.7490/f1000research.1119430.1>
+
 
 ## 2022
 
@@ -42,6 +62,16 @@ _1st International Conference on FAIR Digital Objects ([FDO 2022](https://www.fd
 <https://doi.org/10.5281/zenodo.7257146>  
 [[abstract](https://doi.org/10.3897/rio.8.e95164)]
 
+Xènia Pérez Sitjà, Robert Andrews, Sara Morsy, Branka Franicevic, Catherine Knox, Munazah Andrabi, Shoaib Sufi, Susanna-Assunta Sansone, Carole Goble, ELIXIR-UK, Krzysztof Poterlowicz (2022):  
+[**ELIXIR-UK DaSH: A Fellowship of data stewards**](https://doi.org/10.7490/f1000research.1118965.1).  
+_F1000Research_ **11**(ELIXIR):587 (poster)  
+<https://doi.org/10.7490/f1000research.1118965.1>
+
+Carole Goble1, Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Alan Williams, Ignacio Eguinoa, Bert Droesbeke, Hervé Ménager, Laura Rodríguez Navas, José María Fernández, Salvador Capella-Gutierrez, Michael R. Crusoe, Björn Grüning, Simone Leo, Luca Pireddu, Johan Gustafsson, Phil Ewels, WorkflowHub Community, Frederik Coppens2 
+[**WorkflowHub – a FAIR registry for workflows**](https://doi.org/10.7490/f1000research.1118984.1).  
+_F1000Research_ **11**(ELIXIR):670 (poster)  
+<https://doi.org/10.7490/f1000research.1118984.1>
+
 
 ## 2020
 
@@ -51,6 +81,10 @@ _Provenance Week 2020_
 <https://doi.org/10.5281/zenodo.5074819>  
 [[abstract](https://doi.org/10.1007/978-3-030-80960-7_16)]
 
+Ulrike Wittig, Stuart Owen, Olga Krebs, Martin Golebiewski, Maja Rey, Alan Williams, Finn Bacall, Xiaoming Hu, Ina Pöhner, Munazah Andrabi, Jacky Snoep, Fatemeh Zamanzad Ghavidel, Rune Kleppe, Kjell Petersen, Kidane Tekle, Jon Olav Vik, Inge Jonassen, Andrew Millar, Flora D'Anna, Vahid Kiani, Anders Goksøyr, Katy Wolstencroft, Frederik Coppens, Carole Goble, Wolfgang Müller (2020):  
+[**FAIRDOM: supporting FAIR data and model management**](https://doi.org/10.7490/f1000research.1117985.1).
+_F1000Research_ **9**(ELIXIR):550 (poster)  
+<https://doi.org/10.7490/f1000research.1117985.1>
 
 ## 2019
 
