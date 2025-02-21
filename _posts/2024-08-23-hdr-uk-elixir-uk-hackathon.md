@@ -2,7 +2,7 @@
 layout: post
 title: "HDR UK and ELIXIR-UK to host first joint hackathon"
 date: 2024-08-23
-categories: announcements elixir
+categories: announcements elixir hdr
 ---
 
 HDR UK and ELIXIR-UK are set to host their first joint hackathon. This in-person event will bring together professionals across the UK to collaborate on innovative solutions to shared technical challenges in the health data and life sciences sectors.
