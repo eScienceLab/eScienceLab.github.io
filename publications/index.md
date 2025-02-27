@@ -39,6 +39,14 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+## 2025
+
+Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2024):  
+[**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.1038/s41597-025-04451-9).  
+_Scientific Data_ **12**:328
+https://doi.org/10.1038/s41597-025-04451-9
+
+
 ## 2024
 
 Chris Orton, Lara Edwards, David Seymour, Monica Jones, Philip Quinlan, Simon Thompson, Carole Goble, Jennifer Quint, Aziz Sheikh (2024):  
@@ -57,11 +65,6 @@ Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes
 [**WorkflowHub: a registry for computational workflows**](https://doi.org/10.48550/arXiv.2410.06941).  
 _arXiv_:2410.06941 [cs.DL]  
 <https://doi.org/10.48550/arXiv.2410.06941>
-
-Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2024):  
-[**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.48550/arXiv.2410.03490).  
-_arXiv_ 2410.03490 [cs.DL]  
-<https://doi.org/10.48550/arXiv.2410.03490>
 
 Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
 [**Recording provenance of workflow runs with RO-Crate**](https://doi.org/10.1371/journal.pone.0309210).  
