@@ -7,8 +7,15 @@ This is a infrequently updated (and incomplete) list of presentation made by the
 
 Recent presentations are uploaded to the [eScience Lab Zenodo Community](https://zenodo.org/communities/esciencelab/records)
 
-## 2024
+## 2025
+* Phil Reed (2025): [mTeSS-X: Scaling training portal federation for RIs through Multi-tenanting and Exchange](https://doi.org/10.5281/zenodo.14987387), Research Data in the Physical Sciences: A Forum for Librarians and Research Support Professionals, 2025-03-06
+* Phil Reed (2025): [ELIXIR and the Physical Sciences: shared tools and services](https://doi.org/10.5281/zenodo.14987487), Research Data in the Physical Sciences: A Forum for Librarians and Research Support Professionals, 2025-03-05
+* Nick Juty, Phil Reed (2025): [Formalising mappings from mayhem](https://doi.org/10.5281/zenodo.14866675), FAIRfest, 2025-02-13
 
+## 2024
+* Phil Reed (2024): [UK activity at CarpentryConnect Heidelberg 2024](https://doi.org/10.5281/zenodo.14552420), UK Carpentries monthly call, 2024-12-17
+* Stian Soiland-Reyes (2024): [RO-Crate and BioDT](https://doi.org/10.5281/zenodo.14036224), BioDT Cross-work package meeting, 2024-11-04 
+* Stian Soiland-Reyes (2024): [RO-Crate in EOSC-ENTRUST architecture](https://doi.org/10.5281/zenodo.13909153), EOSC-ENTRUST Architecture work package, 2024-10-07
 * Stian Soiland-Reyes, Carole Goble (2024): [WorkflowHub cloud integration in ELIXIR](https://doi.org/10.5281/zenodo.11654943), ELIXIR All Hands Meeting 2024 ([AHM2024](https://elixir-events.eventscase.com/EN/ahm2024/Agenda)), Uppsala, Sweden, 2024-06-12
 * Tim Beck, Stian Soiland-Reyes (2024): [Potential of ELIXIR cloud methods in EOSC-ENTRUST and HDR UK](https://doi.org/10.5281/zenodo.11654733),  ELIXIR All Hands Meeting 2024 ([AHM2024](https://elixir-events.eventscase.com/EN/ahm2024/Agenda)), Uppsala, Sweden, 2024-06-12
 * Phil Reed, Munazah Andrabi (2024): [FAIRDOM-SEEK user documentation and guidelines](https://doi.org/10.5281/zenodo.12166463), FAIRDOM User Meeting, 2024-06-05

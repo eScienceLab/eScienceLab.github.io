@@ -41,13 +41,23 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
-Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2024):  
+Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2025):  
 [**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.1038/s41597-025-04451-9).  
-_Scientific Data_ **12**:328
-https://doi.org/10.1038/s41597-025-04451-9
+_Scientific Data_ **12**:328  
+<https://doi.org/10.1038/s41597-025-04451-9>
 
+
+Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2025):  
+[**COVID-19: An exploration of consecutive systemic barriers to pathogen-related data sharing during a pandemic**](https://doi.org/10.1017/dap.2024.79).  
+_Data & Policy_ **7**:e4  
+<https://doi.org/10.1017/dap.2024.79>
 
 ## 2024
+
+Yojana Gadiya, Tooba Abbassi-Daloii, Vassilios Ioannidis, Nick Juty, Claus Stie Kallesøe, Marie Attwood, Manfred Kohler, Philip Gribbon, Gesa Witt (2024):  
+**From spreadsheet lab data templates to knowledge graphs**: A FAIR data journey in the domain of AMR research.  
+_bioRxiv_  
+<https://doi.org/10.1101/2024.07.18.604030>
 
 Chris Orton, Lara Edwards, David Seymour, Monica Jones, Philip Quinlan, Simon Thompson, Carole Goble, Jennifer Quint, Aziz Sheikh (2024):  
 [**Data as infrastructure**: Systematic data curation addressing fundamental data content differences across the UK](https://doi.org/10.23889/ijpds.v9i5.2683).  
@@ -331,11 +341,6 @@ Ebtisam Alharbi, Yojana Gadiya, David Henderson, Andrea Zaliani, Alejandra Delfi
 [**Selection of data sets for FAIRification in drug discovery and development: Which, why, and how?**](https://doi.org/10.1016/j.drudis.2022.05.010).  
 _Drug Discovery Today_ **27**(8)  
 <https://doi.org/10.1016/j.drudis.2022.05.010>
-
-Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2022):  
-[**COVID-19: An exploration of consecutive systemic barriers to pathogen-related data sharing during a pandemic**](https://arxiv.org/pdf/2205.12098).  
-_arXiv_ 2205.12098 [cs.CY] (preprint)  
-<https://doi.org/10.48550/arXiv.2205.12098>
 
 Rachel Lyne, Adrián Bazaga, Daniela Butano, Sergio Contrino, Joshua Heimbach, Fengyuan Hu, Alexis Kalderimis, Mike Lyne, Kevin Reierskog, Radek Stepan, Julie Sullivan, Archie Wise, Yo Yehudi, Gos Micklem (2022):  
 [**HumanMine: advanced data searching, analysis and cross-species comparison**](https://doi.org/10.1101/2022.05.11.491545).  
