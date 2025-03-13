@@ -52,4 +52,8 @@ DARE UK Interim Director, Professor Emily Jefferson, said:
 
 The TREvolution team will work closely with the DARE UK Delivery Team and *early adopter* TREs, fostering stronger collaboration and synergy as these critical capabilities are integrated into the UK’s secure data research infrastructure ecosystem.
 
+---
+
+_This press release has been syndicated from [DARE UK](https://dareuk.org.uk/news-and-events/new-6-2-million-programme-to-build-and-test-new-capabilities-for-sensitive-data-research/) and [University of Manchester newsroom](https://www.manchester.ac.uk/about/news/)._
+
 
