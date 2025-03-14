@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Collaborations made at FAIRDOM mini hacakathon"
+title:  "Collaborations made at FAIRDOM mini hackathon"
 date:   2025-03-14 15:30:00 +0100
 categories: announcements projects
 ---
