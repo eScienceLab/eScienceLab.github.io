@@ -5,10 +5,6 @@ date:   2025-03-14 15:30:00 +0100
 categories: announcements projects
 ---
 
----
-title: "Connections made at FAIRDOM Mini Hackathon"
----
-
 ![Fairground image](/images/posts_images/fairground-bluegrey-wide.png)
 
 In a change to the usual FAIRDOM User Meeting format, we hosted the first FAIRDOM Mini Hackathon on 20 Februrary 2025. Users, developers, leaders and advocates from seven institutions in five countries created an opportunity to collaborate, discuss and progress a range of matters and features which will be of benefit to the wider FAIRDOM-SEEK community. We also welcomed those interested in learning more about FAIRDOM-SEEK and how it could benefit their work.
