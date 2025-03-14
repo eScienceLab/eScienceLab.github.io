@@ -11,7 +11,7 @@ _New £6.2 million programme to build and test new capabilities for sensitive da
 
 ![TREvolution logo](/images/logo/trevolution.png)
 
-The University of Manchester will collaborate on a new £6.2 million programme, TREvolution, to advance the development of key technical requirements and capabilities for UK [Trusted Research Environments](https://www.researchdata.scot/accessing-data/information-for-researchers/tres-and-data-access/) are highly secure,and work on approved projects of public benefit.) (TREs).
+The University of Manchester will collaborate on a new £6.2 million programme, TREvolution, to advance the development of key technical requirements and capabilities for UK [Trusted Research Environments](https://www.researchdata.scot/accessing-data/information-for-researchers/tres-and-data-access/) (TREs).
 
 The programme will be jointly led by five leading research institutions in the UK: the Universities of Nottingham, Dundee, Manchester, Swansea and West of England, and will address challenges associated with enhancing data access and analysis within **Trusted Research Environments** (TRE)  – secure environments where approved researchers can access sensitive data for research to benefit the public, such as national public health and population-level surveys
 
