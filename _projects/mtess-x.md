@@ -5,7 +5,7 @@ title: mTeSS-X
 path: mtess-x
 collection: projects
 description: Scaling training portal federation for RIs through Multi-tenanting and Exchange
-website: https://tess.elixir-europe.org/
+website: https://elixirtess.github.io/mTeSS-X/
 start_date: 2024-10-01
 end_date: 2026-09-30
 duration: 24 months
