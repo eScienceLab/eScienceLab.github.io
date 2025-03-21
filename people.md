@@ -33,7 +33,7 @@ staff:
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
-  role: Senior Research Technical Manager
+  role: Project Portfolio Manager
 - name: Douglas Lowe
   orcid: 0000-0002-1248-3594
   role: Senior Research Software Engineer
