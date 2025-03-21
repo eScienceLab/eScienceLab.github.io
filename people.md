@@ -30,14 +30,6 @@ staff:
   orcid: 0000-0002-0035-6475
   img: eli-chadwick.jpg
   role: Senior Research Software Engineer
-- name: Francisco Herrerías-Azcué
-  orcid: 0000-0002-5906-221X
-  role: Research IT Software Engineer
-  img: franciscio_herreriasazcue.jpeg
-- name: Lukas Hughes-Noehrer
-  orcid: 0000-0002-9167-0397
-  role: Research Associate
-  img: LNwebres.jpg  
 - name: Nick Juty
   orcid: 0000-0002-2036-8350
   img: nick-juty-sm.jpg
@@ -73,10 +65,6 @@ staff:
 
 
 phd:
-- name: Yo Yehudi
-  orcid: 0000-0003-2705-1724
-  img: yo-yehudi-sm.jpg
-  role: EngD student  
 - name: Meznah Aloqalaa
   role: PhD Student
   img: meznah-sm.jpg
@@ -100,13 +88,24 @@ associate:
 - name: Caroline Jay
   orcid: 0000-0002-6080-1382
   img: caroline-jay-sm.jpg
+- name: Francisco Herrerías-Azcué
+  orcid: 0000-0002-5906-221X
+  role: Research IT Software Engineer
+  img: franciscio_herreriasazcue.jpeg
 - name: Fuqi Xu
   orcid: 0000-0002-5923-3859
   role: PhD student
-  img: no-photo.png  
+  img: no-photo.png
 - name: Jasper Koehorst
   orcid: 0000-0001-8172-8981
   img: jasper.jpg
+- name: Katy Wolstencroft
+  orcid: 0000-0002-1279-5133
+  img: katy-wolstencroft-sm.jpg
+- name: Lukas Hughes-Noehrer
+  orcid: 0000-0002-9167-0397
+  role: Research Associate
+  img: LNwebres.jpg  
 - name: Paolo Missier
   orcid: 0000-0002-0978-2446
   img: paolo-missier-sm.jpg
@@ -120,9 +119,10 @@ associate:
 - name: Rudolf Wittner
   img: no-photo.png
   orcid: 0000-0002-0003-2024
-- name: Katy Wolstencroft
-  orcid: 0000-0002-1279-5133
-  img: katy-wolstencroft-sm.jpg
+- name: Yo Yehudi
+  orcid: 0000-0003-2705-1724
+  img: yo-yehudi-sm.jpg
+  role: EngD student  
 
 former:
 - name: Rachael Ainsworth
