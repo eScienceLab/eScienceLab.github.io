@@ -62,6 +62,13 @@ staff:
   orcid: 0000-0002-4565-9760
   img: oliver.jpeg  
   role: Research IT Software Engineer
+- name: Warren Del-Pinto
+  orcid: 0000-0003-3307-9432
+  img: no-photo.png
+  role: Research Associate
+- name: Michael Sparks
+  img: no-photo.png
+  role: Senior Research Software Engineer
 
 
 phd:
@@ -71,6 +78,7 @@ phd:
   orcid: 0000-0002-1382-3896
 - name: Aravindhan Rajasekar
   role: PhD student
+  img: no-photo.png
 
 associate:
 - name: Andy M. Brass
