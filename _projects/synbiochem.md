@@ -6,7 +6,7 @@ path: synbiochem.html
 collection: projects
 description: Manchester Synthetic Biology Research Centre for Fine and Specialty Chemicals
 logo: synbiochem.png
-website: https://synbiochem.co.uk/
+website: https://web.archive.org/web/20240911054349/https://synbiochem.co.uk/contact/
 start_date: 2015-06-11
 expired: true
 duration: 60 months
