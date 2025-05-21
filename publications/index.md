@@ -41,21 +41,48 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
+Nasir U. Eisty, Jeffrey C. Carver, Johanna Cohoon, Ian A. Cosden, Carole Goble, Samuel Grayson (2025):  
+**Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software Engineering Researchers**.  
+_Computing in Science & Engineering_  
+<https://doi.org/10.1109/MCSE.2025.3569786>
+(no preprint yet)
+
+Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2025):  
+[**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://www.tib-op.org/ojs/index.php/ocp/article/view/1273/2568).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1273>
+
+Stian Soiland-Reyes, Stuart Wheater, Thomas Giles, Jonathan Couldridge, Phil Quinlan, Carole Goble (2025):  
+[**Five Safes RO-Crate: FAIR Digital Objects for Trusted Research Environments**](https://doi.org/10.52825/ocp.v5i.1419).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1419>
+
 Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2025):  
 [**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.1038/s41597-025-04451-9).  
 _Scientific Data_ **12**:328  
 <https://doi.org/10.1038/s41597-025-04451-9>
-
 
 Yo Yehudi, Lukas Hughes-Noehrer, Carole Goble, Caroline Jay (2025):  
 [**COVID-19: An exploration of consecutive systemic barriers to pathogen-related data sharing during a pandemic**](https://doi.org/10.1017/dap.2024.79).  
 _Data & Policy_ **7**:e4  
 <https://doi.org/10.1017/dap.2024.79>
 
+Michelle Amugi, Rob Baxter, Christian Cole, Carole Goble, Emily Jefferson, Fergus McDonald, Andrew Morris, Philip Quinlan, David Seymour, Jim Smith, Balint Stewart, Simon G. Thompson (2025):  
+[**A Federated Architecture for a National Data Library**](https://doi.org/10.5281/zenodo.14672004).  
+_Wellcome Trust_ (report) / DARE UK    
+<https://doi.org/10.5281/zenodo.14672004>
+
 ## 2024
 
+Meznah Aloqalaa, Stian Soiland-Reyes, Carole Goble (2024):  
+[**Systematically Examining Reproducibility**: A Case Study for High Throughput Sequencing using the PRIMAD Model and BioCompute Object](https://arxiv.org/pdf/2412.07502).  
+_arXiv_:2412.07502 \[cs.CE\]  
+<https://doi.org/10.48550/arXiv.2412.07502>
+
 Yojana Gadiya, Tooba Abbassi-Daloii, Vassilios Ioannidis, Nick Juty, Claus Stie Kallesøe, Marie Attwood, Manfred Kohler, Philip Gribbon, Gesa Witt (2024):  
-**From spreadsheet lab data templates to knowledge graphs**: A FAIR data journey in the domain of AMR research.  
+[**From spreadsheet lab data templates to knowledge graphs**: A FAIR data journey in the domain of AMR research](https://www.biorxiv.org/content/10.1101/2024.07.18.604030v2.full.pdf).  
 _bioRxiv_  
 <https://doi.org/10.1101/2024.07.18.604030>
 
@@ -96,26 +123,16 @@ Flora D'Anna, Niclas Jareborg, Mijke Jetten, Minna Ahokas, Pinar Alper, Robert A
 _F1000Research_ **13**(ELIXIR):230  
 <https://doi.org/10.12688/f1000research.146301.2>
 
-Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2024):  
-[**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://s11.no/2024/webby-fdos/).  
-_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
-_Open Conference Proceedings_   (submitted)  
-<https://s11.no/2024/webby-fdos/>
-
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, RO-Crate community (2024):  
 [**RO-Crate community update 2024**](https://research.manchester.ac.uk/files/291196011/FDO2024_RO-Crate_update.pdf).  
 (submitted)  
 <https://research.manchester.ac.uk/en/publications/ro-crate-community-update-2024>
 
-Stian Soiland-Reyes, Stuart Wheater, Tom Giles, Carole Goble, Phil Quinlan (2024):  
-[**Five Safes RO-Crate: FAIR Digital Objects for Trusted Research Environments**](https://research.manchester.ac.uk/files/291224791/FDO2024-Goble-Lightningtalk-5scrate.pdf).  
-(submitted)  
-<https://research.manchester.ac.uk/en/publications/five-safes-ro-crate-fair-digital-objects-for-trusted-research-env>
-
 Herbert Van de Sompel, Stian Soiland-Reyes (2024):  
 [**FAIR Signposting: Exposing the Topology of Digital Objects on the Web**](https://research.manchester.ac.uk/files/291196221/FAIR_Signposting_for_FDO2024.pdf).  
-(submitted)  
-<https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the->
+_Open Repositories Conference_ (OR 2024), Göteborg, Sweden, 2024-06-03/–06  
+<https://research.manchester.ac.uk/en/publications/fair-signposting-exposing-the-topology-of-digital-objects-on-the->  
+<https://doi.org/10.5281/zenodo.12579432>
 
 Peter Sefton, Stian Soiland-Reyes (2024):  
 [**Five ways RO-Crate data packages are important for repositories**](https://research.manchester.ac.uk/files/291301172/RO-Crate-OR2024_presentation.pdf).  
@@ -387,7 +404,7 @@ _Nature Human Behaviour_
 <https://doi.org/10.1038/s41562-021-01269-4>
 [[preprint](https://forrt.org/publications/Parsons_Azevedo_Elsherif_FORRT_Glossary_Community_Sourced_Glossary_Open_Scholarship_Terms.pdf)]
 
-<small>Neil P. Chue Hong, Daniel S. Katz, Michelle Barker; Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman; Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo; Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi, FAIR4RS WG</small> (2022):  
+<small>Neil P. Chue Hong, Daniel S. Katz, Michelle Barker, Anna-Lena Lamprecht, Carlos Martinez, Fotis E. Psomopoulos, Jen Harrow, Leyla Jael Castro, Morane Gruenpeter, Paula Andrea Martinez, Tom Honeyman, Alexander Struck, Allen Lee, Axel Loewe, Ben van Werkhoven, Catherine Jones, Daniel Garijo, Esther Plomp, Francoise Genova, Hugh Shanahan, Joanna Leng, Maggie Hellström, Malin Sandström, Manodeep Sinha, Mateusz Kuzak, Patricia Herterich, Qian Zhang, Sharif Islam, Susanna-Assunta Sansone, Tom Pollard, Udayanto Dwi Atmojo, Alan Williams, Andreas Czerniak, Anna Niehues, Anne Claire Fouilloux, Bala Desinghu, Carole Goble, Céline Richard, Charles Gray, Chris Erdmann, Daniel Nüst, Daniele Tartarini, Elena Ranguelova, Hartwig Anzt, Ilian Todorov, James McNally, Javier Moldon, Jessica Burnett, Julián Garrido-Sánchez, Khalid Belhajjame, Laurents Sesink, Lorraine Hwang, Marcos Roberto Tovani-Palone, Mark D. Wilkinson, Mathieu Servillat, Matthias Liffers, Merc Fox, Nadica Miljković, Nick Lynch, Paula Martinez Lavanchy, Sandra Gesing, Sarah Stevens, Sergio Martinez Cuesta, Silvio Peroni, Stian Soiland-Reyes, Tom Bakker, Tovo Rabemanantsoa, Vanessa Sochat, Yo Yehudi, FAIR4RS WG</small> (2022):  
 [**FAIR Principles for Research Software version 1.0 (FAIR4RS Principles v1.0)**](https://www.rd-alliance.org/system/files/FAIR4RS%20principles%20v1.0.pdf).  
 _Research Data Alliance_  
 <https://doi.org/10.15497/RDA00068>
@@ -705,7 +722,7 @@ Lee Larcombe, Rita Hendricusdottir, Teresa K. Attwood, Finn Bacall, Niall Beard,
 _F1000Research_ **6**:952  
 [https://doi.org/10.12688/f1000research.11837.1](https://doi.org/10.12688/f1000research.11837.1)
 
-Steffen Möller, Stuart W. Prescott, Lars Wirzenius; Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stian Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017):  
+Steffen Möller, Stuart W. Prescott, Lars Wirzenius, Petter Reinholdtsen, Brad Chapman, Pjotr Prins, Stian Soiland-Reyes, Fabian Klötzl, Andrea Bagnacani, Matúš Kalaš, Andreas Tille, Michael R. Crusoe (2017):  
 [**Robust cross-platform workflows: how technical and scientific communities collaborate to develop, test and share best practices for data analysis.**](https://doi.org/10.1007/s41019-017-0050-4).  
 _Data Science and Engineering_ **2**:232 pp 232–244.  
 [https://doi.org/10.1007/s41019-017-0050-4](https://doi.org/10.1007/s41019-017-0050-4)
@@ -919,7 +936,7 @@ _CEUR Workshop Proeedings_ **1272**:33
 
 Cherian Mathew, Anton Güntsch, Matthias Obst, Saverio Vicario, Robert Haines, Alan R. Williams, Yde de Jong, Carole Goble (2014):  
 **A semi-automated workflow for biodiversity data retrieval, cleaning, and quality control**.  
-_Biodiversity Data Journal 12/2014_; **2**:e4221  
+_Biodiversity Data Journal 12/2014_ **2**:e4221  
 <https://doi.org/10.3897/BDJ.2.e4221>
 
 Paul Groth, Antonis Loizou, Alasdair J.G. Gray, Carole Goble, Lee Harland, Steve Pettifer (2014):  
@@ -1126,7 +1143,7 @@ _Journal of Biomedical Semantics_ **5**:28
 
 Christian Y A Brenninkmeijer, Ian Dunlop, Carole Goble, Alasdair J G Gray, Steve Pettifer, Robert Stevens (2013):  
 [**Computing Identity Co-Reference Across Drug Discovery Datasets**](http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf).  
-_Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)_; 
+_Proceedings of the 6th International Workshop on Semantic Web Applications and Tools for Life Sciences (SWAT4LS)   
 _CEUR Workshop Proeedings_ **1114**:4  
 <http://ceur-ws.org/Vol-1114/Session4_Brenninkmeijer.pdf>
 
