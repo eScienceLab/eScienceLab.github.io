@@ -41,11 +41,16 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
+Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
+[**WorkflowHub: a registry for computational workflows**.  
+_Scientific Data_ **12**:837  
+<https://doi.org/10.1038/s41597-025-04786-3>
+
 Nasir U. Eisty, Jeffrey C. Carver, Johanna Cohoon, Ian A. Cosden, Carole Goble, Samuel Grayson (2025):  
-**Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software Engineering Researchers**.  
+[**Ten Simple Rules for Catalyzing Collaborations and Building Bridges between Research Software Engineers and Software Engineering Researchers**](https://research.manchester.ac.uk/files/808294586/CISESI-2024-12-0200-accepted.pdf).  
 _Computing in Science & Engineering_  
 <https://doi.org/10.1109/MCSE.2025.3569786>
-(no preprint yet)
+[[preprint](https://research.manchester.ac.uk/en/publications/ten-simple-rules-for-catalyzing-collaborations-and-building-bridg)]
 
 Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2025):  
 [**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://www.tib-op.org/ojs/index.php/ocp/article/view/1273/2568).  
@@ -97,11 +102,6 @@ _International Journal of Population Data Science_ **9**(5)
 _Oak Ridge National Laboratory_ Technical Report ORNL/TM−2024/3573  
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.13844759>
-
-Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2024):  
-[**WorkflowHub: a registry for computational workflows**](https://doi.org/10.48550/arXiv.2410.06941).  
-_arXiv_:2410.06941 [cs.DL]  
-<https://doi.org/10.48550/arXiv.2410.06941>
 
 Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
 [**Recording provenance of workflow runs with RO-Crate**](https://doi.org/10.1371/journal.pone.0309210).  
