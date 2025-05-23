@@ -42,7 +42,7 @@ which is particularly useful for long author lists or long titles.
 ## 2025
 
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
-[**WorkflowHub: a registry for computational workflows**](https://doi.org/10.1038/s41597-025-04786-3).  
+[**WorkflowHub: a registry for computational workflows**](https://research.manchester.ac.uk/files/808300570/s41597-025-04786-3.pdf).  
 _Scientific Data_ **12**:837  
 <https://doi.org/10.1038/s41597-025-04786-3>
 
@@ -136,8 +136,9 @@ _Open Repositories Conference_ (OR 2024), Göteborg, Sweden, 2024-06-03/–06
 
 Peter Sefton, Stian Soiland-Reyes (2024):  
 [**Five ways RO-Crate data packages are important for repositories**](https://research.manchester.ac.uk/files/291301172/RO-Crate-OR2024_presentation.pdf).  
-(submitted)  
-<https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>
+_Open Repositories Conference_ (OR 2024), Göteborg, Sweden, 2024-06-03/–06 
+<https://research.manchester.ac.uk/en/publications/five-ways-ro-crate-data-packages-are-important-for-repositories>  
+<https://doi.org/10.5281/zenodo.12579432>
 
 Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
 [BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://s11.no/2024/enabling-fair-digital-objects/).  
