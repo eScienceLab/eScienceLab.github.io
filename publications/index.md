@@ -42,7 +42,7 @@ which is particularly useful for long author lists or long titles.
 ## 2025
 
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
-[**WorkflowHub: a registry for computational workflows**.  
+[**WorkflowHub: a registry for computational workflows**](https://doi.org/10.1038/s41597-025-04786-3).  
 _Scientific Data_ **12**:837  
 <https://doi.org/10.1038/s41597-025-04786-3>
 
