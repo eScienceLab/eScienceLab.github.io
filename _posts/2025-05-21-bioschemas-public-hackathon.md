@@ -7,7 +7,7 @@ categories: hackathon bioschemas
 
 [![Bioschemas](https://esciencelab.org.uk/images/logo/bioschemas.svg)](https://esciencelab.org.uk/activities/bioschemas/)
 
-This hackathon is organized in collaboration with Nick Juty and Phil Reed from the eScience Lab, [University of Manchester](https://www.manchester.ac.uk/), Helena Schnitzer from [Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en), [de.NBI](https://www.denbi.de/), Ginger Tsueng from the [Su Lab](https://sulab.org/), and Alban Gaignard from the [University of Nantes](https://www.univ-nantes.fr/).
+This hackathon is organized by Leyla Jael Castro, [NFDI4DS and ZB MED](https://zbmed-semtec.github.io/nfdi4ds-hackathons/docs/2025.html#bioschemas-hackathon) in collaboration with Nick Juty and Phil Reed from the eScience Lab, [University of Manchester](https://www.manchester.ac.uk/), Helena Schnitzer from [Forschungszentrum Jülich GmbH](https://www.fz-juelich.de/en), [de.NBI](https://www.denbi.de/), Ginger Tsueng from the [Su Lab](https://sulab.org/), and Alban Gaignard from the [University of Nantes](https://www.univ-nantes.fr/).
 
 - When: 25 to 27 June 2025 from noon to noon (CEST)
 - Where: ZB MED in Cologne, Germany
