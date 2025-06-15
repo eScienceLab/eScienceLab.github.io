@@ -6,6 +6,44 @@ exclude_from_nav: true
 
 This is a infrequently updated (and incomplete) list of posters made by the [eScience lab team](../people.md).
 
+## 2025
+
+Eli Chadwick, Stian Soiland-Reyes, José María Fernández, Björn Grüning, Carole Goble (2025):  
+[**RO-Crate – Capturing FAIR research outputs throughout the ELIXIR landscape**](https://doi.org/10.7490/f1000research.1120199.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):543 (poster)  
+<https://doi.org/10.7490/f1000research.1120199.1>
+
+Paula Iborra, José M. Fernández, Laia Codó, Eugenio Gonzalo, Stian Soiland-Reyes, Alexander Hambley, Jonathan Couldridge, Carole Goble, Philip Quinlan, Salvador Capella-Gutierrez (2025):  
+[**ENTRUSTing WfExS 1.0 with WES and TES**](https://doi.org/10.7490/f1000research.1120178.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):518 (poster)  
+<https://doi.org/10.7490/f1000research.1120178.1>
+
+## 2024
+
+Eugenio Gonzalo, Laia Codó, Jose María Fernandez, Stian Soiland-Reyes, Salvador Capella-Gutierrez, Emily Jefferson, Carole Goble, Tim Beck, Phil Quinlan, Tom Giles (2024):  
+[**Five safes workflow RO-Crate and WfExS**. Closing the gap of federated analysis and Trusted Research Enviroments (TREs) in the health data context](https://doi.org/10.7490/f1000research.1119724.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):550 (poster) 
+<https://doi.org/10.7490/f1000research.1119724.1>
+
+Finn Bacall, Stian Soiland-Reyes, Carole Goble, Stuart Owen, Johan Gustafsson, Frederik Coppens (2024):  
+[**WorkflowHub**](https://doi.org/10.7490/f1000research.1119852.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):1027 (poster) 
+<https://doi.org/10.7490/f1000research.1119852.1>
+
+Eli Chadwick, Stian Soiland-Reyes (2024):  
+[**RO-Crate: package your research outputs with their metadata**](https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata).  
+_Research Software Engineering Conference_ ([RSECon 2024](https://rsecon24.society-rse.org/)), Newcastle, UK, 2024-09-03/--05.  
+<https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata>
+
+Sebastian Beier, Daniel Arend, Cyril Pommier, Kristina Gruden, Patrick König, Stian Soiland-Reyes, Philippe Rocca-Serra, Peter Selby, Leyla Jael Castro, Klaus F. X. Mayer, Uwe Scholtz, Björn Usadel (2024):  
+[**Facilitating Interoperability in Agricultural Research through ELIXIR-supported Metadata Standards**](https://doi.org/10.5281/zenodo.12527784).  
+[_FAIRagro Community Summit_](https://fairagro.net/en/1st-fairagro-community-summit/), Berlin, Germany, 2024-06-17/--18.  
+<https://doi.org/10.5281/zenodo.12527784>
+
 
 ## 2023
 
@@ -37,9 +75,10 @@ _F1000Research_ **12**:1026 (poster)
 <https://doi.org/10.7490/f1000research.1119595.1>
 
 Carole Goble, Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Ignacio Eguinoa, Bert Droesbeke, Hervé Ménager, Laura Rodriguez-Navas, José M. Fernández, Salvador Capella-Gutierrez, Michael R. Crusoe, Björn Grüning, Simone Leo, Luca Pireddu, Marco Enrico Piras, Johan Gustafsson, Phil Ewels, WorkflowHub Community, Frederik Coppens (2023):  
-[**WorkflowHub – a fair registry for workflows**](https://doi.org/10.7490/f1000research.1119430.1).  
+[**WorkflowHub – a FAIR registry for workflows**](https://doi.org/10.7490/f1000research.1119430.1).  
 _F100Research_ **12**(ELIXIR):571 (poster)  
 <https://doi.org/10.7490/f1000research.1119430.1>
+
 
 
 ## 2022
