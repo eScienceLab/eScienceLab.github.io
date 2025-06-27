@@ -42,7 +42,8 @@ which is particularly useful for long author lists or long titles.
 ## 2025
 
 Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
-**An Ecosystem of Services for FAIR Computational Workflows** (book chapter, draft)  
+[**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
+Book chapter, draft  
 _arXiv_ 2505.15988 [cs.DC]  
 <https://doi.org/10.48550/arXiv.2505.15988>
 
