@@ -79,3 +79,126 @@ UK partners in Horizon Europe projects are funded through [Innovate UK](https://
   - Deliverable D2.2 Publishing workflow enriched FDOs to EOSC (lead: UNIMAN)
 * WP3: Pulsar Network: Distributed heterogeneous compute (lead: CNR)
   - Task T3.4 Add TES support to WfExS (Workflow Execution Service) (lead: BSC)-
+
+
+## Relevant Deliverables
+
+
+Stian Soiland-Reyes, Björn Grüning,  Paul De Geest (2025):  
+[EuroScienceGateway MS3: **Initial EuroScienceGateway workflows registered**](https://doi.org/10.5281/zenodo.10728922).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.10728922>
+
+Stian Soiland-Reyes, Eli Chadwick, Finn Bacall, José M Fernández, Björn Grüning, Hakan Bayındır (2024):  
+[EuroScienceGateway D2.1: **Reproducible FAIR Digital Objects for Workflows Creators**](https://doi.org/10.5281/zenodo.13225792).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.13225792>
+
+
+Stian Soiland-Reyes, Eli Chadwick, Armin Dadras, Björn Grüning, Catalin Condurache, Sebastian Luna-Valero, Volodymy Savchenko (2025):  
+[EuroScienceGateway D2.2: **Publishing workflow enriched FDOs to EOSC**](https://doi.org/10.5281/zenodo.15094824).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.15094824>
+
+## Relevant Publications
+
+
+Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
+[**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
+Book chapter, draft  
+_arXiv_ 2505.15988 [cs.DC]  
+<https://doi.org/10.48550/arXiv.2505.15988>
+
+Frédéric Suter, Tainã Coleman, İlkay Altintaş, Rosa M. Badia, Bartosz Balis, Kyle Chard, Iacopo Colonnelli, Ewa Deelman, Paolo Di Tommaso, Thomas Fahringer, Carole Goble, Shantenu Jha, Daniel S. Katz, Johannes Köster, Ulf Leser, Kshitij Mehta, Hilary Oliver, J.-Luc Peterson, Giovanni Pizzi, Loïc Pottier, Raül Sirvent, Eric Suchyta, Douglas Thain, Sean R. Wilkinson, Justin M. Wozniak, Rafael Ferreira da Silva (2025):  
+[**A Terminology for Scientific Workflow Systems**](https://doi.org/10.1016/j.future.2025.107974).  
+_Future Generation Computer Systems_ **174**:107974  
+<https://doi.org/10.1016/j.future.2025.107974>
+
+Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
+[**WorkflowHub: a registry for computational workflows**](https://research.manchester.ac.uk/files/808300570/s41597-025-04786-3.pdf).  
+_Scientific Data_ **12**:837  
+<https://doi.org/10.1038/s41597-025-04786-3>
+
+Stian Soiland-Reyes, Peter Sefton, Simone Leo, Leyla Jael Castro, Claus Weiland, Herbert Van de Sompel (2025):  
+[**Practical webby FDOs with RO-Crate and FAIR Signposting**: Experiences and lessons learned](https://www.tib-op.org/ojs/index.php/ocp/article/view/1273/2568).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1273>
+
+
+Sean Wilkinson, Meznah Aloqalaa, Khalid Belhajjame, Michael R. Crusoe, Bruno de Paula Kinoshita, Luiz Gadelha, Daniel Garijo, Ove Johan Ragnar Gustafsson, Nick Juty, Sehrish Kanwal, Farah Zaib Khan, Johannes Köster, Karsten Peters-von Gehlen, Line Pouchard, Randy K. Rannow, Stian Soiland-Reyes, Nicola Soranzo, Shoaib Sufi, Ziheng Sun, Baiba Vilne, Merridee A. Wouters, Denis Yuen, Carole Goble (2025):  
+[**Applying the FAIR Principles to Computational Workflows**](https://doi.org/10.1038/s41597-025-04451-9).  
+_Scientific Data_ **12**:328  
+<https://doi.org/10.1038/s41597-025-04451-9>
+
+Alexander Hambley, Eli Chadwick, Oliver Woolland, Stian Soiland-Reyes, Volodymyr Savchenko (2024):  
+[**WorkflowHub Knowledge Graph**](https://doi.org/10.5281/zenodo.13362051).  (Dataset)  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.13362051>
+
+
+Eli Chadwick, Stian Soiland-Reyes, José María Fernández, Björn Grüning, Carole Goble (2025):  
+[**RO-Crate – Capturing FAIR research outputs throughout the ELIXIR landscape**](https://doi.org/10.7490/f1000research.1120199.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):543 (poster)  
+<https://doi.org/10.7490/f1000research.1120199.1>
+
+
+Paula Iborra, José M. Fernández, Laia Codó, Eugenio Gonzalo, Stian Soiland-Reyes, Alexander Hambley, Jonathan Couldridge, Carole Goble, Philip Quinlan, Salvador Capella-Gutierrez (2025):  
+[**ENTRUSTing WfExS 1.0 with WES and TES**](https://doi.org/10.7490/f1000research.1120178.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):518 (poster)  
+<https://doi.org/10.7490/f1000research.1120178.1>
+
+
+Finn Bacall, Stian Soiland-Reyes, Carole Goble, Stuart Owen, Johan Gustafsson, Frederik Coppens (2024):  
+[**WorkflowHub**](https://doi.org/10.7490/f1000research.1119852.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):1027 (poster)  
+<https://doi.org/10.7490/f1000research.1119852.1>
+
+Eli Chadwick, Stian Soiland-Reyes (2024):  
+[**RO-Crate: package your research outputs with their metadata**](https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata).  
+_Research Software Engineering Conference_ ([RSECon 2024](https://rsecon24.society-rse.org/)), Newcastle, UK, 2024-09-03/--05.  
+<https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata>
+
+
+Carole Goble, Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Ignacio Eguinoa, Bert Droesbeke, Hervé Ménager, Laura Rodriguez-Navas, José M. Fernández, Salvador Capella-Gutierrez, Michael R. Crusoe, Björn Grüning, Simone Leo, Luca Pireddu, Marco Enrico Piras, Johan Gustafsson, Phil Ewels, WorkflowHub Community, Frederik Coppens (2023):  
+[**WorkflowHub – a FAIR registry for workflows**](https://doi.org/10.7490/f1000research.1119430.1).  
+ELIXIR All Hands Meeting ([AHM2023](https://elixir-europe.org/events/elixir-all-hands-2023)), Dublin, Ireland, 2023-06-05/--08.  
+<https://doi.org/10.7490/f1000research.1119430.1>
+
+
+Simone Leo, Laura Rodríguez-Navas, José M. Fernández, Paul De Geest, Luca Pireddu, Michael R. Crusoe, Daniel Garijo, Iacopo Colonnelli, Raül Sirvent, Stian Soiland-Reyes (2023):  
+[**Making workflow provenance FAIR across workflow systems with Workflow Run RO-Crate**](https://doi.org/10.5281/zenodo.8004793).  
+_Elixir All Hands 2023_, 2023-06-06, Dublin, Ireland.  
+_F1000Research_  **12**(ELIXIR):592 (poster)  
+<https://doi.org/10.7490/f1000research.1119445.1>
+
+
+Simone Leo, Michael R. Crusoe, Laura Rodríguez-Navas, Raül Sirvent, Alexander Kanitz, Paul De Geest, Rudolf Wittner, Luca Pireddu, Daniel Garijo, José M. Fernández, Iacopo Colonnelli, Matej Gallo, Tazro Ohta, Hirotaka Suetake, Salvador Capella-Gutierrez, Renske de Wit, Bruno de Paula Kinoshita, Stian Soiland-Reyes (2024):  
+[**Recording provenance of workflow runs with RO-Crate**](https://doi.org/10.1371/journal.pone.0309210).  
+_PLOS One_ **19**(9):e0309210  
+<https://doi.org/10.1371/journal.pone.0309210>
+
+Stian Soiland-Reyes, Carole Goble, Paul Groth (2024):  
+[**Evaluating FAIR Digital Object and Linked Data as distributed object systems**](https://s11.no/2023/phd/evaluating-fdo/).  
+_PeerJ Computer Science_  **10**:e1781  
+<https://doi.org/10.7717/peerj-cs.1781>
+[[RO-Crate](https://w3id.org/ro/doi/10.5281/zenodo.8075229)]
+
+Stian Soiland-Reyes, Leyla Jael Castro, Rohitha Ravinder, Claus Weiland, Jonas Grieb, Alexander Rogers, Christophe Blanchi, Herbert Van de Sompel (2024):  
+[BioHackEU23 report: **Enabling FAIR Digital Objects with RO-Crate, Signposting and Bioschemas**](https://s11.no/2024/enabling-fair-digital-objects/).  
+*BioHackrXiv*  
+<https://doi.org/10.37044/osf.io/gmk2h>
+
+José M. Fernández, Paula Iborra, Sébastien Moretti, Arun Isaac, Paul De Geest, Stian Soiland-Reyes (2024):
+[**BioHackEU23: FAIR Workflow Execution with WfExS and Workflow Run Crate**](https://doi.org/10.37044/osf.io/7f94w).  
+_BioHackrXiv_
+<https://doi.org/10.37044/osf.io/7f94w>
+
+ 
+Ignacio Eguinoa, Marek Suchánek, Vojtěch Knaisl, Jan Slifka, Paul De Geest, David López, Bjorn Gruning, Simone Leo, Stian Soiland-Reyes (2023):  
+[**BioHackEU22 Report: Enhancing Research Data Management in Galaxy and Data Stewardship Wizard by utilising RO-Crates**](https://s11.no/2023/phd/enhancing-rdm-galaxy-dsw/).  
+_BioHackrXiv_  
+<https://doi.org/10.37044/osf.io/24jst>

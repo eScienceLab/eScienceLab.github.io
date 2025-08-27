@@ -20,7 +20,7 @@ ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-
 _F1000Research_ **14**(ELIXIR):518 (poster)  
 <https://doi.org/10.7490/f1000research.1120178.1>
 
-Munazah Andrabi, Finn Bacall, Phil Reed1, Oliver Knodel, Carole Goble (2025):  
+Munazah Andrabi, Finn Bacall, Phil Reed, Oliver Knodel, Carole Goble (2025):  
 [**mTeSS-X**: Scaling the TeSS  for federated training portals through multi-spacing and exchange](https://doi.org/10.7490/f1000research.1120226.1).  
 ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
 _F1000Research_ **14**(ELIXIR):611 (poster)  
