@@ -9,6 +9,7 @@ logo: fair-impact.svg
 website: http://fair-impact.eu/
 start_date: 2022-06-01
 duration: 36 months
+expired: true
 project_reference: 
   - https://doi.org/10.3030/101057344
   - https://gtr.ukri.org/projects?ref=10038992

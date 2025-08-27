@@ -9,6 +9,7 @@ logo: eosc4cancer.svg
 website: https://eosc4cancer.eu/
 start_date: 2022-09-01
 end_date: 2025-02-28
+expired: true
 duration: 30 months
 project_reference: 
   - https://doi.org/10.3030/101058427

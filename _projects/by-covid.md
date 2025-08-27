@@ -8,6 +8,7 @@ description: BeYond-COVID, make data from COVID-19 and other infectious diseases
 logo: by-covid.svg
 website: https://by-covid.org/
 start_date: 2021-10-13
+expired: true
 duration: 36 months
 project_reference: https://doi.org/10.3030/101046203
 ---

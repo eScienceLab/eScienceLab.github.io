@@ -8,6 +8,7 @@ description: Biodiversity Digital Twin
 logo: biodt.svg
 website: https://biodt.eu/
 start_date: 2022-06-01
+expired: true
 duration: 36 months
 project_reference:
   - https://doi.org/10.3030/101057437
