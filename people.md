@@ -67,7 +67,8 @@ staff:
   img: no-photo.png
   role: Research Associate
 - name: Michael Sparks
-  img: no-photo.png
+  orcid: 0009-0001-3059-0000
+  img: michael-sparks-sm.jpg
   role: Senior Research Software Engineer
 
 

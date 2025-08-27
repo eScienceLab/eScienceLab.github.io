@@ -9,3 +9,5 @@ Gemfile.docker
 \#*\#
 .bundle
 vendor
+*/.DS_Store
+.DS_Store
