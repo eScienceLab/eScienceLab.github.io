@@ -9,7 +9,7 @@ This is a infrequently updated (and incomplete) list of posters made by the [eSc
 ## 2025
 
 Eli Chadwick, Stian Soiland-Reyes, José María Fernández, Björn Grüning, Carole Goble (2025):  
-[**RO-Crate – Capturing FAIR research outputs throughout the ELIXIR landscape**](https://doi.org/10.7490/f1000research.1120199.1).  
+[**RO-Crate** – Capturing FAIR research outputs throughout the ELIXIR landscape](https://doi.org/10.7490/f1000research.1120199.1).  
 ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
 _F1000Research_ **14**(ELIXIR):543 (poster)  
 <https://doi.org/10.7490/f1000research.1120199.1>
@@ -19,6 +19,31 @@ Paula Iborra, José M. Fernández, Laia Codó, Eugenio Gonzalo, Stian Soiland-Re
 ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
 _F1000Research_ **14**(ELIXIR):518 (poster)  
 <https://doi.org/10.7490/f1000research.1120178.1>
+
+Munazah Andrabi, Finn Bacall, Phil Reed1, Oliver Knodel, Carole Goble (2025):  
+[**mTeSS-X**: Scaling the TeSS  for federated training portals through multi-spacing and exchange](https://doi.org/10.7490/f1000research.1120226.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):611 (poster)  
+<https://doi.org/10.7490/f1000research.1120226.1>
+
+Marek Suchánek, Munazah Andrabi, Danielle Welter (2025):  
+[**ELIXIR RIR 2.0**: a roadmap for refining ELIXIR’s portfolio of FAIR-enabling resources](https://doi.org/10.7490/f1000research.1120235.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):637 (poster)  
+<https://doi.org/10.7490/f1000research.1120235.1>
+
+Stuart Owen, Munazah Andrabi, Finn Bacall, Phil Reed, Xiaoming Hu, Ulrike Wittig1, Maja Rey, Martin Golebiewski, Flora D'Anna, Kevin De Pelseneer, Jacky Snoep, Wolfgang Müller, Carole Goble (2025):  
+[**FAIRDOM-SEEK** – Platform for FAIR data and research outcome management](https://doi.org/10.7490/f1000research.1120207.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):558 (poster)  
+<https://doi.org/10.7490/f1000research.1120207.1>
+
+Phil Reed, Nick Juty, Helena Schnitzer, Leyla Jael Castro, Alban Gaignard, Carole Goble (2025):  
+[**The 10-year evolution of Bioschemas to immortality**](https://doi.org/10.7490/f1000research.1120189.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):530 (poster)  
+<https://doi.org/10.7490/f1000research.1120189.1>
+
 
 ## 2024
 
@@ -34,15 +59,39 @@ ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-
 _F1000Research_ **13**(ELIXIR):1027 (poster) 
 <https://doi.org/10.7490/f1000research.1119852.1>
 
+Munazah Andrabi, Flora D'Anna, Niclas Jareborg1, Mijke Jetten, The ELIXIR Research Data Management Community (2024):  
+[**The ELIXIR Research Data Management (RDM) community**](https://doi.org/10.7490/f1000research.1119854.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):1030 (poster) 
+<https://doi.org/10.7490/f1000research.1119854.1>
+
+Munazah Andrabi1, Finn Bacall, Ivan Kuzmin, Hedi Peterson, Carole Goble (2024):  
+[**TeSS**: A portal for training resources in ELIXIR and beyond](https://doi.org/10.7490/f1000research.1119775.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):728 (poster) 
+<https://doi.org/10.7490/f1000research.1119775.1>
+
+Munazah Andrabi, Bert Droesbeke, RDMkit Editorial (2024):  
+[**RDMkit**: A key resource for FAIR data management](https://doi.org/10.7490/f1000research.1119774.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):727 (poster) 
+<https://doi.org/10.7490/f1000research.1119774.1>
+
 Eli Chadwick, Stian Soiland-Reyes (2024):  
-[**RO-Crate: package your research outputs with their metadata**](https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata).  
+[**RO-Crate: package your research outputs with their metadata**](https://doi.org/10.5281/zenodo.14007027).  
 _Research Software Engineering Conference_ ([RSECon 2024](https://rsecon24.society-rse.org/)), Newcastle, UK, 2024-09-03/--05.  
-<https://research.manchester.ac.uk/en/publications/ro-crate-package-your-research-outputs-with-their-metadata>
+<https://doi.org/10.5281/zenodo.14007027>
+
+Eli Chadwick, Stian Soiland-Reyes (2024):  
+[**RO-Crate: package your research outputs with their metadata**](https://doi.org/10.5281/zenodo.14007026).  
+[_ELIXIR-UK All Hands 2024_](https://elixiruknode.org/event/elixir-uk-all-hands-2024/), Cardiff, UK, 2024-11-19/--20. 
+<https://doi.org/10.5281/zenodo.14228958>
 
 Sebastian Beier, Daniel Arend, Cyril Pommier, Kristina Gruden, Patrick König, Stian Soiland-Reyes, Philippe Rocca-Serra, Peter Selby, Leyla Jael Castro, Klaus F. X. Mayer, Uwe Scholtz, Björn Usadel (2024):  
 [**Facilitating Interoperability in Agricultural Research through ELIXIR-supported Metadata Standards**](https://doi.org/10.5281/zenodo.12527784).  
 [_FAIRagro Community Summit_](https://fairagro.net/en/1st-fairagro-community-summit/), Berlin, Germany, 2024-06-17/--18.  
 <https://doi.org/10.5281/zenodo.12527784>
+
 
 
 ## 2023
