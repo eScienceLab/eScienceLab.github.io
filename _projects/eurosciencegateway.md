@@ -8,6 +8,7 @@ description: Improving computational workflows in Galaxy by maturing Pulsar Netw
 logo: eurosciencegateway.svg
 website: https://eurosciencegateway.eu/
 start_date: 2022-09-01
+expired: true
 duration: 36 months
 project_reference:
   - https://doi.org/10.3030/101057388
@@ -22,23 +23,23 @@ Many scientists struggle to navigate this intricate ecosystem. Generally, resear
 
 ## EuroScienceGateway
 
-**EuroScienceGateway** will leverage a distributed computing network across 13 European countries, accessible via 6 national, user-friendly web portals, facilitating access to compute and storage infrastructures across Europe as well as to data, tools, workflows and services that can be customized to suit researchers' needs. 
+**EuroScienceGateway**  leveraged a distributed computing network across 13 European countries, accessible via 6 national, user-friendly web portals, facilitating access to compute and storage infrastructures across Europe as well as to data, tools, workflows and services that can be customized to suit researchers' needs. 
 
-EuroScienceGateway will deliver a robust, scalable, seamlessly integrated open infrastructure for data-driven research, contributing an innovative and customizable service for EOSC that enables operational open and FAIR data and data processing, empowering European researchers to embrace the new digital age of science.
+EuroScienceGateway deliver a robust, scalable, seamlessly integrated open infrastructure for data-driven research, contributing an innovative and customizable service for EOSC that enables operational open and FAIR data and data processing, empowering European researchers to embrace the new digital age of science.
 
 ### EOSC integration
 
-At the heart of the proposal workflows will integrate with the [EOSC-Core](https://eoscfuture.eu/wp-content/uploads/2022/04/EOSC-Core.pdf). Adoption, development and implementation of technologies to interoperate across services, will allow researchers to produce high-quality FAIR data, available to all in EOSC. Communities across disciplines -- Life Sciences, Climate and Biodiversity, Astrophysics, Materials science - will demonstrate the bridge from EOSC's technical services to scientific analysis.
+Workflows were integrated with the evolving EOSC infrastructure with an aim for the EOSC Interoperability Framework. Adoption, development and implementation of technologies to interoperate across services, will allow researchers to produce high-quality FAIR data, available to all in EOSC. Communities across disciplines -- Life Sciences, Climate and Biodiversity, Astrophysics, Materials science -- demonstrated the bridge from EOSC's technical services to scientific analysis.
 
-Funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) (_Enabling an operational, open and FAIR EOSC ecosystem_), EuroScienceGateway will work closely with [EOSC](https://www.eosc.eu/), EOSC projects including [EOSC-Life](../eosclife/), as well as established e-Infrastructures and life science communities like [ELIXIR](../elixir/).
+Funded by Horizon Europe call [HORIZON-INFRA-2021-EOSC-01-04](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2021-eosc-01-04) (_Enabling an operational, open and FAIR EOSC ecosystem_), EuroScienceGateway worked closely with [EOSC](https://www.eosc.eu/), EOSC projects including [EOSC-Life](../eosclife/), as well as established e-Infrastructures and life science communities like [ELIXIR](../elixir/).
 
 ### Galaxy and Pulsar Network
 
-EuroScienceGateway will leverage the [Galaxy platform](https://galaxyproject.eu/) (an open, web-based platform for data-intensive research), the [Pulsar
+EuroScienceGateway leveraged the [Galaxy platform](https://galaxyproject.eu/) (an open, web-based platform for data-intensive research), the [Pulsar
 Network](https://pulsar-network.readthedocs.io) (a wide job execution system distributed to scale computing power over heterogeneous resources) and
 FAIR workflow services pioneered in the [EOSC-Life](https://www.eosc-life.eu/) cluster ([WorkflowHub](https://workflowhub.eu/), [Workflow RO-Crate](https://w3id.org/workflowhub/workflow-ro-crate/) and metadata standards like [schema.org](https://schema.org/)). 
 
-EuroScienceGateway will lift Pulsar from TRL-7 to TRL-9 by expanding the APIs, hardening deployments and adding support for different usage patterns, e.g. data localisation during job scheduling. 
+EuroScienceGateway lifted Pulsar from TRL-7 to TRL-9 by expanding the APIs, hardening deployments and adding support for different usage patterns, e.g. data localisation during job scheduling. 
 
 [National Galaxy instances](https://galaxyproject.org/use/) across Europe and other workflow management systems will be enabled to submit jobs to this distributed compute network. Pulsar will become a production-ready interface for European computing resources, including [EGI](https://www.egi.eu/) and [EuroHPC](https://eurohpc-ju.europa.eu/) as Pulsar providers.
 
@@ -84,24 +85,40 @@ UK partners in Horizon Europe projects are funded through [Innovate UK](https://
 ## Relevant Deliverables
 
 
-Stian Soiland-Reyes, Björn Grüning,  Paul De Geest (2025):  
-[EuroScienceGateway MS3: **Initial EuroScienceGateway workflows registered**](https://doi.org/10.5281/zenodo.10728922).  
+Anika Erxleben, Sebastian Schaaf, Flora D'Anna, Björn Grüning, Frederik Coppens, Eva Alloza, José María2 Fernández González, Nick Juty (ed.) (2023):  
+EuroScienceGateway D2.1 [**EuroScienceGateway Data Management Plan**](https://doi.org/10.5281/zenodo.10054551) (DMP; D1.1).  v2.0  
 _Zenodo_  
-<https://doi.org/10.5281/zenodo.10728922>
+<https://doi.org/10.5281/zenodo.10054551>
 
 Stian Soiland-Reyes, Eli Chadwick, Finn Bacall, José M Fernández, Björn Grüning, Hakan Bayındır (2024):  
 [EuroScienceGateway D2.1: **Reproducible FAIR Digital Objects for Workflows Creators**](https://doi.org/10.5281/zenodo.13225792).  
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.13225792>
 
+Stian Soiland-Reyes, Björn Grüning,  Paul De Geest (2025):  
+[EuroScienceGateway MS3: **Initial EuroScienceGateway workflows registered**](https://doi.org/10.5281/zenodo.10728922).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.10728922>
 
 Stian Soiland-Reyes, Eli Chadwick, Armin Dadras, Björn Grüning, Catalin Condurache, Sebastian Luna-Valero, Volodymy Savchenko (2025):  
 [EuroScienceGateway D2.2: **Publishing workflow enriched FDOs to EOSC**](https://doi.org/10.5281/zenodo.15094824).  
 _Zenodo_  
 <https://doi.org/10.5281/zenodo.15094824>
 
+
+Eli Chadwick, Oliver Woolland, Volodymyr Savchenko, Finn Bacall, Alexander Hambley, José María Fernández, Armin Dadras, Stian Soiland-Reyes (2025):  
+[EuroScienceGateway MS6: **Integrated EuroScienceGateway knowledge graph**](https://doi.org/10.5281/zenodo.16992674).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.16992674>
+
+
 ## Relevant Publications
 
+
+Eli Chadwick, Oliver Woolland, Alexander Hambley, Volodymyr Savchenko, and Stian Soiland-Reyes (2025):  
+[**Workflowhub Knowledge Graph**](https://doi.org/10.5281/zenodo.16995374).   
+_Zenodo_   
+<https://doi.org/10.5281/zenodo.16995374>
 
 Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
 [**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
