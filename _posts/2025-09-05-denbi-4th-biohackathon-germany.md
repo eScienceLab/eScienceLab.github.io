@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Invitations open for de.NBI 4th BioHackahton Germany in Walsrode, 1-5 December 2025"
+title: "Invitations open for de.NBI 4th BioHackathon Germany in Walsrode, 1-5 December 2025"
 date: 2025-09-05
 categories: hackathon bioschemas
 ---
