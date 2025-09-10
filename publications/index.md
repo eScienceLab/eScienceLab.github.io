@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
+Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raul Fernandez-Diaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C.E. Tosatto (2025):  
+[**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
+_arXiv_ 2505.16619 [cs.AI]  
+<https://doi.org/10.48550/arXiv.2505.16619>
+
 Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
 [**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
 Book chapter, draft  
@@ -173,6 +178,11 @@ Mark D Wilkinson, Susanna-Assunta Sansone, Marjan Grootveld, Richard Dennis, Dav
 
 
 ## 2023
+
+Danielle Welter, Nick Juty, Philippe Rocca-Serra, Fuqi Xu, David Henderson, Wei Gu, Jolanda Strubel, Robert T. Giessmann, Ibrahim Emam, Yojana Gadiya, Tooba Abbassi-Daloii, Ebtisam Alharbi, Alasdair J. G. Gray, Melanie Courtot, Philip Gribbon, Vassilios Ioannidis, Dorothy S. Reilly, Nick Lynch, Jan-Willem Boiten, Venkata Satagopam, Carole Goble, Susanna-Assunta Sansone, Tony Burdett (2023):  
+[**FAIR in action - a flexible framework to guide FAIRification**](https://doi.org/10.1038/s41597-023-02167-2).  
+_Scientific Data_ **10**:291  
+<https://doi.org/10.1038/s41597-023-02167-2>
 
 Nazeefa Fatima, Pinar Alper, Federico Bianchini, Korbinian Bösl, Ulrike Wittig, Carole Goble, Frederik Coppens (2023):  
 **RDMkit: The Research Data Management Toolkit for Life Sciences**.  
