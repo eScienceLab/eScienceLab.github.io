@@ -10,7 +10,7 @@ website: https://climate-adapt4eosc.eu/
 start_date: 2025-01-01
 expired: false
 duration: 48 months
-project_reference: https://cordis.europa.eu/project/id/101188248
+project_reference: https://doi.org/10.3030/101188248
 ---
 
 The newly launched [Climate-Adapt4EOSC project](https://climate-adapt4eosc.eu/) joins the expanding European Open Science Cloud (EOSC) ecosystem, with a particular focus on climate change adaptation. Bringing together 18 partners from 9 countries, the initiative aims to advance open science and data-driven innovation to strengthen climate resilience and climate adaptation effots. 
