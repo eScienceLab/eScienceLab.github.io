@@ -9,6 +9,7 @@ logo: ejp-rd.png
 website: http://www.ejprarediseases.org
 start_date: 2019-01-01
 duration: 5 years
+expired: true
 project_reference: https://doi.org/10.3030/825575
 ---
 

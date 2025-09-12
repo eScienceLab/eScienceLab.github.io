@@ -11,6 +11,7 @@ website: https://www.ibisba.eu/EU-Projects/PREP-IBISBA
 project_reference: https://doi.org/10.3030/871118
 start_date: 2020-01-01
 end_date: 2023-12-31
+expired: true
 duration: 4 years
 ---
 
