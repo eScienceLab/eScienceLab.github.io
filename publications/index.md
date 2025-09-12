@@ -41,6 +41,11 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
+Rutger A. Vos, Kessy Abarenkov, Jireh Agda, Josh Agda, Ruud Altenburg, Sarah J. Bourlat, Tom Brown, Eli Chadwick, Pierre-Etienne Cholley, Fabian Deister, Dick Groenenberg, Sharif islam, Nick Juty, Vishnukumar Balavenkataraman Kadhirvelu, Maria Kamouyiaros, Douglas Lowe, Hana Merchant, Joana Pauperio, Benjamin Wills Price, Sujeevan Ratnasingham, Stian Soiland-Reyes, Giorgia Staffoni, Catherine Wei, Oliver White, Dimitris Koureas (2025):  
+[**Enhancing Digital Infrastructures and Data Handling Practices for Single Specimen Barcoding** - the 2024 BGE Barcoding Hackathon]().  
+_BioHackrXiv_  
+<https://doi.org/10.37044/osf.io/xb4ut_v1>
+
 Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raul Fernandez-Diaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C.E. Tosatto (2025):  
 [**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
 _arXiv_ 2505.16619 [cs.AI]  
