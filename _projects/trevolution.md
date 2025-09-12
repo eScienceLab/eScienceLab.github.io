@@ -5,7 +5,7 @@ title: TREvolution
 path: trevolution.html
 collection: projects
 description: Building on the outputs of past DARE UK Driver Projects to advance research capabilities of Trusted Research Environments
-#logo: tre-fx-logo.svg
+logo: trevolution.png
 website: https://dareuk.org.uk/how-we-work/ongoing-activities/trevolution/
 start_date: 2025-03-01
 #expired: true
