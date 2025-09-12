@@ -6,8 +6,26 @@ exclude_from_nav: true
 
 This is a infrequently updated (and incomplete) list of posters made by the [eScience lab team](../people.md).
 
+Recent posters are uploaded to the [eScience Lab Zenodo Community](https://zenodo.org/communities/esciencelab/records)
+
 ## 2025
 
+Phil Reed, Munazah Andrabi (2025):  
+[**TeSS: a federated, FAIR-aligned platform for distributed management and exchange of training resources**]()
+_Intelligent Systems for Molecular Biology_ and _European Conference on Computational Biology_ (ISMB/ECCB 2025), Liverpool, Manchester, 2025-07-20/--24.  
+<https://doi.org/10.5281/zenodo.15835788>
+
+Munazah Andrabi, RDMKit Editorial Team (2025):  
+[**RDMkit: Research Data Management Toolkit for Life Scientists**](https://doi.org/10.5281/zenodo.15878117).  
+(poster, flash talk)  
+_Bioinformatics Open Science Conference_ (BOSC 2025)  
+_Intelligent Systems for Molecular Biology_ and _European Conference on Computational Biology_ (ISMB/ECCB 2025), Liverpool, Manchester, 2025-07-20/--24.  
+<https://doi.org/10.5281/zenodo.15878117>
+
+Finn Bacall, Stian Soiland-Reyes, Stuart Owen, Nick Juty, Johan Gustafsson, Frederik Coppens, Carole Goble (2025):  
+[**The WorkflowHub: A FAIR Registry for computational workflows**](https://doi.org/10.5281/zenodo.15861456).  
+_Intelligent Systems for Molecular Biology_ and _European Conference on Computational Biology_ (ISMB/ECCB 2025), Liverpool, Manchester, 2025-07-20/--24.  
+<https://doi.org/10.5281/zenodo.15861456>
 
 Eli Chadwick, Stian Soiland-Reyes, Phil Reed (2025):  
 [**RO-Crate: Capturing FAIR research outputs in bioinformatics and beyond**](https://doi.org/10.5281/zenodo.15849770).  
