@@ -8,6 +8,26 @@ This is a infrequently updated (and incomplete) list of posters made by the [eSc
 
 ## 2025
 
+
+Eli Chadwick, Stian Soiland-Reyes, Phil Reed (2025):  
+[**RO-Crate: Capturing FAIR research outputs in bioinformatics and beyond**](https://doi.org/10.5281/zenodo.15849770).  
+(poster, flash talk)  
+_Bioinformatics Open Science Conference_ (BOSC 2025)  
+_Intelligent Systems for Molecular Biology_ and _European Conference on Computational Biology_ (ISMB/ECCB 2025), Liverpool, Manchester, 2025-07-20/--24.  
+<https://doi.org/10.5281/zenodo.15849770>
+
+Eli Chadwick, Warren Del-Pinto, Alexander Hambley, Stian Soiland-Reyes (2025):  
+[**Demystifying RO-Crate**: An introduction to RO-Crate for TREvolution and DARE Early Adopters](https://youtu.be/7XSQKJOpZ20).  
+_DARE TREvolution_ webinar  
+<https://doi.org/10.5281/zenodo.15641886>
+[[video](https://youtu.be/7XSQKJOpZ20)]
+
+Stian Soiland-Reyes, Stuart Wheater, Thomas Giles, Jonathan Couldridge, Phil Quinlan, Carole Goble (2025):  
+[**Five Safes RO-Crate**: FAIR Digital Objects for Trusted Research Environments](https://doi.org/10.52825/ocp.v5i.1419).  
+_International FAIR Digital Objects Implementation Summit 2024_ ([FDO2024](https://fairdo.org/fdof-summit-2024/)), Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1419>
+
 Eli Chadwick, Stian Soiland-Reyes, José María Fernández, Björn Grüning, Carole Goble (2025):  
 [**RO-Crate** – Capturing FAIR research outputs throughout the ELIXIR landscape](https://doi.org/10.7490/f1000research.1120199.1).  
 ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
