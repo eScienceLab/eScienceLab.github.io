@@ -69,3 +69,33 @@ UNIMAN contributions :
   - Task 7C.1: Wrapping federated analytics within a Five Safes RO-Create
   - Task 7C.2: Developing a technical blueprint for federated analytics implementation
   - Deliverable 7C.1: Deployable Demonstrator of Digital Objects & Workflows Developments, Final Version
+
+## Relevant publications
+
+
+Stian Soiland-Reyes, Stuart Wheater, Thomas Giles, Jonathan Couldridge, Phil Quinlan, Carole Goble (2025):  
+[**Five Safes RO-Crate: FAIR Digital Objects for Trusted Research Environments**](https://doi.org/10.52825/ocp.v5i.1419).  
+_International FAIR Digital Objects Implementation Summit 2024_, Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1419>
+
+
+Eugenio Gonzalo, Laia Codó, Jose María Fernandez, Stian Soiland-Reyes, Salvador Capella-Gutierrez, Emily Jefferson, Carole Goble, Tim Beck, Phil Quinlan, Tom Giles (2024):  
+[**Five safes workflow RO-Crate and WfExS**. Closing the gap of federated analysis and Trusted Research Enviroments (TREs) in the health data context](https://doi.org/10.7490/f1000research.1119724.1).  
+ELIXIR All Hands Meeting ([AHM2024](https://elixir-europe.org/events/elixir-all-hands-2024)), Uppsala, Sweden, 2024-06-10/--12.    
+_F1000Research_ **13**(ELIXIR):550 (poster)  
+<https://doi.org/10.7490/f1000research.1119724.1>
+
+Paula Iborra, José M. Fernández, Laia Codó, Eugenio Gonzalo, Stian Soiland-Reyes, Alexander Hambley, Jonathan Couldridge, Carole Goble, Philip Quinlan, Salvador Capella-Gutierrez (2025):  
+[**ENTRUSTing WfExS 1.0 with WES and TES**](https://doi.org/10.7490/f1000research.1120178.1).  
+ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-hands-2025)), Thessaloniki, Greece,  2025-06-02/--05.  
+_F1000Research_ **14**(ELIXIR):518 (poster)  
+<https://doi.org/10.7490/f1000research.1120178.1>
+
+Philip Quinlan, Laia Codó, Jonathan Couldridge,  Eugenio Gonzalo Jimenez, Stian Soiland-Reyes, José María Fernández González, Tim Beck (2024):  
+[EOSC-ENTRUST D19.1 **Deployable Demonstrator of Digital Objects & Workflows Developments**](https://doi.org/10.5281/zenodo.14412863).  
+_Zenodo_  
+<https://doi.org/10.5281/zenodo.14412863>
+
+
+
