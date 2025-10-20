@@ -41,7 +41,7 @@ which is particularly useful for long author lists or long titles.
 
 ## 2025
 
-**Alper P, D'Anna F*, Droesbeke B, Andrabi M**, Andrade Buono R, Bianchini F, Bösl K, Chandramouliswaran I, Cook M, Faria D, Hooft R, Jareborg N, Jetten M, Pilvar D, Poires-Oliveira, Gil, Popleteeva M, Portell-Silva L, Slifka J, Suchánek M, van Gelder C, Welte D, Wittig U, Coppens F, Goble C. (2025)  
+**Alper P, D'Anna F, Droesbeke B, Andrabi M**, Andrade Buono R, Bianchini F, Bösl K, Chandramouliswaran I, Cook M, Faria D, Hooft R, Jareborg N, Jetten M, Pilvar D, Poires-Oliveira, Gil, Popleteeva M, Portell-Silva L, Slifka J, Suchánek M, van Gelder C, Welte D, Wittig U, Coppens F, Goble C. (2025)  
 [**RDMkit: A research data management toolkit for life sciences**](https://doi.org/10.1016/j.patter.2025.101345).  
 _Patterns_, Volume 6, Issue 9, 101345  
 <https://doi.org/10.1016/j.patter.2025.101345>.  
