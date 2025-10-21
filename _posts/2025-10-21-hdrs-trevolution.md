@@ -49,4 +49,4 @@ eScience Lab is a [partner in TREvolution](https://esciencelab.org.uk/projects/t
 
 ---
 
-_This blog post is syndicated from DARE UK <https://dareuk.org.uk/news-and-events/the-600-million-question-how-to-make-the-health-data-research-service-work/> _ 
+_This blog post is syndicated from DARE UK post by Westley Igbo <https://dareuk.org.uk/news-and-events/the-600-million-question-how-to-make-the-health-data-research-service-work/>_ 
