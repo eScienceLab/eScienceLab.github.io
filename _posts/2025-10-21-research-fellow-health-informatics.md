@@ -2,13 +2,19 @@
 layout: post
 title: "Job Opportunity: Research Fellow in Health Informatics"
 date: 2025-10-21
-categories: announcements jobs health-informatics dare-uk research
+categories: announcements jobs 
+tags: health-informatics dare-uk research tre
 ---
 
-DARE UK is advertising a Research Fellow position in Health Informatics to be based in the eScience Lab at The University of Manchester. This is an exciting opportunity to work at the intersection of data science and health research, contributing to cutting-edge work in health data science and informatics.
+Join the eScience Lab at The University of Manchester, where innovation
+meets impact in data-driven life science research. We are seeking a talented and motivated Research Fellow to lead work
+within the [TREvolution](/projects/trevolution) project — an exciting [DARE UK](https://dareuk.org.uk/) initiative
+focused on advancing Trusted Research Environments (TREs)
+for multi-site, AI-enabled health data analytics.
 
-The successful candidate will join the eScience Lab team, working on innovative research projects that advance the use of computational methods and data-driven approaches in healthcare. The role offers the chance to collaborate with leading researchers and contribute to impactful work in the rapidly evolving field of health informatics, focusing on federated analytics, data management, and open science practices in healthcare settings.
+Working under the guidance of Dr Stian Soiland-Reyes and collaborating closely with Professor Carole Goble and
+interdisciplinary teams across the UK, you’ll drive forward metadata architecture and develop cutting-edge techniques
+using RO-Crate, natural language processing, and synthetic data. You’ll act as senior product owner for RO-Crate
+metadata across six early adopter teams, guiding technical development and shaping strategy.
 
-The eScience Lab is a multi-disciplinary research group at The University of Manchester, specialising in data and knowledge-intensive e-Laboratories, with strong connections to national and international health data initiatives including Health Data Research UK (HDR UK) and DARE UK.
-
-For full details and to apply, please visit the [DARE UK job posting](https://dareuk.org.uk/news-and-events/job-opportunity-research-fellow-health-informatics/).
+For full details and to apply, please visit the [University of Manchester Job Posting](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=33005).
