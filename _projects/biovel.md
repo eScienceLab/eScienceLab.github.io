@@ -47,7 +47,7 @@ _Biodiversity Data Journal_ **2**:e1125
 
 ## Related screencasts
 
-YouTube videoes:
+YouTube videos:
 
 * [A quick introduction to BioVel Portal](https://www.youtube.com/watch?v=qw_d5Usgzt0&list=PLF3RA3m41YHSuag7UL2lqTQzW48jbGS0D&index=1)
 * [Taverna interaction for Biovel](https://www.youtube.com/watch?v=S9X6E4PdFcM)
