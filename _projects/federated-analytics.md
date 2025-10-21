@@ -4,7 +4,7 @@ name: federated-analytics
 title: HDR-UK Federated Analytics
 path: federated-analytics.html
 collection: projects
-description: 
+description: Federated analytics with FAIR health data in Trusted Research Environments
 logo: federated-analytics.png
 website: https://federated-analytics.ac.uk/
 start_date: 2023-04-01
