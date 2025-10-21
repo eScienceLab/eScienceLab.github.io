@@ -6,7 +6,7 @@ categories: [Trusted Research Environments, Health Data, Federation]
 tags: [DARE UK, HDRS, TREvolution, federated analytics, interoperability]
 ---
 
-In April 2025, the UK Government announced a landmark £600 million investment to establish a **Health Data Research Service (HDRS)** — a secure, single access point to NHS datasets in England. This initiative, backed by Wellcome and central to the Life Sciences Sector Plan, aims to address long-standing challenges in health data access for researchers.
+In April 2025, the UK Government [announced](https://www.gov.uk/government/news/prime-minister-turbocharges-medical-research) a landmark £600 million investment to establish a **Health Data Research Service (HDRS)** — a secure, single access point to NHS datasets in England. This initiative, backed by Wellcome and central to the Life Sciences Sector Plan, aims to address long-standing challenges in health data access for researchers.
 
 But as [DARE UK](https://dareuk.org.uk/) rightly points out, ambition alone won’t be truly transform healthcare, the HDRS must be built on a foundational principle: **federation**.
 
@@ -23,7 +23,7 @@ This federated approach enables:
 These mechanisms preserve data custodianship and public trust while unlocking the power of distributed datasets.
 
 ## TREvolution: From Blueprint to Reality
-DARE UK’s **TREvolution project**, funded by UKRI, is standardising operations across TREs/SDEs. It’s developing tools for federated analysis, semi-automated output checking, and shared standards for data formatting, access, and auditing.
+DARE UK’s [**TREvolution project**](https://dareuk.org.uk/trevolution/), funded by UKRI, is standardising operations across TREs/SDEs. It’s developing tools for federated analysis, semi-automated output checking, and shared standards for data formatting, access, and auditing.
 
 Early adopter projects are already piloting these capabilities in over 10 live environments — including NHS sub-national SDEs, the national TRE in Wales, and the UK Data Service.
 
@@ -45,7 +45,7 @@ As we build HDRS, the question isn’t just *how* — but *who* will help assemb
 
 ## eScience Lab in TREvolution
 
-eScience Lab is a [partner in TREvolution](https://esciencelab.org.uk/projects/trevolution/) with a particular focus on FAIR (Findable, Accessible, Interoperable, Reusable) and transparent analysis of sensitive data and use of RO-Crate. We are joining this with our effort on the [federated analytics programme in Health Data Research UK](https://esciencelab.org.uk/projects/federated-analytics/), and the European architecture for trusted research environments in [EOSC-ENTRUST](https://esciencelab.org.uk/projects/eosc-entrust/).
+eScience Lab is a [partner in TREvolution](https://esciencelab.org.uk/projects/trevolution/) with a particular focus on FAIR (Findable, Accessible, Interoperable, Reusable) and transparent analysis of sensitive data and use of RO-Crate. In addition to working with the [DARE UK early adopters](https://dareuk.org.uk/how-we-work/ongoing-activities/dare-uk-early-adopters/), we are joining this with our effort on the [federated analytics programme in Health Data Research UK](https://esciencelab.org.uk/projects/federated-analytics/), and the European architecture for trusted research environments in [EOSC-ENTRUST](https://esciencelab.org.uk/projects/eosc-entrust/).
 
 ---
 
