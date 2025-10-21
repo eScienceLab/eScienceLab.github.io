@@ -22,9 +22,13 @@ The University of Manchester, the University of Nottingham, Swansea University a
 
 ## eScience Lab involvement
 
-At the University of Manchester, we want to better understand the challenges of computational reproducibility and FAIR data sharing within HDR UK federated data infrastructures, especially focussing on technology potential, limitations, integrity measures and handling of sensitive data.
+Professor Carole Goble from The University of Manchester co-leads the HDR Federated Analytics Infrastructure Programme together with Phil Quinlan from University of Nottingham.
 
-We are building on the outputs from the [TRE-FX](../tre-fx/) project including the [Five Safes RO-Crate](https://w3id.org/5s-crate/) profile. A [PhD studentship](/hdr/phd/2023/07/18/hdr-uk-phd-studentship/) was granted.
+At The University of Manchester, we want to better understand the challenges of computational reproducibility and FAIR data sharing within HDR UK federated data infrastructures, especially focussing on technology potential, limitations, integrity measures and handling of sensitive data.
+
+We are building on the outputs from the [TRE-FX](../tre-fx/) project including the [Five Safes RO-Crate](https://w3id.org/5s-crate/) profile. A [PhD studentship](/hdr/phd/2023/07/18/hdr-uk-phd-studentship/) was granted. 
+
+We have developed the [RO-Crate Validation Service](https://github.com/eScienceLab/Cratey-Validator) which presents an API based on the [CRS4 RO-Crate validator](https://github.com/crs4/rocrate-validator/). This microservice can be used separately or in conjuction with the other [federated analytics services](https://docs.federated-analytics.ac.uk).
 
 We're leading WP3 on FAIR and Transparency. 
 
@@ -37,10 +41,29 @@ Integrating FAIR data capabilities into the technical framework and architecture
 - Objective 4: Document and Disseminate the Framework for FAIR and RO-Crate usage 
 
 
-## References
+## References and related outputs
 
 Kay Snowley, Lara Edwards, Ben Crosby, Helen Tatlow (2023):  
 [**Integrating Our Community**. Year 1](https://www.hdruk.ac.uk/wp-content/uploads/2023/10/Integrating-Our-Community_v1-Oct-2023-compressed.pdf)  
 _Health Data Research UK_ (report) 
 <https://www.hdruk.ac.uk/wp-content/uploads/2023/10/Integrating-Our-Community_v1-Oct-2023-compressed.pdf>
+
+Chris Orton, Lara Edwards, David Seymour, Monica Jones, Philip Quinlan, Simon Thompson, Carole Goble, Jennifer Quint, Aziz Sheikh (2024):  
+[**Data as infrastructure**: Systematic data curation addressing fundamental data content differences across the UK](https://doi.org/10.23889/ijpds.v9i5.2683).  
+_Conference Proceedings for International Population Data Linkage Conference 2024_, Chicago, USA, 2024-09-15/--18.  
+_International Journal of Population Data Science_ **9**(5)  
+<https://doi.org/10.23889/ijpds.v9i5.2683>
+
+Stian Soiland-Reyes, Stuart Wheater, Thomas Giles, Jonathan Couldridge, Phil Quinlan, Carole Goble (2025):  
+[**Five Safes RO-Crate**: FAIR Digital Objects for Trusted Research Environments](https://doi.org/10.52825/ocp.v5i.1419).  
+_International FAIR Digital Objects Implementation Summit 2024_ ([FDO2024](https://fairdo.org/fdof-summit-2024/)), Berlin, Germany, 2024-03-20/--21.  
+_Open Conference Proceedings_ **5**  
+<https://doi.org/10.52825/ocp.v5i.1419>
+
+Michelle Amugi, Rob Baxter, Christian Cole, Carole Goble, Emily Jefferson, Fergus McDonald, Andrew Morris, Philip Quinlan, David Seymour, Jim Smith, Balint Stewart, Simon G. Thompson (2025):  
+[**A Federated Architecture for a National Data Library**](https://doi.org/10.5281/zenodo.14672004).  
+_Wellcome Trust_ (report) / DARE UK  
+<https://doi.org/10.5281/zenodo.14672004>
+
+See the [documentation for federated analytics](https://docs.federated-analytics.ac.uk/) for further developer-centric information, and the [federated-research GitHub organisation](https://github.com/federated-research) for source code.
 
