@@ -80,6 +80,9 @@ phd:
 - name: Aravindhan Rajasekar
   role: PhD student
   img: no-photo.png
+- name: Sanskrit Aka Rishiraj Suthar
+  role: PhD student
+  img: no-photo.png
 
 associate:
 - name: Andy M. Brass
