@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project leadership and management at ELIXIR BioHackathon Europe 2025"
-date: 2025-11-17
+date: 2025-11-18
 categories: elixir hackathon
 ---
 
