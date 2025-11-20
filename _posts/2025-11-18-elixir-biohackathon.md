@@ -15,7 +15,7 @@ Three featured projects were supported by the eScience Lab:
 - [Towards a Robust Validation Service for Data and Metadata in ARC RO-Crates](https://github.com/elixir-europe/biohackathon-projects-2025/blob/364145ab8d705846ef3c1d32ecdb091ea1153ec7/28.md) – led by Eli Chadwick et al. The overall goal of Project 28 was to provide a powerful, holistic validation mechanism for ARC RO-Crates, enhancing their reliability, trustworthiness, and FAIRness. Stuart Owen and Finn Bacall also helped to improve FAIRDOM-SEEK's support of ISA RO-Crate metadata (a format that ARCs build upon).
 - [Mining the potential of knowledge graphs for metadata on training](https://github.com/elixir-europe/biohackathon-projects-2025/blob/364145ab8d705846ef3c1d32ecdb091ea1153ec7/18.md) – joined by Phil Reed and Finn Bacall.  In project 18, we created a queryable knowledge graph derived from training metadata in the Bioschemas format available from platforms including TeSS and glittr.org. 
 
-This page will be updated as the project publish their [final reports on BioHackrXiv](https://osf.io/preprints/biohackrxiv/discover?search=biohackathon).
+This page will be updated as the projects publish their [final reports on BioHackrXiv](https://osf.io/preprints/biohackrxiv/discover?search=biohackathon).
 
 ![University of Manchester at BioHackathon](/images/posts_images/BHEU25-Manchester-lakeside.jpg)
 
