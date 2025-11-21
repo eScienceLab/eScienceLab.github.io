@@ -80,7 +80,7 @@ phd:
 - name: Aravindhan Rajasekar
   role: PhD student
   img: no-photo.png
-- name: Sanskrit Aka Rishiraj Suthar
+- name: Sanskrit Suthar
   role: PhD student
   img: no-photo.png
 
