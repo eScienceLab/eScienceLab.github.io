@@ -82,7 +82,8 @@ phd:
   img: no-photo.png
 - name: Sanskrit Suthar
   role: PhD student
-  img: no-photo.png
+  img: sanskrit-sm.jpg
+  orcid: 0009-0008-2379-0590
 
 associate:
 - name: Andy M. Brass
