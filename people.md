@@ -73,10 +73,6 @@ staff:
 
 
 phd:
-- name: Meznah Aloqalaa
-  role: PhD Student
-  img: meznah-sm.jpg
-  orcid: 0000-0002-1382-3896
 - name: Aravindhan Rajasekar
   role: PhD student
   img: no-photo.png
@@ -138,6 +134,10 @@ associate:
   role: EngD student  
 
 former:
+- name: Meznah Aloqalaa
+  role: PhD Student
+  img: meznah-sm.jpg
+  orcid: 0000-0002-1382-3896
 - name: Rachael Ainsworth
   orcid: 0000-0003-2591-9462
   img: rachael-ainsworth.jpg
