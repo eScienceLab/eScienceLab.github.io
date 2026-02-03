@@ -7,7 +7,7 @@ categories: announcements projects
 
 ![Fairground image](/images/posts_images/fairground-bluegrey-wide.png)
 
-In a change to the usual FAIRDOM User Meeting format, we hosted the first FAIRDOM Mini Hackathon on 20 Februrary 2025. Users, developers, leaders and advocates from seven institutions in five countries created an opportunity to collaborate, discuss and progress a range of matters and features which will be of benefit to the wider FAIRDOM-SEEK community. We also welcomed those interested in learning more about FAIRDOM-SEEK and how it could benefit their work.
+In a change to the usual FAIRDOM User Meeting format, we hosted the first FAIRDOM Mini Hackathon on 20 February 2025. Users, developers, leaders and advocates from seven institutions in five countries created an opportunity to collaborate, discuss and progress a range of matters and features which will be of benefit to the wider FAIRDOM-SEEK community. We also welcomed those interested in learning more about FAIRDOM-SEEK and how it could benefit their work.
 
 The mini hackathon format allowed us to discuss and plan upcoming work, without needing to commit any code immediately. We ran four projects in parallel, covering a range of concepts and teams.
 
