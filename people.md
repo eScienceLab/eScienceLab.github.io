@@ -70,6 +70,10 @@ staff:
   orcid: 0009-0001-3059-0000
   img: michael-sparks-sm.jpg
   role: Senior Research Software Engineer
+- name: Oscar Seip
+  orcid: 0000-0002-8503-2698
+  img: no-photo.png
+  role: Research Community Manager
 
 
 phd:
