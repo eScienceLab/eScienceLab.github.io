@@ -66,7 +66,7 @@ _arXiv_ 2505.15988 [cs.DC]
 Frédéric Suter, Tainã Coleman, İlkay Altintaş, Rosa M. Badia, Bartosz Balis, Kyle Chard, Iacopo Colonnelli, Ewa Deelman, Paolo Di Tommaso, Thomas Fahringer, Carole Goble, Shantenu Jha, Daniel S. Katz, Johannes Köster, Ulf Leser, Kshitij Mehta, Hilary Oliver, J.-Luc Peterson, Giovanni Pizzi, Loïc Pottier, Raül Sirvent, Eric Suchyta, Douglas Thain, Sean R. Wilkinson, Justin M. Wozniak, Rafael Ferreira da Silva (2025):  
 [**A Terminology for Scientific Workflow Systems**](https://arxiv.org/pdf/2506.07838).  
 _Future Generation Computer Systems_ **174**:107974  
-<https://doi.org/10.1016/j.future.2025.107974> [[preprint arXiv:2506.07838](https://arxiv.org/abs/2506.07838)
+<https://doi.org/10.1016/j.future.2025.107974> [[preprint arXiv:2506.07838](https://arxiv.org/abs/2506.07838)]
 
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
 [**WorkflowHub: a registry for computational workflows**](https://research.manchester.ac.uk/files/808300570/s41597-025-04786-3.pdf).  
