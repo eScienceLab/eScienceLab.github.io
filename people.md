@@ -74,6 +74,14 @@ staff:
   orcid: 0000-0002-8503-2698
   img: no-photo.png
   role: Research Community Manager
+- name: Paul Slavin
+  orcid: 0009-0009-5499-2096
+  img: no-photo.png
+  role: Senior Research Software Engineer
+- name: Ali Feizollah
+  orcid: 0000-0003-2439-8482
+  img: no-photo.png
+  role: Research Associate
 
 
 phd:
