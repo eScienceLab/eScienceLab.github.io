@@ -39,23 +39,25 @@ which is particularly useful for long author lists or long titles.
 
 -->
 
+## 2026
+
+Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raúl Fernández-Díaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C. E. Tosatto (2026):  
+[**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
+_Nature Methods_  
+<https://doi.org/10.1038/s41592-026-03037-6> [preprint [arXiv:2505.16619](https://doi.org/10.48550/arXiv.2505.16619)]
+
+
 ## 2025
 
-**Alper P, D'Anna F, Droesbeke B, Andrabi M**, Andrade Buono R, Bianchini F, Bösl K, Chandramouliswaran I, Cook M, Faria D, Hooft R, Jareborg N, Jetten M, Pilvar D, Poires-Oliveira, Gil, Popleteeva M, Portell-Silva L, Slifka J, Suchánek M, van Gelder C, Welte D, Wittig U, Coppens F, Goble C. (2025)  
+Pinar Alper, Flora D'Anna, Bert Droesbeke, Munazah Andrabi, Rafael Andrade Buono, Federico Bianchini, Korbinian Bösl, Ishwar Chandramouliswaran, Martin Cook, Daniel Faria, Nazeefa Fatima, Rob Hooft, Niclas Jareborg, Mijke Jetten, Diana Pilvar, Gil Poires-Oliveira, Marina Popleteeva, Laura Portell-Silva, Jan Slifka, Marek Suchánek, Celia van Gelder, Danielle Welter, Ulrike Wittig, Frederik Coppens, Carole Goble (2025):  
 [**RDMkit: A research data management toolkit for life sciences**](https://doi.org/10.1016/j.patter.2025.101345).  
-_Patterns_, Volume 6, Issue 9, 101345  
-<https://doi.org/10.1016/j.patter.2025.101345>.  
-
+_Patterns_ **6**(9)  
+<https://doi.org/10.1016/j.patter.2025.101345>
 
 Rutger A. Vos, Kessy Abarenkov, Jireh Agda, Josh Agda, Ruud Altenburg, Sarah J. Bourlat, Tom Brown, Eli Chadwick, Pierre-Etienne Cholley, Fabian Deister, Dick Groenenberg, Sharif islam, Nick Juty, Vishnukumar Balavenkataraman Kadhirvelu, Maria Kamouyiaros, Douglas Lowe, Hana Merchant, Joana Pauperio, Benjamin Wills Price, Sujeevan Ratnasingham, Stian Soiland-Reyes, Giorgia Staffoni, Catherine Wei, Oliver White, Dimitris Koureas (2025):  
 [**Enhancing Digital Infrastructures and Data Handling Practices for Single Specimen Barcoding** - the 2024 BGE Barcoding Hackathon]().  
 _BioHackrXiv_  
 <https://doi.org/10.37044/osf.io/xb4ut_v1>
-
-Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raul Fernandez-Diaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C.E. Tosatto (2025):  
-[**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
-_arXiv_ 2505.16619 [cs.AI]  
-<https://doi.org/10.48550/arXiv.2505.16619>
 
 Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
 [**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
