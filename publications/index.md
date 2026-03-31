@@ -46,6 +46,30 @@ Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghan
 _Nature Methods_  
 <https://doi.org/10.1038/s41592-026-03037-6> [preprint [arXiv:2505.16619](https://doi.org/10.48550/arXiv.2505.16619)]
 
+Katharina Heil, Tyler Alioto, Astrid Böhne, Tom Brown, Eli Chadwick, Physilia Chua, Christian de Guttry, Diego De Panis, Carole Goble, Ivo Gut, Marta Gut, Nick Juty, Seanna McTaggart, Laura Najera-Cortazar, Joana Paupério, Tomasz Rewicz, Felix Shaw, Stian Soiland-Reyes, Robert Waterhouse, Peter Woollard, Rutger Vos (2026):  
+[**Integrating the biodiversity genomics continuum**: harmonising data from barcodes to reference genomes](https://doi.org/10.3897/rio.12.e187033).  
+_Research Ideas and Outcomes_ **12**:e187033  
+<https://doi.org/10.3897/rio.12.e187033>
+
+Dimitris Koureas, Pedro Beja, Mark Blaxter, Astrid Böhne, Sarah Bourlat, Torbjørn Ekrem, Brent Emerson, Katharina Heil, José Melo-Ferreira, Ben Price, Rutger Vos, Wouter Addink, Tyler Alioto, Filippos Aravanopoulos, Jonas Astrin, Jean-Marc Aury, Ian Barnes, Claudia Bruschini, Elena Buzan, Guy Cochrane, Tamás Cserkész, Thanos Dailianis, Elza Duijm, Glenn Dunshea, Rosa Fernández, Sónia Ferreira, Giulio Formenti, Sara Fratini, Konstantinos Gkagkavouzis, Carole Goble, Michal Grabowski, Bjorn Grüning, Ivo Gut, Marta Gut, Peter Harrison, Axel Hausmann, Jacob Höglund, Laura Iacolina, Alessio Iannucci, Kjetill Jakobsen, Urmas Kõljalg, Henrik Lantz, Harris Lewin, Jan Macher, Tereza Manousaki, Fergal Martin, Ximo Mengual, Pedro Oliveira, Rebekah Oomen, Michael Raupach, Ana Riesgo, Hugues Roest Crollius, Anna Somogyi, Torsten Struck, Hannes Svardal, Ave Tooming-Klunderud, Alexandros Triantafyllidis, Olga Vinnere Pettersson, Maximilian Wagner, Patrick Wincker, Ni Yan, Jose Alonso, Ana Casino, Claudio Ciofi, Gabriela Daňková, Peter Hollingsworth, Mara Lawniczak, Camila Mazzoni, Robert Waterhouse (2026):  
+[**Biodiversity Genomics Europe (BGE) Project** – Abridged Grant Proposal](https://doi.org/10.3897/rio.12.e187550).  
+_Research Ideas and Outcomes_ **12**:e187550  
+<https://doi.org/10.3897/rio.12.e187550>
+
+Sharif Islam, Hanna Koivula, Carrie Andrew, Julian Lopez Gordillo, Claus Weiland, Dmitry Schigel, Dag Endresen, Christos Arvanitidis, Eli Chadwick, Stian Soiland-Reyes (2026):  
+[**FAIR digital twins for biodiversity**: enabling data, model, and workflow integration](https://doi.org/10.1038/s44185-025-00116-3).  
+_npj Biodiversity_  
+<https://doi.org/10.1038/s44185-025-00116-3>
+
+Frédéric Suter, Tainã Coleman, İlkay Altintaş, Rosa M. Badia, Bartosz Balis, Kyle Chard, Iacopo Colonnelli, Ewa Deelman, Paolo Di Tommaso, Thomas Fahringer, Carole Goble, Shantenu Jha, Daniel S. Katz, Johannes Köster, Ulf Leser, Kshitij Mehta, Hilary Oliver, J.-Luc Peterson, Giovanni Pizzi, Loïc Pottier, Raül Sirvent, Eric Suchyta, Douglas Thain, Sean R. Wilkinson, Justin M. Wozniak, Rafael Ferreira da Silva (2026):  
+[**A Terminology for Scientific Workflow Systems**](https://arxiv.org/pdf/2506.07838).  
+_Future Generation Computer Systems_ **174**:107974  
+<https://doi.org/10.1016/j.future.2025.107974> [[preprint arXiv:2506.07838](https://arxiv.org/abs/2506.07838)]
+
+Meznah Aloqalaa, Stian Soiland-Reyes, Carole Goble (2026):  
+[**PRIMAD-LID: A Developed Framework for Computational Reproducibility**](https://doi.org/10.48550/arXiv.2601.02349).  
+_arXiv_ 2601.02349 [cs.CE]  
+<https://doi.org/10.48550/arXiv.2601.02349>
 
 ## 2025
 
@@ -64,11 +88,6 @@ Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Ca
 Book chapter, draft  
 _arXiv_ 2505.15988 [cs.DC]  
 <https://doi.org/10.48550/arXiv.2505.15988>
-
-Frédéric Suter, Tainã Coleman, İlkay Altintaş, Rosa M. Badia, Bartosz Balis, Kyle Chard, Iacopo Colonnelli, Ewa Deelman, Paolo Di Tommaso, Thomas Fahringer, Carole Goble, Shantenu Jha, Daniel S. Katz, Johannes Köster, Ulf Leser, Kshitij Mehta, Hilary Oliver, J.-Luc Peterson, Giovanni Pizzi, Loïc Pottier, Raül Sirvent, Eric Suchyta, Douglas Thain, Sean R. Wilkinson, Justin M. Wozniak, Rafael Ferreira da Silva (2025):  
-[**A Terminology for Scientific Workflow Systems**](https://arxiv.org/pdf/2506.07838).  
-_Future Generation Computer Systems_ **174**:107974  
-<https://doi.org/10.1016/j.future.2025.107974> [[preprint arXiv:2506.07838](https://arxiv.org/abs/2506.07838)]
 
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
 [**WorkflowHub: a registry for computational workflows**](https://research.manchester.ac.uk/files/808300570/s41597-025-04786-3.pdf).  
