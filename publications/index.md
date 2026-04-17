@@ -17,7 +17,7 @@ Source: [openaccessweek.org](http://www.openaccessweek.org/page/graphics)_
 
 The University of Manchester strive to publish as [open access](https://www.openresearch.manchester.ac.uk/research-services/open-access/), or to provide [green open access](https://manchester-uk.libanswers.com/OOR/faq/279072)
 preprints where [gold open access](https://manchester-uk.libanswers.com/OOR/faq/279073) is not possible. 
-[Research Explorer](https://research.manchester.ac.uk/en/projects/escience-lab/) enables you to discover the University’s publications, impact, activities and much more.
+[Research Explorer](https://research.manchester.ac.uk/en/projects/escience-lab/) enables you to discover the research group’s publications (including preprints), impact, activities and much more.
 Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
