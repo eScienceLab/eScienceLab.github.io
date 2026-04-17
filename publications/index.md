@@ -15,8 +15,10 @@ distributed under a [Creative Commons Attribution 4.0 License](http://creativeco
 Source: [openaccessweek.org](http://www.openaccessweek.org/page/graphics)_
 </small>
 
-The University of Manchester strive to publish as [open access](https://www.library.manchester.ac.uk/using-the-library/staff/research/open-research/access/), or to provide [green open access](https://www.library.manchester.ac.uk/using-the-library/staff/research/open-research/access/understanding/)
-preprints where _gold open access_ is not possible. Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
+The University of Manchester strive to publish as [open access](https://www.openresearch.manchester.ac.uk/research-services/open-access/), or to provide [green open access](https://manchester-uk.libanswers.com/OOR/faq/279072)
+preprints where [gold open access](https://manchester-uk.libanswers.com/OOR/faq/279073) is not possible. 
+[Research Explorer](https://research.manchester.ac.uk/en/projects/escience-lab/) enables you to discover the research group’s publications (including preprints), impact, activities and much more.
+Please [let us know](https://github.com/eScienceLab/eScienceLab.github.io/issues) if you are unable to access any of our publications.
 
 
 <!--
