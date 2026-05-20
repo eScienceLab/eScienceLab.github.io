@@ -15,7 +15,7 @@ project_reference: https://eosc.eu/horizon-europe-projects/tesshub4eosc
 
 [Twenty-three projects have been awarded nearly €1.15 million](https://eosc.eu/news/twenty-three-projects-receive-funding-under-eosc-gravity) under [EOSC Gravity](https://eosc.eu/eosc-gravity) to support the preparatory work of potential future EOSC Nodes, and expand the services offered through the [EOSC Federation](https://eosc.eu/building-the-eosc-federation). 
 
-In this highly competitive open call, we are delighted to share that our project **TeSSHub4EOSC**, led by Prof Carole Goble (Head of Node **ELIXIR-UK**)  and  Oliver Knodel (with **Helmholtz-Zentrum Dresden-Rossendorf**) been selected in this highly competitive environment. 
+In this highly competitive open call, we are delighted to share that our project **TeSSHub4EOSC**, led by Prof Carole Goble (Head of Node **ELIXIR-UK**)  and  Oliver Knodel (with **Helmholtz-Zentrum Dresden-Rossendorf**) been selected. 
 The project is a partnership between The University of Manchester and HZDR with various supporting partners spanning different scientific disciplines. 
 The project spans the [Life Sciences Connect](https://eosc.eu/building-the-eosc-federation/eosc-node-life-sciences-connect) and [Photon and Neutron Cloud](https://eosc.eu/building-the-eosc-federation/eosc-node-panosc) EOSC Nodes. 
 Further project team members include Phil Reed (project coordinator), Martin Voigt, Finn Bacall and Munazah Andrabi.
