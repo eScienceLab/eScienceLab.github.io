@@ -15,7 +15,11 @@ Across three days, participants came together to share progress, discuss challen
 
 - The second day opened with a **plenary**, chaired by ELIXIR-UK Joint Head of Node, Carole Goble, about **infrastructure enabling science**. This first session invited perspectives from across European research spanning a number of key initiatives including [BioFAIR](/projects/biofair/), with a presentation titled "Establishing a national Bioscience Commons - applying old lessons and learning new ones". 
 - Several **workshops and mini syposia** were delivered and coordinated in part by Munazah Andrabi, Nick Juty, Phil Reed and Shoaib Sufi, spanning important community topics including FAIR assessment, data stewardship, interoperability, and training. 
-- Seven **posters** were presented, including for [RO-Crate](https://f1000research.com/posters/15-961), [mTeSS-X](https://f1000research.com/posters/15-958), [WorkflowHub](https://f1000research.com/posters/15-960) and [Bioschemas](https://f1000research.com/posters/15-959).
+- Seven **posters** were presented, including:
+  - [RO-Crate (doi:10.7490/f1000research.1120612.1)](https://doi.org/10.7490/f1000research.1120612.1)
+  - [mTeSS-X (doi:10.7490/f1000research.1120609.1)](https://doi.org/10.7490/f1000research.1120609.1)
+  - [WorkflowHub (doi:10.7490/f1000research.1120611.1)](https://doi.org/10.7490/f1000research.1120611.1)
+  - [Bioschemas (doi:10.7490/f1000research.1120610.1)](https://doi.org/10.7490/f1000research.1120610.1)
 
 
 [Read more on the ELIXIR website](https://elixir-europe.org/news/AHM2026).
