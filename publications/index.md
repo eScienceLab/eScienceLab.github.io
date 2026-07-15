@@ -43,23 +43,55 @@ which is particularly useful for long author lists or long titles.
 
 ## 2026
 
+Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2026):  
+[**An Ecosystem of Services for FAIR Computational Workflows**](https://depositonce.tu-berlin.de/items/8c91b6d2-3a9d-45da-993e-b3e78e2722d7).  
+Book chapter.  
+[_Workflow systems for large-scale scientific data analysis_](https://doi.org/10.14279/depositonce-24000) (Ulf Leser, Marcus Hilbrich, Sean R. Wilkinson, Rafael Ferreira da Silva, eds.)  
+ISBN 978-3-98781-068-8  
+<https://doi.org/10.14279/depositonce-25818>
+
+
 Meznah Aloqalaa, Stian Soiland-Reyes, Carole Goble (2026):  
-**A Structured Examination of Reproducibility**: A Case Study for HTS Using the PRIMAD Model and BioCompute Object.  
+[**A Structured Examination of Reproducibility**: A Case Study for HTS Using the PRIMAD Model and BioCompute Object](https://doi.org/10.5334/dsj-2026-024).  
 _Data Science Journal_ **25**:24  
 <https://doi.org/10.5334/dsj-2026-024>
 
+Bruce S. Kristal, Melissa D. McCradden, Jeyan Thiyagalingam, Zijun Zhang, Carole Goble (2026):
+[**Five views on the foundations of data science**](https://doi.org/10.1016/j.patter.2026.101566).  
+_Patterns_ **7**  
+<https://doi.org/10.1016/j.patter.2026.101566>
 
+Gavin Farrell,
+Eva Alloza,
+Adel Bouhraoua,
+Salvador Capella-Gutierrez,
+Carole Goble,
+Henning Hermjakob,
+Andrew Smith,
+Shoaib Sufi,
+Thanasis Vergoulis,
+Mehdi Zoubiri,
+Federica Quaglia,
+Silvio C.E. Tosatto (2026)  
+**Credit, recognition, and reward for non-traditional research artefacts in the Life Sciences**.  
+_MetaArXiV_ praxg_v1
+<https://doi.org/10.31222/osf.io/praxg_v1>
 
 Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raúl Fernández-Díaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C. E. Tosatto (2026):  
 [**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
 _Nature Methods_  
 <https://doi.org/10.1038/s41592-026-03037-6> [preprint [arXiv:2505.16619](https://doi.org/10.48550/arXiv.2505.16619)]
 
+Anita Banerji, Aishah Rashid, Shoaib Sufi, Caroline Jay (2026):  
+[**Recommendations from a Fellowship Programme for Advocates of Good Software Practices in Research**](https://doi.org/10.5334/jors.616).  
+_Journal of Open Research Software_ **14**(1):9  
+<https://doi.org/10.5334/jors.616>
+
 Katharina Heil, Tyler Alioto, Astrid Böhne, Tom Brown, Eli Chadwick, Physilia Chua, Christian de Guttry, Diego De Panis, Carole Goble, Ivo Gut, Marta Gut, Nick Juty, Seanna McTaggart, Laura Najera-Cortazar, Joana Paupério, Tomasz Rewicz, Felix Shaw, Stian Soiland-Reyes, Robert Waterhouse, Peter Woollard, Rutger Vos (2026):  
 [**Integrating the biodiversity genomics continuum**: harmonising data from barcodes to reference genomes](https://doi.org/10.3897/rio.12.e187033).  
 _Research Ideas and Outcomes_ **12**:e187033  
 <https://doi.org/10.3897/rio.12.e187033>
-
+/
 Dimitris Koureas, Pedro Beja, Mark Blaxter, Astrid Böhne, Sarah Bourlat, Torbjørn Ekrem, Brent Emerson, Katharina Heil, José Melo-Ferreira, Ben Price, Rutger Vos, Wouter Addink, Tyler Alioto, Filippos Aravanopoulos, Jonas Astrin, Jean-Marc Aury, Ian Barnes, Claudia Bruschini, Elena Buzan, Guy Cochrane, Tamás Cserkész, Thanos Dailianis, Elza Duijm, Glenn Dunshea, Rosa Fernández, Sónia Ferreira, Giulio Formenti, Sara Fratini, Konstantinos Gkagkavouzis, Carole Goble, Michal Grabowski, Bjorn Grüning, Ivo Gut, Marta Gut, Peter Harrison, Axel Hausmann, Jacob Höglund, Laura Iacolina, Alessio Iannucci, Kjetill Jakobsen, Urmas Kõljalg, Henrik Lantz, Harris Lewin, Jan Macher, Tereza Manousaki, Fergal Martin, Ximo Mengual, Pedro Oliveira, Rebekah Oomen, Michael Raupach, Ana Riesgo, Hugues Roest Crollius, Anna Somogyi, Torsten Struck, Hannes Svardal, Ave Tooming-Klunderud, Alexandros Triantafyllidis, Olga Vinnere Pettersson, Maximilian Wagner, Patrick Wincker, Ni Yan, Jose Alonso, Ana Casino, Claudio Ciofi, Gabriela Daňková, Peter Hollingsworth, Mara Lawniczak, Camila Mazzoni, Robert Waterhouse (2026):  
 [**Biodiversity Genomics Europe (BGE) Project** – Abridged Grant Proposal](https://doi.org/10.3897/rio.12.e187550).  
 _Research Ideas and Outcomes_ **12**:e187550  
@@ -82,6 +114,17 @@ _arXiv_ 2601.02349 [cs.CE]
 
 ## 2025
 
+Eva Martin del Pico, Fotis E. Psomopoulos, Laura Portell-Silva, Renato Alves, Sebastien Moretti, Shoaib Sufi, AKE Bouhraoua, David Steinberg, Gavin Farrell, Maria Tsontaki, Rafael Andrade Buono, Sebastian Beier, Daniel Garijo, José María Fernández, Mariia Steeghs-Turchina, Mihail Anton, Magnus Palmblad (2025):  
+**Software Quality Indicators: extraction, categorisation and recommendations from canonical sources**.  
+_BioHackrXiv_  
+<https://doi.org/10.37044/osf.io/etp3g_v1>
+
+
+Yo Yehudi, Mikaela Cashman, Michael Goedicke, Wilhelm Hasselbring, Daniel S Katz, Sebastian Müller, Carole Goble, Caroline Jay (2025):  
+[**Research Software Lifecycles and Stages**](https://www.eceasst.org/index.php/eceasst/article/view/2693/2809).  
+_Electronic Communications of the EASST_ **85**  
+<https://doi.org/10.14279/eceasst.v85.2693>
+
 Pinar Alper, Flora D'Anna, Bert Droesbeke, Munazah Andrabi, Rafael Andrade Buono, Federico Bianchini, Korbinian Bösl, Ishwar Chandramouliswaran, Martin Cook, Daniel Faria, Nazeefa Fatima, Rob Hooft, Niclas Jareborg, Mijke Jetten, Diana Pilvar, Gil Poires-Oliveira, Marina Popleteeva, Laura Portell-Silva, Jan Slifka, Marek Suchánek, Celia van Gelder, Danielle Welter, Ulrike Wittig, Frederik Coppens, Carole Goble (2025):  
 [**RDMkit: A research data management toolkit for life sciences**](https://doi.org/10.1016/j.patter.2025.101345).  
 _Patterns_ **6**(9)  
@@ -92,11 +135,6 @@ Rutger A. Vos, Kessy Abarenkov, Jireh Agda, Josh Agda, Ruud Altenburg, Sarah J. 
 _BioHackrXiv_  
 <https://doi.org/10.37044/osf.io/xb4ut_v1>
 
-Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2025):  
-[**An Ecosystem of Services for FAIR Computational Workflows**](https://doi.org/10.48550/arXiv.2505.15988).  
-Book chapter, draft  
-_arXiv_ 2505.15988 [cs.DC]  
-<https://doi.org/10.48550/arXiv.2505.15988>
 
 Ove Johan Ragnar Gustafsson, Sean R. Wilkinson, Finn Bacall, Stian Soiland-Reyes, Simone Leo, Luca Pireddu, Stuart Owen, Nick Juty, José Mª Fernández, Tom Brown, Hervé Ménager, Björn Grüning, Salvador Capella-Gutierrez, Frederik Coppens, Carole Goble (2025):  
 [**WorkflowHub: a registry for computational workflows**](https://research.manchester.ac.uk/files/808300570/s41597-025-04786-3.pdf).  
@@ -626,7 +664,7 @@ Annika Jacobsen, Ricardo de Miranda Azevedo, Nick Juty, Dominique Batista, Simon
 _Data Intelligence_ **2**(1):10–29  
 <https://doi.org/10.1162/dint_r_00024>
  
-Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin Del Pico, Victoria Dominguez Del Angel, Stephanie Van De Sandt, Jon Ison, Paula Andrea Martinez, Peter Mcquilton, Alfonso Valencia, Jennifer Harrow, Fotis Psomopoulos, Josep Ll. Gelpi, Neil Chue Hong, Carole Goble, Salvador Capella-Gutierrez (2020):  
+Anna-Lena Lamprecht, Leyla Garcia, Mateusz Kuzak, Carlos Martinez, Ricardo Arcila, Eva Martin del Pico, Victoria Dominguez Del Angel, Stephanie Van De Sandt, Jon Ison, Paula Andrea Martinez, Peter Mcquilton, Alfonso Valencia, Jennifer Harrow, Fotis Psomopoulos, Josep Ll. Gelpi, Neil Chue Hong, Carole Goble, Salvador Capella-Gutierrez (2020):  
 [**Towards FAIR principles for research software**](https://doi.org/10.3233/DS-190026).  
 _Data Science_ **3**(1) pp. 37–59.  
 <https://doi.org/10.3233/DS-190026>
