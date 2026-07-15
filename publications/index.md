@@ -43,6 +43,13 @@ which is particularly useful for long author lists or long titles.
 
 ## 2026
 
+Meznah Aloqalaa, Stian Soiland-Reyes, Carole Goble (2026):  
+**A Structured Examination of Reproducibility**: A Case Study for HTS Using the PRIMAD Model and BioCompute Object.  
+_Data Science Journal_ **25**:24  
+<https://doi.org/10.5334/dsj-2026-024>
+
+
+
 Gavin Farrell, Eleni Adamidi, Rafael Andrade Buono, Mihail Anton, Omar Abdelghani Attafi, Salvador Capella Gutierrez, Emidio Capriotti, Leyla Jael Castro, Davide Cirillo, Lisa Crossman, Christophe Dessimoz, Alexandros Dimopoulos, Raúl Fernández-Díaz, Styliani-Christina Fragkouli, Carole Goble, Wei Gu, John M. Hancock, Alireza Khanteymoori, Tom Lenaerts, Fabio G. Liberante, Peter Maccallum, Alexander Miguel Monzon, Magnus Palmblad, Lucy Poveda, Ovidiu Radulescu, Denis C. Shields, Shoaib Sufi, Thanasis Vergoulis, Fotis Psomopoulos, Silvio C. E. Tosatto (2026):  
 [**Open and Sustainable AI**: challenges, opportunities and the road ahead in the life sciences](https://doi.org/10.48550/arXiv.2505.16619).  
 _Nature Methods_  
