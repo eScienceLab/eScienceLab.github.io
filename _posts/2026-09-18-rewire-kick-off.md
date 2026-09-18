@@ -46,3 +46,5 @@ eScience Lab will contribute work on many aspects, including the leading of thre
 - Pilot Group B: coordinating implementation support for four pilot organisations
 
 ![Consortium of organisations in REWIRE](/images/posts_images/Consortium_REWIRE.png)
+
+For more information, [follow REWIRE on LinkedIn](https://www.linkedin.com/company/rewire-project-eu/). 
