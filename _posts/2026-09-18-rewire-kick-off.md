@@ -7,11 +7,13 @@ categories: announcements rewire
 
 As research becomes more computational, data-intensive, and AI-driven, reproducing results increasingly depends on access to the data, code, software, workflows, and computational environments behind them.
 
-This is the challenge [REWIRE](/projects/rewire/), a new Horizon Europe project starting September 2026, sets out to address.
+This is the challenge [REWIRE](/projects/rewire/), a new €2m Horizon Europe project starting September 2026, sets out to address.
 
 Rather than creating another set of tools, REWIRE will focus on making proven reproducibility practices easier to adopt in everyday research, testing them in real settings across Europe and turning those experiences into practical guidance, training, and implementation pathways.
 
 ## The consortium meets at the kick-off meeting in Athens
+
+![Group photo at the REWIRE kick-off](/images/posts_images/REWIRE_kick-off_group_photo.jpg)
 
 Following the official start on 1 September, partners came together in Athens on 17–18 September to set the foundations for the three years ahead. On Day 2, the focus turned fully to the work ahead.
 
@@ -33,3 +35,14 @@ Over the next three years, REWIRE will be sharing what we learn, what works, and
 
 ## eScience Lab involvement
 
+![Carole Goble presenting RO-Crate intervention at the REWIRE kick-off](/images/posts_images/REWIRE_kick-off_Carole_photo.jpg)
+
+The University of Manchester have a large RO-Crate team, (as well as co-leading the international RO-Crate community with colleagues in Australia, USA and Europe) that work on many national and European (EOSC) projects using RO-Crates. Phil Reed will be the project interface to this team who will be incorporated as needs require. 
+
+eScience Lab will contribute work on many aspects, including the leading of three tasks:
+
+- BLUEPRINTS: how the evidence gets built (co-led with [Inria](https://www.inria.fr/en))
+- RO-Crate profiles: supporting machine actionable data management plans
+- Pilot Group B: coordinating implementation support for four pilot organisations
+
+![Consortium of organisations in REWIRE](/images/posts_images/Consortium_REWIRE.png)
