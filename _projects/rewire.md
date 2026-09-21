@@ -38,4 +38,12 @@ The project will validate its approach through pilot implementations in diverse 
 
 ![Consortium of organisations in REWIRE](/images/posts_images/Consortium_REWIRE.png)
 
+## eScience Lab involvement
+
+eScience Lab will contribute work on many aspects, including the leading of three tasks:
+
+- BLUEPRINTS: how the evidence gets built (co-led with [Inria](https://www.inria.fr/en))
+- RO-Crate profiles: supporting machine actionable data management plans
+- Pilot Group B: coordinating implementation support for four pilot organisations
+
 For more details, please read the [post on OpenAIRE](https://www.openaire.eu/introducing-rewire-advancing-reproducibility-across-the-european-research-area).
