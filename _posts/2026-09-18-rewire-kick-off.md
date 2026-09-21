@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "University of Manchester to lead BioFAIR's first national Methods Commons"
+title:  "REWIRE project kicks off to improve computational reproducibility practices in everyday research"
 date:   2026-09-18 09:00:00 +0000
 categories: announcements rewire
 ---
@@ -14,6 +14,8 @@ Rather than creating another set of tools, REWIRE will focus on making proven re
 ## The consortium meets at the kick-off meeting in Athens
 
 ![Group photo at the REWIRE kick-off](/images/posts_images/REWIRE_kick-off_group_photo.jpg)
+
+_Group photo at the project kick-off (credit: REWIRE)_
 
 Following the official start on 1 September, partners came together in Athens on 17–18 September to set the foundations for the three years ahead. On Day 2, the focus turned fully to the work ahead.
 
@@ -36,6 +38,8 @@ Over the next three years, REWIRE will be sharing what we learn, what works, and
 ## eScience Lab involvement
 
 ![Carole Goble presenting RO-Crate intervention at the REWIRE kick-off](/images/posts_images/REWIRE_kick-off_Carole_photo.jpg)
+
+_Carole Goble presenting RO-Crate intervention at the project kick-off (credit: REWIRE)_
 
 The University of Manchester have a large RO-Crate team, (as well as co-leading the international RO-Crate community with colleagues in Australia, USA and Europe) that work on many national and European (EOSC) projects using RO-Crates. Phil Reed will be the project interface to this team who will be incorporated as needs require. 
 
