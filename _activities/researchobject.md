@@ -1,7 +1,7 @@
 ---
 layout: product
 name: research_object
-title: Research Object crate
+title: Research Object Crate
 path: research_object
 collection: activities
 highlight: true
@@ -26,7 +26,7 @@ The eScience Lab is leading the community efforts of the Research Object impleme
 
 ## RO-Crate in funded eScience projects
 
-- [AgroServe](/projects/AgroServ) <!--and the [DataPLANT](https://nfdi4plants.org/) initiative developed the [Annotated Research Context](https://arc-rdm.org/) based on RO-Crate and [Common Workflow language](cwl.d)--.
+- [AgroServe](/projects/AgroServ) 
 - [Biodiversity Genomics Europe](/projects/biodiversitygenomics/)
 - [BioFAIR](/projects/biofair)
 - [ClimateAdapt4EOSC](/projects/climate-adapt)
