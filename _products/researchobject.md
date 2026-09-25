@@ -37,4 +37,4 @@ RO-Crate is used in several of our projects and products:
 * [EuroScienceGateway](/projects/eurosciencegateway) -- adding [Workflow Run Crate](https://www.researchobject.org/workflow-run-crate/) support to Galaxy and publishing these as FAIR Digital Objects
 * [TRE-FX](/projects/trefx) and HDR UK QQ2 -- to build the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile for execution workflows on Trusted Research Environment
 * [EVERSE](/projects/everse) -- as the exchange mechanism for the workflow execution service [WfExS](https://github.com/inab/WfExS-backend)
-* [EOSC-ENRTUST](/projects/entrust) -- using the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile as part of workflow processing
+* [EOSC-ENTRUST](/projects/entrust) -- using the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile as part of workflow processing
