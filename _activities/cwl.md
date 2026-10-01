@@ -18,6 +18,15 @@ The eScience Lab have participated in the CWL project since its early days, cont
 
 ## References
 
+
+Michael R. Crusoe, Sanne Abeln, Alexandru Iosup, Peter Amstutz, John Chilton, Nebojša Tijanić, Hervé Ménager, Stian Soiland-Reyes, Bogdan Gavrilović, Carole Goble, The CWL Community (2022):  
+[**Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language**](http://cacm.acm.org/magazines/2022/6/261172/fulltext?doi=10.1145%2F3486897).  
+_Communications of the ACM_ **65**(6)  
+<https://doi.org/10.1145/3486897>  
+[arXiv:2105.07028 [cs.DC]](https://doi.org/10.48550/arXiv.2105.07028)
+[[pdf](https://dl.acm.org/doi/pdf/10.1145/3486897)
+[[html](https://cacm.acm.org/research/methods-included/)
+
 Mark Robinson, Stian Soiland-Reyes, Michael R Crusoe, Carole Goble (2017): 
 **[CWL Viewer: The Common Workflow Language viewer](https://www.research.manchester.ac.uk/portal/en/publications/cwl-viewer(b60c4d3c-303b-4b54-94f0-9cb1e9059b20).html)** [version 1; not peer reviewed]. _F1000Research_ 2017, **6**(ISCB Comm J):1075 (poster) [https://doi.org/10.7490/f1000research.1114375.1](https://doi.org/10.7490/f1000research.1114375.1)
 
