@@ -5,8 +5,8 @@ title: "ELIXIR-STEERS"
 path: elixir-steers.html
 collection: projects
 description: Developing, consolidating and optimising ELIXIR as an European research infrastructure
-#logo: steers.svg
-#website: http://example.eu/
+logo: elixir-steers.png
+website: https://elixir-europe.org/about-us/how-funded/eu-projects/steers
 start_date: 2024-03
 duration: 36 months
 project_reference: https://doi.org/10.3030/101131096

@@ -5,7 +5,7 @@ title: "EOSC-ENTRUST"
 path: eosc-entrust.html
 collection: projects
 description: A European Network of TRUSTed research environments
-#logo: eosc-entrust.svg
+logo: eosc-entrust.svg
 website: http://eosc-entrust.eu/
 start_date: 2024-03
 duration: 36 months
