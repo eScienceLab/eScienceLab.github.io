@@ -5,7 +5,7 @@ title: "EOSC AIssistant"
 path: eosc-aissistant.html
 collection: projects
 description: Trustworthy, FAIR-by-design assistant to help scientists discover data, generate hypotheses, orchestrate workflows, and produce reproducible research outputs inside the EOSC ecosystem.
-logo: eosc-aissistant.svg
+logo: eosc-aissistant.png
 website: https://eosc-aissistant.eu/
 start_date: 2026-09
 duration: 36 months
