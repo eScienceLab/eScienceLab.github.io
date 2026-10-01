@@ -11,7 +11,7 @@ start_date: 2014-11-01
 end_date: 2020-04-30
 highlight: true
 duration: 66 months ++
-expired: false
+expired: true
 project_reference: https://gow.bbsrc.ukri.org/grants/AwardDetails.aspx?FundingReference=BB/M013189/1
 ---
 
@@ -42,3 +42,4 @@ We achieve this by:
 * A Facility of support services for curation, training, and data management planning for the [EraSysAPP](https://www.erasysapp.eu/) projects.
 * A European Knowledge community for standards, data and model management expertise, FAIRDOM users and developers, and developers of Systems Biology tools and resources. We run workshops and summer schools, and will develop a library of standard templates for data, model and SOP management.
 * Working with stakeholders – funders, policy makers, research infrastructures, journals and standards initiatives – to foster FAIR data and model management in Systems Biology. We work actively with [COMBINE](http://co.mbine.org/) and [ISBE](http://project.isbe.eu/), as well as other national initiatives.
+
