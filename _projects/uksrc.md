@@ -9,6 +9,7 @@ logo: uksrc.jpg
 website: https://uksrc.github.io/
 highlight: false
 start_date: 2023-01-01
+expired: true
 duration:
 project_reference: 
 ---

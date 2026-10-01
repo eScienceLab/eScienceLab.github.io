@@ -4,7 +4,7 @@ name: biofair
 title: BioFAIR
 path: biofair.html
 collection: projects
-description: Supporting the UK’s life science community with world class digital infrastructure for data driven bioscience.
+description: Supporting the UK’s life science community with world class digital infrastructure for data driven bioscience. BioFAIR Methods Commons aims to establish a world-leading, standards-based national infrastructure for FAIR computational workflows in the UK life sciences.
 logo: biofair.png
 website: https://biofair.uk/
 start_date: 2024-04-01
