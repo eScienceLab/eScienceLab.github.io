@@ -1,10 +1,10 @@
 ---
 layout: project
 name: Institute for Research Software
-title: "Institute for Research Software, previously the Software Sustainability Institute (SSI)"
+title: Institute for Research Software
 path: ssi
 collection: projects
-description: The UK's leading centre of expertise for research software
+description: The UK's leading centre of expertise for research software (previously named SSI, the Software Sustainability Institute)
 logo: institute-for-research-software.svg
 highlight: true
 website: http://www.software.ac.uk
