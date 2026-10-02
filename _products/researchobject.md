@@ -38,3 +38,13 @@ RO-Crate is used in several of our projects and products:
 * [TRE-FX](/projects/trefx) and HDR UK QQ2 -- to build the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile for execution workflows on Trusted Research Environment
 * [EVERSE](/projects/everse) -- as the exchange mechanism for the workflow execution service [WfExS](https://github.com/inab/WfExS-backend)
 * [EOSC-ENTRUST](/projects/entrust) -- using the [Five Safe RO-Crate](https://w3id.org/5s-crate/) profile as part of workflow processing
+* [AgroServe](/projects/agroserv/) 
+* [Biodiversity Genomics Europe](/projects/biodiversitygenomics/)
+* [Biodiversity Genomics Europe plus](/projects/bge-plus/)
+* [BioFAIR Methods Commons](/projects/biofair/)
+* [ClimateAdapt4EOSC](/projects/climate-adapt/)
+* [CDIF4EOSC](/projects/cdif4eosc/)
+* [EOSC AI4Social](/projects/ai4social/)
+* [EOSC AIssistant](/projects/eosc-aissistant/)
+* [REWIRE](/projects/rewire/)
+* [TREvolution](projects/trevolution/)
