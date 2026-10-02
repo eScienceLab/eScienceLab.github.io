@@ -26,20 +26,20 @@ The eScience Lab is leading the community efforts of the Research Object impleme
 
 ## RO-Crate in funded eScience projects
 
-- [AgroServe](/projects/AgroServ) 
-- [Biodiversity Genomics Europe](/projects/biodiversitygenomics/)
-- [BioFAIR](/projects/biofair)
-- [ClimateAdapt4EOSC](/projects/climate-adapt)
-- CDIF4EOSC
-- [ELIXIR](/projects/ELIXIR)
-- [EVERSE](/projects/everse)
-- [EOSC-ENTRUST](/projects/eosc-entrust)
-- EOSC AI4Social
-- EOSC AIssistant
-- [REWIRE](/projects/rewire)
-- [TREvolution](projects/trevolution)
+- [AgroServe](/projects/agroserv/) 
+- [Biodiversity Genomics Europe](/projects/biodiversitygenomics//)
+- [BioFAIR](/projects/biofair/)
+- [ClimateAdapt4EOSC](/projects/climate-adapt/)
+- [CDIF4EOSC](/projects/cdif4eosc/)
+- [ELIXIR](/projects/ELIXIR/)
+- [EVERSE](/projects/everse/)
+- [EOSC-ENTRUST](/projects/eosc-entrust/)
+- [EOSC AI4Social](/projects/ai4social/)
+- [EOSC AIssistant](/projects/eosc-aissistant/)
+- [REWIRE](/projects/rewire/)
+- [TREvolution](projects/trevolution/)
 
-Previous funding include; BY-COVID, BioDT, BioExcel, EOSC-Life, EOSC4Cancer, EuroScienceGateway, FAIR-IMPACT, TRE-FX
+Previous funding include: BY-COVID, BioDT, BioExcel, EOSC-Life, EOSC4Cancer, EuroScienceGateway, FAIR-IMPACT, TRE-FX
 
 ## Related publications
 
