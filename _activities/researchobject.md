@@ -21,25 +21,19 @@ The strategic impact of RO-Crate lies in its extensibility. Multiple communities
  
 Building on Linked Data technologies and an incremental approach to FAIR principles (“just enough semantics”), RO-Crate lifts metadata from platform specific systems into a common open format. RO-Crate supports packaging data together with software and computational context and is adopted by workflow systems and research infrastructures for provenance capture and reproducibility.
 
-The eScience Lab is leading the community efforts of the Research Object implementation, in collaboration with University of Queensland. 
+The eScience Lab is leading the community efforts of the Research Object Crate, in collaboration with University of Queensland. 
 
 
-## RO-Crate in funded eScience projects
+## History
 
-- [AgroServe](/projects/agroserv/) 
-- [Biodiversity Genomics Europe](/projects/biodiversitygenomics//)
-- [BioFAIR](/projects/biofair/)
-- [ClimateAdapt4EOSC](/projects/climate-adapt/)
-- [CDIF4EOSC](/projects/cdif4eosc/)
-- [ELIXIR](/projects/ELIXIR/)
-- [EVERSE](/projects/everse/)
-- [EOSC-ENTRUST](/projects/eosc-entrust/)
-- [EOSC AI4Social](/projects/ai4social/)
-- [EOSC AIssistant](/projects/eosc-aissistant/)
-- [REWIRE](/projects/rewire/)
-- [TREvolution](projects/trevolution/)
+Work on the [Research Object](https://www.researchobject.org/) concept in the eScience Lab (then myGrid) spurred around 2009 from workflow preservation efforts of [myExperiment](/products/myexperiment/) and [Taverna](/products/taverna/), and continued within the [Wf4Ever](/projects/wf4ever) project that developed the [Suite of RO ontologies](https://www.researchobject.org/specs/#research-object-model-specifications). 
 
-Previous funding include: BY-COVID, BioDT, BioExcel, EOSC-Life, EOSC4Cancer, EuroScienceGateway, FAIR-IMPACT, TRE-FX
+Support for Research Objects was added to Taverna, which formed the basis for [CWLProv](https://w3id.org/cwl/prov/) 
+
+The Research Object concept was reborn as [RO-Crate](https://www.researchobject.org/ro-crate/), a lightweight representation of research objects, using schema.org and JSON-LD in a fixed JSON-LD serialisation. 
+
+See [Research Object publications](https://www.researchobject.org/publications/) and [Research Object background for RO-Crate](https://www.researchobject.org/ro-crate/background).
+
 
 ## Related publications
 
