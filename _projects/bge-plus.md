@@ -1,7 +1,7 @@
 ---
 layout: project
 name: bge-plus
-title: BGE+
+title: Biodiversity Genomics Europe plus (BGE+)
 path: bge-plus.html
 collection: projects
 description: Biodiversity Genomics Europe plus: Scaling up interoperable and FAIR biodiversity genomics across Europe
