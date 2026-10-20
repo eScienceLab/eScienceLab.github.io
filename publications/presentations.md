@@ -10,6 +10,7 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 ## 2026
 
 * Phil Reed (2026): [TeSSHub4EOSC: FAIR training catalogue infrastructure](https://doi.org/10.5281/zenodo.23423757), [EOSC Symposium 2026](https://eosc.eu/symposium-2026), Florence, Italy, 2026-10-14.
+* Carole Goble (2026): [The Research Object Odyssey:a journey of technology, community and politics](https://www.escience-conference.org/2026/keynotes), [IEEE eScience 2026](https://www.escience-conference.org/2026/), Naples, Italy, 2026-09-30.
 * Munazah Andrabi (2026): [FAIRDOM-SEEK: A platform for FAIR data and research asset management](https://fairdomhub.org/presentations/1523), [ISCB-UK 2026](https://www.iscb.org/uk2026/home), University of Cambridge, Cambridge, UK, 2026-04-21.
 
 
