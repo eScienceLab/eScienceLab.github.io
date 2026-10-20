@@ -7,6 +7,10 @@ This is a infrequently updated (and incomplete) list of presentation made by the
 
 Recent presentations are uploaded to the [eScience Lab Zenodo Community](https://zenodo.org/communities/esciencelab/records)
 
+## 2026
+* Munazah Andrabi (2026): [FAIRDOM-SEEK: A platform for FAIR data and research asset management](https://fairdomhub.org/presentations/1523), [ISCB-UK 2026](https://www.iscb.org/uk2026/home), University of Cambridge, Cambridge, UK, 2026-04-21.
+* Phil Reed (2026): [A FAIR registry for workflows](https://doi.org/10.5281/zenodo.19696617), [ISCB-UK 2026](https://www.iscb.org/uk2026/home), University of Cambridge, Cambridge, UK, 2026-04-21/22.
+
 ## 2025
 * Phil Reed, Abigail Miller (2025): [Improving FAIRability of your research outcomes with RO-Crates and Bioschemas](https://philreeddata.github.io/acmrep25/). 2025 ACM Conference on Reproducibility and Replicability (ACM REP’25), University of British Columbia, Vancouver, Canada, 2025-07-29/–31.
 * Eli Chadwick, Warren Del-Pinto, Alexander Hambley, Stian Soiland-Reyes (2025): [Demystifying RO-Crate: An introduction to RO-Crate for TREvolution and DARE Early Adopters](https://doi.org/10.5281/zenodo.15862112), DARE TREvolution webinar 2025-05-22. [[video](https://www.youtube.com/watch?v=7XSQKJOpZ20)]
