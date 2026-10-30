@@ -8,10 +8,32 @@ This is a infrequently updated (and incomplete) list of posters made by the [eSc
 
 Recent posters are uploaded to the [eScience Lab Zenodo Community](https://zenodo.org/communities/esciencelab/records)
 
+## 2026
+
+Eli Chadwick, Sanskrit Suthar, Phil Reed, Stian Soiland-Reyes, Peter Sefton, Carole Goble (2026):  
+[**RO-Crate**: Packaging research outputs with FAIR metadata for reproducibility across domains](https://doi.org/10.5281/zenodo.22814318).  
+[_IEEE eScience 2026_](https://www.escience-conference.org/2026/), Naples, Italy, 2026-09-28/--10-02.  
+<https://doi.org/10.5281/zenodo.22814318>
+
+Sanskrit Suthar, Stuart Owen, Finn Bacall, Phil Reed, Nick Juty, Munazah Andrabi, Stian Soiland-Reyes, Johan Gustafsson, Carole Goble (2026):  
+[**WorkflowHub**: A FAIR registry for computational workflows across scientific domains](https://doi.org/10.5281/zenodo.22814905).  
+[_IEEE eScience 2026_](https://www.escience-conference.org/2026/), Naples, Italy, 2026-09-28/--10-02.  
+<https://doi.org/10.5281/zenodo.22814905>
+
+Carole Goble, Oliver Knodel, Phil Reed, Finn Bacall, Munazah Andrabi, Martin Voigt, Kenneth Rioja (2026):  
+[**mTeSS-X**: Scaling Training Portal Federation for RIs through Multi-Tenanting and Exchange](https://doi.org/10.5281/zenodo.22746012).  
+<https://doi.org/10.5281/zenodo.22746012>
+
+Munazah Andrabi, Phil Reed, Stian Soiland-Reyes, Carole Goble (2026):  
+[**eScience Lab ISCB-UK 2026 presentations**](https://doi.org/10.5281/zenodo.19696618): 
+posters on RDMkit, RO-Crate, mTeSS-X, RSQKit, Bioschemas and WorkflowHub, and a talk on FAIRDOM-SEEK.  
+[_ISCB-UK 2026_](https://www.iscb.org/uk2026/home), Cambridge, UK, 2026-04-21/--22.  
+<https://doi.org/10.5281/zenodo.19696618>
+
 ## 2025
 
 Phil Reed, Munazah Andrabi (2025):  
-[**TeSS: a federated, FAIR-aligned platform for distributed management and exchange of training resources**]()
+[**TeSS: a federated, FAIR-aligned platform for distributed management and exchange of training resources**](https://doi.org/10.5281/zenodo.15835788).  
 _Intelligent Systems for Molecular Biology_ and _European Conference on Computational Biology_ (ISMB/ECCB 2025), Liverpool, Manchester, 2025-07-20/--24.  
 <https://doi.org/10.5281/zenodo.15835788>
 
@@ -37,7 +59,7 @@ _Intelligent Systems for Molecular Biology_ and _European Conference on Computat
 Eli Chadwick, Warren Del-Pinto, Alexander Hambley, Stian Soiland-Reyes (2025):  
 [**Demystifying RO-Crate**: An introduction to RO-Crate for TREvolution and DARE Early Adopters](https://youtu.be/7XSQKJOpZ20).  
 _DARE TREvolution_ webinar  
-<https://doi.org/10.5281/zenodo.15641886>
+<https://doi.org/10.5281/zenodo.15862112>
 [[video](https://youtu.be/7XSQKJOpZ20)]
 
 Stian Soiland-Reyes, Stuart Wheater, Thomas Giles, Jonathan Couldridge, Phil Quinlan, Carole Goble (2025):  
@@ -82,6 +104,11 @@ ELIXIR All Hands Meeting ([AHM2025](https://elixir-europe.org/events/elixir-all-
 _F1000Research_ **14**(ELIXIR):530 (poster)  
 <https://doi.org/10.7490/f1000research.1120189.1>
 
+
+Phil Reed (2025):  
+[**ELIXIR and the Physical Sciences**: shared tools and services](https://doi.org/10.5281/zenodo.14962111).  
+_Research Data in the Physical Sciences: A Forum for Librarians and Research Support Professionals_ ([PSDI Research Data Forum 2025](https://www.psdi.ac.uk/event/research-data-forum-2025/)), Edinburgh, UK, 2025-03-05/--06.  
+<https://doi.org/10.5281/zenodo.14962111>
 
 ## 2024
 

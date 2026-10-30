@@ -43,6 +43,41 @@ which is particularly useful for long author lists or long titles.
 
 ## 2026
 
+Phil Reed, Oliver Knodel, Martin Voigt, Finn Bacall, Munazah Andrabi, Kenneth Rioja, Carole Goble (2026):  
+[**TeSSHub4EOSC Documentation for users, developers, providers**](https://doi.org/10.5281/zenodo.23278042).  
+_EOSC Gravity_ TeSSHub4EOSC (report)  
+<https://doi.org/10.5281/zenodo.23278042>
+
+Phil Reed, Oliver Knodel, Martin Voigt, Finn Bacall, Munazah Andrabi, Carole Goble (2026):  
+[**TRX TeSSHub4EOSC Minimum metadata model attributes**](https://doi.org/10.5281/zenodo.23270021).  
+_EOSC Gravity_ TeSSHub4EOSC (report)  
+<https://doi.org/10.5281/zenodo.23270021>
+
+Workflow Run RO-Crate working group (2026):  
+[**Process Run Crate specification 0.6**](https://w3id.org/ro/wfrun/process/0.6).  
+_researchobject.org_ (standard)  
+<https://doi.org/10.5281/zenodo.22643969>
+
+Workflow Run RO-Crate working group (2026):  
+[**Workflow Run Crate specification 0.6**](https://w3id.org/ro/wfrun/workflow/0.6).  
+_researchobject.org_ (standard)  
+<https://doi.org/10.5281/zenodo.22644389>
+
+Workflow Run RO-Crate working group (2026):  
+[**Provenance Run Crate specification 0.6**](https://w3id.org/ro/wfrun/provenance/0.6).  
+_researchobject.org_ (standard)  
+<https://doi.org/10.5281/zenodo.22644704>
+
+<small>Peter Sefton, Eoghan Ó Carragáin, Stian Soiland-Reyes, Oscar Corcho, Daniel Garijo, Raul Palma, Frederik Coppens, Carole Goble, José M. Fernández, Kyle Chard, Jose Manuel Gomez-Perez, Michael R. Crusoe, Ignacio Eguinoa, Nick Juty, Kristi Holmes, Jason A. Clark, Salvador Capella-Gutierrez, Alasdair J. G. Gray, Stuart Owen, Alan R. Williams, Giacomo Tartari, Finn Bacall, Thomas Thelen, Hervé Ménager, Laura Rodríguez-Navas, Paul Walk, brandon whitehead, Mark Wilkinson, Paul Groth, Erich Bremer, Leyla Jael Castro, Karl Sebby, Alexander Kanitz, Ana Trisovic, Gavin Kennedy, Mark Graves, Jasper Koehorst, Simone Leo, Marc Portier, Paul Brack, Milan Ojsteršek, Bert Droesbeke, Chenxu Niu, Kosuke Tanabe, Tomasz Miksa, Marco La Rosa, Cedric Decruw, Andreas Czerniak, Jeremy Jay, Sergio Serra, Ronald Siebes, Shaun de Witt, Shady El Damaty, Douglas Lowe, Xuanqi Li, Sveinung Gundersen, Muhammad Radifar, Rudolf Wittner, Oliver Woolland, Paul De Geest, Douglas Fils, Florian Wetzels, Raül Sirvent, Abigail Miller, Jake Emerson, Davide Fucci, Bruno P. Kinoshita, Maciek Bąk, Jens Hollunder, Martin Weise, Vartika Bisht, Toshiyuki Nishiyama Hiraki, Bram Ulrichts, Michael Falk, Eli Chadwick, Daniel Bauer, James Love, Eleni Adamidi, Josh Moore, Lars Schöbitz, Andreas Meier, Juan Fuentes, Edan Bainglass, Balázs E. Pataki, Joe Heffer, Pascal Su, Andrea Davanzo, Meznah Aloqalaa, Pierre-Marie Allard, Venkat Malladi, Esteban Gonzalez, Phil Reed, Tilo Mathes, Saurabh Dome, Niklas-Maximilian Epping, Margareta Hellström, Paul Slavin</small> (2026):  
+[**RO-Crate Metadata Specification 1.3**](https://doi.org/10.5281/zenodo.20720080).  
+_researchobject.org_ (standard)  
+<https://doi.org/10.5281/zenodo.20720080>
+
+Phil Reed, Carole Goble, Oliver Knodel, Munazah Andrabi, Finn Bacall, Martin Voigt, Kenneth Rioja (2026):  
+[**mTeSS-X Deliverable D4: Documentation**](https://doi.org/10.5281/zenodo.18834181).  
+_OSCARS_ mTeSS-X (deliverable)  
+<https://doi.org/10.5281/zenodo.18834181>
+
 Sean R. Wilkinson, Johan Gustafsson, Finn Bacall, Khalid Belhajjame, Salvador Capella, Jose Maria Fernandez Gonzalez, Jacob Fosso Tande, Luiz Gadelha, Daniel Garijo, Patricia Grubel, Bjorn Grüning, Farah Zaib Khan, Sehrish Kanwal, Simone Leo, Stuart Owen, Luca Pireddu, Line Pouchard, Laura Rodríguez-Navas, Beatriz Serrano-Solano, Stian Soiland-Reyes, Baiba Vilne, Alan Williams, Merridee Ann Wouters, Frederik Coppens, Carole Goble (2026):  
 [**An Ecosystem of Services for FAIR Computational Workflows**](https://depositonce.tu-berlin.de/items/8c91b6d2-3a9d-45da-993e-b3e78e2722d7).  
 Book chapter.  
@@ -173,6 +208,16 @@ Michelle Amugi, Rob Baxter, Christian Cole, Carole Goble, Emily Jefferson, Fergu
 [**A Federated Architecture for a National Data Library**](https://doi.org/10.5281/zenodo.14672004).  
 _Wellcome Trust_ (report) / DARE UK    
 <https://doi.org/10.5281/zenodo.14672004>
+
+Phil Reed (2025):  
+[**mTeSS-X Deliverable D1**: Requirements analysis based on the two TeSS instances from ELIXIR and PaNOSC](https://doi.org/10.5281/zenodo.15120732).  
+_OSCARS_ mTeSS-X (deliverable)  
+<https://doi.org/10.5281/zenodo.15120732>
+
+Stian Soiland-Reyes (2025):  
+[**FAIR Research Objects and Computational Workflows** – A Linked Data Approach](https://doi.org/10.5281/zenodo.14719595).  
+PhD Thesis, _University of Amsterdam_  
+<https://doi.org/10.5281/zenodo.14719595>
 
 ## 2024
 
@@ -898,7 +943,6 @@ _[Proceedings](http://ceur-ws.org/Vol-1700/) of the Workshop on Benchmarking Lin
 _CEUR Workshop Proceedings_ **1700**(04)  
 <https://doi.org/10.5281/zenodo.159568>
 [[pdf]](http://ceur-ws.org/Vol-1700/paper-04.pdf)
-[[zenodo]](https://zenodo.org/record/159568)
 [[preprint]](https://www.research.manchester.ac.uk/portal/en/publications/developing-a-benchmark-suite-for-semantic-web-data-from-existing-workflows(03047934-c3d3-4cd4-b001-e0b913766a92).html)
 
 Stian Soiland-Reyes, Pinar Alper, Carole Goble (2016):  

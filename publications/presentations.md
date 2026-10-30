@@ -10,14 +10,20 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 ## 2026
 
 * Phil Reed (2026): [TeSSHub4EOSC: FAIR training catalogue infrastructure](https://doi.org/10.5281/zenodo.23423757), [EOSC Symposium 2026](https://eosc.eu/symposium-2026), Florence, Italy, 2026-10-14.
-* Carole Goble (2026): [The Research Object Odyssey:a journey of technology, community and politics](https://www.escience-conference.org/2026/keynotes), [IEEE eScience 2026](https://www.escience-conference.org/2026/), Naples, Italy, 2026-09-30.
-* Munazah Andrabi (2026): [FAIRDOM-SEEK: A platform for FAIR data and research asset management](https://fairdomhub.org/presentations/1523), [ISCB-UK 2026](https://www.iscb.org/uk2026/home), University of Cambridge, Cambridge, UK, 2026-04-21.
+* Carole Goble (2026): [The Research Object Odyssey: a journey of technology, community and politics](https://doi.org/10.5281/zenodo.23324805), opening keynote, [IEEE eScience 2026](https://www.escience-conference.org/2026/), Naples, Italy, 2026-09-30.
+* Eli Chadwick (2026): [RO-Crate: Packaging research outputs with metadata for reproducibility across domains](https://doi.org/10.5281/zenodo.20543635), Bridge2AI Standards Working Group 2026-01-22, University of Cambridge RSE Seminar Series 2026-01-29, ELIXIR-UK RDM Club 2026-05-05, Rosalind Franklin Institute metadata workshop 2026-05-07.
+* Munazah Andrabi (2026): [FAIRDOM-SEEK: A platform for FAIR data and research asset management](https://fairdomhub.org/presentations/1523), [ISCB-UK 2026](https://www.iscb.org/uk2026/home), University of Cambridge, Cambridge, UK, 2026-04-21. [[slides](https://doi.org/10.5281/zenodo.19696618)]
+* Eli Chadwick, Carole Goble (2026): [Federated Analytics and RO-Crate: Accelerating trustworthy data use in HDR-UK](https://doi.org/10.5281/zenodo.18982467), HDR UK Core Funders Committee, 2026-02-04.
 
 
 ## 2025
-* Phil Reed, Abigail Miller (2025): [Improving FAIRability of your research outcomes with RO-Crates and Bioschemas](https://philreeddata.github.io/acmrep25/). 2025 ACM Conference on Reproducibility and Replicability (ACM REP’25), University of British Columbia, Vancouver, Canada, 2025-07-29/–31.
+* Stian Soiland-Reyes et al. (2025): [RO-Crate: Capturing FAIR Research outputs for reproducibility across domains](https://doi.org/10.5281/zenodo.17801347), [CoSeC Annual Conference 2025](https://www.cosec.ac.uk/calendar/annual-conference/2025-conference/), Manchester, UK, 2025-12-03.
+* Kenneth Rioja (2025): [The TeSS Training Platform](https://doi.org/10.5281/zenodo.17937393), Learning and Education Steering Committee, CERN IT, 2025-12-01.
+* Phil Reed, Kenneth Rioja (2025): [The TeSS Training Platform](https://doi.org/10.5281/zenodo.17733529), ICFA Data Lifecycle Panel, 2025-11-25.
+* Phil Reed, Kenneth Rioja (2025): [The TeSS Training Platform](https://doi.org/10.5281/zenodo.17669662), EIROforum Working Group Training and Career Development, 2025-11-20.
+* Phil Reed, Abigail Miller (2025): [Improving FAIRability of your research outcomes with RO-Crates and Bioschemas](https://philreeddata.github.io/acmrep25/). 2025 ACM Conference on Reproducibility and Replicability (ACM REP’25), University of British Columbia, Vancouver, Canada, 2025-07-29/–31. [[materials](https://doi.org/10.5281/zenodo.17303347)]
 * Eli Chadwick, Warren Del-Pinto, Alexander Hambley, Stian Soiland-Reyes (2025): [Demystifying RO-Crate: An introduction to RO-Crate for TREvolution and DARE Early Adopters](https://doi.org/10.5281/zenodo.15862112), DARE TREvolution webinar 2025-05-22. [[video](https://www.youtube.com/watch?v=7XSQKJOpZ20)]
-* Munazah Andrabi et al. (2025): [FAIRDOM-SEEK: Platform for FAIR data and research asset management](https://doi.org/10.5281/zenodo.16966925), Bioinformatics Open Science Conference (BOSC 2025), ISMB/ECCB 2025, Liverpool, UK 2025-07-21.
+* Munazah Andrabi et al. (2025): [FAIRDOM-SEEK: Platform for FAIR data and research asset management](https://doi.org/10.5281/zenodo.17250826), Bioinformatics Open Science Conference (BOSC 2025), ISMB/ECCB 2025, Liverpool, UK 2025-07-21.
 * Nick Juty (2025): [Applications of Bioschemas in FAIR, AI and knowledge representation](https://doi.org/10.5281/zenodo.16407475), Bioinformatics Open Science Conference (BOSC 2025), ISMB/ECCB 2025, Liverpool, UK 2025-07-21.
 * Eli Chadwick et al. [RO-Crate: Capturing FAIR research outputs in bioinformatics and beyond](https://doi.org/10.5281/zenodo.15849770), Bioinformatics Open Science Conference (BOSC 2025), ISMB/ECCB 2025, Liverpool, UK 2025-07-21. [[video](https://youtu.be/N1CNXbJp-ag)]
 * Phil Reed (2025): [mTeSS-X: Scaling training portal federation for RIs through Multi-tenanting and Exchange](https://doi.org/10.5281/zenodo.14987387), Research Data in the Physical Sciences: A Forum for Librarians and Research Support Professionals, 2025-03-06
@@ -25,6 +31,7 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 * Nick Juty, Phil Reed (2025): [Formalising mappings from mayhem](https://doi.org/10.5281/zenodo.14866675), FAIRfest, 2025-02-13
 
 ## 2024
+* Laia Codó, Phil Quinlan, Stian Soiland-Reyes (2024): [Digital Transformation to support FAIR, workflows and federated analytics](https://doi.org/10.5281/zenodo.13935169), 1st EOSC-ENTRUST Evaluation & Adoption Workshop, Helsinki, Finland, 2024-09-24/--25
 * Phil Reed (2024): [UK activity at CarpentryConnect Heidelberg 2024](https://doi.org/10.5281/zenodo.14552420), UK Carpentries monthly call, 2024-12-17
 * Stian Soiland-Reyes (2024): [RO-Crate and BioDT](https://doi.org/10.5281/zenodo.14036224), BioDT Cross-work package meeting, 2024-11-04 
 * Stian Soiland-Reyes (2024): [RO-Crate in EOSC-ENTRUST architecture](https://doi.org/10.5281/zenodo.13909153), EOSC-ENTRUST Architecture work package, 2024-10-07
@@ -45,7 +52,7 @@ Recent presentations are uploaded to the [eScience Lab Zenodo Community](https:/
 ## 2023
 
 * Stian Soiland-Reyes (2023): [Evaluating FAIR Digital Object and Linked Data as Distributed Object Systems](https://doi.org/10.5281/zenodo.8387135), RDA Data Fabric IG 2023-09-28
-* Nick Juty (2023): [Workflow management systems/data flow/data tracking and provenance](), Biodiversity Genomics Europe All Hands, Barcelona 2023.
+* Nick Juty (2023): [Workflow management systems/data flow/data tracking and provenance](https://doi.org/10.5281/zenodo.10727735), Biodiversity Genomics Europe All Hands, Barcelona 2023.
 * [The Software Sustainability Institute Fellows Community](https://doi.org/10.6084/m9.figshare.22137512) (invited lightning talk), Fellowship Information Session, Netherlands eScience Center, Online, 22 February 2023
 * [The Software Sustainability Institute Community and Events: How the SSI supports research software through community-building and events](https://doi.org/10.6084/m9.figshare.21931299) (contributed talk, [video](https://fosdem.org/2023/schedule/event/openresearch_software_sustainability_institute/)), FOSDEM 2023, ULB, Brussels, Belgium [presented remotely], 4 February 2023
 * Peter Sefton, Stian Soiland-Reyes (2023):  [**Packaging data with detailed metadata using RO-Crate in FAIR open repositories**](https://ptsefton.com/2023/06/13/ro-crate-or-2023/).  _Open Repositories 2023_ ([OR2023](https://or2023.openrepositories.org)), 2023-06-12/--15, Stellenbosch University, South Africa.   <https://doi.org/10.5281/zenodo.8091505> 
@@ -118,7 +125,7 @@ Carole Goble (2021):
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10255727.v1) - by Rachael Ainsworth, [Glasgow Women in Computing Science](https://www.facebook.com/events/2581122868620864/), University of Glasgow, Glasgow, UK, 15 November 2019
 * [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.10303709.v1) - by Rachael Ainsworth, [JBCA Autumn Computing Sessions](https://sites.google.com/view/jbca-jacs/jacs-2019?authuser=0), University of Manchester, Manchester, UK, 14 November 2019
 * [Reproducibility and Open Science Keynote](https://doi.org/10.6084/m9.figshare.9255638.v1) - by Rachael Ainsworth, [Symposium on Open Science](https://www.rug.nl/cmb/news/symposium-open-science-research-practices), University of Groningen, Groningen, Netherlands, 22 October 2019
-* [Understanding the Implications of Implementing FAIR data Principle in the Life Sciences](https://zenodo.org/record/3502577#.XbwWL9HLdhF) - by Ebtisam Alharbi, [Force11 2019, Edinburgh](https://www.force11.org/meetings/force2019) ([slides](https://zenodo.org/record/3502577/files/FAIR%20Implications.pptx?download=1))
+* [Understanding the Implications of Implementing FAIR data Principle in the Life Sciences](https://doi.org/10.5281/zenodo.3502577) - by Ebtisam Alharbi, [Force11 2019, Edinburgh](https://www.force11.org/meetings/force2019)
 * The Turing Way: A Handbook for Reproducible Data Science ([poster](http://doi.org/10.5281/zenodo.3381446), [demo](http://doi.org/10.5281/zenodo.3403161), and [podcast recording of demo](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/)) - by Rachael Ainsworth, [Open Science Fair](https://www.opensciencefair.eu/), Porto, Portugal, 16-18 September 2019
 * [Reproducible Research through Containerisation: Docker and Singularity](https://github.com/rainsworth/osip2019-containerisation-workshop/) - by Rachael Ainsworth, [Open Science In Practice](https://osip2019.epfl.ch/), EPFL, Lausanne, Switzerland, 5 September 2019
 * [Introducing RO-Crate: research object data packaging](http://ptsefton.com/2019/11/05/RO-Crate%20eResearch%20Australasia%202019.htm) by Peter Sefton, Eoghan Ó Carragáin, Carole Goble, Stian Soiland-Reyes at _eResearch Australasia 2019_, 2019-10-21/2019-10-25, Brisbane, Australia. [[slides](https://doi.org/10.5281/zenodo.10969977)] [[abstract](https://conference.eresearch.edu.au/wp-content/uploads/2019/08/2019-eResearch_103_-Introducing-RO-Crate-research-object-data-packaging.pdf)]
@@ -145,7 +152,7 @@ RO-15 at _Workshop on Research Objects ([RO 2019](http://www.researchobject.org/
 
 *   [Research Objects for FAIRer Science](http://www.slideshare.net/carolegoble/goble-keynote-vivoscits2014) - by Carole Goble, VIVO/SciTS 2014-08-06
 *   [SEEK for Science: A Data Management Platform which Supports Open and Reproducible Science](http://www.slideshare.net/carolegoble/bosc-seek2014goble) ([video](https://www.youtube.com/watch?v=g8b98kJwT60)) - by Carole Goble, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
-*   [Integrating Taverna Player into Scratchpads](http://www.slideshare.net/roberthaines/tp-scratchtalk-36957762) ([video](http://www.youtube.com/watch?v=iL-rMaFtYdM), [poster](https://zenodo.org/record/10871)) - by Robert Haines, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
+*   [Integrating Taverna Player into Scratchpads](http://www.slideshare.net/roberthaines/tp-scratchtalk-36957762) ([video](http://www.youtube.com/watch?v=iL-rMaFtYdM), [poster](https://doi.org/10.5281/zenodo.10871)) - by Robert Haines, [BOSC 2014](http://www.open-bio.org/wiki/BOSC_2014_Schedule)
 *   [The beauty of workflows and models](http://www.slideshare.net/mygrid/the-beauty-of-workflows-and-models) by Carole Goble at the Research Data Management Forum 2014
 *   [Results may vary](http://www.slideshare.net/carolegoble/results-may-vary-collaborations-workshop-oxford-2014) by Carole Goble at [Software Sustainability Institute's Collaborations Workshop](http://software.ac.uk/collaborations-workshop-2014-cw14-software-your-reproducible-research), Oxford 2014
 *   [The Taverna Workflow Management Software Suite](http://www.slideshare.net/mygrid/the-taverna-workflow-management-software-suite-past-present-future) - Past, Present, Future by Carole Goble at VPH Insigneo meeting in Sheffield 2014.
@@ -153,7 +160,7 @@ RO-15 at _Workshop on Research Objects ([RO 2019](http://www.researchobject.org/
 *   [The Taverna Software Suite](http://www.slideshare.net/mygrid/taverna-serveregi-userforumshiwa) - by Carole Goble EGI User Forum, SHIWA, 2014
 *   [Research Objects](http://www.slideshare.net/seanb/research-objects-harmony-2014) - by Sean Bechhofer, Stian Soiland-Reyes, Matthew Gamble at [COMBINE Harmony meeting 2014](http://co.mbine.org/events/HARMONY_2014)
 *   [A dip into research objects](http://www.slideshare.net/soilandreyes/diving-into-research-objects) - by Stian Soiland-Reyes at [COMBINE Harmony meeting 2014](http://co.mbine.org/events/HARMONY_2014)
-*   [Running Taverna Workflows within IPython Notebook](https://zenodo.org/record/11360) - poster by Alan Williams at BOSC 2014-07-11 [[announcement](http://www.taverna.org.uk/2014/05/20/calling-taverna-workflows-from-ipython-notebook/)] [[video](https://www.youtube.com/watch?v=QVQwSOX5S08)] doi:[10.5281/zenodo.11360](http://dx.doi.org/10.5281/zenodo.11360)
+*   [Running Taverna Workflows within IPython Notebook](https://doi.org/10.5281/zenodo.11360) - poster by Alan Williams at BOSC 2014-07-11 [[announcement](http://www.taverna.org.uk/2014/05/20/calling-taverna-workflows-from-ipython-notebook/)] [[video](https://www.youtube.com/watch?v=QVQwSOX5S08)] doi:[10.5281/zenodo.11360](https://doi.org/10.5281/zenodo.11360)
 *   [The SWeDe Project](http://www.slideshare.net/mygrid/swede-scientific-webservice-description), Niall Beard. Pro-iBiosphere end of project meeting in Meise, Brussels, 2014-06-12 [[wiki](http://wiki.pro-ibiosphere.eu/wiki/The_SWeDe_Project)] [[announcement](http://www.pro-ibiosphere.eu/news/4655_swede%20%28scientific%20web-service%20description%29%20-%20an%20xml%20schema%20definition%20for%20describing%20web%20services%20in%20the%20scientific%20domain%20/)]
 
 ## 2013
