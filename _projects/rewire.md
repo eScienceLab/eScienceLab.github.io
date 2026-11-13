@@ -6,7 +6,7 @@ path: rewire.html
 collection: projects
 description: Advancing Reproducibility Across the European Research Area
 logo: rewire.svg
-website: https://cordis.europa.eu/project/id/101287431
+website: https://rewire-hub.eu/
 start_date: 2026-09-01
 duration: 3 years
 project_reference:
@@ -18,7 +18,7 @@ expired: false
 
 Scientific progress depends on the ability to verify, repeat, and build upon previous research. Yet as research becomes increasingly data-intensive, computational, and AI-driven, ensuring that results can be reproduced remains a significant challenge.
 
-To help address this challenge, the Horizon Europe project [REWIRE](https://cordis.europa.eu/project/id/101287431) (**Reproducibility Enablement for Widespread Implementation, Reuse and Evidence in the European Research Area**) brings together 12 organisations from across Europe to support the wider adoption of reproducible research practices and strengthen trust in research outcomes. Coordinated by **Athena Research Center**, REWIRE aims to help make reproducibility a standard part of the research process rather than an additional burden for researchers.
+To help address this challenge, the Horizon Europe project [REWIRE](https://rewire-hub.eu/) (**Reproducibility Enablement for Widespread Implementation, Reuse and Evidence in the European Research Area**) brings together 12 organisations from across Europe to support the wider adoption of reproducible research practices and strengthen trust in research outcomes. Coordinated by **Athena Research Center**, REWIRE aims to help make reproducibility a standard part of the research process rather than an additional burden for researchers.
 
 ## Why reproducibility matters
 
@@ -43,6 +43,8 @@ The project will validate its approach through pilot implementations in diverse 
 [RO-Crate](/products/researchobject/) is one of REWIRE's three core technical interventions across the research lifecycle: machine-actionable Reproducibility Management Plans (RMPs) for **planning**, [GNU Guix](https://guix.gnu.org/) reproducible computational environments for **execution**, and RO-Crate for **publishing** reproducible research objects.
 
 Within REWIRE, RO-Crate also provides an integration layer between these stages. RO-Crate profiles will connect research plans, computational environments, workflows, data, outputs and provenance in machine-actionable packages that can be validated and exchanged between research infrastructures and repositories. REWIRE will adapt Process, Workflow Run, Recuperative and machine-actionable DMP RO-Crate profiles and test their use across its pilots.
+
+A series of **blueprints** and **playbooks** will be developed for the [REWIRE Knowledge Hub](https://rewire-hub.eu/knowledge-hub) to detail proven reproducibility implementation pathways and their underlying specifications, tools and patterns, e.g. [RO-Crate](https://www.researchobject.org/ro-crate/) research data packaging with provenance, [GNU Guix](https://guix.gnu.org/) reproducible package manager, [ARGOS](https://argos.openaire.eu/) data & software management plans.
 
 ### eScience Lab involvement
 
