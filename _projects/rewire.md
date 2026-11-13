@@ -53,19 +53,19 @@ The eScience Lab contributes expertise in [RO-Crate](/products/researchobject/),
 ### UNIMAN contributions
 
 - WP1: REWIRE IMPACT – Evidence Synthesis and Policy Development (lead: AthenaRC)
-- **Task T1.2: BLUEPRINTS Wiki & Evidence Synthesis (co-lead: UNIMAN with Inria)**
-- Task T1.3: Learning & Sustainability (lead: DRA)
-- Task T1.4: Policy Development and Validation (lead: AthenaRC)
+  - **Task T1.2: BLUEPRINTS Wiki & Evidence Synthesis (co-lead: UNIMAN with Inria)**
+  - Task T1.3: Learning & Sustainability (lead: DRA)
+  - Task T1.4: Policy Development and Validation (lead: AthenaRC)
 - WP2: REWIRE ENABLE – Adaptation & Deployment of Tools and Services for Reproducibility (lead: Inria)
-- Task T2.2: Guix Computational Environments (lead: Inria)
-- **Task T2.3: RO-Crate Profiles (lead: UNIMAN)**
-- Task T2.4: Cross-Intervention Integration (lead: PSNC)
-- Task T2.5: PLAYBOOK Coordination and Release Management (lead: Inria)
+  - Task T2.2: Guix Computational Environments (lead: Inria)
+  - **Task T2.3: RO-Crate Profiles (lead: UNIMAN)**
+  - Task T2.4: Cross-Intervention Integration (lead: PSNC)
+  - Task T2.5: PLAYBOOK Coordination and Release Management (lead: Inria)
 - WP3: REWIRE DEPLOY – Pilot Coordination and Implementation (lead: OpenAIRE)
-- **Task T3.3: Pilot Group B (lead: UNIMAN)**
+  - **Task T3.3: Pilot Group B (lead: UNIMAN)**
 - WP4: REWIRE SCALE – Training, Community Mobilization & Network Expansion (lead: DRA)
-- Task T4.3: Follower Wave Management and Implementation Support (lead: Inria)
-- Task T4.4: Research Culture Transformation and Comprehensive Sustainability (lead: DRA)
+  - Task T4.3: Follower Wave Management and Implementation Support (lead: Inria)
+  - Task T4.4: Research Culture Transformation and Comprehensive Sustainability (lead: DRA)
 - WP5: REWIRE MANAGE – Coordination, Communication & Quality (lead: AthenaRC)
 
 For more details, please read the [post on OpenAIRE](https://www.openaire.eu/introducing-rewire-advancing-reproducibility-across-the-european-research-area).
