@@ -10,7 +10,7 @@ website: https://popdatasci.swan.ac.uk/3-7m-investment-in-serp-to-scale-up-data-
 start_date: 2025-10-01
 #expired: true
 duration: 60 months
-# project_reference: 
+project_reference: https://gtr.ukri.org/find-research-and-innovation/project/475ab400-8610-4975-a637-2dd931b6b41e
 ---
 
 Federated Data Science (FEDS) UK is a national consortium of leaders advancing the next generation of federated analytics solutions to revolutionise how health data is accessed and analysed across the UK. Building on the foundations of the [DARE UK initiative (2023)](https://dareuk.org.uk/how-we-work/previous-activities/dare-uk-phase-1-driver-projects/teleport-connecting-researchers-to-big-data-at-light-speed/) and in partnership with [Health Data Research UK (HDR UK)](https://www.hdruk.ac.uk/) and key data partners, FEDS UK will unify and extend pioneering technologies to create a federated architecture for secure, efficient, and scalable analytical delivery across the UK’s health data ecosystem.
