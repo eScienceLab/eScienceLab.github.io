@@ -7,7 +7,7 @@ collection: projects
 description: "Automating FAIR Training Metadata Pipelines: Bioconductor into TeSS and Beyond (BITS)"
 logo: rsmf_logo.png
 website: https://elixirtess.github.io/bits/
-start_date: 2026-12-01
+start_date: 2027-01-01
 duration: 1 year
 project_reference:
   - https://www.software.ac.uk/research-software-maintenance-fund/rsmf-round-2-projects
